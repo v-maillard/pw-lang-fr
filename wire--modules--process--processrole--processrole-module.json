@@ -16,6 +16,12 @@
         },
         "2ac1fce951ddece70a50dfb03bd386b2": {
             "text": "nom|titre"
+        },
+        "8a74d66f5b9d96c4eee8c0388f9536d9": {
+            "text": "*Notez que cocher la permission page-edit ici signifie seulement que le r\u00f4le peut \u00eatre s\u00e9lectionn\u00e9 pour l'acc\u00e8s en modification au niveau du mod\u00e8le. Simplement assigner la permission page-edit ici ne donne PAS un acc\u00e8s en permission avant qu'elle soit ne aussi s\u00e9lectionn\u00e9e dans un ou plusieurs configurations de mod\u00e8les."
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "R\u00f4les"
         }
     }
 }

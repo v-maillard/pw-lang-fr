@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldIcon\/InputfieldIcon.module",
+    "textdomain": "wire--modules--inputfield--inputfieldicon--inputfieldicon-module",
+    "translations": {
+        "d3899694e364033d1d639933da6d5529": {
+            "text": "Voir toutes les ic\u00f4nes"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ic\u00f4ne"
+        },
+        "da16f4b493c9497089a9572292a48002": {
+            "text": "S\u00e9lectionner une ic\u00f4ne"
+        }
+    }
+}

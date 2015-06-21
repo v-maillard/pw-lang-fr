@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Veuillez confirmer que vous d\u00e9sirez supprimer ces options"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "SUPPRIMER :"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Valeur unique"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Valeurs multiples"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Que devrait-il \u00eatre utilis\u00e9 comme entr\u00e9e?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Selon le type d'entr\u00e9e utilis\u00e9, l'utilisateur sera en mesure de s\u00e9lectionner une ou plusieurs options. Quelques types d'entr\u00e9e (comme AsmSelect) supportent aussi les s\u00e9lections pouvant \u00eatre tri\u00e9es. D'autres types d'entr\u00e9e permettent plus d'options dans l'onglet *Champ* (visible apr\u00e8s avoir sauvegard\u00e9)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Quelles options peuvent \u00eatre s\u00e9lectionn\u00e9es ?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Entrer une option \u00e0 s\u00e9lectionner par ligne. Apr\u00e8s avoir enregistr\u00e9, un num\u00e9ro d'ID sera assign\u00e9 \u00e0 chacune des options; par exemple 123=titre. Veuillez consulter les [instructions sur l'usage de ce champ](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Note multilingue : d\u00e9finissez les options dans la langue par d\u00e9faut et sauvegardez avant de les traduire dans d'autres langues."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Quelles options d\u00e9sirez vous avoir pr\u00e9s\u00e9lectionn\u00e9es ? (optionnel)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Ce champ sert aussi d'aper\u00e7u pour votre type d'entr\u00e9e s\u00e9lectionn\u00e9e (%s) ainsi que ses options."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Veuillez noter : vos s\u00e9lections ne deviennent pas actives \u00e0 moins qu'une valeur soit *toujours* requise pour ce champ. Voir l'option \"requis\" dans l'onglet Champ de vos param\u00e8tres de champ."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Cette fonctionnalit\u00e9 est active puisqu'une valeur est toujours requise."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Supprimer cette option"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Supprimer ces options"
+        }
+    }
+}

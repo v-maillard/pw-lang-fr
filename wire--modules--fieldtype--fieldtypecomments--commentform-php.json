@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
     "translations": {
-        "6f207f8b5dfe1eebac63467930df5189": {
-            "text": "h3"
-        },
         "55db28530640e9fb41ebf71ea8afce72": {
             "text": "Publier le commentaire"
         },
@@ -31,6 +28,18 @@
         },
         "a4d3b161ce1309df1c4e25df28694b7b": {
             "text": "Envoyer"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "R\u00e9ponses"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Toutes"
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "Notifications par courriel :"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "D\u00e9sactiv\u00e9es"
         }
     }
 }

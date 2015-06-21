@@ -2,8 +2,11 @@
     "file": "wire\/modules\/Process\/ProcessHome.module",
     "textdomain": "wire--modules--process--processhome-module",
     "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Accueil du panneau d'administration"
+        },
         "3555f18b32d499274ee3fcfb73c15558": {
-            "text": "Agit en tant que Process fictif pour la racine de l'interface d'administration. Assure le contr\u00f4le du flot apr\u00e8s la connexion."
+            "text": "Agit comme un param\u00e8tre fictif pour la racine du panneau d'administration. Assure un contr\u00f4le du flux conforme apr\u00e8s la connexion."
         }
     }
 }

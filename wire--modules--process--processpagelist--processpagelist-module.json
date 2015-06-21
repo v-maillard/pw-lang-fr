@@ -64,6 +64,12 @@
         },
         "453420e78223c3c2ff7a28bfc3a44dde": {
             "text": "La vitesse \u00e0 laquelle chaque branche de l'arborescence est anim\u00e9e. Un nombre plus bas r\u00e9sulte en une animation plus rapide mais moins visible. Pour d\u00e9sactiver les animations, sp\u00e9cifiez 0."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Erreur r\u00e9seau, veuillez r\u00e9essayer plus tard"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Erreur inconnue, veuillez r\u00e9essayer plus tard"
         }
     }
 }

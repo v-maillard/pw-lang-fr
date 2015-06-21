@@ -67,6 +67,21 @@
         },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "T\u00e9l\u00e9versement d'une ou plusieurs images (triable)"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Image de %s exc\u00e8de la taille maximum permise"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Variations de %s"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Refuser les images exc\u00e9dant les dimensions maximales ?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Lorsque coch\u00e9, les images dont la hauteur\/largeur exc\u00e8dent les dimensions maximales seront refus\u00e9es plut\u00f4t que redimensionn\u00e9es."
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Images"
         }
     }
 }
