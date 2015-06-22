@@ -2,17 +2,20 @@
     "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
     "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
     "translations": {
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "Plugin jQuery Wire Tabs"
+        },
         "9fdc49adcef1b65060a39f7a096d09e2": {
-            "text": "Procure un module compl\u00e9mentaire jQuery pour g\u00e9n\u00e9rer des onglets dans ProcessWire."
+            "text": "Procure un plugin jQuery pour g\u00e9n\u00e9rer des onglets dans ProcessWire."
         },
         "d9f813a897729ef85bdc36fe6f9bc91a": {
-            "text": "Se rappeler des positions des onglets entre les requ\u00eates ?"
+            "text": "Se rappeler la position des onglets entre les requ\u00eates ?"
         },
         "6e7b34fa59e1bd229b207892956dc41c": {
             "text": "Jamais"
         },
         "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
-            "text": "Seulement apr\u00e8s un envoi de formulaire"
+            "text": "Seulement apr\u00e8s l'envoi d'un formulaire"
         },
         "68eec46437c384d8dad18d5464ebc35c": {
             "text": "Toujours"

@@ -14,20 +14,11 @@
         "e3afed0047b08059d0fada10f400c1e5": {
             "text": "Administration"
         },
-        "453aceb005ceaf54a47da15fee8b2a26": {
-            "text": "Pages"
-        },
         "3b0c14770e6bd663518496da60f524da": {
             "text": "Arborescence"
         },
         "4cfa6c981549e990fe2344e4c805405e": {
             "text": "Rechercher"
-        },
-        "bf17ac149e2e7a530c677e9bd51d3fd2": {
-            "text": "Modules"
-        },
-        "a7d6475ec8993b7224d6facc8cb0ead6": {
-            "text": "Site"
         },
         "5e248eb2e87e649e91cc3168e20adf90": {
             "text": "Voir le site"
@@ -40,9 +31,6 @@
         },
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "R\u00f4les"
-        },
-        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
-            "text": "Permissions"
         },
         "7df96b18c230f90ada0a9e2307226338": {
             "text": "Mod\u00e8les"
@@ -58,6 +46,12 @@
         },
         "0323de4f66a1700e2173e9bcdce02715": {
             "text": "D\u00e9connexion"
+        },
+        "dae52b80711ee1029c7006f95018d300": {
+            "text": "R\u00e9cent"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Journaux"
         }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Pr\u00e9s\u00e9lection configur\u00e9e non remplie puisqu'une valeur n'est pas toujours requise. Veuillez corriger ceci dans la configuration du champ."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "L'importation d'options n'est pas encore implant\u00e9s. Cependant, elles peuvent facilement \u00eatre import\u00e9es d'un autre site en faisant copier\/coller \u00e0 partir de l'\u00e9cran d'\u00e9dition."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "S\u00e9lection d'options"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Champs qui enregistre des options de s\u00e9lection simple ou multiple."
+        }
+    }
+}

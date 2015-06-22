@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--pagepaths-module",
     "translations": {
         "d6fee4e5741568290c0f4c4edc81f70f": {
-            "text": "%d chemin a \u00e9t\u00e9 mis \u00e0 jour"
+            "text": "%d chemin mis \u00e0 jour"
         },
         "b198072961bf47ed9c790c1006f98372": {
-            "text": "%d chemins ont \u00e9t\u00e9 mis \u00e0 jour"
+            "text": "%d chemins mis \u00e0 jour"
         }
     }
 }

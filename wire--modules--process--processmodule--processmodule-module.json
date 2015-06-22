@@ -35,9 +35,6 @@
         "83168e6cb289d732cc78427b51f93153": {
             "text": "Noyau"
         },
-        "a7d6475ec8993b7224d6facc8cb0ead6": {
-            "text": "Site"
-        },
         "f1206f9fadc5ce41694f69129aecac26": {
             "text": "Configurer"
         },
@@ -272,9 +269,6 @@
         "874966d700b2e2cca2577a2eac1d28f0": {
             "text": "Classe"
         },
-        "f660f5f5478044f06b7c4ff7faf94e22": {
-            "text": "Version"
-        },
         "64e220482c5957a4bc72eb93fa23c97d": {
             "text": "Install\u00e9 ?"
         },
@@ -311,12 +305,6 @@
         "db91f2b6a497a7f2f78f5ef53cc47fab": {
             "text": "Fichier"
         },
-        "7f05cd7d695e4a911a436478a8f0cdfc": {
-            "text": "ID"
-        },
-        "289aa00733ebcfd0bae827af29d01356": {
-            "text": "Version"
-        },
         "f09023872796deae6f1373d8a9d31a1e": {
             "text": "Auteur"
         },
@@ -340,6 +328,27 @@
         },
         "da50401ad6d0a7e3ec13844538e10864": {
             "text": "Informations du module"
+        },
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "Cache des modules rafra\u00eechie (%d modules)"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "Le module \"%s\" a plusieurs fichiers (celui en gras est celui en cours d'utilisation)."
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Cliquer ici pour changer quel fichier est utilis\u00e9"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "Fichier de module \u00e0 utiliser"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "Il y a plusieurs copies de ce module. S\u00e9lectionnez le fichier de module que vous d\u00e9sirez utiliser."
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "Autochargement d\u00e9sactiv\u00e9?"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "Attention, cocher cette case peut briser votre module ou votre site. Utiliser pour les tests temporaires seulement."
         }
     }
 }

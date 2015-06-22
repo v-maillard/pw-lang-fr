@@ -2,9 +2,6 @@
     "file": "wire\/core\/Modules.php",
     "textdomain": "wire--core--modules-php",
     "translations": {
-        "336fe202866724eda0e075643f972571": {
-            "text": "Attention : il semble qu'il y ait deux copies du module \u00ab %s \u00bb dans le syst\u00e8me de fichiers."
-        },
         "01d68b9ea1b4ff3238768d9a30bcfa33": {
             "text": "Veuillez enlever celui dans \/site\/modules\/ \u00e0 moins que voir ayez besoin que les deux soient pr\u00e9sente pour quelconque raison."
         },

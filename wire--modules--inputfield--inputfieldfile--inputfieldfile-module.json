@@ -14,9 +14,6 @@
         "b896cdc3267a288d8a0082126a91cb06": {
             "text": "Taille limite de fichier atteinte"
         },
-        "189f63f277cd73395561651753563065": {
-            "text": "Tags"
-        },
         "cde86841445e53259c5beb7b61aaf389": {
             "text": "destinationPath est vide ou n'existe pas"
         },
@@ -27,7 +24,7 @@
             "text": "D\u00e9compresser les fichiers ZIP?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Si coch\u00e9, les archives ZIP vont \u00eatre d\u00e9compress\u00e9es "
+            "text": "Si coch\u00e9, les archives ZIP vont \u00eatre d\u00e9compress\u00e9es"
         },
         "91015caeadb6afed86544257b5d796f5": {
             "text": "Nombre de rang\u00e9es pour le champ de description ?"
@@ -55,6 +52,24 @@
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Envoi d'un ou plusieurs fichiers (triable)"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Description"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tags"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Supprimer"
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Le fichier a \u00e9chou\u00e9 la validation"
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Veuillez notez que lorsque cette option est activ\u00e9e, les fichiers t\u00e9l\u00e9vers\u00e9s via AJAX sont sauvegard\u00e9s sur la page imm\u00e9diatement apr\u00e8s le t\u00e9l\u00e9versement, plut\u00f4t qu'au moment ou vous cliquez sur \u00ab Enregistrer \u00bb."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Fichiers"
         }
     }
 }

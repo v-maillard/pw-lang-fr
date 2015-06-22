@@ -2,14 +2,23 @@
     "file": "wire\/modules\/PageRender.module",
     "textdomain": "wire--modules--pagerender-module",
     "translations": {
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Fichier de cache vid\u00e9 :"
+        },
+        "e50f63e1be50c5469f5bc774a55d3374": {
+            "text": "Fichier de cache pour %d page(s) correspondant au s\u00e9lecteur :"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Rendu de page"
+        },
         "d2c5ea4202c4c692852b7e10fbceabd3": {
-            "text": "Ajoute une m\u00e9thode de rendu \u00e0 Page et cache la sortie de la page."
+            "text": "Ajoute une m\u00e9thode render \u00e0 Page et mets en cache la sortie."
         },
         "403c89515b16b3417cd2e426612b4a53": {
-            "text": "Cache de %d fichiers de cache pour %d pages"
+            "text": "Vid\u00e9 %d fichiers de cache pour %d pages"
         },
         "0c22fad509c478c3442a310a7a2b2c52": {
-            "text": "Nettoyer le cache de rendu de page ?"
+            "text": "Vider la cache de rendu de page ?"
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
             "text": "Il y a pr\u00e9sentement %d pages cach\u00e9es dans %s"

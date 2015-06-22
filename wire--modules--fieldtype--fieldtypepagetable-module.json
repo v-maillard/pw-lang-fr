@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "S\u00e9lectionnez un ou plusieurs mod\u00e8les pour les items"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Ces mod\u00e8les seront utilis\u00e9s par les pages g\u00e9r\u00e9es par ce champs. Vous pourriez d\u00e9sirer cr\u00e9er de nouveaux mod\u00e8les sp\u00e9cifiques aux besoins de ce champ."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Veuillez cliquer sur Sauvegarder apr\u00e8s avoir s\u00e9lectionn\u00e9 un mod\u00e8le. La configuration de l'onglet Champ sera alors en plus compl\u00e8te selon le contexte."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "S\u00e9lectionner un parent pour les items"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Tous les items cr\u00e9\u00e9 et g\u00e9r\u00e9s par ce champs r\u00e9sideront sous le parent s\u00e9lectionn\u00e9 ici."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Si aucun parent n'est s\u00e9lectionn\u00e9, les items seront alors plac\u00e9s en tant qu'enfants de la page \u00e9dit\u00e9e."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Mettre les items \u00e0 la corbeille lorsque la page est supprim\u00e9e ?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Lorsque coch\u00e9, les items cr\u00e9\u00e9s ou g\u00e9r\u00e9s par une page seront alors automatiquement envoy\u00e9s \u00e0 la corbeille lorsque cette page est supprim\u00e9e. Autrement, les items resteront sous le parent s\u00e9lectionn\u00e9 ci-haut."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Cette option s'applique seulement si vous avez s\u00e9lectionn\u00e9 un parent ci-haut."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Comportements de page"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Aucun"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Les jeter \u00e0 la corbeille"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Les supprimer"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Les d\u00e9publier"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Les cacher"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Supprimer"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Que devrait-il arriver aux items \"%s\" lorsque la page les contenant est supprim\u00e9e de fa\u00e7on permanente ?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Corbeille"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Que devrait-il arriver aux items \"%s\" lorsque la page les contenant est envoy\u00e9e \u00e0 la corbeille ?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "D\u00e9publier"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Que devrait-il arriver aux items \"%s\" lorsque la page les contenant est d\u00e9pouill\u00e9e ?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Champs de tri"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Entrer le nom de champ que vous d\u00e9sirez utiliser pour trier le tableau. Pour un tri descendant, pr\u00e9fixez le nom de champ avec un tiret, i.e. \"-date\" plut\u00f4t que \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Vous pouvez sp\u00e9cifier plusieurs champs de tri en les s\u00e9parant par une virgule, i.e. \"prenom, nom_famille, -anniversaire\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Laisser vide pour un tri manuel par glisser-d\u00e9poser (par d\u00e9faut)."
+        }
+    }
+}

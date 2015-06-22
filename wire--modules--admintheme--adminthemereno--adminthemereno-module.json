@@ -8,9 +8,6 @@
         "f0a5fc96d36fdda66a2a10b79be6d7fb": {
             "text": "Jeu de couleurs"
         },
-        "77b6e24f5b78b6eb0697aa8994ce15e9": {
-            "text": "Reno"
-        },
         "d35b51b639528d580362ca7042de6a0e": {
             "text": "Classique"
         },
@@ -40,6 +37,9 @@
         },
         "13884a61afb0a46fc63ee2694d21d16e": {
             "text": "Navigation du haut : D\u00e9connexion"
+        },
+        "b3d00bda3ff5e34c61a7fa73267eb75c": {
+            "text": "Th\u00e8me pour la panneau d'administration pour ProcessWire 2.5 par Tom Reno (Renobird)"
         }
     }
 }

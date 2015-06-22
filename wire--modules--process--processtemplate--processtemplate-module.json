@@ -659,9 +659,6 @@
         "6468942ecc94c202802ee17efdbda184": {
             "text": "Champs"
         },
-        "adc3250d7ccf9a0303cc0b44d70917d6": {
-            "text": "Pages"
-        },
         "9aa8f6fc386e155886938a352548a81c": {
             "text": "Modifi\u00e9"
         },
@@ -680,14 +677,8 @@
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "Acc\u00e8s"
         },
-        "21ddd66d87bebbaaf6bba5319e5b7f97": {
-            "text": "URLs"
-        },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Fichiers"
-        },
-        "ff2e33d2066471fd192bf41c39322cd1": {
-            "text": "Cache"
         },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avanc\u00e9"
@@ -760,6 +751,81 @@
         },
         "18dec3122ea08276dd94476904bcef7b": {
             "text": "Le groupe de champs de ce mod\u00e8le est utilis\u00e9 par %d autres mod\u00e8les"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Ce nom est d\u00e9j\u00e0 utilis\u00e9"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "D\u00e9finissez les champs \u00e0 utiliser par ce mod\u00e8le. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9 ou [cr\u00e9er un nouveau champ](..\/field\/add)."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Si vous utilisez [ProCache] il n'est pas n\u00e9cessaire d'utiliser les param\u00e8tres de cache ici."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Nettoyer le cache pour la page enregistr\u00e9e et autres pages correspondant \u00e0 un s\u00e9lecteur\u2026"
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "S\u00e9lecteur pour trouver les autres pages o\u00f9 nettoyer le cache."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Enregistrez ce mod\u00e8le puis revenez ici pour configurer votre s\u00e9lecteur."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "S\u00e9lecteur d'expiration de cache"
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Pour d\u00e9sactiver le cache lorsque n'importe quelle variable est pr\u00e9sente, entrez un ast\u00e9risque: * (recommand\u00e9)"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"De base\" par d\u00e9faut."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"Enfants\" par d\u00e9faut."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ic\u00f4ne"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "S\u00e9lectionnez une ic\u00f4ne \u00e0 associer avec ce mod\u00e8les et les pages utilisant ce mod\u00e8le (dans le panneau d'administration)."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Plus"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront la pagination."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Acc\u00e9dez au num\u00e9ro de page \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->pageNum."
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront les segments d'URL personnalis\u00e9s apr\u00e8s l'URL de la page."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Acc\u00e9dez au(x) segment(s) d'URL \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->urlSegmentStr."
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Quels segments d'URL d\u00e9sirez vous permettre ?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Entrez une segment, chemin de segment ou expression r\u00e9guli\u00e8re permis par ligne ou laissez vide pour permettre n'importe lequel."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Sch\u00e9ma\/Protocole"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Ent\u00eate \u00e0 envoyer avec la sortie du fichier de mod\u00e8le. Si aucun n'est s\u00e9lectionn\u00e9, ProcessWire n'enverra pas d'ent\u00eate content-type et dans la majorit\u00e9 des cas text\/html est assum\u00e9. S\u00e9lectionner un content-type est recommand\u00e9 lorsque la sortie est autre que du HTML."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Pour ajouter d'autre types de contenu, voir *contentTypes* dans \/wire\/config.php (et ajouter les \u00e0 cet endroit)."
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Saut\u00e9 le renommage du mod\u00e8le - veuillez compl\u00e9ter ceci apr\u00e8s l'action courante."
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "\u00c9tiquette pour l'onglet \u00ab De base \u00bb"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "\u00c9tiquette pour l'onglet \u00ab Enfants \u00bb"
         }
     }
 }

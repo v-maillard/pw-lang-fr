@@ -2,18 +2,6 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
     "translations": {
-        "017e8b29849843b6daa2501aad99f7c1": {
-            "text": "En attente d'approbation"
-        },
-        "6f8063417ab31f38d864c28302f3de2f": {
-            "text": "Approuv\u00e9"
-        },
-        "19af9433f96a08338dbcf1ea82186f7c": {
-            "text": "SPAM - sera supprim\u00e9 automatiquement apr\u00e8s %d jours"
-        },
-        "4a97712de239878854839560e1765f5a": {
-            "text": "Commentaire \u00e0 : %s"
-        },
         "0c6e8a761530efc7ecfe773a5b5a6f7e": {
             "text": "Aucune - Commentaires publi\u00e9s imm\u00e9diatement"
         },
@@ -22,15 +10,6 @@
         },
         "d3a76eec189143c6945282d37bd81bb5": {
             "text": "Seulement nouveaux - Seulement les commentaires des utilisateurs n'ayant pas de commentaires approuv\u00e9s requi\u00e8rent approbation"
-        },
-        "11b3f4cb51868835eff93632baf73f0b": {
-            "text": "Mod\u00e9ration des commentaires"
-        },
-        "2e5d62a652e3bfee772867720b3b000e": {
-            "text": "Courriel de notification"
-        },
-        "f1f5c03105f32ee4f4eb3004e2fb49be": {
-            "text": "Adresse courriel \u00e0 notifier lorsqu'un nouveau commentaire est envoy\u00e9. S\u00e9parez les adresses multiples \u00e0 l'aide de virgules"
         },
         "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
             "text": "Envoyer des notifications pour le spam ?"
@@ -104,29 +83,134 @@
         "a27c92ebebda4931039636893b5c716d": {
             "text": "Champs qui emmagasine les commentaires des utilisateur pour une page unique."
         },
-        "bbdc0889960bd1af9368ef6a4ba299f2": {
-            "text": "ProcessWire"
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Comportement"
         },
-        "61d8be701930d3db7ca0e8d32d041ab6": {
-            "text": "processwire"
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Mod\u00e9ration des commentaires"
         },
-        "e0c0bcd1370c684469277f8066e3c64f": {
-            "text": "Page"
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "D\u00e9termine quand un nouveau commentaire apparaitra sur votre site."
         },
-        "957cba65c7639be540b3bce16e2c8e57": {
-            "text": "De"
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Type de notification"
         },
-        "d856205677eeb676b9b04c173a231c6b": {
-            "text": "Courriel"
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Ne pas envoyer de notifications"
         },
-        "4df6dabe367988d938bbf565bbcdbe43": {
-            "text": "Site web"
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Envoyer des notifications \u00e0 une adresse courriel sp\u00e9cifique"
         },
-        "5be3f30f5db8303d4baac9920be07c45": {
-            "text": "Status"
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Envoyer des notifications \u00e0 l'utilisateur qui a cr\u00e9\u00e9 la page"
         },
-        "15ede22296b59c623fa73c28c6dbe629": {
-            "text": "Texte"
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Envoyer des notifications \u00e0 un utilisateur sp\u00e9cifique"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Adresses courriel de notification de l'administrateur"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "Adresses courriel \u00e0 notifier lorsqu'un nouveau commentaire est envoy\u00e9. S\u00e9parez les adresses multiples avec des virgules ou des espaces."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Les utilisateurs recevant ce courriel auront la possibilit\u00e9 d'approuver ou rejeter les commentaires directement \u00e0 partir des liens dans le courriel."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "En plus (ou au lieu) des adresses courriel, vous pouvez aussi utiliser un ou plusieurs parmi les suivants :"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Entrer **user:aude** pour envoyer un courriel \u00e0 un utilisateur sp\u00e9cifique, rempla\u00e7ant \u00ab aude \u00bb par le nom de l'utilisateur en question."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Entrer **field:email** pour utiliser la valeur d'un champ sur la page, rempla\u00e7ant \u00ab email \u00bb par le nom du champ contenant l'adresse courriel."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Entrer **123:email** pour utiliser la valeur d'un champ sur une page sp\u00e9cifique, rempla\u00e7ant \u00ab 123 \u00bb avec le ID de la page et \u00ab\u00a0email \u00bb par le nom du champ contenant l'adresse courriel."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "3. Entrer **\/chemin\/vers\/page:email** pour utiliser la valeur d'un champ sur une page sp\u00e9cifique, rempla\u00e7ant \u00ab \/chemin\/vers\/page \u00bb avec le chemin de la page et \u00ab\u00a0email \u00bb par le nom du champ contenant l'adresse courriel."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Adresse courriel de provenance des notifications"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Adresse courriel optionnelle de laquelle les notifications apparaitront. Laisser vide pour utiliser l'adresse courriel du serveur par d\u00e9faut."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "Permettre aux commentateurs d'avoir des notifications par courriel ?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Cette option permet \u00e0 tous ceux qui envoient un commentaire de recevoir des notifications de nouveaux commentaires par courriel."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Les utilisateurs peuvent seulement recevoir des notifications par courriel sur leurs propres commentaires"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Les utilisateurs peuvent recevoir des notifications par courriel pour vous les nouveaux commentaires sur la page"
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Sortie"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Profondeur de r\u00e9ponse"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Sp\u00e9cifier 0 pour d\u00e9sactiver l'arborescence des commentaires. Pour les commentaires en arborescence (les r\u00e9ponses apparaissent avec le commentaire auquel il r\u00e9pond), sp\u00e9cifiez la profondeur de r\u00e9ponse permise (recommand\u00e9 entre 0 et 4 )"
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Format date\/heure (pour la liste de commentaires)"
+        },
+        "ea706988dcb6ea169518eb97da49df9d": {
+            "text": "Entrer le format de date\/heure que vous d\u00e9sirez utiliser pour la liste de commentaires. Peut \u00eatre au format [date](http:\/\/php.net\/manual\/fr\/function.date.php) ou [strftime](http:\/\/php.net\/manual\/fr\/function.strftime.php) de PHP. Peut aussi \u00eatre \u00ab relative \u00bb pour un format de date relatif."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Permettre le vote sur les commentaires ?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Le vote sur les commentaires permet aux visiteurs de voter en faveur ou en d\u00e9faveur de commentaires. Le d\u00e9compte des votes est affich\u00e9 \u00e0 c\u00f4t\u00e9 de chaque commentaire. Seulement un vote en faveur et\/ou en d\u00e9faveur est permis par commentaire, par adresse IP, par heure."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Vote d\u00e9sactiv\u00e9"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Permettre les votes en faveur seulement"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Permettre les votes en faveur et en d\u00e9faveur"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formateurs de texte"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "S\u00e9lectionner optionnellement un ou plusieurs formateurs de texte \u00e0 appliquer sur le texte des commentaires, dans l'ordre s\u00e9lectionn\u00e9. Si vous n'en s\u00e9lectionnez aucun, le texte encodera les entit\u00e9s HTML, les nouvelles lignes seront converties en tag <br> et la sortie sera dans un tag <p>."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Attention: s\u00e9lectionnez seulement les formateurs de texte que vous savez s\u00e9curitaires pour l'entr\u00e9e par des utilisateurs anonymes, tel que Entity Encoder (noyau) ou Textile Restricted (tierce-partie). Si vous n'\u00eates pas certain, ne s\u00e9lectionnez rien puisqu'un mauvais choix peut cr\u00e9er des probl\u00e8mes de s\u00e9curit\u00e9."
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implantation"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Cette section vise \u00e0 vous aider \u00e0 int\u00e9grer les commentaires dans la partie publique de votre site. Tout ici est facultatif."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Si vous utilisez la cache de sortie, configurez la de mani\u00e8re \u00e0 contourner la cache lorsque la variable GET \u00ab comment_success \u00bb est pr\u00e9sente."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "Code PHP pour afficher les commentaires"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS pour afficher les commentaires"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS pour afficher les commentaires"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Vous avez d\u00e9j\u00e0 vot\u00e9 sur ce commentaire"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Erreur pendant l'enregistrement du vote"
         }
     }
 }

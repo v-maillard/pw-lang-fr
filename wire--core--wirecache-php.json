@@ -7,6 +7,15 @@
         },
         "a188964d2912198a985f7bcd9564c530": {
             "text": "Cache vid\u00e9"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "La maintenance g\u00e9n\u00e9rale a expir\u00e9 %d cache(s)"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "La maintenance a expir\u00e9 %d cache(s) pour la page enregistr\u00e9e"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "La maintenance a expir\u00e9 %d cache(s) pour le mod\u00e8le enregistr\u00e9e"
         }
     }
 }

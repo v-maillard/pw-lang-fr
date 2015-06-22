@@ -1,1 +1,39 @@
-{"file":"wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module","textdomain":"wire--modules--session--sessionhandlerdb--processsessiondb-module","translations":{"cd86d5313ca52208459b6bc0cfbe9fbb":{"text":"Nombre de minutes"},"a76d4ef5f3f6a672bbfab2865563e530":{"text":"Date"},"8f9bfe9d1345237cb3b2b205864da075":{"text":"Utilisateur"},"32dc37d4cb3662c77f3415b48673af02":{"text":"Addr. IP"},"96e3fa0d1eb9be568924ee1c73b5594d":{"text":"Aucune session active"},"63a6a88c066880c5ac42394a22803ca6":{"text":"Rafra\u00eechir"},"7d48386aa0c37cae93a89ad878847b0a":{"text":"Vous permet de voir les sessions actives dans base de donn\u00e9es"},"e37d52373bb6cfceb4f1985b2fd76db6":{"text":"Sessions actives dans la derni\u00e8re minute"},"4ba03014e35e3b0b49352b059fb7309e":{"text":"Sessions actives dans les derni\u00e8res %d minutes"}}}
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "Nombre de minutes"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Date"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Utilisateur"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "Addr. IP"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "Aucune session active"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Rafra\u00eechir"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Vous permet de voir les sessions actives dans base de donn\u00e9es"
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Sessions actives dans la derni\u00e8re minute"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Sessions actives dans les derni\u00e8res %d minutes"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d session active"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d sessions actives"
+        }
+    }
+}
