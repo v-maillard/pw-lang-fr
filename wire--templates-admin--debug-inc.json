@@ -11,9 +11,6 @@
         "dc62e13d18c4cec89567255a0bbd8a67": {
             "text": "Variables d'API"
         },
-        "71c7ae294b7abd866b3fb295b3b9e4a4": {
-            "text": "Session"
-        },
         "f929d2763e272dc4669d972bae9708e0": {
             "text": "Modules charg\u00e9s"
         },
@@ -43,6 +40,15 @@
         },
         "e386ede4750a227397715b73b7727273": {
             "text": "Permissions de l'utilisateur pour cette page"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "="
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "="
+        },
+        "ab0cf104f39708eabd07b8cb67e149ba": {
+            "text": "="
         }
     }
 }

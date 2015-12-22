@@ -49,6 +49,12 @@
         },
         "884ba0e5457b084e152567fd52b66f6c": {
             "text": "(copie de %d)"
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Clon\u00e9e vers : %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Incapable de cloner la page"
         }
     }
 }

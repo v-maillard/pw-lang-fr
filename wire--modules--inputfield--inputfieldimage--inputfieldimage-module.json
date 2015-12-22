@@ -80,8 +80,11 @@
         "e0af28e6bea01f8a983ebd94ec3b7468": {
             "text": "Lorsque coch\u00e9, les images dont la hauteur\/largeur exc\u00e8dent les dimensions maximales seront refus\u00e9es plut\u00f4t que redimensionn\u00e9es."
         },
+        "6a1c2d713d3598f27c30a6c448197f0e": {
+            "text": "Le fichier ne peut \u00eatre affich\u00e9"
+        },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
-            "text": "Images"
+            "text": "="
         }
     }
 }

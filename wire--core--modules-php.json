@@ -31,6 +31,24 @@
         },
         "141e30f2de96660020efd996cc916413": {
             "text": "D\u00e9pendance de module non remplie : %s requiert %s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "sera appliqu\u00e9 la prochaine fois que le module sera charg\u00e9"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Mise \u00e0 jour du module"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "%d nouveau module d\u00e9tect\u00e9 : %s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "%d nouveaux modules d\u00e9tect\u00e9 : %s"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "%d changement de version de module d\u00e9tect\u00e9"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "%d changements de version de module d\u00e9tect\u00e9"
         }
     }
 }

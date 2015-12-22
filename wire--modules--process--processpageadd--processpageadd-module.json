@@ -58,6 +58,27 @@
         },
         "5ffb937a7aaced6b2c652cd8b8650135": {
             "text": "Le nom entr\u00e9 est d\u00e9j\u00e0 utilis\u00e9. Si vous ne le modifiez pas, il sera rendu unique automatiquement apr\u00e8s l'enregistrement."
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "Il n'y a pr\u00e9sentement aucun mod\u00e8le avec la relation parent\/enfant d\u00e9finie n\u00e9cessaire pour afficher le raccourci \u00abAjouter nouveau\u00bb ici. Pour configurer cela, \u00e9ditez tout mod\u00e8le (Param\u00e8tres > Mod\u00e8les) et cliquez sur l'onglet \"Relations\"."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "OK"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "="
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Les pages que vous s\u00e9lectionnez ci-dessus repr\u00e9sentent des signets vers les pages parent o\u00f9 vous d\u00e9sirez ajouter les pages enfant. Notez que si un utilisateur n'a pas la permission d'ajouter une page \u00e0 une page parent (que ce soit d\u00fb \u00e0 un contr\u00f4le d'acc\u00e8s ou un param\u00e8tre de relation de mod\u00e8le), le signet n'apparaitra pas."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Ordre de raccourci de mod\u00e8le"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Pour changer l'ordre des raccourcis \u00abAjouter nouveau\u00bb de mod\u00e8les de pages, glissez-d\u00e9posez les options dans l'ordre d\u00e9sir\u00e9."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Pour ajouter ou enlever des mod\u00e8les de ces raccourcis, voyez l'onglet Relations de l'\u00e9diteur de mod\u00e8les."
         }
     }
 }

@@ -349,6 +349,36 @@
         },
         "0e7a5c8e978678d4124240dafccdc636": {
             "text": "Attention, cocher cette case peut briser votre module ou votre site. Utiliser pour les tests temporaires seulement."
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "="
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Pour d\u00e9sinstaller un module, cliquez le module \u00e0 \u00e9diter, cochez la boite D\u00e9sinstaller, puis enregistrez. Une fois d\u00e9sinstall\u00e9, les fichiers du module peuvent \u00eatre supprim\u00e9s de \/site\/modules\/. S'il apparait toujours dans la liste ci-dessus, cliquez sur le bouton Rafraichir."
+        },
+        "def68ae90aac3e065c37457bc36d22f8": {
+            "text": "="
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "="
+        },
+        "70d2b9e888cc1816db79833873ff3a93": {
+            "text": "="
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "="
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "="
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "="
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "="
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "="
         }
     }
 }

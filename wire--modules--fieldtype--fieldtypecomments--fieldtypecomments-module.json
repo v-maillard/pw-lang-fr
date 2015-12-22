@@ -211,6 +211,30 @@
         },
         "511c09f7e853bcc074d29ba36a8da7f7": {
             "text": "Erreur pendant l'enregistrement du vote"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "="
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Utiliser le syst\u00e8me d'\u00e9toiles ?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Le syst\u00e8me d'\u00e9toiles permet au commentateur d'\u00e9valuer le sujet qu'il commente, utilisant une \u00e9chelle de 1 \u00e0 5 \u00e9toiles."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Pour changer l'\u00e9toile utilis\u00e9e par d\u00e9faut \u00e0 la sortie (HTML aussi acceptable) :"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Oui (\u00e9valuation optionnelle)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Oui (\u00e9valuation requise)"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "D\u00e9sactiv\u00e9"
         }
     }
 }

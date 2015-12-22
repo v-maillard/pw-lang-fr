@@ -22,6 +22,12 @@
         },
         "dce91550511a9cfef6fe1bc4d2e93b1b": {
             "text": "Non - Vide et 0 ont des significations diff\u00e9rentes"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Cette valeur sera \u00e0 champ par d\u00e9faut lors de la cr\u00e9ation de nouvelles pages. Ceci n'affecte pas les pages existantes."
         }
     }
 }

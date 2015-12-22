@@ -147,7 +147,7 @@
             "text": "Le mod\u00e8le a \u00e9t\u00e9 chang\u00e9 vers \u00ab %s \u00bb"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Si vous voulez que tous les enfants actuels et futurs soit tri\u00e9s automatiquement par un champ sp\u00e9cifique, s\u00e9lectionnez ce champ ci-dessous et \u00e9ventuellement cochez la case 'Inverser l'ordre de tri' pour un tri d\u00e9croissant. Laissez vierge le champ de tri si vous voulez pouvoir glisser-d\u00e9poser les champs dans l'ordre de votre convenance.\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+            "text": "Si vous voulez que tous les enfants actuels et futurs soit tri\u00e9s automatiquement par un champ sp\u00e9cifique, s\u00e9lectionnez ce champ ci-dessous et \u00e9ventuellement cochez la case 'Inverser l'ordre de tri' pour un tri d\u00e9croissant. Laissez vierge le champ de tri si vous voulez pouvoir glisser-d\u00e9poser les champs dans l'ordre de votre convenance."
         },
         "7ba9fe21b073af37b16f989e23112967": {
             "text": "Page inconnue"
@@ -197,11 +197,17 @@
         "30b78fb546fe9686f84a740a5e5524a3": {
             "text": "URL de la page chang\u00e9e pour \u00ab %s \u00bb puisque le nom demand\u00e9 \u00e9tait d\u00e9j\u00e0 pris."
         },
-        "30269022e9d8f51beaabb52e5d0de2b7": {
-            "text": "Parent"
-        },
         "70d9be9b139893aa6c69b5e77e614311": {
             "text": "Confirmer"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "="
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publi\u00e9e le %s"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "toutes"
         }
     }
 }

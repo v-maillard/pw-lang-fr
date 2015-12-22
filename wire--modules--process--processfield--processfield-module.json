@@ -418,6 +418,189 @@
         },
         "59da98ece56eec26f5f9edd6f051da0b": {
             "text": "Ceci supprimera aussi %d lignes de donn\u00e9es"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "OK"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "lorsqu'utilis\u00e9 avec le mod\u00e8le : %s"
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "Veuillez lancer \u00ab Actions > V\u00e9rifier les donn\u00e9es du champ \u00bb sur le champ %s"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Nous avons trouv\u00e9 des donn\u00e9es dans le tableau de ce champ qui ne correspondant \u00e0 aucune page, ou qui correspondent \u00e0 des pages qui ne comprennent pas ce champ."
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "\u00c9craser par mod\u00e8le"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "\u00c9crasements contextuels"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "Les param\u00e8tres suivants de ce champ sont \u00e9cras\u00e9s par les mod\u00e8les indiqu\u00e9s. Veuillez cochez la boite \u00e0 droite de tout champ pour supprimer les param\u00e8tres d'\u00e9crasement (et les restaurer aux param\u00e8tres par d\u00e9faut)."
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "\u00c9crasements de param\u00e8tres pour le modele: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "\u00c9crasements de param\u00e8tres par mod\u00e8le"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Pour \u00e9diter un \u00e9crasement de param\u00e8tre ou \u00e9craser d'autres param\u00e8tres, \u00e9ditez tout mod\u00e8le et cliquez le nom du champ dans la liste de champs."
+        },
+        "2452cab12330c0a3ce62f7974eb82ba6": {
+            "text": "Supprimer les \u00e9crasements contextuels"
+        },
+        "7ce33a363647f83aa612fc538dcb8214": {
+            "text": "Les param\u00e8tres suivants \u00e9crasent les param\u00e8tres de champ originaux lorsque ce champ est utilis\u00e9 dans le contexte du mod\u00e8le \u00ab%s\u00bb."
+        },
+        "b5781496c3e514537473d4edd038152a": {
+            "text": "Pour supprimer tout \u00e9crasement de valeur (et les restaurer aux valeurs par d\u00e9faut) cochez la case \u00e0 c\u00f4t\u00e9 de chacun des param\u00e8tres que vous souhaitez supprimer\/restaurer."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Voulez vous activer le contr\u00f4le d'acc\u00e8s pour ce champ ?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Lorsqu'activ\u00e9, vous pouvez limiter l'acc\u00e8s en lecture et \u00e9criture \u00e0 ce champ par r\u00f4le utilisateur."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Quels r\u00f4les peuvent lire et\/ou \u00e9diter ce champ ?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Les utilisateurs doivent aussi avoir un acc\u00e8s en lecture et \u00e9criture sur la page o\u00f9 le champ existe pour que ces permissions soient applicables."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Lorsqu'aucun champ n'est coch\u00e9, seulement un superuser peut voir ou \u00e9diter le contenu de ce champ."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(tous)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Bascules d'acc\u00e8s"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Afficher le champ dans un \u00e9diteur de page s'il est lisible mais non \u00e9ditable (l'utilisateur peut voir mais pas modifier)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Rendre la valeur du champ accessible de l'API m\u00eame s'il n'est pas visible (voir ci-bas)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Lorsqu'un champ n'est pas visible (sur la section publique, avec le formatage de sortie activ\u00e9), la valeur $page->$s sera une version vide\/nulle du type d\u00e9sir\u00e9, ce qui emp\u00eache  la valeur d'\u00eatre affich\u00e9e."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Cochez la boite ci-haut pour ignorer ce comportement, rendant la valeur toujours disponible \u00e0 partie de l'API. Ceci oblige \u00e0 implanter vous m\u00eame la v\u00e9rification d'acc\u00e8s, si d\u00e9sir\u00e9."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Vous pouvez v\u00e9rifier l'acc\u00e8s en lecture de l'API pour ce champ de cette mani\u00e8re:"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "="
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Le nom de champ peur diff\u00e9rer du nom de Langue"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "\u00c9crasement contextuel supprim\u00e9"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Activ\u00e9"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "D\u00e9sactiv\u00e9"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Tout"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "="
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Pr\u00e9sentation\/visibilit\u00e9 du champ"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "R\u00f4les pouvant voir ce champ"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "R\u00f4les pouvant \u00e9diter ce champ"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Activer le contr\u00f4le d'acc\u00e8s"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Enlever le contr\u00f4le d'acc\u00e8s"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Rendre la valeur du champ accessible de l'API m\u00eame lorsque pas visible"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Rendre la valeur du champ NON ACCESSIBLE de l'API m\u00eame lorsque pas visible"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Afficher dans l'\u00e9diteur de page m\u00eame si non modifiable"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Cacher dans l'\u00e9diteur de page lorsque non modifiable"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "="
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "="
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "="
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "="
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "="
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Mod\u00e8le"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Param\u00e8tre"
+        },
+        "7f8ceb624f94b152f89f7bfd06a2dff2": {
+            "text": "="
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "\u00c9crasement"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Supprimer le param\u00e8tre"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "="
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "="
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "="
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "="
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Acc\u00e8s"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Oui"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Non"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "R\u00f4le"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Voir"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "\u00c9diter"
         }
     }
 }

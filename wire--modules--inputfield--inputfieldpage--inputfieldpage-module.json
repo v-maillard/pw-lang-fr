@@ -109,6 +109,27 @@
         },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/produits\/, template=produit, sort=name"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Champ d'\u00e9tiquette"
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "S\u00e9lectionnez \u00abFormat personnalis\u00e9\u00bb si vous d\u00e9sirez sp\u00e9cifier plusieurs champs ou des champs que vous ne voyez pas ci-dessus."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Format personnalis\u00e9 (champs multiples)\u2026"
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Format de l'\u00e9tiquette de page personnalis\u00e9"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Sp\u00e9cifiez un ou plusieurs noms de champs entour\u00e9s {d'accolades} ainsi que tous caract\u00e8res, espacements ou ponctuations additionnels."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Exemple: {parent.title} - {title}, {date}"
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Certains types de champs fournissent des options de configuration additionnelles. Apr\u00e8s avoir s\u00e9lectionn\u00e9 un type de champ et enregistr\u00e9 vos changements, des options additionnelles pourraient s'afficher sous cette section."
         }
     }
 }

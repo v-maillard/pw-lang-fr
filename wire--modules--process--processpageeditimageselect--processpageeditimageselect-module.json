@@ -194,9 +194,6 @@
         "872db811a5e431cc819ba322361af380": {
             "text": "Modifi\u00e9e le"
         },
-        "4f42496817221234f2297f3605183f29": {
-            "text": "Notes"
-        },
         "0220ca2a43c59a70842cafc215b6430e": {
             "text": "Cr\u00e9e pour placer dans une zone de texte"
         },
@@ -217,6 +214,24 @@
         },
         "02b1a8c5ed34fba75d6ce56f68435743": {
             "text": "%1$d variations de l'image %2$s"
+        },
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Appliquer"
+        },
+        "575acda05a24ee8b606cee4f25024afe": {
+            "text": "Vous n'avez pas acc\u00e8s en \u00e9dition aux images de cette page."
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "="
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "="
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
         }
     }
 }

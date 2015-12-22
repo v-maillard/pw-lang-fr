@@ -29,9 +29,6 @@
         "d24e4fa285c1eab355817ed6c38ec1bd": {
             "text": "Date \u00e0"
         },
-        "06df33001c1d7187fdd81ea1f5b277aa": {
-            "text": "Actions"
-        },
         "de36914cd9d030bca299ef13e59e81fc": {
             "text": "S\u00e9lectionnez une action ci-bas. Vous devrez cliquer un bouton avant que l'action soit ex\u00e9cut\u00e9e."
         },
@@ -112,6 +109,12 @@
         },
         "b9dc13817999fcd3ea5967c020b5c043": {
             "text": "Nouvelles entr\u00e9es sur la page 1 du journal"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "="
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
         }
     }
 }

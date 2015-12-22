@@ -28,6 +28,18 @@
         },
         "8103e74ea76ab74a0eabfc5d09e6588a": {
             "text": "%d utilisateurs"
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Vous ne pouvez pas changer ce r\u00f4le"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Vous n'\u00eates pas autoris\u00e9 \u00e0 enlever le r\u00f4le: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Vous n'\u00eates pas autoris\u00e9 \u00e0 ajouter le r\u00f4le: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Vous avez enlever des r\u00f4les qui emp\u00eachent votre acc\u00e8s en \u00e9dition \u00e0 cet utilisateur. Ces r\u00f4les ont \u00e9t\u00e9 restaur\u00e9s."
         }
     }
 }

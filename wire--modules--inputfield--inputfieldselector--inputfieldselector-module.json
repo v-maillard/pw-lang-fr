@@ -65,14 +65,8 @@
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "Mod\u00e8le"
         },
-        "b718adec73e04ce3ec720dd11a06a308": {
-            "text": "ID"
-        },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "Nom"
-        },
-        "ec53a8c4f07baed5d8825072c89799be": {
-            "text": "Status"
         },
         "7acdf85c69cc3c5305456a293524386e": {
             "text": "Cach\u00e9"
@@ -115,9 +109,6 @@
         },
         "c0272cbdf2353b9f2810944ae048b4a1": {
             "text": "champs=valeur"
-        },
-        "d0e45878043844ffc41aac437e86b602": {
-            "text": "parent"
         },
         "6b46ae48421828d9973deec5fa9aa0c3": {
             "text": "Trier"
@@ -170,12 +161,6 @@
         "1d79542121869a6161bed167902ddc79": {
             "text": "Chaque ligne du s\u00e9lecteur ci-haut signifie : champs doit correspondre \u00e0 valeur. Cela s'appelle des conditions AND (et). Dans les cas o\u00f9 le m\u00eame champs ou valeur apparait dans plus qu'une ligne, une condition OR (ou) est possible. La pr\u00e9sence d'une case \u00e0 cocher \u00e0 la fin de chaque ligne indique cela. Cochez cette case pour utiliser la condition OR au lieu de la condition AND."
         },
-        "d1a7ff19fe990b9467a4a64f01a09f4e": {
-            "text": "Parent"
-        },
-        "8449d3ddcf7322067ea68d60a3098945": {
-            "text": "Parent"
-        },
         "ea66a0a3f3311a155d84ef03a56850ca": {
             "text": "Champs syst\u00e8me"
         },
@@ -199,6 +184,42 @@
         },
         "ea4311c5f366d55a9a6e38450d3bad9f": {
             "text": "correspond \u00e0 %d pages"
+        },
+        "7acce3193127d4b71a6c2b140c22dc95": {
+            "text": "="
+        },
+        "d81f0f02cd6a877358cde8fbdbad89a5": {
+            "text": "="
+        },
+        "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
+            "text": "="
+        },
+        "1388e1432a93282ab487548dce4847d4": {
+            "text": "="
+        },
+        "a5dc4a847828895f72a94ab5debe5c00": {
+            "text": "="
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c9tat"
+        },
+        "9a438bd942f1f19e6a641028bcfb43ff": {
+            "text": "="
+        },
+        "4303f3a12b6405bb83d68a5438f1b6b8": {
+            "text": "Date de publication"
+        },
+        "d0e45878043844ffc41aac437e86b602": {
+            "text": "="
+        },
+        "d1a7ff19fe990b9467a4a64f01a09f4e": {
+            "text": "="
+        },
+        "8449d3ddcf7322067ea68d60a3098945": {
+            "text": "="
         }
     }
 }
