@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Ouvrir dans une fen\u00eatre modale ?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Cochez cette case pour ouvrir cet onglet dans sa propre fen\u00eatre modale. Cela peut am\u00e9liorer la performance des formulaires imposants."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Pour r\u00e9soudre un besoin similaire, vous pourriez aussi consid\u00e9rer l'option AJAX, situ\u00e9e dans l'ongle Champ > Visibilit\u00e9 > Pr\u00e9sentation."
+        }
+    }
+}

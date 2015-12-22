@@ -1,0 +1,111 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Veuillez configurer ce champ avec une s\u00e9lection de mod\u00e8le avant de l'utiliser."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Veuillez ajouter une ou plusieurs colonnes \u00e0 votre champ avant d'utiliser ce champ."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Des enfants ont \u00e9t\u00e9 trouv\u00e9s pouvant \u00eatre ajouter \u00e0 ce tableau. Veuillez cochez la case adjacente \u00e0 tout ceux que vous d\u00e9sirez ajouter."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "S\u00e9lectionner tout"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "%d page(s) existante(s) ajout\u00e9e(s) au tableau"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Champs du tableau \u00e0 afficher dans le panneau d'administration"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Entrer les noms de champs (1 par ligne) que vous d\u00e9sirez afficher en tant que colonnes \u00e0 votre tableau. Pour sp\u00e9cifier une largeur de colonne associ\u00e9e au champ, sp\u00e9cifiez \"nom_champ=30\" o\u00f9 \"30\" est la largeur (en pourcent) de la colonne. Lorsque vous sp\u00e9cifiez des largeurs, assurez que la largeur donne un total de 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Vous pouvez sp\u00e9cifier tout champ natif ou personnalis\u00e9. Vous pouvez aussi utiliser des sous-champs (champ.souschamp) pour les champs contenant des propri\u00e9t\u00e9s multiples, tels que des r\u00e9f\u00e9rences de pages."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Les champs personnalit\u00e9s assign\u00e9s \u00e0 votre mod\u00e8le incluent les suivants :"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Pour voir une liste de champs personnalis\u00e9s possibles ici, s\u00e9lectionnez un mod\u00e8le via l'onglet D\u00e9tails, sauvegardez, puis revenez ici."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Format automatique de nom de page"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Lorsque rempli, les noms de pages seront cr\u00e9es automatiquement \u00e0 partir ce de format \u00e0 chaque fois qu'un utilisateur clique le bouton \"Ajouter nouveau\". Si laiss\u00e9 vide, l'utilisateur sera interrog\u00e9 \u00e0 savoir quel nom utiliser pour la page avant qu'elle soit cr\u00e9\u00e9e."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Si un format de nom contient des caract\u00e8res non alphanum\u00e9riques, il sera consid\u00e9r\u00e9 comme \u00e9tant un format date [PHP date](http:\/\/www.php.net\/manual\/fr\/function.date.php). S'il contient seulement des caract\u00e8res alphanum\u00e9riques il sera utilis\u00e9 directement, avec un nombre ajout\u00e9 \u00e0 la fin, lorsque n\u00e9cessaire, pour assurer qu'il soit unique."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Exemple : **Ymd:His** est un bon format de nom pour des noms de page bas\u00e9s sur un format date\/heure."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportement de la fen\u00eatre modale d'\u00e9dition"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Fermer automatiquement apr\u00e8s la sauvegarde (par d\u00e9faut)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Garder la fen\u00eatre ouverte, fermer manuellement"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields : Tableau de pages"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Inputfield pour accompagner FieldtypePageTable"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nom"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Cr\u00e9\u00e9e le"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modifi\u00e9e le"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modifi\u00e9e par"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Cr\u00e9\u00e9e par"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Chemin"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Mod\u00e8le"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Enfants"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "\u00c9tat"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Ajouter nouveau"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "="
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "="
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "="
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Publi\u00e9"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "="
+        }
+    }
+}

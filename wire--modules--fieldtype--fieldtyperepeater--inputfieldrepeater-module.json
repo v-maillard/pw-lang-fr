@@ -18,10 +18,13 @@
             "text": "Cet \u00e9l\u00e9ment deviendra \u00e9ditable apr\u00e8s l'enregistrement de la page."
         },
         "138103c4e1d9c846d0afd000e5b928c8": {
-            "text": "Ajouter un t\u00e9l\u00e9ment"
+            "text": "Ajouter un \u00e9l\u00e9ment"
         },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "R\u00e9p\u00e8te les champs d'un autre mod\u00e8le. Procure les entr\u00e9es pour FieldtypeRepeater."
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "R\u00e9p\u00e9teur"
         }
     }
 }

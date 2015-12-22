@@ -27,7 +27,7 @@
             "text": "Plage d'ann\u00e9es du s\u00e9lectionneur de date"
         },
         "062e5153dad257d2a6a1560033719e9b": {
-            "text": "Lorsque le s\u00e9lectionneur de date est utilis\u00e9, il permet de s\u00e9lectionner une plage de plus et moins 10 ans \u00e0 partir de l'ann\u00e9e actuelle. Pour augmenter ou r\u00e9duire cette plage, sp\u00e9cifiez la quantit\u00e9 d'ann\u00e9es avant et apr\u00e8s l'ann\u00e9e courante dans ce format : \u00ab -30:+20 \u00bb, qui voue permettra de s\u00e9lectionner 30 ans avant et 20 ans apr\u00e8s l'ann\u00e9e en cours. "
+            "text": "Lorsque le s\u00e9lectionneur de date est utilis\u00e9, il permet de s\u00e9lectionner une plage de plus et moins 10 ans \u00e0 partir de l'ann\u00e9e actuelle. Pour augmenter ou r\u00e9duire cette plage, sp\u00e9cifiez la quantit\u00e9 d'ann\u00e9es avant et apr\u00e8s l'ann\u00e9e courante dans ce format : \u00ab -30:+20 \u00bb, qui voue permettra de s\u00e9lectionner 30 ans avant et 20 ans apr\u00e8s l'ann\u00e9e en cours."
         },
         "26fe23eafa82406bc0d0cd216a734d73": {
             "text": "La valeur pas d\u00e9faut lorsqu'aucune valeur n'est pr\u00e9sente est \u00ab\u00a0-10:+10 \u00bb qui affiche une place d'ann\u00e9es dans le s\u00e9lecteur de date de 10 ans avant et apr\u00e8s l'ann\u00e9e en cours."
@@ -80,11 +80,14 @@
         "70bf9b371944c2d5b1adf809a356f607": {
             "text": "Texte fictif optionnel apparaissant dans le champs lorsque laiss\u00e9 vide."
         },
-        "a1af5f0718bfae275ce162362d0e43c5": {
-            "text": "Datetime"
-        },
         "d27357121209bd712604d8af46cd2460": {
             "text": "Inputfield acceptant une date et optionnellement une heure"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-fr.js"
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Date et heure"
         }
     }
 }

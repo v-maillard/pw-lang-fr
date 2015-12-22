@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Signets"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "\u00c9diter les signets"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "tous"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Aucun signet n'est actuellement d\u00e9fini"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "tout le monde"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Signets pour: %s"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Notez que seuls les superusers sont capable de voir cet \u00e9diteur."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Ajouter un signet"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Cliquez sur le bouton \u00ab Ajouter un signet \u00bb ci-dessous pour s\u00e9lectionner les pages \u00e0 ajouter en tant que signets. Si vous d\u00e9sirez que les signets soient uniquement visibles \u00e0 un r\u00f4le sp\u00e9cifique, commencez par s\u00e9lectionner un r\u00f4le ci-dessus."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Signets enregistr\u00e9s"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Permettre l'ajout de signets?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Les signets vous permettent de cr\u00e9er des raccourcis vers les pages de ce module et peuvent \u00eatre configur\u00e9s par r\u00f4le utilisateur. Utile pour les applications plus imposantes."
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "\u00c9diteur de signets pour %s"
+        }
+    }
+}

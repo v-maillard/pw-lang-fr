@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
     "translations": {
         "b38bb5008cd8427aae4e9a8612183a6f": {
-            "text": "Le formateur \u00ab Encodeur d'entit\u00e9s HTML\" est recommand\u00e9 pour les champs URL."
+            "text": "Le formateur \u00ab Encodeur d'entit\u00e9s HTML \u00bb est recommand\u00e9 pour les champs URL."
         },
         "ab86e8efb5aa46bdab329fa44f7125fc": {
             "text": "Permettre les URLs relatifs\/locaux sans le \u00ab http:\/\/ \u00bb au d\u00e9but ?"
@@ -22,6 +22,30 @@
         },
         "0ac82d10c1ddd050079962481c40f54f": {
             "text": "Champs entreposant un URL"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Oui"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Non"
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Si cet URL sera utilis\u00e9 pour toute sortie, il est fortement recommand\u00e9 que vous s\u00e9lectionnez \u00ab Encodeur d'entit\u00e9s HTML \u00bb dans \u00ab Formateurs de texte \u00bb de l'onglet D\u00e9tails."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Permettre les noms de domaines internationalis\u00e9s (IDNs) ?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Lorsqu'activ\u00e9, les domaines contenant des caract\u00e8res autre qu'ASCII seront permis."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Permettre les caract\u00e8res guillemets double\/simple dans les URLs ?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Lors qu'activ\u00e9, assurez vous absolument que les URLs utilisent l'encodage d'entit\u00e9s si utilis\u00e9s dans votre code HTML."
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
         }
     }
 }

@@ -11,9 +11,6 @@
         "d48cd2cb0f5c1d209800b28e019eb574": {
             "text": "Cette(s) valeurs(s) optionnelles par d\u00e9faut sont disponibles parce que vous avez coch\u00e9 la case \"requis\" ci-haut."
         },
-        "dae8ace18bdcbcc6ae5aece263e14fe8": {
-            "text": "Options"
-        },
         "3a4accfa68ff7300f67ad7d89e07770e": {
             "text": "Entrez les options qui peuvent \u00eatre s\u00e9lectionn\u00e9es, une par ligne."
         },
@@ -31,6 +28,12 @@
         },
         "eed6fbc4de3755e7189b1461a4844bea": {
             "text": "S\u00e9lection d'une valeur unique \u00e0 l'aide d'un menu d\u00e9roulant"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "S\u00e9lection"
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "="
         }
     }
 }

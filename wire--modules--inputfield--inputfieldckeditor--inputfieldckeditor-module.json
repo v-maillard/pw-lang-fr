@@ -177,7 +177,7 @@
             "text": "recommand\u00e9"
         },
         "7ae98f3a4b96e522d75992c305a4ec2b": {
-            "text": "%s param\u00e8tres"
+            "text": "Param\u00e8tres %s"
         },
         "ced89926ebd1c95b56710b6a873b1e93": {
             "text": "Les param\u00e8tres d'extension pour \u00ab %s \u00bb ont \u00e9chou\u00e9 la validation JSON."
@@ -202,6 +202,18 @@
         },
         "68835c69c5818fea532f3ad00a91be00": {
             "text": "fr"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "\u00c9diter un lien"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Le texte de la l\u00e9gende"
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Ins\u00e9rez un di\u00e8se \u00ab # \u00bb au d\u00e9but d'une ligne si vous souhaitez qu'elle soit ignor\u00e9e."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Au moins une extension doit \u00eatre coch\u00e9e."
         }
     }
 }

@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Vide et 0 sont-ils \u00e9quivalents ?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Ceci affecte la mani\u00e8re par laquelle ProcessWire trouve les pages pendant les op\u00e9rations de recherche dans la base de donn\u00e9es."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Si 0 et vide sont \u00e9quivalents (l'option Oui), une recherche pour **champ=0** et **champ=\"\"** produira les m\u00eames r\u00e9sultats."
+        },
+        "33865caeae8ea654a7fef819270e40b3": {
+            "text": "S'ils ne sont pas \u00e9quivalents (l'option Non), une recherche pour **champ=0** retournera seulement les champs contenant la valeur 0 et **champ=\"\"** retournera les champs dont la valeur est vide."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Comme autre exemple, avec l'option Oui **champ<1** retournera les champ de valeur 0 et sans valeur, et l'option Non seulement ceux de valeur 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Oui - Vide et 0 sont \u00e9quivalents"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Non - Vide et 0 ont des significations diff\u00e9rentes"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Cette valeur sera \u00e0 champ par d\u00e9faut lors de la cr\u00e9ation de nouvelles pages. Ceci n'affecte pas les pages existantes."
+        }
+    }
+}

@@ -659,9 +659,6 @@
         "6468942ecc94c202802ee17efdbda184": {
             "text": "Champs"
         },
-        "adc3250d7ccf9a0303cc0b44d70917d6": {
-            "text": "Pages"
-        },
         "9aa8f6fc386e155886938a352548a81c": {
             "text": "Modifi\u00e9"
         },
@@ -680,14 +677,8 @@
         "799ef6a367b3b36deb5be25ef8e7c91a": {
             "text": "Acc\u00e8s"
         },
-        "21ddd66d87bebbaaf6bba5319e5b7f97": {
-            "text": "URLs"
-        },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Fichiers"
-        },
-        "ff2e33d2066471fd192bf41c39322cd1": {
-            "text": "Cache"
         },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avanc\u00e9"
@@ -760,6 +751,225 @@
         },
         "18dec3122ea08276dd94476904bcef7b": {
             "text": "Le groupe de champs de ce mod\u00e8le est utilis\u00e9 par %d autres mod\u00e8les"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "Ce nom est d\u00e9j\u00e0 utilis\u00e9"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "D\u00e9finissez les champs \u00e0 utiliser par ce mod\u00e8le. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9 ou [cr\u00e9er un nouveau champ](..\/field\/add)."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Si vous utilisez [ProCache] il n'est pas n\u00e9cessaire d'utiliser les param\u00e8tres de cache ici."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Nettoyer le cache pour la page enregistr\u00e9e et autres pages correspondant \u00e0 un s\u00e9lecteur\u2026"
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "S\u00e9lecteur pour trouver les autres pages o\u00f9 nettoyer le cache."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Enregistrez ce mod\u00e8le puis revenez ici pour configurer votre s\u00e9lecteur."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "S\u00e9lecteur d'expiration de cache"
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Pour d\u00e9sactiver le cache lorsque n'importe quelle variable est pr\u00e9sente, entrez un ast\u00e9risque: * (recommand\u00e9)"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"De base\" par d\u00e9faut."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"Enfants\" par d\u00e9faut."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ic\u00f4ne"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "S\u00e9lectionnez une ic\u00f4ne \u00e0 associer avec ce mod\u00e8les et les pages utilisant ce mod\u00e8le (dans le panneau d'administration)."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Plus"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront la pagination."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Acc\u00e9dez au num\u00e9ro de page \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->pageNum."
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront les segments d'URL personnalis\u00e9s apr\u00e8s l'URL de la page."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Acc\u00e9dez au(x) segment(s) d'URL \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->urlSegmentStr."
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Quels segments d'URL d\u00e9sirez vous permettre ?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Entrez une segment, chemin de segment ou expression r\u00e9guli\u00e8re permis par ligne ou laissez vide pour permettre n'importe lequel."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Sch\u00e9ma\/Protocole"
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Ent\u00eate \u00e0 envoyer avec la sortie du fichier de mod\u00e8le. Si aucun n'est s\u00e9lectionn\u00e9, ProcessWire n'enverra pas d'ent\u00eate content-type et dans la majorit\u00e9 des cas text\/html est assum\u00e9. S\u00e9lectionner un content-type est recommand\u00e9 lorsque la sortie est autre que du HTML."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Pour ajouter d'autre types de contenu, voir *contentTypes* dans \/wire\/config.php (et ajouter les \u00e0 cet endroit)."
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Saut\u00e9 le renommage du mod\u00e8le - veuillez compl\u00e9ter ceci apr\u00e8s l'action courante."
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "\u00c9tiquette pour l'onglet \u00ab De base \u00bb"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "\u00c9tiquette pour l'onglet \u00ab Enfants \u00bb"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Peu importe"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "="
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "\u00c9tat de la cache"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "D\u00e9sactiv\u00e9e"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Activ\u00e9e (cache de mod\u00e8le)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Activ\u00e9e (ProCache, configur\u00e9e ici)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Les pages utilisant ce mod\u00e8le sont pr\u00e9sentent en cache \u00e0 l'aide de ProCache, mais configur\u00e9es directement dans ProCache. Pour configurer les param\u00e8tres ProCache de ce mod\u00e8le, choisissez l'option ProCache ci-dessus."
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "="
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Remplacer optionnellement la propri\u00e9t\u00e9 \"Nom\" par d\u00e9faut de l'\u00e9tiquette."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Vous pouvez aussi utiliser votre propre format (et tout caract\u00e8res ou ponctuation additionnels) en sp\u00e9cifiant les noms de champs entre accolades, e.g. {name}, {categories.title}, etc."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Pour sp\u00e9cifier la propri\u00e9t\u00e9 d'un champ, entourez le nom du champ d'accolades et entrez {nom_champ.propriete}, par exemple: {categories.title}"
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "="
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Un"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "pas davantage permis"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant que parent. Cliquez tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les parents permis."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s sont d\u00e9j\u00e0 configur\u00e9s et permettent d'ajouter ce mod\u00e8le en tant que parent."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant qu'enfant. Cliquez tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les enfants permis."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s sont d\u00e9j\u00e0 configur\u00e9s et permettent d'ajouter ce mod\u00e8le en tant qu'enfant."
+        },
+        "975bafff7904e0b6768fc9b2d0a11829": {
+            "text": "Laissez vide pour d\u00e9sactiver. Entrez \"title\" (dans les guillemets) pour g\u00e9n\u00e9rer automatiquement le nom \u00e0 partir du titre d'une page. D'autres options incluant des format de date sont aussi disponibles. [En savoir plus](https:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Pour ajuster l'ordre dans lequel les mod\u00e8les apparaissent dans le menu de raccourcis, voir les [param\u00e8tres du module PageAdd](%s)."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Les URLs de num\u00e9ros de page doivent-ils \u00eatre termin\u00e9s d'une barre oblique?"
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Les segments d'URL doivent-ils \u00eatre termin\u00e9s d'une barre oblique?"
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "="
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Entrez l'URL ou l'ID de la page vers laquelle rediriger lorsqu'un utilisateur n'a pas acc\u00e8s"
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Permettre aux acc\u00e8s reli\u00e9s \u00e0 l'\u00e9dition d'\u00eatre h\u00e9rit\u00e9s par les enfants ?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Par d\u00e9faut, tous les param\u00e8tres d'acc\u00e8s de ce mod\u00e8le sont h\u00e9rit\u00e9s dans l'arborescence de page jusqu'\u00e0 ce qu'une page utilisant un autre mod\u00e8le de page control\u00e9 par l'acc\u00e8s ne l'\u00e9crase."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Choisir l'option \"Non\" si vous d\u00e9sirez \u00e9viter que l'acc\u00e8s reli\u00e9 \u00e0 l'\u00e9dition ne soit h\u00e9rit\u00e9e outre les pages utilisant ce mod\u00e8le. L'acc\u00e8s vue continuera d'h\u00e9riter peu importe."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Permettre aux acc\u00e8s reli\u00e9s \u00e0 l'\u00e9dition d'\u00eatre h\u00e9rit\u00e9s par les enfants qui n'ont pas de contr\u00f4le d'acc\u00e8s"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Limiter l'acc\u00e8s reli\u00e9 \u00e0 l'\u00e9dition seulement aux pages utilisant ce mod\u00e8le"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Note: les options \u00e9diter\/cr\u00e9er\/ajouter sont d\u00e9sactiv\u00e9es pour les r\u00f4les qui n'ont pas de permission page-edit."
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Permission d'\u00e9dition additionnelles et \u00e9crasements"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Ajoutez ou r\u00e9voquer optionnellement les permissions assign\u00e9es \u00e0 chaque r\u00f4le lorsque requis pour les pages utilisant ce mod\u00e8le (ou h\u00e9ritant de ce dernier)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Les options disponibles ici sont d\u00e9termin\u00e9es par les choix d'\u00e9dition de page ci-dessus. Ainsi, vous devriez enregistrer ce mod\u00e8le et y revenir apr\u00e8s avoir effectu\u00e9 des changements aux r\u00f4les ayant l'acc\u00e8s d'\u00e9dition de page ci-dessus."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Les options sont affich\u00e9es au format \"r\u00f4le: permission\". Pour une description de l'effet de chacune des permissions, voir la [r\u00e9f\u00e9rence des permissions](%s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Ajouter des permissions par r\u00f4le"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "R\u00e9voquer des permissions par r\u00f4le"
+        },
+        "adc3250d7ccf9a0303cc0b44d70917d6": {
+            "text": "="
+        },
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "="
+        },
+        "7de04564993d28e2b32be513c1575777": {
+            "text": "="
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "="
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "="
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "="
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "="
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "\u00c9tiquette pour la propri\u00e9t\u00e9 Nom de page"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Ce mod\u00e8le est utilis\u00e9 par %d page"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "="
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "="
         }
     }
 }

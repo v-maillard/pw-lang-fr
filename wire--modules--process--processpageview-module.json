@@ -3,7 +3,10 @@
     "textdomain": "wire--modules--process--processpageview-module",
     "translations": {
         "a479e6c423ecad082c067f87a37c152a": {
-            "text": "Toutes les vies de pages sont rout\u00e9es \u00e0 travers ce Process"
+            "text": "Toutes les vues de pages sont rout\u00e9es \u00e0 travers ce Process"
+        },
+        "ba53c4481b0a7190fdf6407fd2e636d7": {
+            "text": "Vue de pages"
         }
     }
 }

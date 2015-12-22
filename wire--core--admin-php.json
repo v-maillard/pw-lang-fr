@@ -1,0 +1,24 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "H\u00f4te HTTP non reconnu"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Veuillez mettre \u00e0 jour vos param\u00e8tres $config->httpHosts dans \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "lire plus"
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "="
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Cette page n'a aucun processus assign\u00e9."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Le processus n'a retourn\u00e9 aucun contenu."
+        }
+    }
+}

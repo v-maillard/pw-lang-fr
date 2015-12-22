@@ -1,0 +1,87 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "En attente d'approbation"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Approuver maintenant"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Approuv\u00e9"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Marquer comme SPAM"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM - sera supprim\u00e9 automatiquement apr\u00e8s %d jours"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "Pas du SPAM : Approuver maintenant"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Commentaire envoy\u00e9 sur: %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "\u00c9diter"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Vous vous \u00eates d\u00e9sabonn\u00e9 des notifications de commentaires sur cette page."
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Vous avez confirm\u00e9 la r\u00e9ception de notifications de cette page."
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Nouveau commentaire envoy\u00e9 :"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "Envoy\u00e9 \u00e0 : %s"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "Envoy\u00e9 par : %s"
+        },
+        "1e0d36c28b3b237af18c36e171a50484": {
+            "text": "URL : %s"
+        },
+        "c835168989fcff535a5d12f1fe9a9d51": {
+            "text": "D\u00e9sactiver les notifications"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "Merci de confirmer la r\u00e9ception de notifications"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Vous avez de mand\u00e9 d'\u00eatre notifi\u00e9 pour les r\u00e9ponses \u00e0 votre commentaire \u00e0 %s. Merci de confirmer en cliquant le lien ci-dessous. Si vous n'avez pas demand\u00e9 cela, veuillez ignorer ce courriel."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Confirmer les notifications"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "De"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "Courriel"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Site web"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "\u00c9tat"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Texte"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "="
+        },
+        "0182aa91273730ac7c4f3df026234683": {
+            "text": "\u00c9toiles"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "="
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "="
+        }
+    }
+}

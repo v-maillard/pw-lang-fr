@@ -4,6 +4,12 @@
     "translations": {
         "d1e114b786b9fa971fbba24b8e584a43": {
             "text": "Contient un ou plusieurs champs d'un formulaire"
+        },
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Modifications non sauvegard\u00e9es :"
+        },
+        "d359c6df99b25183d81f7d728b71de0e": {
+            "text": "Formulaire"
         }
     }
 }

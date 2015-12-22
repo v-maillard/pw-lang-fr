@@ -1,0 +1,99 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "787d5f05953ec39b108869dfdd7733e6": {
+            "text": "approuv\u00e9"
+        },
+        "7c6c2e5d48ab37a007cbf70d3ea25fa4": {
+            "text": "en attente"
+        },
+        "099af53f601532dbd31e0ea99ffdeb64": {
+            "text": "supprimer"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Il n'y a aucun champ de commentaire install\u00e9"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Veuillez s\u00e9lectionner un champ commentaire"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "Aucun champ de commentaire sp\u00e9cifi\u00e9 pour l'URL"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Champ non reconnu"
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "R\u00e9ponses \u00e0"
+        },
+        "68c548ee5ab9808887460b7c74baac30": {
+            "text": "enlever le filtre"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Commentaire #%d supprim\u00e9"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "Commentaire #%d mis \u00e0 jour"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "\u00e9diter"
+        },
+        "4dfbb099eafd3c82e033bf92946d3ce6": {
+            "text": "Courriel"
+        },
+        "f42d9d8fbfa2f6929ac7ee0d2e2871c5": {
+            "text": "En r\u00e9ponse \u00e0 %s"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Tous"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "de %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Aucun \u00e0 afficher"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Approuv\u00e9"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "En attente"
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d r\u00e9ponse"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d r\u00e9ponses"
+        },
+        "e09f6a7593f8ae3994ea57e1117f67ec": {
+            "text": "="
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "="
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "="
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "="
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citer"
+        },
+        "c6e190b284633c48e39e55049da3cce8": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "\u00c9toiles"
+        },
+        "7f319b8ccad7e92033b9492ddbc4b522": {
+            "text": "="
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
+        }
+    }
+}

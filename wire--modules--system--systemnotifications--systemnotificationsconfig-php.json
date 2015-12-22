@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Activ\u00e9"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "D\u00e9sactiv\u00e9"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Gauche"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Droite"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "\u00c9tat des notifications"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Lorsque d\u00e9sactiv\u00e9, les notifications ne seront pas affich\u00e9es"
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Suivre les \u00e9ditions de pages ?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Notifie les utilisateurs lorsqu'ils tentent d'\u00e9diter une page qui est d\u00e9j\u00e0 en cours d'\u00e9dition."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Ordre des notifications"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "S\u00e9lectionnez dans quel ordre les notifications devraient apparaitre."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Plus r\u00e9centes aux plus vielles"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Plus vieilles aux plus r\u00e9centes"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Hooks de notification automatique actifs"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Lorsqu'un de ces \u00e9v\u00e9nements survient, l'utilisateur syst\u00e8me ci-dessus sera notifi\u00e9."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 page non trouv\u00e9e"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Succ\u00e8s ou \u00e9chec de connexion d'un utilisateur"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "D\u00e9connexion d'un utilisateur"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Ceux-ci sont principalement des exemples de notifications pour les besoins de d\u00e9monstration."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Nom de l'utilisateur qui re\u00e7oit les notifications syst\u00e8me"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Temps entre les mises \u00e0 jour"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "\u00c0 quel fr\u00e9quence v\u00e9rifier pour des mises \u00e0 jour de notifications (en millisecondes). Exemple : 5000 signifie 5 secondes."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Format de date"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Format de date utilis\u00e9 pour les notifications. Utiliser un format date() ou strftime(), ou \u00ab relative \u00bb pour une date\/heure relative, \u00ab rel \u00bb pour date\/heure abr\u00e9g\u00e9e."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Ic\u00f4ne de message"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Ic\u00f4ne d'avertissement"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Ic\u00f4ne d'erreur"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "D\u00e9lai des messages fant\u00f4mes"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Dur\u00e9e d'apparition des messages fant\u00f4mes (en ms)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "D\u00e9lai des messages d'erreur fant\u00f4mes"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Dur\u00e9e d'apparition des messages d'erreur fant\u00f4mes (en ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Opacit\u00e9 maximale des messages fant\u00f4mes"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Opacit\u00e9 maximale des messages fant\u00f4mes (0.1-1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limite de message fant\u00f4mes"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Afficher un message fant\u00f4me de r\u00e9sum\u00e9 si plus que ceci."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Dur\u00e9e de fondu des messages fant\u00f4mes"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Vitesse \u00e0 laquelle les messages fant\u00f4mes apparaissent et disparaissent."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Imm\u00e9diat (aucun fondu)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Rapide"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normale"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Lente"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Position des messages fant\u00f4mes"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "De quel c\u00f4t\u00e9 de l'\u00e9cran les message fant\u00f4mes doivent appara\u00eetre."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Notifications runtime\/single-request"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Afficher en tant que notifications"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Ne pas affecter"
+        }
+    }
+}

@@ -4,6 +4,24 @@
     "translations": {
         "175111b089b0e62fbde2b5344f2a547f": {
             "text": "G\u00e9rer les permissions du syst\u00e8me"
+        },
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Installer les permissions syst\u00e8me pr\u00e9d\u00e9finies"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Cochez la case \u00e0 c\u00f4t\u00e9 de chaque permission additionnelle que vous d\u00e9sirez installer."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installer"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Ajouter une permission personnalis\u00e9e"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "Permission optionnelle ajout\u00e9e : %s"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "="
         }
     }
 }

@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
     "translations": {
         "5e248eb2e87e649e91cc3168e20adf90": {
-            "text": "Voie le site"
+            "text": "Voir le site"
         },
         "cce99c598cfdb9773ab041d54c3d973a": {
             "text": "Profil"
@@ -13,6 +13,9 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Ajouter nouveau"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "="
         }
     }
 }

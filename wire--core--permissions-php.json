@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Cacher\/r\u00e9v\u00e9ler des pages"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Publier\/d\u00e9publier des pages ou \u00e9diter des pages d\u00e9j\u00e0 publi\u00e9es"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "\u00c9diter seulement les pages que l'utilisateur a cr\u00e9es"
+        },
+        "618400fc1b0f0b7a96f2d0c871bd2c6b": {
+            "text": "Utiliser l'\u00e9diteur d'images pour manipuler (recadrer, redimensionner, etc) des images"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Changer le nom des pages publi\u00e9es qu'ils ont droit d'\u00e9diter"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Administrer les utilisateurs de tout r\u00f4le (sauf superuser)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Administrer les utilisateur du r\u00f4le: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "\u00c9diter les champs d'une page de langue: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(aussi requis pour cr\u00e9er ou supprimer des pages)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Administrer les langues et les fichiers de traduction statiques"
+        }
+    }
+}

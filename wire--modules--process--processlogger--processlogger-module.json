@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Cr\u00e9er ou ajouter un journal via l'API :"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Journal effac\u00e9 : %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Journal \"%s\" \u00e9lagu\u00e9 (contient maintenant %d entr\u00e9es)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Nouvelle entr\u00e9e de journal enregistr\u00e9 dans \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "Le texte d'entr\u00e9e du journal \u00e9tait vide"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Assistants"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Recherche textuelle"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Date de"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Date \u00e0"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "S\u00e9lectionnez une action ci-bas. Vous devrez cliquer un bouton avant que l'action soit ex\u00e9cut\u00e9e."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "T\u00e9l\u00e9charger"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Agrandir (ajouter une entr\u00e9e)"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "Couper (\u00e9laguer)"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Br\u00fbler (effacer)"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "D\u00e9couper \u00e0 # jours"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "R\u00e9duire la taille du journal pour comprendre seulement les entr\u00e9es des derniers [n] jours."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Nouvelle entr\u00e9e de journal"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "D\u00e9couper ce journal maintenant"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Br\u00fbler ce journal maintenant (supprimer de fa\u00e7on permanente)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Ajouter cet entr\u00e9e au journal"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "T\u00e9l\u00e9charger ce journal maintenant"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "actuel"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "Aucune entr\u00e9e de journal correspondant"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Journaux"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Voir et g\u00e9rer les journaux syst\u00e8me."
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nom"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modifi\u00e9e le"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Entr\u00e9es"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Taille"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Date\/Heure"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Utilisateur"
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Texte"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d journal"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d journaux"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Une nouvelle entr\u00e9e sur la page 1 du journal"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "Nouvelles entr\u00e9es sur la page 1 du journal"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "="
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        }
+    }
+}

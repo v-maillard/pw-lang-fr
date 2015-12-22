@@ -46,6 +46,99 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "*Param\u00e8tre exp\u00e9rimental"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Lien"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Entrez une URL, adresse courriel, ancre ou entrez du texte pour trouver une page."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "S\u00e9lectionner une ancre"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Ancres trouv\u00e9es dans le texte en cours d'\u00e9dition."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "S\u00e9lectionner une page"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "S\u00e9lectionner une page enfant"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "M\u00eame chose que \u00ab S\u00e9lectionner une page \u00bb ci-haut, mais peut \u00eatre plus rapide d'utilisation si vous liez \u00e0 des enfants de la page courante."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attributs"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titre"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Texte additionnel pour d\u00e9crire le lien."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Cible"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "O\u00f9 ouvrir ce lien."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Relation du lien au document."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Classe"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Classes additionnelles qui peuvent affecter l'apparence et le comportement du lien."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Vous pouvez personnaliser les attributs disponibles affich\u00e9s ci-haut dans les param\u00e8tres du module %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "ouvrir dans une nouvelle fen\u00eatre"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "indiquer aux engins de recherche de ne pas suivre"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "S\u00e9lectionner un fichier"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Fichiers sur la page :"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "S\u00e9lectionnez le fichier de cette page vers lequel vous voulez cr\u00e9er un lien."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Pour s\u00e9lectionner un fichier d'une autre page, cliquez sur \u00ab S\u00e9lectionner une page \u00bb ci-haut et choisissez la page sur laquelle vous d\u00e9sirez s\u00e9lectionner un fichier."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Options d'attributs"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Entrez une valeur d'attribut par ligne. L'usager pourra s\u00e9lectionner ces options lors de l'ajout de liens. Pour rendre ces options s\u00e9lectionn\u00e9es par d\u00e9faut (pour les nouveaux liens), pr\u00e9c\u00e9dez-les d'un plus \u00ab+\u00bb."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Attributs de lien externe"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Sp\u00e9cifiez les attributs s\u00e9lectionn\u00e9s par d\u00e9faut et qui seront automatiquement remplis lorsqu'un lien externe est d\u00e9tect\u00e9."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-haut."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Exemple : Sp\u00e9cifier **nofollow** rendrait les liens externes non suivis par les engins de recherche comme valeur par d\u00e9faut."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Exemple : Sp\u00e9cifier **_blank** ferait ouvrir les liens externes dans une nouvelle fen\u00eatre par d\u00e9faut."
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
         }
     }
 }

@@ -45,13 +45,10 @@
             "text": "S\u00e9lecteur pour trouver les pages s\u00e9lectionnables."
         },
         "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant les s\u00e9lecteurs de ProcessWire plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le s\u00e9lecteur qui recherchera les pages s\u00e9lectionnables. Ce s\u00e9lecteur sera envoy\u00e9 \u00e0 $pages->find(\"your selector\");. NOTE: N'est pas actuellement compatible avec le type de champ PageListSelect."
+            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant les s\u00e9lecteurs de ProcessWire plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le s\u00e9lecteur qui recherchera les pages s\u00e9lectionnables. Ce s\u00e9lecteur sera envoy\u00e9 \u00e0 $pages->find(\"votre gabarit\");. NOTE: N'est pas actuellement compatible avec le type de champ PageListSelect."
         },
         "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "Code PHP afin de trouver les pages s\u00e9lectionnables."
-        },
-        "5b2e8722316eee4b8e200d6d07b51915": {
-            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant un \"snippet\" plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le code qui recherchera les pages s\u00e9lectionnables. Ce code a acc\u00e8s aux variables $page et $pages, o\u00f9 $page r\u00e9f\u00e8re \u00e0 la page \u00e9tant \u00e9dit\u00e9e. Le snippet devrait retourner soit un \"PageArray\" ou NULL. Utiliser ceci est optionnel, et lorsqu'utilis\u00e9, il remplace les champs parent\/gabarit\/s\u00e9lecteur ci-haut. NOTE: N'est pas compatible avec les types de champs PageListSelect et Autocomplete."
+            "text": "Code PHP pour trouver les pages s\u00e9lectionnables."
         },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "retourne $page->parent->parent->children(\"name=locations\")->first()->children();"
@@ -97,6 +94,42 @@
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "S\u00e9lectionne les modules Inputfield pouvant \u00eatre utilis\u00e9s pour la s\u00e9lection de pages. Ceux-ci sont g\u00e9n\u00e9ralement des Inputfields qui permettent de s\u00e9lectionner une ou plusieurs options."
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant un \"snippet\" plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le code qui recherchera les pages s\u00e9lectionnables. Ce code a acc\u00e8s aux variables $page et $pages, o\u00f9 $page r\u00e9f\u00e8re \u00e0 la page \u00e9tant \u00e9dit\u00e9e."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Le snippet devrait retourner soit un \"PageArray\" ou NULL. Utiliser ceci est optionnel, et lorsqu'utilis\u00e9, il remplace les champs parent\/gabarit\/s\u00e9lecteur ci-haut."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NOTE: N'est pas compatible avec les types de champs PageListSelect et Autocomplete."
+        },
+        "3d9e8a4318894ce247ba920c7961d5da": {
+            "text": "Alors que cela outrepasse les s\u00e9lections de parent et de gabarit ci-haut, ces s\u00e9lections sont tout de m\u00eame utilis\u00e9es pour la validation (d\u00e9s\u00e9lectionnez les si vous ne voulez pas ce comportement)."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/produits\/, template=produit, sort=name"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Champ d'\u00e9tiquette"
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "S\u00e9lectionnez \u00abFormat personnalis\u00e9\u00bb si vous d\u00e9sirez sp\u00e9cifier plusieurs champs ou des champs que vous ne voyez pas ci-dessus."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Format personnalis\u00e9 (champs multiples)\u2026"
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Format de l'\u00e9tiquette de page personnalis\u00e9"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Sp\u00e9cifiez un ou plusieurs noms de champs entour\u00e9s {d'accolades} ainsi que tous caract\u00e8res, espacements ou ponctuations additionnels."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Exemple: {parent.title} - {title}, {date}"
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Certains types de champs fournissent des options de configuration additionnelles. Apr\u00e8s avoir s\u00e9lectionn\u00e9 un type de champ et enregistr\u00e9 vos changements, des options additionnelles pourraient s'afficher sous cette section."
         }
     }
 }
