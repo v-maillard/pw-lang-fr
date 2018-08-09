@@ -232,6 +232,9 @@
         },
         "4e5c9b873df1e8716656250c63342361": {
             "text": "="
+        },
+        "522779383d7b7d46168fcc8ae1c5d4a5": {
+            "text": "Par d\u00e9faut, ce module inclut un attribut \"width\" sur les \u00e9l\u00e9ments <img>. Si vous utilisez des images responsives, vous pouvez vouloir d\u00e9sactiver ce comportement. Cocher la case pour d\u00e9sactiver les attributs \"width\" et \"height\"."
         }
     }
 }

@@ -25,6 +25,12 @@
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
             "text": "Non - L'URL racine est redirig\u00e9e vers : \/nom\/"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Une page s\u0153ur (id : %1$d) est utilise d\u00e9j\u00e0 le nom \"%2$s\" pour la langue : %3$s"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Le num\u00e9ro de page est pr\u00e9fix\u00e9 \u00e0 ce mot dans les URLs pagin\u00e9es pour cette langue. Si laiss\u00e9 vide, \u00ab %s \u00bb sera utilis\u00e9."
         }
     }
 }

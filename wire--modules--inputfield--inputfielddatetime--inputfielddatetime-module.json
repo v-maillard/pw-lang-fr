@@ -88,6 +88,27 @@
         },
         "a1af5f0718bfae275ce162362d0e43c5": {
             "text": "Date et heure"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker\/i18n\/jquery-ui-timepicker-fr.js"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(recommand\u00e9)"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(Heure Unix)"
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Type de s\u00e9lection d'heure"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Le choix Sliders (par d\u00e9faut) permet \u00e0 l'utilisateur de choisir l'heure avec des inputs range, le choix Select permet \u00e0 l'utilisateur de choisir l'heure avec des menus d\u00e9roulants."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Menus d\u00e9roulants"
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "="
         }
     }
 }

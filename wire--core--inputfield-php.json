@@ -109,6 +109,9 @@
         },
         "c1d71aa80e02ee67489431d11e5f58a8": {
             "text": "Requis seulement si"
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "Largeur de colonne (%d%%)"
         }
     }
 }

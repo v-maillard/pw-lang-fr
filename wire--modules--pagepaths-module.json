@@ -7,6 +7,9 @@
         },
         "b198072961bf47ed9c790c1006f98372": {
             "text": "%d chemins mis \u00e0 jour"
+        },
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Veuillez d\u00e9sinstaller le Noyau > Page Paths (module) : il n'est pas compatible avec LanguageSupportPageNames."
         }
     }
 }

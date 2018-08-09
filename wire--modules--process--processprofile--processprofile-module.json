@@ -22,6 +22,51 @@
         },
         "d57a97a659253e107095a0ad40576d9f": {
             "text": "Le courriel \u00ab %s \u00bb est d\u00e9j\u00e0 utilis\u00e9 par un autre utilisateur."
+        },
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Nom d'utilisateur"
+        },
+        "c5e601d1ba182fc5a8c177a4f5eb6661": {
+            "text": "Pour changer ce champ, vous devez aussi rentrer votre mot de passe actuel dans le champ \"D\u00e9finir le mot de passe\"."
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Le nom d'utilisateur peut contenir des lettres bas de casse a-z, des chiffres 0-9, ou des tirets."
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Le mot de passe renseign\u00e9 est incorrect"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Le mot de passe n'a pas \u00e9t\u00e9 renseign\u00e9"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Non autoris\u00e9"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Corrig\u00e9 en \"%s\", ce qui diff\u00e8re de vous aviez entrez"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Trop court"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Trop long"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "D\u00e9j\u00e0 utilis\u00e9"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Ne peut pas d\u00e9buter ou terminer par des caract\u00e8res non alphab\u00e9tiques et non num\u00e9riques"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Ne peut pas contenir comme voisins des tirets ou points"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nom"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "\u00c9tiquette"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
         }
     }
 }

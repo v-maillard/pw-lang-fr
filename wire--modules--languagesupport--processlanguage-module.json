@@ -23,11 +23,47 @@
         "1514a1c310fe6db41aeda8f1b1006713": {
             "text": "Modifier"
         },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Importer un fichier CSV"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Recherche"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Texte \u00e0 rechercher"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Cliquer"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Rechercher tous les fichiers traduisibles pour une phrase\/un texte sp\u00e9cifique."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Cliquer sur le r\u00e9sultat pour \u00e9diter la traduction ou ajouter un fichier (s'il n'est pas d\u00e9j\u00e0 pr\u00e9sent)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "Fichier de traductions CSV \u00e0 importer apr\u00e8s l'enregistrement"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Trouver des fichiers \u00e0 traduire"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "T\u00e9l\u00e9charger le CSV"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Domaine non reconnu pour le fichier : %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d traductions au total, %d changements au total"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "%d changements enregistr\u00e9s pour le fichier : %s"
+        },
         "897d3357128f316af8d6a605c545a702": {
-            "text": "%d phrase"
+            "text": "="
         },
         "f38977b9226f40d3b86bae7d9611a880": {
-            "text": "%d phrases"
+            "text": "="
         }
     }
 }

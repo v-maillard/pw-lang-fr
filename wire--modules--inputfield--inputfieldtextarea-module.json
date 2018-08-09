@@ -13,6 +13,9 @@
         },
         "b5d4d25fe3fa9f8263b5f279a372b709": {
             "text": "Zone de texte"
+        },
+        "8fe5e05f660fa7d2db7f9bd444d77358": {
+            "text": "La valeur exc\u00e8de la longueur maximale recommand\u00e9e de %1$d caract\u00e8res (longueur  : %2$d)."
         }
     }
 }

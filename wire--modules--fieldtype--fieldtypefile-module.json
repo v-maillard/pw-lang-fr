@@ -85,6 +85,30 @@
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Fichiers"
+        },
+        "e380459ef1125b0733738668d0bd747c": {
+            "text": "Une fois activ\u00e9, le champ contiendra une option pour ajouter des tags en plus de la description."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "L'utilisateur s\u00e9lectionne des tags pr\u00e9d\u00e9finis dans une liste"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Tags d\u00e9sactiv\u00e9s"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "L'utilisateur rentre manuellement des tags"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "peut rentrer les siens"
+        },
+        "2f3446ffcef315485017078a9ed7cc76": {
+            "text": "Tags pr\u00e9d\u00e9finis"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Entrer des tags s\u00e9par\u00e9s par un espace. Les tags peuvent contenir des lettres, des chiffres, ou des tirets."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "\u00c0 changer uniquement si un module 3rd party le demande."
         }
     }
 }

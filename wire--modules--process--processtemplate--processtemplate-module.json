@@ -970,6 +970,84 @@
         },
         "207ab96f9895f87f78f6c6162f323a4f": {
             "text": "="
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Si vous ajout\u00e9 seulement les champs ci-dessus, enregistrez et revenez ensuite ici pour les s\u00e9lectionner."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Fermer et ajouter"
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Entrez le nom du nouveau mod\u00e8le que vous voulez cr\u00e9er. Le clone sera cr\u00e9\u00e9 \u00e0 l'enregistrement. Si votre dossier de mod\u00e8les a l'acc\u00e8s en \u00e9criture et le mod\u00e8le a un fichier, il sera lui aussi clon\u00e9."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Action sur un champ requis"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Quelle action ex\u00e9cuter quand une page d\u00e9j\u00e0 publi\u00e9e est enregistr\u00e9e avec un champ manquant requis ?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Alerter l'utilisateur de l'erreur (par d\u00e9faut)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Restaurer la valeur pr\u00e9c\u00e9dente (si disponible)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "D\u00e9publier la page (si autoris\u00e9)"
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "sp\u00e9cifier 0 pour d\u00e9sactiver"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "D\u00e9sactiv\u00e9 la gestion multi-lingue pour ce mod\u00e8le ?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le seront seulement utilis\u00e9es par la langue par d\u00e9faut."
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Utiliser un fichier compil\u00e9 ?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Autoriser ProcessWire \u00e0 mettre \u00e0 votre fichier de mod\u00e8le pour l'espace de nommage de ProcessWire et \u00e0 appliquer tout modules FilerCompiler."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Recommander au moins pour les fichiers de mod\u00e8les qui n'utilisent pas un espace de nommage ProcessWire (comme ceux originaires de sites sous PW 2.x)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Si vous n'\u00eates pas s\u00fbr, choisissez \"Automatique\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(d\u00e9sactiver le compiler)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Automatique (compile quand le fichier n'a pas d'espace de nommage)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(seulement le fichier de mod\u00e8le)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(fichier de mod\u00e8le et fichiers inclus dedans)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "L'espace de nommage du fichier est : \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "L'action de compiler est recommand\u00e9e."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "L'action de compiler n'est pas n\u00e9cessaire \u00e0 moins que les modules ou les includes en aient besoin."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Le nom de mod\u00e8le sp\u00e9cifi\u00e9 pour le clone n'est pas valide"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Impossible de cloner car un mod\u00e8le du m\u00eame nom existe d\u00e9j\u00e0"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Clone \"%2$s\" cr\u00e9\u00e9 \u00e0 partir du mod\u00e8le \"%1$s\""
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Erreur avec le placement du groupe de champ \/ onglet \"%s\" - veuillez le corriger et enregistrer \u00e0 nouveau"
         }
     }
 }

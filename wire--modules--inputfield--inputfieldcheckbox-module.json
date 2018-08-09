@@ -19,6 +19,21 @@
         },
         "4f8222964f9a317cef99dddc23a121bd": {
             "text": "Case \u00e0 cocher"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Coch\u00e9"
+        },
+        "170635e560a679be3d1a532e2979d08c": {
+            "text": "Non coch\u00e9"
+        },
+        "abef8912ef3f167ed726c6a56288dce5": {
+            "text": "\u00c9tiquette de la checkbox"
+        },
+        "ad96619d37c6ca42363be76aba496b26": {
+            "text": "Pour s\u00e9parer l'\u00e9tiquette du champ de l'\u00e9tiquettes de la checkbox, sp\u00e9cifiez l'\u00e9tiquette qui appara\u00eetra \u00e0 c\u00f4t\u00e9 de la checkbox"
+        },
+        "fee76a03fa4f7d7f0cbb391c9474316d": {
+            "text": "Si laissez vide, l'\u00e9tiquette du champ sera utilis\u00e9."
         }
     }
 }

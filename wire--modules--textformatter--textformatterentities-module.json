@@ -7,6 +7,9 @@
         },
         "f34604edab8aa5bdc9e452d3e4693952": {
             "text": "Encodez en tant qu'entit\u00e9 les esperluettes, guillemets anglais (simple ou doubles) et les signes plus grand que\/plus petit que en utilisant htmlspecialchars(str,ENT_QUOTES). Il est recommand\u00e9 que vous utilisiez ceci sur tout les champs texte\/zone de texte sauf ceux utilisant un \u00e9diteur de texte tel que CKEditor ou un language de balisage tel que Markdown."
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Encodez en tant qu'entit\u00e9 les esperluettes, guillemets anglais (simple ou doubles) et les signes plus grand que\/plus petit que en utilisant htmlspecialchars(str,ENT_QUOTES). Il est recommand\u00e9 que vous utilisiez ceci sur tout les champs texte\/zone de texte sauf ceux utilisant un \u00e9diteur de texte tel que CKEditor ou un language de balisage tel que Markdown."
         }
     }
 }

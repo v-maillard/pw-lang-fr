@@ -90,7 +90,7 @@
             "text": "Champs \u00e0 rechercher dans les recherches (ajax) en mode admin"
         },
         "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Nous recommandons de limiter ceci \u00e0 1 ou 2 champs au plus puisque les r\u00e9sultats remplissent un champs d'autocompl\u00e9tion dynamique. G\u00e9n\u00e9ralement, vous ne chercheriez que dans le titre. "
+            "text": "Nous recommandons de limiter ceci \u00e0 1 ou 2 champs au plus puisque les r\u00e9sultats remplissent un champs d'autocompl\u00e9tion dynamique. G\u00e9n\u00e9ralement, vous ne chercheriez que dans le titre."
         },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Noms des champs \u00e0 afficher par d\u00e9faut dans les r\u00e9sultats de recherche"
@@ -107,11 +107,17 @@
         "736f3e2669c68c02be0fb19d1e70622f": {
             "text": "Mod\u00e8les"
         },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "D\u00e9bute avec"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "Se termine par"
+        },
         "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Modules"
+            "text": "="
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
-            "text": "Pages"
+            "text": "="
         }
     }
 }

@@ -58,6 +58,15 @@
         },
         "654866693fd91ce8e9764a218f569918": {
             "text": "Recommand\u00e9"
+        },
+        "b167d45586a5cb2582394b5ec1545065": {
+            "text": "Entrez le nom des champs qui doivent avoir leur texte parcouru pour des correspondances de compl\u00e9tion automatique."
+        },
+        "6429d0ba1de3ee46f49581535ac36cf4": {
+            "text": "G\u00e9n\u00e9ralement, ce sera seulement le champ titre, mais vous pouvez \u00e9galement en ajouter d'autres en les s\u00e9parant d'un espace."
+        },
+        "db47517eeed0761aad011565e44e8390": {
+            "text": "Veuillez noter que c'est diff\u00e9rent du \"Champ d'\u00e9tiquette\" car vous sp\u00e9cifier quels champs seront parcouru, et non les champs qui seront montr\u00e9s."
         }
     }
 }

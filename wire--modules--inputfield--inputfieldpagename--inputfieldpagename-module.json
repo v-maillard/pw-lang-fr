@@ -16,6 +16,9 @@
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
             "text": "La valeur de remplacement pour chacun doit \u00eatre un ou plusieurs de : a-z, 0-9, tiret, tiret bas ou point."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Les r\u00e9glages de remplacements de caract\u00e8res sont d\u00e9sactiv\u00e9s car $config->pageNameCharset est en UTF8."
         }
     }
 }

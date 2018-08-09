@@ -13,6 +13,12 @@
         },
         "68d1cb3da7a618bf1997d9d5149ae24a": {
             "text": "="
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Donn\u00e9es du champ \"%1$s\" supprim\u00e9es de %2$d ligne(s) de %3$d page(s) utilisant le template \"%4$s\"."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Erreur de suppression des donn\u00e9es du champ \"%1$s\", %2$d ligne(s), %3$d page(s) utilisant le template \"%4$s\"."
         }
     }
 }

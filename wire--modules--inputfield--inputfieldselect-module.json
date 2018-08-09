@@ -34,6 +34,21 @@
         },
         "dae8ace18bdcbcc6ae5aece263e14fe8": {
             "text": "="
+        },
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Pour avoir une ou plusieurs valeurs pr\u00e9s\u00e9lectionn\u00e9es, entrez-les (une par ligne) ci-dessous."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Pour avoir une valeur pr\u00e9s\u00e9lectionn\u00e9e, entrez-la ci-dessous."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Pour les s\u00e9lections de pages, utilisez les num\u00e9ros d'ID des pages."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANT : La valeur par d\u00e9faut est utilis\u00e9e seulement si le champ est requis (voir la case \"requis\" sur cette page)"
         }
     }
 }

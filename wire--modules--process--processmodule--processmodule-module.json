@@ -379,6 +379,39 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "="
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Erreur lors de l'installation du module"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Supprimer le cache des fichiers compilateurs"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "Supprimer les fichiers compilateurs"
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Le bouton ci-dessous supprime les modules compil\u00e9s du site et les fichiers templates, en les for\u00e7ant \u00e0 \u00eatre re-compil\u00e9s la prochaine fois qu'ils seront consult\u00e9s. Ceci peut causer un d\u00e9lai temporaire pour une ou plusieurs requ\u00eates pendant que les fichiers sont re-compil\u00e9s."
+        },
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "Les besoins du module ne sont pas rempli, l'installation peut donc causer des probl\u00e8mes. \u00cates-vous s\u00fbr de vouloir l'installer ?"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Sortir"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(espace de nommage par d\u00e9faut)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Aucun (espace de nommage racine)"
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "avant"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "apr\u00e8s"
+        },
+        "d9402453cf25d5a1ced0a12d96cc7f98": {
+            "text": "Espace de nommage"
         }
     }
 }

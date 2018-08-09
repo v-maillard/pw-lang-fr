@@ -1,1 +1,63 @@
-{"file":"wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module","textdomain":"wire--modules--process--processlogin--processlogin-module","translations":{"5048eab3b6b17142d965cf9d43f6e460":{"text":"Vous \u00eates connect\u00e9."},"a0bfb8e59e6c13fc8d990781f77694fe":{"text":"Continuer"},"847549ae30061a6767a4b17c6fb4f53c":{"text":"Connexion r\u00e9ussie"},"48649d8c2d04aa439d10bc45eaba8f75":{"text":"\u00c9chec de la connexion"},"646d9e77201093e05380ead006df9975":{"text":"Avertissement de s\u00e9curit\u00e9 : %s existe et doit \u00eatre effac\u00e9 d\u00e8s que possible."},"f6039d44b29456b20f8f373155ae4973":{"text":"Nom d'utilisateur"},"dc647eb65e6711e155375218212b3964":{"text":"Mot de passe"},"99dea78007133396a7b8ed70578ac6ae":{"text":"Connexion"},"01a569ddc6cf67ddec2a683f0a5f5956":{"text":"Vous avez oubli\u00e9 votre mot de passe ?"},"0d5dfb1efbd4144f5e7c8d80df1d09f1":{"text":"Vous \u00eates d\u00e9connect\u00e9"},"d837cc5a72556c5e2abf4b9fe10ddef8":{"text":"Connexion"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Vous \u00eates connect\u00e9."
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Continuer"
+        },
+        "847549ae30061a6767a4b17c6fb4f53c": {
+            "text": "Connexion r\u00e9ussie"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "\u00c9chec de la connexion"
+        },
+        "646d9e77201093e05380ead006df9975": {
+            "text": "Avertissement de s\u00e9curit\u00e9 : %s existe et doit \u00eatre effac\u00e9 d\u00e8s que possible."
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nom d'utilisateur"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Mot de passe"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Connexion"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Vous avez oubli\u00e9 votre mot de passe ?"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Vous \u00eates d\u00e9connect\u00e9"
+        },
+        "d837cc5a72556c5e2abf4b9fe10ddef8": {
+            "text": "Connexion"
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "\u00c9diter le profil"
+        },
+        "4c429484c06b2d2901b3a582f300af56": {
+            "text": "Attention, votre \/site\/config.php sp\u00e9cifie des permissions de fichier qui sont trop l\u00e2ches pour beaucoup d'environnements :"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lire \"Securing file permissions\" pour plus de d\u00e9tails"
+        },
+        "00796cc045b871fe7b2867edef6aaaf7": {
+            "text": "Pour supprimer alerte, ajouter $config->chmodWarn = false; dans votre fichier \/site\/config.php."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Attention : la localisation de votre serveur n'est pas d\u00e9finie et peut poser des probl\u00e8mes."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "Veuillez traduire le param\u00e8tre de localisation \"C\" pour chaque langue avec sa bonne valeur dans %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Par exemple, le param\u00e8tre de localisation pour l'anglais US pourrait \u00eatre : %s"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "Veuillez ajouter ceci \u00e0 votre fichier \/site\/config.php (ajuster \"%s\" comme souhait\u00e9) :"
+        }
+    }
+}

@@ -63,7 +63,7 @@
             "text": "*Le module HTML Purifier requis est install\u00e9."
         },
         "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
-            "text": "ATTENTION: il n'est pas pr\u00e9sentement install\u00e9. Vous devriez l'installer avant d'activer le mode inline."
+            "text": "ATTENTION : il n'est pas pr\u00e9sentement install\u00e9. Vous devriez l'installer avant d'activer le mode inline."
         },
         "b71ae00b212e1c450146b7263bb791bb": {
             "text": "Utiliser ACF ?"
@@ -214,6 +214,36 @@
         },
         "08b808bc7661d755f526f70fbcc07e44": {
             "text": "Au moins une extension doit \u00eatre coch\u00e9e."
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Ins\u00e9rer une image"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "S\u00e9lectionner un autre"
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Autres items de barre d'outils disponibles :"
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "Le compteur est support\u00e9 pour les champs CKEditors habituels, mais pas pour les champs CKEditors en mode inline."
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Champs images \u00e0 utiliser pour glisser\/d\u00e9poser ou copier\/coller des images"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Si aucun champ n'est s\u00e9lectionn\u00e9, alors un champ images disponible sera automatiquement choisi lors de l'ex\u00e9cution. Si l'option \"Aucun\" est s\u00e9lectionn\u00e9, alors cette fonctionnalit\u00e9 sera d\u00e9sactiv\u00e9e."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Aucun (d\u00e9sactive le glisser\/d\u00e9poser et le copier\/coller d'images)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Page \u00e0 utiliser pour le stockage d'images\/d'assets"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Par d\u00e9faut, les images upload\u00e9es seront stock\u00e9es avec la page \u00e9dit\u00e9e. Si vous voulez utiliser une page partag\u00e9e pour ces assets, s\u00e9lectionnez-la ici."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Veuillez consulter nos [instructions](%s) pour plus d'informations."
         }
     }
 }

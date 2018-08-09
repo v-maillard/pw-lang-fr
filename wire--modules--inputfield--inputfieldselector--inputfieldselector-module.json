@@ -220,6 +220,30 @@
         },
         "8449d3ddcf7322067ea68d60a3098945": {
             "text": "="
+        },
+        "f9b4bd2025de32122aca0de287601aa0": {
+            "text": "Ne contient pas le texte"
+        },
+        "c792d413c780e14f2ab0cd586af2940a": {
+            "text": "Ne contient pas la phrase"
+        },
+        "f97418feca88d6e3a1747a59883b35fe": {
+            "text": "Ne contient pas les mots"
+        },
+        "256511287ee7ec2a36613f761a24370c": {
+            "text": "Ne d\u00e9bute pas avec"
+        },
+        "70e54ebce37af51191725a9b2451e1b0": {
+            "text": "Ne se termine pas par"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Coch\u00e9"
+        },
+        "63bfec5d508757f781c6e3aa5ca214b6": {
+            "text": "Test de s\u00e9lecteur"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Ici seulement pour tester la fonctionnalit\u00e9 de ce champ."
         }
     }
 }

@@ -6,7 +6,7 @@
             "text": "D\u00e9r\u00e9f\u00e9renc\u00e9 dans l'API en tant que"
         },
         "e28f86b62065207ceeb0b5057eb98537": {
-            "text": "Si votre champs contient plusieurs pages, optez pour la premi\u00e8re option (PageArray). Si votre champs n'a besoin que de contenir une seule page, optez plut\u00f4t pour une des options de Page unique (en cas d'incertitude, s\u00e9lectionnez la derni\u00e8re option)"
+            "text": "Si votre champ contient plusieurs pages, optez pour la premi\u00e8re option (PageArray). Si votre champ n'a besoin que de contenir une seule page, optez plut\u00f4t pour une des options de Page unique (en cas d'incertitude, s\u00e9lectionnez la derni\u00e8re option)"
         },
         "7b438db8547ac1c9ab6c7ba6cb1532db": {
             "text": "Pages multiples (PageArray)"
@@ -21,7 +21,7 @@
             "text": "Permettre les pages non publi\u00e9es ?"
         },
         "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "Lorsque coch\u00e9, les pages non publi\u00e9es sont permises comme valeur de champs. Les pages non publi\u00e9es n'apparaitront pas dans le front-end, sauf celles avec un acc\u00e8s en \u00e9dition."
+            "text": "Lorsque coch\u00e9, les pages non publi\u00e9es sont permises comme valeur de champ. Les pages non publi\u00e9es n'apparaitront pas dans le front-end, sauf celles avec un acc\u00e8s en \u00e9dition."
         },
         "393e717c8215abdbe581b21180abfa2b": {
             "text": "Impossible de trouver la page"
@@ -43,6 +43,18 @@
         },
         "e93f994f01c537c4e2f7d8528c3eb5e9": {
             "text": "Compte"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Exemple d\u2019usage de l\u2019API"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Type de valeur de champ"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Idem qu'au-dessus avec une autre syntaxe"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Plus d\u2019informations sur la m\u00e9thode %s."
         }
     }
 }

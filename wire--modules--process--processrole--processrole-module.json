@@ -76,6 +76,57 @@
         },
         "95c58584c58685c05c1a7cc706416455": {
             "text": "appliqu\u00e9e \u00e0 aucun mod\u00e8le pr\u00e9sentement"
+        },
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Quels types de pages ce r\u00f4le peut-il voir ?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Quels types de pages ce r\u00f4le peut-il \u00e9diter ?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "\u00c0 quels types de pages ce r\u00f4le peut-il ajouter des enfants ?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Quels types de pages ce r\u00f4le peut-il cr\u00e9er ?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Si vous voulez ajouter {permission}"
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Ce r\u00f4le doit aussi avoir la permission page-edit pour chacun des mod\u00e8les s\u00e9lectionn\u00e9s ci-dessus."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "La permission {permission} est s\u00e9lectionn\u00e9e, elle s'applique \u00e0 tous les mod\u00e8les qui sont \u00e9ditables par le r\u00f4le. Les cases ci-dessous permettent de retirer la permission {permission} de mod\u00e8les en particulier. Pour ajouter cette permission uniquement \u00e0 des mod\u00e8les en particulier, d\u00e9-cochez dans un premier temps la permission {permission}."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "La plupart des permissions qui peuvent \u00eatre d\u00e9finies par le mod\u00e8le requiert aussi que l'utilisateur ait la permission page-edit pour le template. Si un template dont vous avez besoin n'est pas list\u00e9, vous devez en activ\u00e9 le contr\u00f4le d'acc\u00e8s dans un premier temps (voir l'onglet \"Acc\u00e8s\" lors de l'\u00e9dition d'un mod\u00e8le)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "Contrairement \u00e0 la plupart des autres permissions, la permission page-edit d'un mod\u00e8le n'est pas pr\u00e9-requise pour cette permission."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Note : le r\u00f4le superuser a toujours toutes les permissions, donc le champ des permissions n'appara\u00eet pas."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "nom|description|"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Cette permission peut \u00eatre uniquement ajout\u00e9e par le mod\u00e8le."
+        },
+        "00abcc0a482965cd87aa000c253bf713": {
+            "text": "(h\u00e9rit\u00e9 du r\u00f4le guest)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Ajout\u00e9 \u00e0 : %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Retir\u00e9 de : %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Cliquer sur les param\u00e8tres de permission ouvrir\/fermer du mod\u00e8le"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "La permission \"%1$s\" pour le mod\u00e8le \"%2$s\" n'est pas autoris\u00e9e (requiert la permission \"%3$s\")"
         }
     }
 }

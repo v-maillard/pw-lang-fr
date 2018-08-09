@@ -4,6 +4,33 @@
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
             "text": "compte"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Tri et Pagination"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Ces r\u00e9glages s'appliquent \u00e0 la fois au front-end (site) et au back-end (\u00e9diteur)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(inverse)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Tri automatique"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "S\u00e9lectionner un champ ou plus pour trier. Pour un tri manuel, laisser vide."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Limite de pagination \/ Items par page"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Limite le nombre d'items charg\u00e9s\/\u00e9dit\u00e9s par la pagination. La valeur \"0\" n'indique pas de limite (par d\u00e9faut)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "La pagination est recommand\u00e9e si vous travaillez avec des centaines ou des milliers d'items (ou plus)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Ce r\u00e9glage ne prend effet que si \"Tri automatique\" est s\u00e9lectionn\u00e9."
         }
     }
 }

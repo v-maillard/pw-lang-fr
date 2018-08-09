@@ -94,6 +94,69 @@
         },
         "e9dfd31cc505d51fc26975250750deab": {
             "text": "="
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Supprimer"
+        },
+        "2eaf1946befd8d1cec85046ac88324e3": {
+            "text": "d\/m\/Y g:i"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Statut"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Sp\u00e9cifier un satut"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "par page"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Tout cocher\/d\u00e9cocher"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Il n'y a pas d'items coch\u00e9s"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Actions (items coch\u00e9s)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Remettre \u00e0 z\u00e9ro : Votes pour"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Remettre \u00e0 z\u00e9ro : Votes contre"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Date (nouveau-ancien)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Date (ancien-nouveau)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "\u00c9toiles (haut-bas)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "\u00c9toiles (bas-haut)"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Votes pour"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Votes contre"
+        },
+        "a4c295f303bd3ad4c69344a18dc68420": {
+            "text": "Tri :"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Vous avez des changements non enregistr\u00e9s !"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commentaires"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "G\u00e9rer les commentaires de votre site hors de l'\u00e9diteur de page."
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "="
         }
     }
 }

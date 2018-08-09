@@ -208,6 +208,51 @@
         },
         "e76ea9d62d4a434a98238f3ec7932075": {
             "text": "toutes"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Sortir"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Voir"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Ajouter une nouvelle"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Suivante"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "\u00cates-vous certain ? Un upload est en cours et pourrait \u00eatre perdu si vous poursuivez."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Il n'y a pas de page suivante \u00e9ditable \u00e0 \u00e9diter."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Valeur pr\u00e9c\u00e9dente restor\u00e9e"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "La page n'a pas \u00e9t\u00e9 publi\u00e9 car le champ \"%s\" est requis"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Vue par d\u00e9faut de l'action"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Le type d'action par d\u00e9faut utilis\u00e9 quand l'onglet \"voir\" est s\u00e9lectionn\u00e9 dans l'\u00e9diteur de page."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Voir la page"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Panneau"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Fen\u00eatre modale"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nouvel onglet \/ Nouvelle fen\u00eatre"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Sortir + Voir"
         }
     }
 }

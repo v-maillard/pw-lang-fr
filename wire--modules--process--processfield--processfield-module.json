@@ -601,6 +601,66 @@
         },
         "32bcbddae2df658b6d193932ab97720e": {
             "text": "\u00c9diter"
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "lorsqu'utilis\u00e9 avec : %s"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "\u00c9crasements de param\u00e8tres pour l'espace de nommage du champ : %s"
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Il n'y a pour l'instant pas de param\u00e8tres \u00e9cras\u00e9s par le mod\u00e8le."
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Uniquement des combinaisons de lettres ASCII (a-z A-Z), de chiffres (0-9) ou de tirets."
+        },
+        "89fa758424367d5caeb355f904d5bfc1": {
+            "text": "\u00c9crasements autoris\u00e9s"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Les param\u00e8tres coch\u00e9s appara\u00eetront en tant qu'options lors de l'\u00e9dition de ce champ dans le contexte d'un mod\u00e8le particulier."
+        },
+        "c4d3fb0af8e800de549531cccd8a19f8": {
+            "text": "**Attention :** faire ceci au-del\u00e0 des param\u00e8tres sp\u00e9cifi\u00e9s par l'auteur du module peut ne pas toujours fonctionner, ou causer des probl\u00e8mes."
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "\u00c9tiquette"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nom"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "D\u00e9tails :"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Input :"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "\u00c9dition front-end"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installer"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Veuillez installer le module d'\u00e9dition de page en front-end pour activer l'\u00e9dition front-end des champs. Apr\u00e8s l'installation, rechargez et revenez ici pour plus d'options."
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Erreur pour \"%s\""
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(vous avez sp\u00e9cifiez \"%s\")"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Impossible de valider"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Ne fonctionnera pas car les valeurs doivent \u00eatre des ID de pages"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Ajouter comme premier champ"
         }
     }
 }

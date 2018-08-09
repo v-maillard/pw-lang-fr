@@ -88,6 +88,15 @@
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Pour plus d'options, voyez le param\u00e8tre $config->pageList dans \/wire\/config.php. Vous pouvez copier ces param\u00e8tres sans \/site\/config.php et ainsi les \u00e9craser."
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Tout afficher"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "="
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ajouter une nouvelle page"
         }
     }
 }

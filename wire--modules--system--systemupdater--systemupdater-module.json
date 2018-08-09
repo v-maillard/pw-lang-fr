@@ -19,6 +19,9 @@
         },
         "d7e351389cfa8187fc844808c5d524e7": {
             "text": "Changement de version de noyau d\u00e9tect\u00e9e: %1$s => %2$s"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Ficher de cache compiler vid\u00e9"
         }
     }
 }

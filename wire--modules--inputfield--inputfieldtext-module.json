@@ -52,6 +52,66 @@
         },
         "9dffbf69ffba8bc38bc4e01abf4b1675": {
             "text": "Texte"
+        },
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 mot"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d mots"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 charact\u00e8re"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d charact\u00e8res"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(au moins %d requis)"
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Longueur minimale"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "La longueur minimale (en caract\u00e8res) qui est requise par ce champ."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Si le champ n'est pas \"requis\" alors la longueur minimale est appliqu\u00e9e quand il y a une valeur."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Longueur maximale"
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "La valeur \"0\" ne fixe aucun maximum."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Compteur"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Pas de compteur"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Compteur de caract\u00e8res"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Compteur de mots"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Il est recommand\u00e9 de montrer un compteur de caract\u00e8res pour l'usage des longueurs minimales\/maximales."
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(%d maximum)"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Un minimum de %1$d caract\u00e8res sont requis (actuellement, il y a %2$d caract\u00e8res)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "La valeur exc\u00e8de la longueur maximale autoris\u00e9e de %d caract\u00e8res et a \u00e9t\u00e9 tronqu\u00e9e."
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Utiliser aussi l'attribut HTML5 \"requis\" ?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Veuillez utiliser uniquement des champs toujours visible pour l'utilisateur."
         }
     }
 }
