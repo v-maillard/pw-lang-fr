@@ -102,7 +102,7 @@
             "text": "ouvrir dans une nouvelle fen\u00eatre"
         },
         "14ca6a0caadcbfe73ca835d810b6efe5": {
-            "text": "indiquer aux engins de recherche de ne pas suivre"
+            "text": "indiquer aux moteurs de recherche de ne pas suivre"
         },
         "1aa14e9f377b528b5537d70fbd35c6a2": {
             "text": "S\u00e9lectionner un fichier"
@@ -132,7 +132,7 @@
             "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-haut."
         },
         "eafd32d33d67b845444c70572e6c1e50": {
-            "text": "Exemple : Sp\u00e9cifier **nofollow** rendrait les liens externes non suivis par les engins de recherche comme valeur par d\u00e9faut."
+            "text": "Exemple : Sp\u00e9cifier **nofollow** rendrait les liens externes non suivis par les moteurs de recherche comme valeur par d\u00e9faut."
         },
         "1da324557a591359538e1705e30b5dea": {
             "text": "Exemple : Sp\u00e9cifier **_blank** ferait ouvrir les liens externes dans une nouvelle fen\u00eatre par d\u00e9faut."
