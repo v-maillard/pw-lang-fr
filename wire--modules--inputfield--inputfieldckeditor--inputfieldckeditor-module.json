@@ -111,7 +111,7 @@
             "text": "Vous pouvez entrer des r\u00e8gles multiples en les mettant chacune sur leur propre ligne."
         },
         "378f7539f13b958d62e92c063772ee37": {
-            "text": "L'exemple ci-haut permettrait des attributs alt, src, width et height pour les tags img, avec l'attribut src toujours requis."
+            "text": "L'exemple ci-dessus permettrait des attributs alt, src, width et height pour les tags img, avec l'attribut src toujours requis."
         },
         "86981868980ec998b671432713a7b65b": {
             "text": "Voir [les d\u00e9tails](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) dans la documentation de CKEditor."
@@ -135,7 +135,7 @@
             "text": "Fichier de style JS personnalis\u00e9 pour l'\u00e9diteur"
         },
         "749b7a2316f526ff2ec75692749211ad": {
-            "text": "Cette option vous permet de sp\u00e9cifier des styles personnalis\u00e9e \u00e0 s\u00e9lectionner dans l'\u00e9diteur. Ceci requiert que vous ayez l'\u00e9l\u00e9ment \u00ab Styles \u00bb dans vos param\u00e8tres de barre d'outils ci-haut."
+            "text": "Cette option vous permet de sp\u00e9cifier des styles personnalis\u00e9e \u00e0 s\u00e9lectionner dans l'\u00e9diteur. Ceci requiert que vous ayez l'\u00e9l\u00e9ment \u00ab Styles \u00bb dans vos param\u00e8tres de barre d'outils ci-dessus."
         },
         "63ba0561c6027fed354e6c5af252a77b": {
             "text": "Veuillez lire [nos instructions](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) sur comment utiliser cela."

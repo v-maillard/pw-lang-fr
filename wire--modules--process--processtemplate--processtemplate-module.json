@@ -375,7 +375,7 @@
             "text": "Format de nom pour les enfants"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-haut."
+            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-dessus."
         },
         "27dd547b53bb1b3c67c345f984747010": {
             "text": "Laissez vide pour d\u00e9sactiver. Entrez \u00ab title \u00bb (sans les guillemets) pour g\u00e9n\u00e9rer automatiquement un nom de page \u00e0 partir du titre. Plus d'options, incluant des formats de date, sont disponibles. [En savoir plus\u2026](http:\/\/processwire.com\/api\/modules\/process-template\/)"
@@ -393,7 +393,7 @@
             "text": "**Conditions requises au fonctionnement**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Vous devez s\u00e9lectionner un mod\u00e8le de parent (voir : \u00ab Mod\u00e8les permis pour les parents \u00bb ci-haut). Si plus qu'un est s\u00e9lectionn\u00e9, seulement le premier sera utilis\u00e9."
+            "text": "1. Vous devez s\u00e9lectionner un mod\u00e8le de parent (voir : \u00ab Mod\u00e8les permis pour les parents \u00bb ci-dessus). Si plus qu'un est s\u00e9lectionn\u00e9, seulement le premier sera utilis\u00e9."
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Le mod\u00e8le de parent s\u00e9lectionn\u00e9 doit avoir ce mod\u00e8le d\u00e9fini comme un de ceux permis pour ses enfants."

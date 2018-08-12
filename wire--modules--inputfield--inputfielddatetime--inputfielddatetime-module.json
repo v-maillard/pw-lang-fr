@@ -54,7 +54,7 @@
             "text": "Code d'entr\u00e9e du format de date"
         },
         "20f706119fa58d0787ea397d413bf1e0": {
-            "text": "Ce champ est automatiquement g\u00e9n\u00e9r\u00e9 \u00e0 partir du format date s\u00e9lectionn\u00e9 ci-haut, sauf si vous le modifiez."
+            "text": "Ce champ est automatiquement g\u00e9n\u00e9r\u00e9 \u00e0 partir du format date s\u00e9lectionn\u00e9 ci-dessus, sauf si vous le modifiez."
         },
         "e87ce06927649f8cdfff9e27c4ac8e3d": {
             "text": "Vois la r\u00e9f\u00e9rence de fonction [date de PHP](http:\/\/www.php.net\/manual\/fr\/function.date.php) pour plus d'informations sur la configuration de ces formats."
@@ -66,7 +66,7 @@
             "text": "Code d'entr\u00e9e du format d'heure"
         },
         "3dd984b18a5880f9279e17ff2e53a5de": {
-            "text": "Ce champ est automatiquement g\u00e9n\u00e9r\u00e9 \u00e0 partir du format d'heure s\u00e9lectionn\u00e9 ci-haut, sauf si vous le modifiez."
+            "text": "Ce champ est automatiquement g\u00e9n\u00e9r\u00e9 \u00e0 partir du format d'heure s\u00e9lectionn\u00e9 ci-dessus, sauf si vous le modifiez."
         },
         "be7e95b42b8aff2713adf794a2eb666b": {
             "text": "Utiliser aujourd'hui par d\u00e9faut ?"

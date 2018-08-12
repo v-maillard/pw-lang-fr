@@ -66,7 +66,7 @@
             "text": "S\u00e9lectionner une page enfant"
         },
         "034cc05920524f811060e035664d50a6": {
-            "text": "M\u00eame chose que \u00ab S\u00e9lectionner une page \u00bb ci-haut, mais peut \u00eatre plus rapide d'utilisation si vous liez \u00e0 des enfants de la page courante."
+            "text": "M\u00eame chose que \u00ab S\u00e9lectionner une page \u00bb ci-dessus, mais peut \u00eatre plus rapide d'utilisation si vous liez \u00e0 des enfants de la page courante."
         },
         "287234a1ff35a314b5b6bc4e5828e745": {
             "text": "Attributs"
@@ -93,7 +93,7 @@
             "text": "Classes additionnelles qui peuvent affecter l'apparence et le comportement du lien."
         },
         "22d6eb83c9e9109699daa15ef964e88f": {
-            "text": "Vous pouvez personnaliser les attributs disponibles affich\u00e9s ci-haut dans les param\u00e8tres du module %s."
+            "text": "Vous pouvez personnaliser les attributs disponibles affich\u00e9s ci-dessus dans les param\u00e8tres du module %s."
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Aucun"
@@ -114,7 +114,7 @@
             "text": "S\u00e9lectionnez le fichier de cette page vers lequel vous voulez cr\u00e9er un lien."
         },
         "0fc76f2ae9061248b25a11b099e80fd6": {
-            "text": "Pour s\u00e9lectionner un fichier d'une autre page, cliquez sur \u00ab S\u00e9lectionner une page \u00bb ci-haut et choisissez la page sur laquelle vous d\u00e9sirez s\u00e9lectionner un fichier."
+            "text": "Pour s\u00e9lectionner un fichier d'une autre page, cliquez sur \u00ab S\u00e9lectionner une page \u00bb ci-dessus et choisissez la page sur laquelle vous d\u00e9sirez s\u00e9lectionner un fichier."
         },
         "6c7999851a00aff2df139ead430fac5c": {
             "text": "Options d'attributs"
@@ -129,7 +129,7 @@
             "text": "Sp\u00e9cifiez les attributs s\u00e9lectionn\u00e9s par d\u00e9faut et qui seront automatiquement remplis lorsqu'un lien externe est d\u00e9tect\u00e9."
         },
         "7f4fd9351aed8f03ec4559872d125eb4": {
-            "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-haut."
+            "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-dessus."
         },
         "eafd32d33d67b845444c70572e6c1e50": {
             "text": "Exemple : Sp\u00e9cifier **nofollow** rendrait les liens externes non suivis par les moteurs de recherche comme valeur par d\u00e9faut."

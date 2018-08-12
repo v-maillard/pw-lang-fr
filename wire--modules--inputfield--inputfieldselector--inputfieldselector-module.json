@@ -159,7 +159,7 @@
             "text": "Faire correspondre par ID (sous-s\u00e9lecteur)"
         },
         "1d79542121869a6161bed167902ddc79": {
-            "text": "Chaque ligne du s\u00e9lecteur ci-haut signifie : champ doit correspondre \u00e0 valeur. Cela s'appelle des conditions AND (et). Dans les cas o\u00f9 le m\u00eame champ ou valeur apparait dans plus qu'une ligne, une condition OR (ou) est possible. La pr\u00e9sence d'une case \u00e0 cocher \u00e0 la fin de chaque ligne indique cela. Cochez cette case pour utiliser la condition OR au lieu de la condition AND."
+            "text": "Chaque ligne du s\u00e9lecteur ci-dessus signifie : champ doit correspondre \u00e0 valeur. Cela s'appelle des conditions AND (et). Dans les cas o\u00f9 le m\u00eame champ ou valeur apparait dans plus qu'une ligne, une condition OR (ou) est possible. La pr\u00e9sence d'une case \u00e0 cocher \u00e0 la fin de chaque ligne indique cela. Cochez cette case pour utiliser la condition OR au lieu de la condition AND."
         },
         "ea66a0a3f3311a155d84ef03a56850ca": {
             "text": "Champs syst\u00e8me"

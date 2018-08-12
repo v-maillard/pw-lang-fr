@@ -6,10 +6,10 @@
             "text": "Formateurs de texte"
         },
         "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "Si vous d\u00e9sirez appliquer tout formatage automatique au champ lorsqu'il est pr\u00e9par\u00e9 pour la sortie, s\u00e9lectionnez un ou plusieurs formateurs de texte ci-haut. Si vous en s\u00e9lectionnez plus d'un, arrangez les dans l'ordre qu'ils doivent \u00eatre appliqu\u00e9s."
+            "text": "Si vous d\u00e9sirez appliquer tout formatage automatique au champ lorsqu'il est pr\u00e9par\u00e9 pour la sortie, s\u00e9lectionnez un ou plusieurs formateurs de texte ci-dessus. Si vous en s\u00e9lectionnez plus d'un, arrangez les dans l'ordre qu'ils doivent \u00eatre appliqu\u00e9s."
         },
         "ed0f8be4615cf14dc76c1bb2629edf41": {
-            "text": "Pour les champs de texte ne contenant aucun HTML ou balises, nous recommandons de s\u00e9lectionner **Encodeur d'entit\u00e9s HTML** ci-haut."
+            "text": "Pour les champs de texte ne contenant aucun HTML ou balises, nous recommandons de s\u00e9lectionner **Encodeur d'entit\u00e9s HTML** ci-dessus."
         }
     }
 }

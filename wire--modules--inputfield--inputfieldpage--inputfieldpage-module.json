@@ -96,10 +96,10 @@
             "text": "S\u00e9lectionne les modules Inputfield pouvant \u00eatre utilis\u00e9s pour la s\u00e9lection de pages. Ceux-ci sont g\u00e9n\u00e9ralement des Inputfields qui permettent de s\u00e9lectionner une ou plusieurs options."
         },
         "d0188d35124b9f7887cc0d158da64328": {
-            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant un \"snippet\" plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le code qui recherchera les pages s\u00e9lectionnables. Ce code a acc\u00e8s aux variables $page et $pages, o\u00f9 $page r\u00e9f\u00e8re \u00e0 la page \u00e9tant \u00e9dit\u00e9e."
+            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant un \"snippet\" plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-dessus), alors entrez le code qui recherchera les pages s\u00e9lectionnables. Ce code a acc\u00e8s aux variables $page et $pages, o\u00f9 $page r\u00e9f\u00e8re \u00e0 la page \u00e9tant \u00e9dit\u00e9e."
         },
         "e8764466585c7e1a106fd67e89ce91c6": {
-            "text": "Le snippet devrait retourner soit un \"PageArray\" ou NULL. Utiliser ceci est optionnel, et lorsqu'utilis\u00e9, il remplace les champs parent\/gabarit\/s\u00e9lecteur ci-haut."
+            "text": "Le snippet devrait retourner soit un \"PageArray\" ou NULL. Utiliser ceci est optionnel, et lorsqu'utilis\u00e9, il remplace les champs parent\/gabarit\/s\u00e9lecteur ci-dessus."
         },
         "a9e792488572b1b5316720df20682ad3": {
             "text": "NOTE: N'est pas compatible avec les types de champs PageListSelect et Autocomplete."
