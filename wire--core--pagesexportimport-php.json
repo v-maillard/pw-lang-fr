@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/PagesExportImport.php",
+    "textdomain": "wire--core--pagesexportimport-php",
+    "translations": {
+        "624939f6a7a76d86e0b0e0938aacd940": {
+            "text": "Ancien dossier supprim\u00e9"
+        },
+        "97da05bb97ff56336c27fa114d6b0207": {
+            "text": "Ancien fichier supprim\u00e9"
+        },
+        "9b1cc00dbcf068b1122b605e857eaa09": {
+            "text": "Fichier %d ajout\u00e9"
+        },
+        "083adbc0f513ffcbf1b3d027b729d86b": {
+            "text": "Fichiers %d ajout\u00e9s"
+        },
+        "bdecf31cb76eacb6caf0208cfbbb592b": {
+            "text": "Mise \u00e0 jour de %s pour le fichier %d"
+        },
+        "da66c53d674b9fa0de56b687a0bfa5aa": {
+            "text": "Mise \u00e0 jour de %s pour les fichiers %d"
+        },
+        "3a7a95fd4d51c39124770ea8b6118b15": {
+            "text": "Fichier %d supprim\u00e9"
+        },
+        "d92a31c9965349af72b77222b20eff0d": {
+            "text": "Fichiers %d supprim\u00e9s"
+        },
+        "f303c7e39b87bd05f15c54af9495df45": {
+            "text": "Fichier %d ajout\u00e9 via %s"
+        },
+        "619e03cdcca42ac2af53e413ad13c264": {
+            "text": "Fichiers %d ajout\u00e9s via %s"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Champs dans le groupe de champ"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "D\u00e9finissez les champs \u00e0 utiliser par ce groupe de champ. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "="
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Groupe de champs contenant des champs avec un espace de nommage isol\u00e9 (page), rend possible la r\u00e9utilisation de champs."
+        }
+    }
+}

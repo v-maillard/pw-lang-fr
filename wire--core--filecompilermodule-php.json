@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Ordre d'ex\u00e9cution du processus"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Ordre selon lequel ce module fonctionne par rapport \u00e0 d'autres modules FileCompiler. Les plus petits chiffres s'ex\u00e9cutent en premier."
+        }
+    }
+}

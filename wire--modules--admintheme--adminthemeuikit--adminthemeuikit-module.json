@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/AdminThemeUikit.module",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--adminthemeuikit-module",
+    "translations": {
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(recommand\u00e9)"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatique"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Param\u00e8tres du th\u00e8me admin"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Ces param\u00e8tres affectent la mani\u00e8re dont le champ appara\u00eet lorsqu'il est utilis\u00e9 par le th\u00e8me admin Uikit."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "En choisissant l'option \"Automatique\", les param\u00e8tres seront d\u00e9termin\u00e9s lors de l'ex\u00e9cution."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Le param\u00e8tre \"Marge\" s'applique seulement pour les champs de largeur 100%."
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Marge"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Petite"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "="
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Grande"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Bordure"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Couleur"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "Exemple"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Ce champ montre les param\u00e8tres que vous avez s\u00e9lectionn\u00e9s ci-dessus."
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Arborescence"
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Contour"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "="
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Primaire"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Secondaire"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "Surlign\u00e9"
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "Alerte"
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "="
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "Ombre port\u00e9e"
+        }
+    }
+}

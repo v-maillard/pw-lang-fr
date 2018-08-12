@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Cliquer pour installer :"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Ajouter et configurer de nouvelles langues"
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "\u00c9tapes suivantes"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Pour poursuivre les param\u00e8tres du support multi-lingue, il est recommand\u00e9 de suivre les \u00e9tapes suivante."
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Changer votre champ \"title\" de \"Page Title\" en \"Page Title (Multi-lingue)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Changer vos champs \"Text\" en \"Text (Multi-lingue)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Changer vos champs \"Textarea\" en \"Textarea (Multi-lingue)\""
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Les liens ci-dessous s'ouvrent dans un nouvel onglet \/ nouvelle page. Apr\u00e8s avoir fini, revenez ici."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Il faut installer le module LanguageSupportFields avant d'essayer de changer ces champs."
+        }
+    }
+}

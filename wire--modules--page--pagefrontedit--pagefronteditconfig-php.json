@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Param\u00e8tre de l'\u00e9diteur en ligne"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Option A : \u00e9diter les champs front-editables"
+        },
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Avant d'utiliser l'\u00e9dition front-end, veuillez consultez la [page \u00e9dition front-end](%s)."
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Il y a plusieurs mani\u00e8res d'activer l'\u00e9dition front-end pour ce champ. Quelle que soit l'option choisi, l'\u00e9dition front-end appara\u00eetra seulement si l'utilisateur a les permissions appropri\u00e9es pour la page et le champ."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Les permissions requises sont : [page-edit](%s) et [page-edit-front](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Au survol d'un champ \u00e9ditable, un curseur de contexte appara\u00eet au lieu du curseur normal. Pour \u00e9diter le champ en front-end, **double-cliquez** dessus."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Option A : \u00c9dition automatique"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Cette option est ACTIV\u00c9E pour ce champ."
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Quand la valeur format\u00e9e du champ est r\u00e9cup\u00e9r\u00e9e \u00e0 partir d'une $page, elle sera \u00e9ditable sans avoir \u00e0 \u00e9crire du balisage\/code. Cela suppose que l'utilisateur a les permissions d'\u00e9dition."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configurer"
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Option B : Appel de l'API"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Plus d'informations"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Utiliser $page->edit(\"%s\"); plut\u00f4t que $page->%s; pour sortir (output) la valeur."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Option C : Ajouter des balises HTML d'\u00e9dition pour cr\u00e9er une r\u00e9gion \u00e9ditable"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Option D : Ajouter des attributs HTML d'\u00e9dition \u00e0 des balises existantes pour cr\u00e9er une r\u00e9gion \u00e9ditable"
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Chacune des syntaxe des options suivantes sont support\u00e9es (en choisir une). Le \"1001\" peut \u00eatre n'importe quel ID de page ou chemin, et le \"\u2026\" peut \u00eatre n'importe quel balisage ou code, normalement o\u00f9 vous g\u00e9n\u00e9rez la valeur de votre champ."
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "La balise div ci-dessous peut \u00eatre n'importe quelle balise existante qui entoure la r\u00e9gion \u00e9ditable."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Avec l'utilisation des attributs d'\u00e9dition, l'\u00e9diteur modal sera toujours utilis\u00e9. Toutes les autres options utiliseront l'\u00e9diteur en ligne quand il est support\u00e9."
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Ces champs textes deviendront \u00e9ditables dans le front-end, directement dans la page, simplement en cochant les cases ci-dessous."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Attention avec cette option :** Si vous g\u00e9n\u00e9rez la valeur d'un champ \u00e0 plus d'un seul endroit sur une page, vous devriez plut\u00f4t utiliser les [options B, C ou D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(non recommand\u00e9)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Option A : \u00c9tendue de l'\u00e9diteur"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Quand les champs coch\u00e9s ci-dessus sont g\u00e9n\u00e9r\u00e9s, o\u00f9 doivent-ils \u00eatre \u00e9ditable ?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Les champs sont \u00e9ditables seulement s'ils viennent de la page g\u00e9n\u00e9r\u00e9 (recommand\u00e9)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Les champs sont \u00e9ditables quelle que soit la page"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Boutons Enregistrer \/ Annuler"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Position des boutons"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatique"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "En haut \u00e0 gauche"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "En haut \u00e0 droite"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "En bas \u00e0 gauche"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "En bas \u00e0 droite"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Type des boutons"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Automatique (ic\u00f4nes et texte pour desktop, ic\u00f4nes pour \u00e9crans mobiles)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Ic\u00f4nes et texte"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Texte seulement"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Ic\u00f4nes seulement"
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Cette option n'est pas support\u00e9e pour ce champ."
+        }
+    }
+}

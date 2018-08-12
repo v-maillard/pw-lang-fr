@@ -1,0 +1,129 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "D\u00e9finir les champs qui sont utilis\u00e9s par ce r\u00e9p\u00e9teur. Vous pouvez aussi glisser\/d\u00e9poser des champs dans l'ordre d\u00e9sir\u00e9."
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "\u00c9tiquettes des items du r\u00e9p\u00e9teur"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Entrez le nom du champ \u00e0 utiliser pour les \u00e9tiquettes du r\u00e9p\u00e9teur dans l'\u00e9diteur de page, ou laissez vide pour qu'il soit auto-g\u00e9n\u00e9rer."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Pour utiliser plusieurs champs, ou pour utiliser votre propre format de texte, entourez les noms des champs par des {accolades}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Pour ajouter un num\u00e9ro d'index \u00e0 chaque \u00e9tiquette du r\u00e9p\u00e9teur, ajoutez un \"#n\" dans votre texte."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Exemple : #n: {title}"
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Champs du r\u00e9p\u00e9teur"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "\u00c9tiquette pour ajouter un nouvel item"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Entrez l'\u00e9tiquette \u00e0 utiliser pour le bouton \"Nouveau\", ou laissez vide pour utiliser la valeur par d\u00e9faut."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Visibilit\u00e9 des items du r\u00e9p\u00e9teur"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Les items du r\u00e9p\u00e9teur peuvent \u00eatre ouvert ou repli\u00e9s (un click pour ouvrir). Le mode repli\u00e9 convient bien pour le tri et pour voir tous les items \u00e0 la fois."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nouveaux items ouverts, items existants repli\u00e9s (recommand\u00e9 dans la plupart des cas)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Items toujours ouverts (d\u00e9sactive le chargement dynamique des items existants)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Items toujours repli\u00e9s"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Chargement dynamique (AJAX) du r\u00e9p\u00e9teur dans l'\u00e9diteur"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Quels sont les items \u00e0 charger dynamiquement en AJAX dans l'\u00e9diteur de page ? Si un de vos r\u00e9p\u00e9teurs utilise un champ qui ne fonctionne pas avec le chargement dynamique, il peut \u00eatre n\u00e9cessaire de d\u00e9sactiver cette fonctionnalit\u00e9."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Items nouveaux et existants (recommand\u00e9, notamment pour les r\u00e9p\u00e9teurs qui peuvent avoir BEAUCOUP d'items)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Seulement les nouveaux items (convient aux r\u00e9p\u00e9teurs qui auront seulement PEU d'items)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "D\u00e9sactiv\u00e9"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Retenir quels items du r\u00e9p\u00e9teur sont ouverts ?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Si coch\u00e9, les items du r\u00e9p\u00e9teur ouverts resteront ouverts apr\u00e8s l'enregistrement ou le rechargement de l'\u00e9diteur (\u00e0 moins que l'utilisateur ne les ferment)."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Utiliser le mode accord\u00e9on ?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "Si coch\u00e9, seul un item du r\u00e9p\u00e9teur sera ouvert \u00e0 la fois."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Nombre maximal d'items"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Pour limiter le nombre d'items autoris\u00e9, entrez une limite ici (0 = pas de limite)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Nombre minimal d'items"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Ces items seront toujours ouverts et pr\u00eats \u00e0 l'\u00e9dition  (0 = pas de limite)."
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Profondeur d'item"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Pour activer les items avec profondeur, entrez la profondeur maximale autoris\u00e9e, ou laissez vide pour ne pas activer."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Lors de l'\u00e9dition d'un r\u00e9p\u00e9teur, vous pouvez changer la profondeur d'un item en cliquant sur l'ic\u00f4ne de d\u00e9placement et en d\u00e9pla\u00e7ant l'item de droite \u00e0 gauche."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Les rangs de profondeur d\u00e9butent \u00e0 0, donc une profondeur de 3 autorisent les profondeurs 0, 1, 2 et 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "La profondeur peut \u00eatre acc\u00e9d\u00e9e \u00e0 partir de l'item de page r\u00e9p\u00e9teur par`$item->depth`"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Supprimer les vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur ?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Il y a **%d** vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur, cochez cette case pour les supprimer."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Un item r\u00e9p\u00e9teur est consid\u00e9r\u00e9 comme vieux s'il a au moins 3 jours et qu'il n'a pas \u00e9t\u00e9 rempli ou publi\u00e9."
+        },
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Le champ r\u00e9p\u00e9teur \"%s\" a le param\u00e8tre \"Requis seulement si\" ce qui n'est pas support\u00e9 dans les R\u00e9p\u00e9teurs."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Veuillez ajouter des champs \u00e0 ce r\u00e9p\u00e9teur dans l'onglet \"D\u00e9tails\"."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Ajouter un champ"
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Champ \"%1$s\" ajout\u00e9 \u00e0 \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Champ \"%1$s\" supprim\u00e9 de \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "%d vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur supprim\u00e9s"
+        }
+    }
+}

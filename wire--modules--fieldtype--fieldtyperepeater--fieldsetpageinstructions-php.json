@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Ceci est du texte pour exemple"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Informations pour utiliser ce champ"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Ce type de groupe de champ utilise une page s\u00e9par\u00e9e (dans les coulisses) pour enregistrer les valeurs des champs que vous avez s\u00e9lectionn\u00e9s ci-dessus."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Le b\u00e9n\u00e9fice est que vous pouvez r\u00e9-utilisez les champs qui peuvent d\u00e9j\u00e0 \u00eatre pr\u00e9sent sur la page, hors du groupe de champ."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Par exemple, vous pouvez avoir un champ \"title\" sur la page, et un autre dans votre groupe de champ. De m\u00eame pour tous les autres champs."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "C'est possible car les champs dans le groupe de champ ont leur propre espace de nommage \u2013 une autre page \u2013 s\u00e9par\u00e9e de la page principale."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Ci-dessous se trouvent plusieurs exemples sur la mani\u00e8re d'utiliser ce champ dans vos fichiers mod\u00e8les et \u00e0 partir de l'API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Obtenir une valeur :"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Sortir (output) une valeur :"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Sortir (output) une valeur dans le markup :"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "D\u00e9finir une valeur :"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "D\u00e9finir et enregistrer une valeur :"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "cela d\u00e9sactive le formatage de la sortie, si n\u00e9cessaire"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Lier un groupe de champ \u00e0 une autre variable (plus courte) et sortir une valeur :"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Trouver des page ayant le groupe de champ \"%s\" contenant le texte \"example\" :"
+        }
+    }
+}

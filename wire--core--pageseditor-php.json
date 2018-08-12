@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/PagesEditor.php",
+    "textdomain": "wire--core--pageseditor-php",
+    "translations": {
+        "9ba12390dc16d0bb6b897e136830b4e4": {
+            "text": "Page sans titre"
+        },
+        "f7b20059533e8267e92eecda0b6eee8e": {
+            "text": "Erreur lors de l'enregistrement du champ \"%s\""
+        }
+    }
+}

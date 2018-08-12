@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Utiliser des caract\u00e8res UTF-8 pour les remplacements plut\u00f4t que des entit\u00e9s HTML ?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Le comportement par d\u00e9faut de SmartyPants est d'ajouter \/ mettre \u00e0 jours les caract\u00e8res utilisant des entit\u00e9s HTML."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Si vous observez des probl\u00e8mes de double-encodage, vous pouvez vouloir qu'il utilise plut\u00f4t des remplacements UTF-8."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Non (par d\u00e9faut)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Oui (quelques uns)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Oui (tous)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "L'option \"tous' d\u00e9codera les caract\u00e8res suivant (quand l'entit\u00e9 est encod\u00e9e) m\u00eame s'ils ne sont pas ins\u00e9r\u00e9s par SmartyPants :"
+        }
+    }
+}

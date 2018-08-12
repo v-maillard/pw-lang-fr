@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Type de champs d'entr\u00e9e"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Le type de champ qui sera utilis\u00e9 pour la sortie (\"Textarea\" par d\u00e9faut). Si vous changez cela et enregistrez, les options de configuration disponibles dans l'onglet \"Champ\" peuvent changer."
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Balisage \/ HTML"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Type du contenu"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Inconnu \/ Texte"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "L'option [u]Balisage \/ HTML[\/u] est recommand\u00e9e pour les champs utilisant des \u00e9diteurs de texte enrichi (comme CKEditor) et ceux contenant du HTML. Elle met en place des test suppl\u00e9mentaires lors de l'ex\u00e9cution pour assurer la qualit\u00e9."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Si vous s\u00e9lectionnez l'option \"Inconnu \/ Texte\", il est fortement recommand\u00e9 [pour la s\u00e9curit\u00e9] de s\u00e9lectionner aussi \"Encodeur d'entit\u00e9s HTML\" dans le champ \"Formateurs de texte\" ci-dessus."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Pour plus d'information \u00e0 propos des options ci-dessus voir [la description des options de type du contenu](%s)"
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Options HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Les options suivantes fournissent des assurances de qualit\u00e9 pour le HTML lors de l'ex\u00e9cution."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**\u00c0 noter :** Ces options sont exp\u00e9rimentales pour le moment. Veuillez surveillez les probl\u00e8mes et signaler les erreurs."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Les options ci-dessus s'archivent dans Configuration > Journaux > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Lien abstrait :"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Met \u00e0 jour automatiquement les attributs href quand les liens internes changent"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Mise \u00e0 jour des attributs \"alt\" des images :"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Remplace les attributs \"alt\" avec les descriptions image"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "R\u00e9paration les liens images rompus :"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Retire les tags <img> qui causent une erreur 404, ou re-cr\u00e9e les images si possible"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Contr\u00f4le d'acc\u00e8s image :"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Retires les images pour lesquelles l'utilisateur n'a pas acc\u00e8s"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Appliquer les options HTML d\u00e8s maintenant"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Cocher cette case pour appliquer d\u00e8s \u00e0 pr\u00e9sent les options ci-dessous \u00e0 toutes les pages existantes. Cela s'applique premi\u00e8rement \u00e0 l'option \"Lien abstrait\"."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Attention, la mise \u00e0 jour se fait sur potentiellement des centaines de pages (300 au maximum par tour) et sur les dates de modification de page. Si votre site a beaucoup de pages, vous pouvez"
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Pour une pr\u00e9caution suppl\u00e9mentaire il est recommand\u00e9 de faire une sauvegarde de votre base de donn\u00e9es avant d'ex\u00e9cuter ceci.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Il semble que tout soit bon ! Les options HTML sont totalement  appliqu\u00e9es d\u00e9sormais."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Les futures mises \u00e0 jour seront appliqu\u00e9es automatiquement \u00e0 l'enregistrement des pages."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Il y a encore des pages \u00e0 traiter. Coch\u00e9 \u00e0 nouveau la case pour trait\u00e9 les pages restantes."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Besoin de traiter plus de pages ? Vous pouvez ajouter un param\u00e8tre %s \u00e0 votre fichier \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(voir l'entr\u00e9 journal %s)"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Mise \u00e0 jours de %1$d de %2$d pages pour les options HTML."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "R\u00e9sum\u00e9 des garanties de qualit\u00e9 du Balisage \/ HTML"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "D'autres options HTML s'appliquent lors de l'ex\u00e9cution."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d tags a[href] externes"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d liens de pages internes \/ abstraits"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d r\u00e9f\u00e9rences \u00e0 des fichiers"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d tags a[href]"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d tags a[href] locaux non reconnus"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d liens a[href] non-http comme des mailto, tel, etc."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d tags a[href] non r\u00e9solus"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d tags img[src] non r\u00e9solus"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d tags img[src] non r\u00e9solus et corrig\u00e9s"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d tags img[alt] vides qui seront remplis lors de l'ex\u00e9cution"
+        }
+    }
+}
