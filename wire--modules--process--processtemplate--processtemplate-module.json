@@ -24,7 +24,7 @@
             "text": "Filtres"
         },
         "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filter par champ"
+            "text": "Filtrer par champ"
         },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "S\u00e9lectionner un champ et seuls les mod\u00e8les utilisant ce champ seront affich\u00e9s."
@@ -165,7 +165,7 @@
             "text": "Sp\u00e9cifiez les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9"
         },
         "501a09415d30cab1819195e5566a0c0d": {
-            "text": "Lorsque des pages utilisant ce mod\u00e8le sont enregistr\u00e9s, leur fichiers de cache seront nettoy\u00e9s. S\u00e9lectionnez les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9 ci-dessous."
+            "text": "Lorsque des pages utilisant ce mod\u00e8le sont enregistr\u00e9es, leur fichiers de cache seront nettoy\u00e9s. S\u00e9lectionnez les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9 ci-dessous."
         },
         "d6b522c2ed20093505dfa63be2ba0454": {
             "text": "Mettre en cache lors du rendu des pages pour ces utilisateurs"
@@ -189,7 +189,7 @@
             "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous pouvez optionnellement sp\u00e9cifier un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Optionnellement, entres un ou plusieurs noms de variables. Pour en sp\u00e9cifier plus d'un, s\u00e9parez-les par un espace."
+            "text": "Optionnellement, entrez un ou plusieurs noms de variables. Pour en sp\u00e9cifier plus d'un, s\u00e9parez-les par un espace."
         },
         "5cb36b26303f4abb0dea36f9bb96887f": {
             "text": "Si vous d\u00e9sirez grouper visuellement ce mod\u00e8le avec d'autres dans la liste de mod\u00e8les, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres mod\u00e8les avec lesquels vous d\u00e9sirer le grouper. Pour sp\u00e9cifier des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de mod\u00e8les."

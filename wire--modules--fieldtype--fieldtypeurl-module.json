@@ -21,7 +21,7 @@
             "text": "Assure que les URLs ne sont pas bris\u00e9s lorsqu'un site est d\u00e9plac\u00e9 d'un sous-dossier vers la racine (exemple le plus commun)."
         },
         "0ac82d10c1ddd050079962481c40f54f": {
-            "text": "Champ entreposant un URL"
+            "text": "Champ contenant une URL"
         },
         "93cba07454f06a4a960172bbd6e2a435": {
             "text": "Oui"
