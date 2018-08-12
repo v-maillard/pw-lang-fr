@@ -48,7 +48,7 @@
             "text": "Corbeille"
         },
         "157fa6b945671169a76bc677977f368d": {
-            "text": "Nom du champs de page \u00e0 afficher"
+            "text": "Nom du champ de page \u00e0 afficher"
         },
         "ae9945c00ae261445f0277fbae516179": {
             "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champs titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champs doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champs par un espace. Si le champs est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: autrepage.title. Notez que si le champs que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champs \u00ab name \u00bb de la page."
@@ -72,7 +72,7 @@
             "text": "Erreur inconnue, veuillez r\u00e9essayer plus tard"
         },
         "bdfca484a650a86abab2578865834ac3": {
-            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champs titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champs doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champs par un espace. Si le champs est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: {autrepage.title}. Notez que si le champs que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champs \u00ab name \u00bb de la page."
+            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champ titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champ doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champ par un espace. Si le champ est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: {autrepage.title}. Notez que si le champ que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champ \u00ab name \u00bb de la page."
         },
         "eceb8bf0921f19bb3ae6972e7902c887": {
             "text": "La valeur par d\u00e9faut est %d."

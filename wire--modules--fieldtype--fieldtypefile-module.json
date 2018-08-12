@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
     "translations": {
         "3e560c05ba6d07bcd41ac1053b5b9437": {
-            "text": "Le champs \u00ab %s \u00bb n'est pas encore pr\u00eat \u00e0 \u00eatre utilis\u00e9 et doit \u00eatre configur\u00e9."
+            "text": "Le champ \u00ab %s \u00bb n'est pas encore pr\u00eat \u00e0 \u00eatre utilis\u00e9 et doit \u00eatre configur\u00e9."
         },
         "a8d5114d10f7846bf0263c4e4207137e": {
             "text": "Les changements n'ont pas encore \u00e9t\u00e9 apport\u00e9s."
@@ -18,7 +18,7 @@
             "text": "Extensions de fichiers valides"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Entrez toutes les extensions permises par ce champs de t\u00e9l\u00e9versement. S\u00e9parez chaque extension par un espace. Aucun point ni virgule. Ce champs n'est pas sensible \u00e0 la casse"
+            "text": "Entrez toutes les extensions permises par ce champ de t\u00e9l\u00e9versement. S\u00e9parez chaque extension par un espace. Aucun point ni virgule. Ce champ n'est pas sensible \u00e0 la casse"
         },
         "6231c154d164f467041abbb0151816dc": {
             "text": "Nombre maximal de fichiers permis"
@@ -30,7 +30,7 @@
             "text": "Valeur format\u00e9e"
         },
         "f09906b55a7a66786de08cb25550a2c8": {
-            "text": "S\u00e9lectionnez le type de valeur que vous souhaitez que ce champs procure lorsqu'acc\u00e9d\u00e9 via l'API dans l'interface publique de votre site."
+            "text": "S\u00e9lectionnez le type de valeur que vous souhaitez que ce champ procure lorsqu'acc\u00e9d\u00e9 via l'API dans l'interface publique de votre site."
         },
         "ffb520d31a51841782cf1cba617fc875": {
             "text": "Lorsque le formatage de sortie est d\u00e9sactiv\u00e9, la valeur est toujours un tableau (WireArray)"
@@ -51,7 +51,7 @@
             "text": "Chaine de caract\u00e8res rendue"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Fournit la chaine de caract\u00e8res \u00e0 rendre lors de la sortie en tant que valeur pour ce champs. Si le champs contient des \u00e9l\u00e9ments multiples, la chaine sera rendue \u00e0 plusieurs reprises. Si le champs ne contient aucun \u00e9l\u00e9ment, une chaine vide sera utilis\u00e9e."
+            "text": "Fournit la chaine de caract\u00e8res \u00e0 rendre lors de la sortie en tant que valeur pour ce champ. Si le champ contient des \u00e9l\u00e9ments multiples, la chaine sera rendue \u00e0 plusieurs reprises. Si le champ ne contient aucun \u00e9l\u00e9ment, une chaine vide sera utilis\u00e9e."
         },
         "839047fe3f6109257399fe301ddb7912": {
             "text": "Vous pouvez n'importe lequel de ces tags :"
@@ -60,7 +60,7 @@
             "text": "Valeur par d\u00e9faut (lorsque vide)"
         },
         "05ac72cc4df427baf9db44228a577ed7": {
-            "text": "De mani\u00e8re optionnelle, s\u00e9lectionnez une page qui contient la valeur par d\u00e9faut (dans ce m\u00eame champs). Il se peut que vous d\u00e9siriez cr\u00e9er une page sp\u00e9cifiquement pour cette utilisation."
+            "text": "De mani\u00e8re optionnelle, s\u00e9lectionnez une page qui contient la valeur par d\u00e9faut (dans ce m\u00eame champ). Il se peut que vous d\u00e9siriez cr\u00e9er une page sp\u00e9cifiquement pour cette utilisation."
         },
         "b17288f2ed130badc7ac8919f95fd5f1": {
             "text": "Formateurs de texte (pour les descriptions de fichier)"
@@ -75,13 +75,13 @@
             "text": "Si coch\u00e9, le champs contiendra aussi une option pour les tags en plus de la description"
         },
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
-            "text": "Type de champs d'entr\u00e9e"
+            "text": "Type de champ d'entr\u00e9e"
         },
         "23f8d89e38fb131310ab885bad04b966": {
-            "text": "Le type de champs qui sera utilis\u00e9 pour la sortie."
+            "text": "Le type de champ qui sera utilis\u00e9 pour la sortie."
         },
         "2cb39a29b55cb3b4480c782dbe367518": {
-            "text": "Champs qui entrepose un ou plusieurs fichiers"
+            "text": "Champ qui entrepose un ou plusieurs fichiers"
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Fichiers"

@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
     "translations": {
         "00f6c76a7a83b1d7aab61a93e513e9d5": {
-            "text": "Type de champs d'entr\u00e9e"
+            "text": "Type de champ d'entr\u00e9e"
         },
         "127852afa67b41673ab8ea17b383847c": {
             "text": "Le type de champ qui sera utilis\u00e9 pour la sortie (\"Textarea\" par d\u00e9faut). Si vous changez cela et enregistrez, les options de configuration disponibles dans l'onglet \"Champ\" peuvent changer."

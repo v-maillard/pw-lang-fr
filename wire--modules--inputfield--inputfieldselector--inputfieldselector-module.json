@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldselector--inputfieldselector-module",
     "translations": {
         "6daa35fd97a645b8e37cae080eab3de9": {
-            "text": "Ajouter un champs"
+            "text": "Ajouter un champ"
         },
         "0ccb67e7eaae09d9e4078d161eeca100": {
             "text": "\u00c9gal \u00e0"
@@ -105,10 +105,10 @@
             "text": "A un parent\/anc\u00eatre"
         },
         "d7ba791417071ac5ec60f1cea2672faf": {
-            "text": "Personnalis\u00e9 (champs=valeur)"
+            "text": "Personnalis\u00e9 (champ=valeur)"
         },
         "c0272cbdf2353b9f2810944ae048b4a1": {
-            "text": "champs=valeur"
+            "text": "champ=valeur"
         },
         "6b46ae48421828d9973deec5fa9aa0c3": {
             "text": "Trier"
@@ -138,10 +138,10 @@
             "text": "afficher"
         },
         "befb04e123caaa28446ca8080a5fd836": {
-            "text": "Utiliser les \u00e9tiquettes de champs"
+            "text": "Utiliser les \u00e9tiquettes de champ"
         },
         "e3e67251cebf159d3549a0a91729605d": {
-            "text": "Utiliser les noms de champs"
+            "text": "Utiliser les noms de champ"
         },
         "f0c49f49661670cb88d2fd060c4d6a68": {
             "text": "Pas coch\u00e9"
@@ -159,7 +159,7 @@
             "text": "Faire correspondre par ID (sous-s\u00e9lecteur)"
         },
         "1d79542121869a6161bed167902ddc79": {
-            "text": "Chaque ligne du s\u00e9lecteur ci-haut signifie : champs doit correspondre \u00e0 valeur. Cela s'appelle des conditions AND (et). Dans les cas o\u00f9 le m\u00eame champs ou valeur apparait dans plus qu'une ligne, une condition OR (ou) est possible. La pr\u00e9sence d'une case \u00e0 cocher \u00e0 la fin de chaque ligne indique cela. Cochez cette case pour utiliser la condition OR au lieu de la condition AND."
+            "text": "Chaque ligne du s\u00e9lecteur ci-haut signifie : champ doit correspondre \u00e0 valeur. Cela s'appelle des conditions AND (et). Dans les cas o\u00f9 le m\u00eame champ ou valeur apparait dans plus qu'une ligne, une condition OR (ou) est possible. La pr\u00e9sence d'une case \u00e0 cocher \u00e0 la fin de chaque ligne indique cela. Cochez cette case pour utiliser la condition OR au lieu de la condition AND."
         },
         "ea66a0a3f3311a155d84ef03a56850ca": {
             "text": "Champs syst\u00e8me"

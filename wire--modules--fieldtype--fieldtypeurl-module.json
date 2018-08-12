@@ -15,13 +15,13 @@
             "text": "Ajouter le chemin racine du site au d\u00e9but des URLs locaux\/relatifs ?"
         },
         "9d6ce819c098e5c4a7b3464cadbd028a": {
-            "text": "Cette option ajoutera automatiquement le chemin racine du site au d\u00e9but de tout URL qui commence avec un \/ tel que \/un\/chemin\/. Ceci est utile si votre site roule dans un sous-r\u00e9pertoire puisque vous n'aurez pas \u00e0 inclure celui-ci dans les URLs entr\u00e9es dans ce champs. Si vous changez plus tard la racine de votre domaine (ou un autre sous-r\u00e9pertoire) vous n'aurez pas \u00e0 vous inqui\u00e9ter des URLs bris\u00e9s. Avec cette option activ\u00e9e, entrez toujours les URLs comme site le site roulait \u00e0 la racine du domaine, peu importe s'il roule d'un sous-r\u00e9pertoire ou non. Naturellement, ceci n'est applicable que vous vois avez coch\u00e9 \u00ab Oui \u00bb  pour permettre les URLs locaux\/relatifs dans le champs ci-haut. Les d\u00e9veloppeurs devraient aussi noter que cette option ne s'applique qu'aux page avec outputFormatting activ\u00e9."
+            "text": "Cette option ajoutera automatiquement le chemin racine du site au d\u00e9but de tout URL qui commence avec un \/ tel que \/un\/chemin\/. Ceci est utile si votre site roule dans un sous-r\u00e9pertoire puisque vous n'aurez pas \u00e0 inclure celui-ci dans les URLs entr\u00e9es dans ce champ. Si vous changez plus tard la racine de votre domaine (ou un autre sous-r\u00e9pertoire) vous n'aurez pas \u00e0 vous inqui\u00e9ter des URLs bris\u00e9s. Avec cette option activ\u00e9e, entrez toujours les URLs comme site le site roulait \u00e0 la racine du domaine, peu importe s'il roule d'un sous-r\u00e9pertoire ou non. Naturellement, ceci n'est applicable que vous vois avez coch\u00e9 \u00ab Oui \u00bb  pour permettre les URLs locaux\/relatifs dans le champ ci-haut. Les d\u00e9veloppeurs devraient aussi noter que cette option ne s'applique qu'aux page avec outputFormatting activ\u00e9."
         },
         "ae91f58b191e424e0eaf9022fd5407e9": {
             "text": "Assure que les URLs ne sont pas bris\u00e9s lorsqu'un site est d\u00e9plac\u00e9 d'un sous-dossier vers la racine (exemple le plus commun)."
         },
         "0ac82d10c1ddd050079962481c40f54f": {
-            "text": "Champs entreposant un URL"
+            "text": "Champ entreposant un URL"
         },
         "93cba07454f06a4a960172bbd6e2a435": {
             "text": "Oui"

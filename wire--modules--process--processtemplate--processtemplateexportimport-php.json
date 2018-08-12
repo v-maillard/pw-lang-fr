@@ -27,13 +27,13 @@
             "text": "Copiez et collez ces donn\u00e9es dans la boite \"Importer\" d'une autre installation."
         },
         "9d823cda278191490c2a99bbb912cc9d": {
-            "text": "Cliquez n'importe o\u00f9 dans le champs pour s\u00e9lectionner toutes les donn\u00e9es d'exportation. Une fois s\u00e9lectionn\u00e9es, copiez les donn\u00e9es avec Ctrl+C ou Cmd+C"
+            "text": "Cliquez n'importe o\u00f9 dans le champ pour s\u00e9lectionner toutes les donn\u00e9es d'exportation. Une fois s\u00e9lectionn\u00e9es, copiez les donn\u00e9es avec Ctrl+C ou Cmd+C"
         },
         "dce8c8fe6bdf804f2a98384dedea1360": {
             "text": "Coller les donn\u00e9es d'une exportation."
         },
         "139ef19d3b2f902827257b2ebc33d708": {
-            "text": "Collez les donn\u00e9es d'exportation d'une autre installation, puis collez dans le champs ci-dessus avec Ctrl-V ou Cmd+V"
+            "text": "Collez les donn\u00e9es d'exportation d'une autre installation, puis collez dans le champ ci-dessus avec Ctrl-V ou Cmd+V"
         },
         "31fde7b05ac8952dacf4af8a704074ec": {
             "text": "Pr\u00e9visualisation"
@@ -91,9 +91,6 @@
         },
         "19b7fb53a85de3c8ba85672a91a7398b": {
             "text": "Exporter"
-        },
-        "722034114c47bfa859a1be8200469fcf": {
-            "text": "Ok"
         },
         "12c658575040446e9b2ffdfaaf7bc115": {
             "text": "Importer"

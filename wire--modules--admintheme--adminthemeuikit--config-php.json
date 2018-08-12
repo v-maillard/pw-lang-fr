@@ -36,7 +36,7 @@
             "text": "Champ image : %s"
         },
         "8b5c3dc5e49d1be8ee1648a5bc454559": {
-            "text": "Il n'y a pas pour l'instant de champs image pr\u00e9sents sur le mod\u00e8le de l'utilisateur, c'est pourquoi seulement des ic\u00f4nes et Gravatar sont montr\u00e9s."
+            "text": "Il n'y a pas pour l'instant de champ image pr\u00e9sents sur le mod\u00e8le de l'utilisateur, c'est pourquoi seulement des ic\u00f4nes et Gravatar sont montr\u00e9s."
         },
         "08c95f3605e4e76b340174ba21b8462d": {
             "text": "[Ici](%s) , vous pouvez ajouter des champs image au mod\u00e8le de l'utilisateur"
@@ -162,13 +162,13 @@
             "text": "Ne s'applique pas aux types s\u00e9lectionn\u00e9s qui n'ont pas de contour."
         },
         "391889c9ed085249fe76c0beb25ad304": {
-            "text": "Types de champs qui doivent \u00eatre compos\u00e9s avec des marges suppl\u00e9mentaires en haut et en bas."
+            "text": "Types de champ qui doivent \u00eatre compos\u00e9s avec des marges suppl\u00e9mentaires en haut et en bas."
         },
         "0d638e3ac46bc8f0cf58d60281ff4ebc": {
             "text": "Pour exemple, les champs dans ce groupe de champ utilisent cette option."
         },
         "627a242af272f5913c8af08cff4cadf9": {
-            "text": "Composer verticalement TOUS les types de champs ?"
+            "text": "Composer verticalement TOUS les types de champ ?"
         },
         "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
             "text": "Si coch\u00e9, un marge verticale est ajout\u00e9e \u00e0 tous les champs."

@@ -24,13 +24,13 @@
             "text": "Filtres"
         },
         "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filter par champs"
+            "text": "Filter par champ"
         },
         "602717d1b0adbf6ff41366d6371e375d": {
-            "text": "S\u00e9lectionner un champs et seuls les mod\u00e8les utilisant ce champs seront affich\u00e9s."
+            "text": "S\u00e9lectionner un champ et seuls les mod\u00e8les utilisant ce champ seront affich\u00e9s."
         },
         "3f8255a0588417dee11d58e2b92c59b4": {
-            "text": "Mod\u00e8les avec le champs : %s"
+            "text": "Mod\u00e8les avec le champ : %s"
         },
         "487cc58bb37a22e2cfc4d04c92267fee": {
             "text": "Afficher les mod\u00e8les syst\u00e8me ?"
@@ -123,7 +123,7 @@
             "text": "D\u00e9finissez les champs \u00e8 utiliser par ce mod\u00e8le. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9."
         },
         "6daa35fd97a645b8e37cae080eab3de9": {
-            "text": "Ajouter un champs"
+            "text": "Ajouter un champ"
         },
         "71bb941583eef6e3e5ed3eaad39cc315": {
             "text": "Copier les champs utilis\u00e9s par un autre mod\u00e8le"
@@ -258,10 +258,10 @@
             "text": "API: $template->noUnpublish = 1; \/\/ ou 0 pour d\u00e9sactiver"
         },
         "6064635b0dec3189859052c02adc0fc5": {
-            "text": "Permettre au champs \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb d'\u00eatre modifi\u00e9 sur les pages ?"
+            "text": "Permettre au champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb d'\u00eatre modifi\u00e9 sur les pages ?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le auront une option pour modifier le champs \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb (r\u00f4le superuser seulement). Ceci permet aussi aux champs $page->createdUser ou $page->created_users_id d'\u00eatre enregistr\u00e9s via l'API."
+            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le auront une option pour modifier le champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb (r\u00f4le superuser seulement). Ceci permet aussi aux champs $page->createdUser ou $page->created_users_id d'\u00eatre enregistr\u00e9s via l'API."
         },
         "1684cd1767cda6618ed92febec9e78c6": {
             "text": "API: $template->allowChangeUser = 1; \/\/ ou 0 pour d\u00e9sactiver. Valeur par d\u00e9faut : 0."
@@ -303,16 +303,16 @@
             "text": "Ignorer les champs globaux ?"
         },
         "fd83133f05e8bacf7eb368a2d95de8fe": {
-            "text": "Par d\u00e9faut, quand un champs est marqu\u00e9 comme \u00ab global \u00bb, il est requis pour tous les mod\u00e8les (et automatiquement ajout\u00e9 \u00e0 tout mod\u00e8le qui ne l'a pas). Si ce mod\u00e8le a une raison d'\u00eatre sp\u00e9cifique o\u00f9 les champs \u00ab global \u00bb ne s'appliquent pas, vous pouvez cocher cette case pour permettre \u00e0 ce mod\u00e8le d'ignorer les champs \u00ab global \u00bb."
+            "text": "Par d\u00e9faut, quand un champ est marqu\u00e9 comme \u00ab global \u00bb, il est requis pour tous les mod\u00e8les (et automatiquement ajout\u00e9 \u00e0 tout mod\u00e8le qui ne l'a pas). Si ce mod\u00e8le a une raison d'\u00eatre sp\u00e9cifique o\u00f9 les champs \u00ab global \u00bb ne s'appliquent pas, vous pouvez cocher cette case pour permettre \u00e0 ce mod\u00e8le d'ignorer les champs \u00ab global \u00bb."
         },
         "381e3cba7a92b2d007d0d534a58b17ff": {
             "text": "API: $template->noGlobal = 1; \/\/ ou 0 pour d\u00e9sactiver"
         },
         "0176d878928026caefe7c81262335e1d": {
-            "text": "Afficher le champs \u00ab name \u00bb dans l'onglet contenu ?"
+            "text": "Afficher le champ \u00ab name \u00bb dans l'onglet contenu ?"
         },
         "61788997b579a9bcfe17e394d394ad01": {
-            "text": "Par d\u00e9faut, le champs inclus par d\u00e9faut \u00ab name \u00bb apparait dans l'onglet \u00ab param\u00e8tres \u00bb de l'\u00e9diteur. Si vous pr\u00e9f\u00e9rez plut\u00f4t qu'il apparaisse dans l'onglet \u00ab Contenu\u00a0\u00bb, cochez cette case."
+            "text": "Par d\u00e9faut, le champ inclus par d\u00e9faut \u00ab name \u00bb apparait dans l'onglet \u00ab param\u00e8tres \u00bb de l'\u00e9diteur. Si vous pr\u00e9f\u00e9rez plut\u00f4t qu'il apparaisse dans l'onglet \u00ab Contenu\u00a0\u00bb, cochez cette case."
         },
         "e864c0d94cbc5dc0faf1ce78d9021e63": {
             "text": "API: $template->nameContentTab = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -375,7 +375,7 @@
             "text": "Format de nom pour les enfants"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champs \"Mod\u00e8les permis pour les enfants\" ci-haut."
+            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-haut."
         },
         "27dd547b53bb1b3c67c345f984747010": {
             "text": "Laissez vide pour d\u00e9sactiver. Entrez \u00ab title \u00bb (sans les guillemets) pour g\u00e9n\u00e9rer automatiquement un nom de page \u00e0 partir du titre. Plus d'options, incluant des formats de date, sont disponibles. [En savoir plus\u2026](http:\/\/processwire.com\/api\/modules\/process-template\/)"
@@ -408,7 +408,7 @@
             "text": "Param\u00e8tres de tri pour les enfants"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champs sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionner autre chose qu'\u00ab Aucun \u00bb, l'option de tri n'apparaitra pas pour les pages utilisant ce mod\u00e8le."
+            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champ sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionner autre chose qu'\u00ab Aucun \u00bb, l'option de tri n'apparaitra pas pour les pages utilisant ce mod\u00e8le."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Permettre les num\u00e9ros de pages ?"
@@ -513,7 +513,7 @@
             "text": "Entrer l'URL vers laquelle rediriger l'utilisateur lorsqu'il n'a pas les droits d'acc\u00e8s"
         },
         "b12715241d6f9d36629e189651930f08": {
-            "text": "Ce champs est applicable seulement si vous s\u00e9lectionnez \u00ab Rediriger vers une autre URL \u00bb plus haut."
+            "text": "Ce champ est applicable seulement si vous s\u00e9lectionnez \u00ab Rediriger vers une autre URL \u00bb plus haut."
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Optionnel : Dans votre URL, vous pouvez inclure le tag \u00ab\u00a0{id} \u00bb (possiblement en tant que variable GET) et il sera remplac\u00e9 par l'ID de la page dans le requ\u00eate, si vous le d\u00e9sirez."
@@ -558,7 +558,7 @@
             "text": "Champs dupliqu\u00e9s de \u00ab %1$s \u00bb vers \u00ab %2$s \u00bb"
         },
         "a2b2765c9702ca543cd769b157062377": {
-            "text": "Le champs \u00ab %s \u00bb ne peut \u00eatre enlev\u00e9 puisqu'il est requis globalement par tous les groupes de champs"
+            "text": "Le champ \u00ab %s \u00bb ne peut \u00eatre enlev\u00e9 puisqu'il est requis globalement par tous les groupes de champs"
         },
         "6e82edd479b2b5c07f250031d13a9b92": {
             "text": "Groupe de champs enregistr\u00e9 : %s"
@@ -630,10 +630,10 @@
             "text": "Le fichier de mod\u00e8le \u00ab %1$s \u00bb n'est pas accessible en \u00e9criture. Veuillez renommer le fichier vers \u00ab %2$s \u00bb avant de cliquer sur envoyer."
         },
         "29a2d50c9d90354a16943888d8e700da": {
-            "text": "Champs \u00ab %1$s \u00bb enlev\u00e9 du mod\u00e8le\/groupe de champs \u00ab %2$s \u00bb"
+            "text": "Champ \u00ab %1$s \u00bb enlev\u00e9 du mod\u00e8le\/groupe de champs \u00ab %2$s \u00bb"
         },
         "da49c8bb3f9748634bedc77fac9221f9": {
-            "text": "Champs \u00ab %1$s \u00bb ajout\u00e9 au mod\u00e8le\/groupe de champs \u00ab %2$s \u00bb"
+            "text": "Champ \u00ab %1$s \u00bb ajout\u00e9 au mod\u00e8le\/groupe de champs \u00ab %2$s \u00bb"
         },
         "7df96b18c230f90ada0a9e2307226338": {
             "text": "Mod\u00e8les"

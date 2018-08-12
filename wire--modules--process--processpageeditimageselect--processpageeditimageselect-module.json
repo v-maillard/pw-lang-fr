@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
     "translations": {
         "5d13ae1a65403891ac0fe044f3acc865": {
-            "text": "Il n'y a aucun champs d'image sur cette page. Choisissez une autre page \u00e0 partir de laquelle vous pourrez s\u00e9lectionner des images."
+            "text": "Il n'y a aucun champ d'image sur cette page. Choisissez une autre page \u00e0 partir de laquelle vous pourrez s\u00e9lectionner des images."
         },
         "64a201e91bd521f5640318d844920b31": {
             "text": "Il n'y a pas d'images pr\u00e9sentes sur cette page. Fermez cette fen\u00eatre et t\u00e9l\u00e9chargez des images, ou s\u00e9lectionnez des images d'une autre page."
@@ -60,7 +60,7 @@
             "text": "Noms de camps \u00e0 omettre lors de la s\u00e9lection"
         },
         "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
-            "text": "Entrez les noms de tout champs image (s\u00e9par\u00e9s par un espace) que vous ne souhaitez pas permettre lors de la s\u00e9lection \u00e0 l'aide de ce module."
+            "text": "Entrez les noms de tout champ image (s\u00e9par\u00e9s par un espace) que vous ne souhaitez pas permettre lors de la s\u00e9lection \u00e0 l'aide de ce module."
         },
         "e254a34f3a1001f00adc55aba5552783": {
             "text": "Haut :"

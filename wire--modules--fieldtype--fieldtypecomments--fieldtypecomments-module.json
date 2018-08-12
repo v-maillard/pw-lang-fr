@@ -24,10 +24,10 @@
             "text": "Par d\u00e9faut, les commentaires sont tri\u00e9s en ordre chronologique (plus ancien au plus r\u00e9cent). Pour inverser ce comportement, cochez cette case."
         },
         "cba07fe99979c9f01d9c61a39aae3045": {
-            "text": "Afficher le champs site web dans le formulaire de commentaires ?"
+            "text": "Afficher le champ site web dans le formulaire de commentaires ?"
         },
         "bb28b3686215b773129c8259cf0e6525": {
-            "text": "Lorsque coch\u00e9, les soumissions de commentaire incluront aussi un champs site web."
+            "text": "Lorsque coch\u00e9, les soumissions de commentaire incluront aussi un champ site web."
         },
         "b7f00c1afdf69f32c12c300c02ac1da7": {
             "text": "Rediriger apr\u00e8s l'envoi d'un commentaire ?"
@@ -81,7 +81,7 @@
             "text": "Commentaires"
         },
         "a27c92ebebda4931039636893b5c716d": {
-            "text": "Champs qui emmagasine les commentaires des utilisateur pour une page unique."
+            "text": "Champ qui emmagasine les commentaires des utilisateur pour une page unique."
         },
         "b39a035a995fc6597c8eb942210d1527": {
             "text": "Comportement"

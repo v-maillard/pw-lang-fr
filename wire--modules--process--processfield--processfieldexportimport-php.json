@@ -11,9 +11,6 @@
         "6f434c508ad901b8667ed22f713e52bb": {
             "text": "\u00c9TIQUETTE"
         },
-        "948495146facadfe8859789036313d79": {
-            "text": "TYPE"
-        },
         "e5d07991c975607a12edce23c0da9824": {
             "text": "Shift+Clic pour s\u00e9lectionner plusieurs en s\u00e9quence. Ctrl+Clic (ou Cmd+Clic) pour en s\u00e9lectionner plusieurs individuellement. Ctrl+A (ou Cmd+A) pour tout s\u00e9lectionner."
         },
@@ -24,13 +21,13 @@
             "text": "Copiez et collez ces donn\u00e9es dans la boite \"Importer\" d'une autre installation."
         },
         "9d823cda278191490c2a99bbb912cc9d": {
-            "text": "Cliquez n'importe o\u00f9 dans le champs pour s\u00e9lectionner toutes les donn\u00e9es d'exportation. Une fois s\u00e9lectionn\u00e9es, copiez les donn\u00e9es avec Ctrl+C ou Cmd+C"
+            "text": "Cliquez n'importe o\u00f9 dans le champ pour s\u00e9lectionner toutes les donn\u00e9es d'exportation. Une fois s\u00e9lectionn\u00e9es, copiez les donn\u00e9es avec Ctrl+C ou Cmd+C"
         },
         "dce8c8fe6bdf804f2a98384dedea1360": {
             "text": "Coller les donn\u00e9es d'une exportation."
         },
         "139ef19d3b2f902827257b2ebc33d708": {
-            "text": "Collez les donn\u00e9es d'exportation d'une autre installation, puis collez dans le champs ci-dessus avec Ctrl-V ou Cmd+V"
+            "text": "Collez les donn\u00e9es d'exportation d'une autre installation, puis collez dans le champ ci-dessus avec Ctrl-V ou Cmd+V"
         },
         "31fde7b05ac8952dacf4af8a704074ec": {
             "text": "Pr\u00e9visualisation"
@@ -51,16 +48,16 @@
             "text": "Nouvelle valeur"
         },
         "939704657d1c6c48005bdb67bc14ee75": {
-            "text": "Nous recommandons de changer le type de ce champs \u00e0 \u00ab %s \u00bb manuellement, puis revenir ici pour appliquer des changements additionnels."
+            "text": "Nous recommandons de changer le type de ce champ \u00e0 \u00ab %s \u00bb manuellement, puis revenir ici pour appliquer des changements additionnels."
         },
         "34eb90456e45e06048e287f649c4fba0": {
             "text": "Aucun changements \u00e0 effectuer."
         },
         "c4fd77379e1e463339786fbbc671068c": {
-            "text": "Modifier ce champs?"
+            "text": "Modifier ce champ ?"
         },
         "2f4ddf245d305802ffed479ba3b88451": {
-            "text": "Cr\u00e9er ce champs?"
+            "text": "Cr\u00e9er ce champ ?"
         },
         "83e14aace19687fe9e1fbb8f913bf569": {
             "text": "cliquez oui pour afficher les changements"
@@ -84,16 +81,13 @@
             "text": "Enregistr\u00e9 :"
         },
         "22e3e6ff427708ffbb7a54e2e91bc99e": {
-            "text": "Champs ajout\u00e9"
+            "text": "Champ ajout\u00e9"
         },
         "9de8e0c21384ddfd634fd87a48f6b3b2": {
-            "text": "Champs modifi\u00e9"
+            "text": "Champ modifi\u00e9"
         },
         "19b7fb53a85de3c8ba85672a91a7398b": {
             "text": "Exporter"
-        },
-        "722034114c47bfa859a1be8200469fcf": {
-            "text": "Ok"
         },
         "e37dfad06455f0c5d79778a5020d946d": {
             "text": "Importer"
@@ -117,37 +111,37 @@
             "text": "%d propri\u00e9t\u00e9s trouv\u00e9es \u00e0 appliquer."
         },
         "9e06b5dbfb31f1828888bca905c2e88e": {
-            "text": "Erreurs trouv\u00e9es dans %d champs"
+            "text": "Erreurs trouv\u00e9es dans %d champ"
         },
         "68949530f08adb8c1a98b2a452c25604": {
             "text": "Erreurs trouv\u00e9es dans %d champs"
         },
         "98e916ede6d185f77336fd8e0c08bfe0": {
-            "text": "Trouv\u00e9 %d nouveau champs \u00e0 ajouter"
+            "text": "Trouv\u00e9 %d nouveau champ \u00e0 ajouter"
         },
         "9bdf5048d07cd31f11ccd839cc2d077a": {
             "text": "Trouv\u00e9 %d nouveaux champs \u00e0 ajouter"
         },
         "927d189873b1f34075deb20406d33644": {
-            "text": "Trouv\u00e9 %d champs existant \u00e0 mettre \u00e0 jour"
+            "text": "Trouv\u00e9 %d champ existant \u00e0 mettre \u00e0 jour"
         },
         "5cc06b731a19a2b34a1e3a0e79e35690": {
             "text": "Trouv\u00e9 %d champs existants \u00e0 mettre \u00e0 jour"
         },
         "99dc52a2961a9de2d42d6dbd498b0103": {
-            "text": "Ajout\u00e9 %d champs"
+            "text": "Ajout\u00e9 %d champ"
         },
         "46b6c6eede6b98b8ac580770f6215f35": {
             "text": "Ajout\u00e9 %d champs"
         },
         "0ecf1cc5ca067272faabd8c0900efe68": {
-            "text": "%d champs modifi\u00e9"
+            "text": "%d champ modifi\u00e9"
         },
         "18e7924633aa136c8b5ba3827b3f7058": {
             "text": "%d champs modifi\u00e9s"
         },
         "c9185726324b2953e521ff596b287f25": {
-            "text": "%d champs ignor\u00e9"
+            "text": "%d champ ignor\u00e9"
         },
         "0cf5f939a615a083962e96f06b8ed6ea": {
             "text": "%d champs ignor\u00e9s"

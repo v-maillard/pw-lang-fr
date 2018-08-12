@@ -9,13 +9,13 @@
             "text": "Taille"
         },
         "7fcc26bcb0e9d85b555592f97cde9539": {
-            "text": "La largeur affich\u00e9e de ce champs (en caract\u00e8res). Saisir 0 pour la taille maximale."
+            "text": "La largeur affich\u00e9e de ce champ (en caract\u00e8res). Saisir 0 pour la taille maximale."
         },
         "2eb8badec738786d01bb81d0ee6ab3c0": {
             "text": "Longueur maximale"
         },
         "a4965347ff8523a66897b92fec81e04e": {
-            "text": "La longueur maximale (en caract\u00e8res) permise pour ce champs."
+            "text": "La longueur maximale (en caract\u00e8res) permise pour ce champ."
         },
         "0c576bc57cb2f57f4a2632d59599c26e": {
             "text": "Enlever les balises"
@@ -24,19 +24,19 @@
             "text": "Lorsque coch\u00e9, toute balise HTML sera enlev\u00e9e des donn\u00e9es lorsque le formulaire sera trait\u00e9."
         },
         "e69230ccdb60475aa38ea2c4cdc72ea0": {
-            "text": "Ceci est recommand\u00e9 si le champs n'a pas besoin d'entreposer du code HTML."
+            "text": "Ceci est recommand\u00e9 si le champ n'a pas besoin d'entreposer du code HTML."
         },
         "6485c7641245873388f0170f472183c6": {
             "text": "Texte fictif"
         },
         "dc08a8f73b667ceb56b5a22449e41d3e": {
-            "text": "Phrase fictive optionnelle qui apparait dans le champs lorsqu'il est vide."
+            "text": "Phrase fictive optionnelle qui apparait dans le champ lorsqu'il est vide."
         },
         "57391192dfa1f247ad015a0fe2eca48e": {
             "text": "Masque"
         },
         "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
-            "text": "Expression r\u00e9guli\u00e8re optionnelle \u00e0 imposer aux donn\u00e9es. Ceci est utilis\u00e9 autant du c\u00f4t\u00e9 client (attribut de masque HTML5) et du c\u00f4t\u00e9 serveur pour validation. Assurez-vous de fournir un example de texte correspondant au masque dans votre description de champs."
+            "text": "Expression r\u00e9guli\u00e8re optionnelle \u00e0 imposer aux donn\u00e9es. Ceci est utilis\u00e9 autant du c\u00f4t\u00e9 client (attribut de masque HTML5) et du c\u00f4t\u00e9 serveur pour validation. Assurez-vous de fournir un example de texte correspondant au masque dans votre description de champ."
         },
         "27615527f65d7d865a330397568fe263": {
             "text": "Voir [html5pattern.com] pour des exemples de masques que vous pouvez cr\u00e9er et utiliser."

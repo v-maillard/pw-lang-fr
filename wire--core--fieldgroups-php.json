@@ -3,10 +3,10 @@
     "textdomain": "wire--core--fieldgroups-php",
     "translations": {
         "abce719a5ff28157e0e92337d8dcf8bd": {
-            "text": "Impossible de trouver le champs : %s"
+            "text": "Impossible de trouver le champ : %s"
         },
         "f1d3c736f589a82f1519c711fd4123c0": {
-            "text": "Impossible de trouver le champs assign\u00e9 au contexte de champs : %s"
+            "text": "Impossible de trouver le champ assign\u00e9 au contexte de champ : %s"
         },
         "fdd1e49a5de74a22586acf7420fcbd8d": {
             "text": "Attention, toutes les donn\u00e9es de ce(s) champs seront supprim\u00e9s de fa\u00e7on permanente (veuillez confirmer) : %s"
