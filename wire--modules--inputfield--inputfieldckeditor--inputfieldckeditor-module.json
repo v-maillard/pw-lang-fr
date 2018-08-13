@@ -135,7 +135,7 @@
             "text": "Fichier de style JS personnalis\u00e9 pour l'\u00e9diteur"
         },
         "749b7a2316f526ff2ec75692749211ad": {
-            "text": "Cette option vous permet de sp\u00e9cifier des styles personnalis\u00e9e \u00e0 s\u00e9lectionner dans l'\u00e9diteur. Ceci requiert que vous ayez l'\u00e9l\u00e9ment \u00ab Styles \u00bb dans vos param\u00e8tres de barre d'outils ci-dessus."
+            "text": "Cette option vous permet de d\u00e9finir des styles personnalis\u00e9e \u00e0 s\u00e9lectionner dans l'\u00e9diteur. Ceci requiert que vous ayez l'\u00e9l\u00e9ment \u00ab Styles \u00bb dans vos param\u00e8tres de barre d'outils ci-dessus."
         },
         "63ba0561c6027fed354e6c5af252a77b": {
             "text": "Veuillez lire [nos instructions](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) sur comment utiliser cela."
@@ -147,7 +147,7 @@
             "text": "Options de configurations personnalis\u00e9es"
         },
         "0361833f130e526c7475f0bbcda324f3": {
-            "text": "Utilisez ceci lorsque vous d\u00e9sirez sp\u00e9cifier des param\u00e8tres de configuration sp\u00e9cifique pour CKEditor au del\u00e0 de ceux disponibles sur cette page."
+            "text": "Utilisez ceci lorsque vous d\u00e9sirez d\u00e9finir des param\u00e8tres de configuration sp\u00e9cifique pour CKEditor au del\u00e0 de ceux disponibles sur cette page."
         },
         "8b6ac858b8ce3c2724d267695c732325": {
             "text": "Les options de configurations personnalis\u00e9es ont \u00e9chou\u00e9 la validation JSON."

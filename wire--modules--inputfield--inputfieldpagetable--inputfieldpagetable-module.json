@@ -21,10 +21,10 @@
             "text": "Champs du tableau \u00e0 afficher dans le panneau d'administration"
         },
         "420fb882b998481add0d526522ffff81": {
-            "text": "Entrer les noms de champs (1 par ligne) que vous d\u00e9sirez afficher en tant que colonnes \u00e0 votre tableau. Pour sp\u00e9cifier une largeur de colonne associ\u00e9e au champ, sp\u00e9cifiez \"nom_champ=30\" o\u00f9 \"30\" est la largeur (en pourcent) de la colonne. Lorsque vous sp\u00e9cifiez des largeurs, assurez que la largeur donne un total de 100."
+            "text": "Entrer les noms de champs (1 par ligne) que vous d\u00e9sirez afficher en tant que colonnes \u00e0 votre tableau. Pour d\u00e9finir une largeur de colonne associ\u00e9e au champ, d\u00e9clarez \"nom_champ=30\" o\u00f9 \"30\" est la largeur (en pourcentage) de la colonne. Lorsque vous d\u00e9clarez des largeurs, assurez que la largeur donne un total de 100."
         },
         "290cc1b749092b6f62035343a4e4f9eb": {
-            "text": "Vous pouvez sp\u00e9cifier tout champ natif ou personnalis\u00e9. Vous pouvez aussi utiliser des sous-champs (champ.souschamp) pour les champs contenant des propri\u00e9t\u00e9s multiples, tels que des r\u00e9f\u00e9rences de pages."
+            "text": "Vous pouvez d\u00e9clarez tout champ natif ou personnalis\u00e9. Vous pouvez aussi utiliser des sous-champs (champ.souschamp) pour les champs contenant des propri\u00e9t\u00e9s multiples, tels que des r\u00e9f\u00e9rences de pages."
         },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "Les champs personnalit\u00e9s assign\u00e9s \u00e0 votre mod\u00e8le incluent les suivants :"

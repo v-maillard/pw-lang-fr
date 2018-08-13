@@ -162,7 +162,7 @@
             "text": "*Pour optimiser la performance, les fichiers du cache expirent tous en groupe plut\u00f4t que d'\u00eatre nettoy\u00e9s individuellement."
         },
         "7ebdcad871020558be972578bdf46a10": {
-            "text": "Sp\u00e9cifiez les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9"
+            "text": "D\u00e9clarer les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9"
         },
         "501a09415d30cab1819195e5566a0c0d": {
             "text": "Lorsque des pages utilisant ce mod\u00e8le sont enregistr\u00e9es, leur fichiers de cache seront nettoy\u00e9s. S\u00e9lectionnez les autres pages pour lesquelles le cache devrait \u00eatre nettoy\u00e9 ci-dessous."
@@ -186,13 +186,13 @@
             "text": "Variables POST d\u00e9sactivant le cache"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
-            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous pouvez optionnellement sp\u00e9cifier un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
+            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous pouvez optionnellement d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Optionnellement, entrez un ou plusieurs noms de variables. Pour en sp\u00e9cifier plus d'un, s\u00e9parez-les par un espace."
+            "text": "Optionnellement, entrez un ou plusieurs noms de variables. Pour en d\u00e9clarer plus d'un, s\u00e9parez-les par un espace."
         },
         "5cb36b26303f4abb0dea36f9bb96887f": {
-            "text": "Si vous d\u00e9sirez grouper visuellement ce mod\u00e8le avec d'autres dans la liste de mod\u00e8les, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres mod\u00e8les avec lesquels vous d\u00e9sirer le grouper. Pour sp\u00e9cifier des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de mod\u00e8les."
+            "text": "Si vous d\u00e9sirez grouper visuellement ce mod\u00e8le avec d'autres dans la liste de mod\u00e8les, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres mod\u00e8les avec lesquels vous d\u00e9sirer le grouper. Pour d\u00e9clarer des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de mod\u00e8les."
         },
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Chaque tag doit \u00eatre compos\u00e9 d'un mot (les tirets-sont-ok)."
@@ -225,7 +225,7 @@
             "text": "Liste de champs \u00e0 afficher dans l'arborescence de l'interface d'administration"
         },
         "61b468c296e8ff1ed4c18bd86392e1cc": {
-            "text": "Entrez un ou plusieurs noms de champs assign\u00e9s \u00e0 ce mod\u00e8le \u00e0 afficher dans l'arborescence de l'interface d'administration lors de l'affichage des pages utilisant ce mod\u00e8le. Lorsque laiss\u00e9 vide, les champs sp\u00e9cifi\u00e9s dans le module ProcessPageList seront utilis\u00e9s. Les noms de champs doivent \u00eatres s\u00e9par\u00e9s d'un espace et\/ou d'une virgule. Les champs vides seront ignor\u00e9s."
+            "text": "Entrez un ou plusieurs noms de champs assign\u00e9s \u00e0 ce mod\u00e8le \u00e0 afficher dans l'arborescence de l'interface d'administration lors de l'affichage des pages utilisant ce mod\u00e8le. Lorsque laiss\u00e9 vide, les champs d\u00e9clar\u00e9s dans le module ProcessPageList seront utilis\u00e9s. Les noms de champs doivent \u00eatres s\u00e9par\u00e9s d'un espace et\/ou d'une virgule. Les champs vides seront ignor\u00e9s."
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
             "text": "Vous pouvez entrer un ou plusieurs de ces champs :"
@@ -375,7 +375,7 @@
             "text": "Format de nom pour les enfants"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-dessus."
+            "text": "Vous pouvez, en option, d\u00e9finir un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-dessus."
         },
         "27dd547b53bb1b3c67c345f984747010": {
             "text": "Laissez vide pour d\u00e9sactiver. Entrez \u00ab title \u00bb (sans les guillemets) pour g\u00e9n\u00e9rer automatiquement un nom de page \u00e0 partir du titre. Plus d'options, incluant des formats de date, sont disponibles. [En savoir plus\u2026](http:\/\/processwire.com\/api\/modules\/process-template\/)"
@@ -855,7 +855,7 @@
             "text": "Remplacer optionnellement la propri\u00e9t\u00e9 \"Nom\" par d\u00e9faut de l'\u00e9tiquette."
         },
         "9a4127b29b0b6c40638af21074829f0e": {
-            "text": "Vous pouvez aussi utiliser votre propre format (et tout caract\u00e8res ou ponctuation additionnels) en sp\u00e9cifiant les noms de champs entre accolades, e.g. {name}, {categories.title}, etc."
+            "text": "Vous pouvez aussi utiliser votre propre format (et tout caract\u00e8res ou ponctuation additionnels) en d\u00e9clarant les noms de champs entre accolades, e.g. {name}, {categories.title}, etc."
         },
         "9c16eb3042fbf6c2b73a21dea122d19e": {
             "text": "Pour sp\u00e9cifier la propri\u00e9t\u00e9 d'un champ, entourez le nom du champ d'accolades et entrez {nom_champ.propriete}, par exemple: {categories.title}"
@@ -996,7 +996,7 @@
             "text": "D\u00e9publier la page (si autoris\u00e9)"
         },
         "6be7133083e1d91f772589bf24aa5e48": {
-            "text": "sp\u00e9cifier 0 pour d\u00e9sactiver"
+            "text": "d\u00e9clarez 0 pour d\u00e9sactiver"
         },
         "4250b64aabe2bd1f7764377c2f5380c4": {
             "text": "D\u00e9sactiv\u00e9 la gestion multi-lingue pour ce mod\u00e8le ?"

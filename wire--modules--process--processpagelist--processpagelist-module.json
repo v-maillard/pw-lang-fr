@@ -63,7 +63,7 @@
             "text": "Vitesse d'animation (en ms)"
         },
         "453420e78223c3c2ff7a28bfc3a44dde": {
-            "text": "La vitesse \u00e0 laquelle chaque branche de l'arborescence est anim\u00e9e. Un nombre plus bas r\u00e9sulte en une animation plus rapide mais moins visible. Pour d\u00e9sactiver les animations, sp\u00e9cifiez 0."
+            "text": "La vitesse \u00e0 laquelle chaque branche de l'arborescence est anim\u00e9e. Un nombre plus bas r\u00e9sulte en une animation plus rapide mais moins visible. Pour d\u00e9sactiver les animations, d\u00e9clarez 0."
         },
         "5ca370c3b4f85b5c8308b75ea46984cb": {
             "text": "Erreur r\u00e9seau, veuillez r\u00e9essayer plus tard"
@@ -72,13 +72,13 @@
             "text": "Erreur inconnue, veuillez r\u00e9essayer plus tard"
         },
         "bdfca484a650a86abab2578865834ac3": {
-            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champ titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champ doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champ par un espace. Si le champ est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: {autrepage.title}. Notez que si le champ que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champ \u00ab name \u00bb de la page."
+            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champ titre ou sous-titre. Vous pouvez d\u00e9finir quel champ doit \u00eatre affich\u00e9 ici. Pour d\u00e9clarer des champs multiples, s\u00e9parez chaque nom de champ par un espace. Si le champ est un objet (par exemple une autre page), d\u00e9clarez alors la propri\u00e9t\u00e9 avec un point, ex: {autrepage.title}. Notez que si le champ que vous d\u00e9clar\u00e9 se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champ \u00ab name \u00bb de la page."
         },
         "eceb8bf0921f19bb3ae6972e7902c887": {
             "text": "La valeur par d\u00e9faut est %d."
         },
         "f0ebf50a114d563bc9bd51eb8df08f5a": {
-            "text": "Si laiss\u00e9 \u00e0 sa valeur par d\u00e9faut, ce param\u00e8tre peut aussi \u00eatre sp\u00e9cifi\u00e9 dans le tableau $config->pageList."
+            "text": "Si laiss\u00e9 \u00e0 sa valeur par d\u00e9faut, ce param\u00e8tre peut aussi \u00eatre d\u00e9clar\u00e9 dans le tableau $config->pageList."
         },
         "7f46e875eed0badd2516b23657f4f320": {
             "text": "Afficher les actions de page au survol ?"

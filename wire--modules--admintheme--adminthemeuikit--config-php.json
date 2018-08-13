@@ -48,7 +48,7 @@
             "text": "Cette \u00e9tiquette appara\u00eet \u00e0 c\u00f4t\u00e9 de l'image \/ l'ic\u00f4ne de l'utilisateur."
         },
         "33f5c52210024a7906c33c262435d813": {
-            "text": "Sp\u00e9cifiez champ(s) et format \u00e0 utiliser pour l'\u00e9tiquette utilisateur, ou laissez vide pour ne pas utiliser d'\u00e9tiquette."
+            "text": "D\u00e9finissez les champ(s) et le format \u00e0 utiliser pour l'\u00e9tiquette utilisateur, ou laissez vide pour ne pas utiliser d'\u00e9tiquette."
         },
         "9ac50f55fe0eb306162cdde72aee40db": {
             "text": "Utilisez n'importe quels champs \/ propri\u00e9t\u00e9s de votre mod\u00e8le [utilisateur](%s) entour\u00e9s d'{accolades}."
@@ -90,7 +90,7 @@
             "text": "Largeur maximale"
         },
         "c0a71759159badff6c9c45f730402dd6": {
-            "text": "Sp\u00e9cifiez la largeur maximale (en pixels) ou 0 pour aucun maximum."
+            "text": "D\u00e9finir la largeur maximale (en pixels) ou 0 pour aucun maximum."
         },
         "37243206806c555c2dbce190b1f49f37": {
             "text": "Style des notifications"
@@ -129,7 +129,7 @@
             "text": "Chacun de ces param\u00e8tres (et d'autres) peut aussi \u00eatre ajout\u00e9 individuellement pour un champ donn\u00e9."
         },
         "0b28aca953c7100643fcacab33dbf502": {
-            "text": "Si vous sp\u00e9cifiez un param\u00e8tre ici, il \u00e9crasera les param\u00e8tre individuels du champ."
+            "text": "Si vous d\u00e9finissez un param\u00e8tre ici, il \u00e9crasera les param\u00e8tre individuels du champ."
         },
         "15367a85a0239326ebf3b0294edd61ce": {
             "text": "Voiir : Configuration > Champs > [un champ] > Champ (onglet) > Param\u00e8tres de th\u00e8me admin."

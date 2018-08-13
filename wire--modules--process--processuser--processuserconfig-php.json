@@ -9,7 +9,7 @@
             "text": "Lorsque le nombre d'utilisateurs dans le syst\u00e8me exc\u00e8de cette quantit\u00e9, la navigation par le menu d\u00e9roulant pr\u00e9sentera plut\u00f4t les r\u00f4les avec un d\u00e9compte d'utilisateurs plut\u00f4t que les utilisateurs."
         },
         "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
-            "text": "Sp\u00e9cifiez une valeur entre 1 et 100 (25 par d\u00e9faut)"
+            "text": "D\u00e9clarer une valeur entre 1 et 100 (25 par d\u00e9faut)"
         }
     }
 }

@@ -96,10 +96,10 @@
             "text": "\u00c9tat"
         },
         "3361493ce22b609b5d11f463c8bd8c6a": {
-            "text": "Mode 'include=' sp\u00e9cifi\u00e9 non permis ici."
+            "text": "Le mode 'include=' d\u00e9fini n'est non permis ici."
         },
         "e418dc3d6d68592a1932bb1446975acb": {
-            "text": "Les mod\u00e8les sp\u00e9cifi\u00e9s ne sont pas tous \u00e9ditables. Seulement 'include=hidden' est permis"
+            "text": "Les mod\u00e8les d\u00e9clar\u00e9s ne sont pas tous \u00e9ditables. Seulement 'include=hidden' est permis"
         },
         "2cd1c7a79703fe25a98128ad343a621e": {
             "text": "Rafra\u00eechir les r\u00e9sultats"
@@ -117,7 +117,7 @@
             "text": "="
         },
         "12b585ee7c6e8dca3790262f321f3823": {
-            "text": "Aucun mod\u00e8le sp\u00e9cifi\u00e9, 'include=hidden' est donc au mode d'inclusion maximum permis"
+            "text": "Aucun mod\u00e8le d\u00e9clar\u00e9, 'include=hidden' est donc au mode d'inclusion maximum permis"
         },
         "7a69d6b27362b48011a2a09c56e04bce": {
             "text": "Signets"

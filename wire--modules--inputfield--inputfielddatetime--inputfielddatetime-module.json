@@ -27,7 +27,7 @@
             "text": "Plage d'ann\u00e9es du s\u00e9lectionneur de date"
         },
         "062e5153dad257d2a6a1560033719e9b": {
-            "text": "Lorsque le s\u00e9lectionneur de date est utilis\u00e9, il permet de s\u00e9lectionner une plage de plus et moins 10 ans \u00e0 partir de l'ann\u00e9e actuelle. Pour augmenter ou r\u00e9duire cette plage, sp\u00e9cifiez la quantit\u00e9 d'ann\u00e9es avant et apr\u00e8s l'ann\u00e9e courante dans ce format : \u00ab -30:+20 \u00bb, qui vous permettra de s\u00e9lectionner 30 ans avant et 20 ans apr\u00e8s l'ann\u00e9e en cours."
+            "text": "Lorsque le s\u00e9lectionneur de date est utilis\u00e9, il permet de s\u00e9lectionner une plage de plus et moins 10 ans \u00e0 partir de l'ann\u00e9e actuelle. Pour augmenter ou r\u00e9duire cette plage, d\u00e9finissez la quantit\u00e9 d'ann\u00e9es avant et apr\u00e8s l'ann\u00e9e courante dans ce format : \u00ab -30:+20 \u00bb, qui vous permettra de s\u00e9lectionner 30 ans avant et 20 ans apr\u00e8s l'ann\u00e9e en cours."
         },
         "26fe23eafa82406bc0d0cd216a734d73": {
             "text": "La valeur pas d\u00e9faut lorsqu'aucune valeur n'est pr\u00e9sente est \u00ab\u00a0-10:+10 \u00bb qui affiche une place d'ann\u00e9es dans le s\u00e9lecteur de date de 10 ans avant et apr\u00e8s l'ann\u00e9e en cours."
@@ -60,7 +60,7 @@
             "text": "Vois la r\u00e9f\u00e9rence de fonction [date de PHP](http:\/\/www.php.net\/manual\/fr\/function.date.php) pour plus d'informations sur la configuration de ces formats."
         },
         "3668c3ec43f4b401c6de009e3abb73f9": {
-            "text": "Vous pouvez optionnellement sp\u00e9cifier les formats pour les autres langues ici. Toute langue laiss\u00e9e vide h\u00e9ritera du param\u00e8tre par d\u00e9faut."
+            "text": "Vous pouvez optionnellement d\u00e9finir les formats pour les autres langues ici. Toute langue laiss\u00e9e vide h\u00e9ritera du param\u00e8tre par d\u00e9faut."
         },
         "b3641a0b694cd7a82856611ce58d4979": {
             "text": "Code d'entr\u00e9e du format d'heure"

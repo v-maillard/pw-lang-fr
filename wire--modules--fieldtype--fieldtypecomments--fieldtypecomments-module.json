@@ -156,7 +156,7 @@
             "text": "Profondeur de r\u00e9ponse"
         },
         "1f33bbe656fa140ce52347fb0af13a18": {
-            "text": "Sp\u00e9cifier 0 pour d\u00e9sactiver l'arborescence des commentaires. Pour les commentaires en arborescence (les r\u00e9ponses apparaissent avec le commentaire auquel il r\u00e9pond), sp\u00e9cifiez la profondeur de r\u00e9ponse permise (recommand\u00e9 entre 0 et 4 )"
+            "text": "D\u00e9clarez 0 pour d\u00e9sactiver l'arborescence des commentaires. Pour les commentaires en arborescence (les r\u00e9ponses apparaissent avec le commentaire auquel il r\u00e9pond), d\u00e9finissez la profondeur de r\u00e9ponse permise (recommand\u00e9 entre 0 et 4)."
         },
         "b3dc4b8696a26f0852afc3df1785ce24": {
             "text": "Format date\/heure (pour la liste de commentaires)"

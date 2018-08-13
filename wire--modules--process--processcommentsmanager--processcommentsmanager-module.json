@@ -18,7 +18,7 @@
             "text": "Veuillez s\u00e9lectionner un champ commentaire"
         },
         "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
-            "text": "Aucun champ de commentaire sp\u00e9cifi\u00e9 pour l'URL"
+            "text": "Aucun champ de commentaire d\u00e9fini pour l'URL"
         },
         "4f85d037300d5f7efcf7fdc3f973db7f": {
             "text": "Champ non reconnu"
@@ -105,7 +105,7 @@
             "text": "Statut"
         },
         "d442d63d91aee0c27fffe480c591f6d8": {
-            "text": "Sp\u00e9cifier un satut"
+            "text": "D\u00e9finir un statut"
         },
         "4f5d5f295ddc8fd8673e74dd5fbe114a": {
             "text": "par page"

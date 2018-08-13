@@ -66,7 +66,7 @@
             "text": "G\u00e9n\u00e9ralement, ce sera seulement le champ titre, mais vous pouvez \u00e9galement en ajouter d'autres en les s\u00e9parant d'un espace."
         },
         "db47517eeed0761aad011565e44e8390": {
-            "text": "Veuillez noter que c'est diff\u00e9rent du \"Champ d'\u00e9tiquette\" car vous sp\u00e9cifier quels champs seront parcouru, et non les champs qui seront montr\u00e9s."
+            "text": "Veuillez noter que c'est diff\u00e9rent du \"Champ d'\u00e9tiquette\" car vous d\u00e9finissez quels champs seront parcourus, et non les champs qui seront montr\u00e9s."
         }
     }
 }

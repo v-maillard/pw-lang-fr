@@ -72,7 +72,7 @@
             "text": "Entrer le nom de champ que vous d\u00e9sirez utiliser pour trier le tableau. Pour un tri descendant, pr\u00e9fixez le nom de champ avec un tiret, i.e. \"-date\" plut\u00f4t que \"date\"."
         },
         "bad3d943c1f7443d2205de6edd995d6e": {
-            "text": "Vous pouvez sp\u00e9cifier plusieurs champs de tri en les s\u00e9parant par une virgule, i.e. \"prenom, nom_famille, -anniversaire\"."
+            "text": "Vous pouvez d\u00e9clarer plusieurs champs de tri en les s\u00e9parant par une virgule, i.e. \"prenom, nom_famille, -anniversaire\"."
         },
         "8198f788c0d53d819605c0dcdfdfe413": {
             "text": "Laisser vide pour un tri manuel par glisser-d\u00e9poser (par d\u00e9faut)."

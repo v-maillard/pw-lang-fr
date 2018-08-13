@@ -126,16 +126,16 @@
             "text": "Attributs de lien externe"
         },
         "9b291241830397114b711a98ca6695d6": {
-            "text": "Sp\u00e9cifiez les attributs s\u00e9lectionn\u00e9s par d\u00e9faut et qui seront automatiquement remplis lorsqu'un lien externe est d\u00e9tect\u00e9."
+            "text": "D\u00e9finissez les attributs s\u00e9lectionn\u00e9s par d\u00e9faut et qui seront automatiquement remplis lorsqu'un lien externe est d\u00e9tect\u00e9."
         },
         "7f4fd9351aed8f03ec4559872d125eb4": {
             "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-dessus."
         },
         "eafd32d33d67b845444c70572e6c1e50": {
-            "text": "Exemple : Sp\u00e9cifier **nofollow** rendrait les liens externes non suivis par les moteurs de recherche comme valeur par d\u00e9faut."
+            "text": "Exemple : D\u00e9clarer **nofollow** rendrait les liens externes non suivis par les moteurs de recherche comme valeur par d\u00e9faut."
         },
         "1da324557a591359538e1705e30b5dea": {
-            "text": "Exemple : Sp\u00e9cifier **_blank** ferait ouvrir les liens externes dans une nouvelle fen\u00eatre par d\u00e9faut."
+            "text": "Exemple : D\u00e9clarer **_blank** ferait ouvrir les liens externes dans une nouvelle fen\u00eatre par d\u00e9faut."
         },
         "eba991d56b1be0b940d722211bab87bc": {
             "text": "="

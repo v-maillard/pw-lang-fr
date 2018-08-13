@@ -6,7 +6,7 @@
             "text": "%1$d pages trouv\u00e9es en utilisant le s\u00e9lecteur : %2$s"
         },
         "2c44229630ad7e2758a89bd14435a31b": {
-            "text": "Pas de recherche sp\u00e9cifi\u00e9e"
+            "text": "Pas de recherche d\u00e9finie"
         },
         "75ecaaafd1f677d07360709be6528768": {
             "text": "Rechercher :"
@@ -96,7 +96,7 @@
             "text": "Noms des champs \u00e0 afficher par d\u00e9faut dans les r\u00e9sultats de recherche"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
-            "text": "Pour sp\u00e9cifier plus d'un champ, s\u00e9parez les d'un espace"
+            "text": "Pour d\u00e9clarer plus d'un champ, s\u00e9parez les d'un espace"
         },
         "51e1d489ac4198969f8daf52b7cdfaf6": {
             "text": "Op\u00e9rateur de recherche par d\u00e9faut"

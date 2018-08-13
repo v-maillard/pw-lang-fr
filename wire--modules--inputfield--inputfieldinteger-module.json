@@ -12,7 +12,7 @@
             "text": "n'importe"
         },
         "004d36e4fa95eec8357b066aa20e9d8d": {
-            "text": "Valeur %3$s sp\u00e9cifi\u00e9e enlev\u00e9e puisqu'elle est hors limites (min=%1$s, max=%2$s)"
+            "text": "Valeur %3$s d\u00e9finie enlev\u00e9e puisqu'elle est hors limite (min=%1$s, max=%2$s)"
         },
         "ddf1608e4f7def4fd584f806267255d4": {
             "text": "Type d'entr\u00e9e num\u00e9rique"
@@ -54,7 +54,7 @@
             "text": "Taille du champ"
         },
         "320e94493eb997536f4ec1eb75a61c38": {
-            "text": "Sp\u00e9cifier la taille du champ, la valeur 0 correspond \u00e0 la largeur totale."
+            "text": "D\u00e9finissez la taille du champ, la valeur 0 correspond \u00e0 la largeur totale."
         },
         "08adfc4e3f75347c88b665609425d43a": {
             "text": "La valeur par d\u00e9faut est %d."

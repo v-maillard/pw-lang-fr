@@ -114,7 +114,7 @@
             "text": "Champ d'\u00e9tiquette"
         },
         "a0cb77306b6f4e96a00cdc5a0c128166": {
-            "text": "S\u00e9lectionnez \u00abFormat personnalis\u00e9\u00bb si vous d\u00e9sirez sp\u00e9cifier plusieurs champs ou des champs que vous ne voyez pas ci-dessus."
+            "text": "S\u00e9lectionnez \u00abFormat personnalis\u00e9\u00bb si vous d\u00e9sirez d\u00e9clarer plusieurs champs ou des champs que vous ne voyez pas ci-dessus."
         },
         "282acaaa24f42bb779ccb235bfc37491": {
             "text": "Format personnalis\u00e9 (champs multiples)\u2026"
@@ -123,7 +123,7 @@
             "text": "Format de l'\u00e9tiquette de page personnalis\u00e9"
         },
         "ebebc537c9c3117a5e2304be412d83f3": {
-            "text": "Sp\u00e9cifiez un ou plusieurs noms de champs entour\u00e9s {d'accolades} ainsi que tous caract\u00e8res, espacements ou ponctuations additionnels."
+            "text": "D\u00e9clarez un ou plusieurs noms de champs entour\u00e9s {d'accolades} ainsi que tous caract\u00e8res, espacements ou ponctuations additionnels."
         },
         "190dcbcb68a0545eb0e38c4eca2961e0": {
             "text": "Exemple: {parent.title} - {title}, {date}"
@@ -156,13 +156,13 @@
             "text": "Vous avez s\u00e9lectionn\u00e9 un type de champ qui a des besoins sp\u00e9cifiques."
         },
         "d45d37464c307f05fe480979c03fd99b": {
-            "text": "Sp\u00e9cifier seulement l'option \"Parent\" ci-dessous au moment de configurer les \"Pages s\u00e9lectionnables\""
+            "text": "D\u00e9clarer seulement l'option \"Parent\" ci-dessous au moment de configurer les \"Pages s\u00e9lectionnables\""
         },
         "a8e65bab8badd05312e21a13bc8aacf1": {
             "text": "Le parent choisi d\u00e9fini la racine de l'arborescence pour les pages s\u00e9lectionnables."
         },
         "d89af7d091962a34d3d666a54148e1f9": {
-            "text": "Si vous souhaitez tout rendre s\u00e9lectionnable, alors ne sp\u00e9cifiez rien."
+            "text": "Si vous souhaitez tout rendre s\u00e9lectionnable, alors ne d\u00e9clarez rien."
         },
         "309980b76124ca15c19a948edcd2b820": {
             "text": "Pages s\u00e9lectionnables"
@@ -219,7 +219,7 @@
             "text": "Code PHP personnalis\u00e9"
         },
         "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
-            "text": "1.  Un parent et un template doivent \u00eatre sp\u00e9cifi\u00e9 dans la section \"Pages s\u00e9lectionnables\" ci-dessus."
+            "text": "1.  Un parent et un template doivent \u00eatre d\u00e9finis dans la section \"Pages s\u00e9lectionnables\" ci-dessus."
         },
         "8379c940f14c74babf288df5cec8a408": {
             "text": "Le \"Champ d'\u00e9tiquette\" doit \u00eatre mis \u00e0 \"title (default)\"."

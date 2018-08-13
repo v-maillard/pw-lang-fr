@@ -18,7 +18,7 @@
             "text": "Hauteur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Entrez optionnellement le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si sp\u00e9cifi\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
+            "text": "Entrez optionnellement le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si d\u00e9clar\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Largeur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
@@ -57,7 +57,7 @@
             "text": "Dimensions minimales de l'image"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optionnellement, entrez une largeur et\/ou une hauteur minimale(s) pour les images t\u00e9l\u00e9vers\u00e9es. Lorsque sp\u00e9cifi\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
+            "text": "Optionnellement, entrez une largeur et\/ou une hauteur minimale(s) pour les images t\u00e9l\u00e9vers\u00e9es. Lorsque d\u00e9clar\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
             "text": "Largeur minimum pour les images t\u00e9l\u00e9vers\u00e9es"
@@ -222,7 +222,7 @@
             "text": "En utilisant le redimensionnement c\u00f4t\u00e9 client, la taille du fichier et ses dimensions sont r\u00e9duites avant l'upload."
         },
         "c265ab5c0405e78595f05a15d5279278": {
-            "text": "En utilisant le redimensionnement c\u00f4t\u00e9 client, veuillez sp\u00e9cifier \u00e0 la fois la largeur maximale *et* la hauteur maximale dans les champs ci-dessus, ou les megapixels maximum dans le champ ci-dessous."
+            "text": "En utilisant le redimensionnement c\u00f4t\u00e9 client, veuillez d\u00e9clarer \u00e0 la fois la largeur maximale *et* la hauteur maximale dans les champs ci-dessus, ou les megapixels maximum dans le champ ci-dessous."
         },
         "edcf99dacdc6160d6eb8d2efb90ee189": {
             "text": "Utiliser le redimensionnement c\u00f4t\u00e9 client d\u00e8s que possible"
@@ -234,7 +234,7 @@
             "text": "Megapixels maximum pour les images upload\u00e9es"
         },
         "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Peut \u00eatre utilis\u00e9 comme une alternative aux hauteurs et largeurs maximales. Sp\u00e9cifier une valeur \u00e0 virgule flottante."
+            "text": "Peut \u00eatre utilis\u00e9 comme une alternative aux hauteurs et largeurs maximales. D\u00e9clarez une valeur \u00e0 virgule flottante (float)."
         },
         "bd035d6e1aa04d38e61f36c27150e39d": {
             "text": "Applicable seulement au redimensionnement c\u00f4t\u00e9 client."
@@ -249,7 +249,7 @@
             "text": "Pourcentage de qualit\u00e9 du redimensionnement des JPEG (c\u00f4t\u00e9 client)"
         },
         "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "Sp\u00e9cifier un nombre entre 10 (plus basse qualit\u00e9 \/ plus petite taille fichier) et 100 (plus haute qualit\u00e9 \/ plus grande taille fichier)."
+            "text": "D\u00e9clarer un nombre entre 10 (plus basse qualit\u00e9 \/ plus petite taille fichier) et 100 (plus haute qualit\u00e9 \/ plus grande taille fichier)."
         },
         "aa09d92fbba4044af814b7504798dec3": {
             "text": "Si coch\u00e9, les images sup\u00e9rieures aux hauteurs et largeurs maximales (qui ne peuvent pas \u00eatre redimensionn\u00e9es c\u00f4t\u00e9 client) seront refus\u00e9es plut\u00f4t que redimensionn\u00e9es."
