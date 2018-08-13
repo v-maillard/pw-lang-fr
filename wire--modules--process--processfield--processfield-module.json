@@ -87,7 +87,7 @@
             "text": "Contexte"
         },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "*Indique que ce champ \u00e9crase pr\u00e9sentement une valeur par d\u00e9faut. Les param\u00e8tres que vous sp\u00e9cifiez sur cet \u00e9cran \u00e9crasent les param\u00e8tres par d\u00e9faut lorsqu'utilis\u00e9s avec le mod\u00e8le \u00ab %s \u00bb."
+            "text": "*Indique que ce champ \u00e9crase actuellement une valeur par d\u00e9faut. Les param\u00e8tres que vous sp\u00e9cifiez sur cet \u00e9cran \u00e9crasent les param\u00e8tres par d\u00e9faut lorsqu'utilis\u00e9s avec le mod\u00e8le \u00ab %s \u00bb."
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Supprimer le champ"

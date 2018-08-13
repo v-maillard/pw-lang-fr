@@ -60,7 +60,7 @@
             "text": "Le nom entr\u00e9 est d\u00e9j\u00e0 utilis\u00e9. Si vous ne le modifiez pas, il sera rendu unique automatiquement apr\u00e8s l'enregistrement."
         },
         "b0324fdebb63032317bba7c66bff89fc": {
-            "text": "Il n'y a pr\u00e9sentement aucun mod\u00e8le avec la relation parent\/enfant d\u00e9finie n\u00e9cessaire pour afficher le raccourci \u00abAjouter nouveau\u00bb ici. Pour configurer cela, \u00e9ditez tout mod\u00e8le (Param\u00e8tres > Mod\u00e8les) et cliquez sur l'onglet \"Relations\"."
+            "text": "Il n'y a actuellement aucun mod\u00e8le avec la relation parent\/enfant d\u00e9finie n\u00e9cessaire pour afficher le raccourci \u00abAjouter nouveau\u00bb ici. Pour configurer cela, \u00e9ditez tout mod\u00e8le (Param\u00e8tres > Mod\u00e8les) et cliquez sur l'onglet \"Relations\"."
         },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "OK"

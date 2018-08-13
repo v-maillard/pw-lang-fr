@@ -57,7 +57,7 @@
             "text": "Cr\u00e9er un nouveau mod\u00e8le sans fichier"
         },
         "524fe63ba99d979ba854d38529c9abc1": {
-            "text": "Si vous d\u00e9sirez cr\u00e9er un nouveau mod\u00e8le m\u00eame si aucun fichier n'y est pr\u00e9sentement associ\u00e9, entrez le nom du mod\u00e8le ici."
+            "text": "Si vous d\u00e9sirez cr\u00e9er un nouveau mod\u00e8le m\u00eame si aucun fichier n'y est actuellement associ\u00e9, entrez le nom du mod\u00e8le ici."
         },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Vous pouvez entrer plusieurs noms de mod\u00e8les en les s\u00e9parant par un espace."
@@ -846,7 +846,7 @@
             "text": "Activ\u00e9e (ProCache, configur\u00e9e ici)"
         },
         "404deca0459b84d7308fb7c434301657": {
-            "text": "Les pages utilisant ce mod\u00e8le sont pr\u00e9sentent en cache \u00e0 l'aide de ProCache, mais configur\u00e9es directement dans ProCache. Pour configurer les param\u00e8tres ProCache de ce mod\u00e8le, choisissez l'option ProCache ci-dessus."
+            "text": "Les pages utilisant ce mod\u00e8le sont pr\u00e9sentes en cache \u00e0 l'aide de ProCache, mais configur\u00e9es directement dans ProCache. Pour configurer les param\u00e8tres ProCache de ce mod\u00e8le, choisissez l'option ProCache ci-dessus."
         },
         "189f63f277cd73395561651753563065": {
             "text": "="
