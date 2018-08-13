@@ -921,7 +921,7 @@
             "text": "Permission d'\u00e9dition additionnelles et \u00e9crasements"
         },
         "5cd4a0ea4859ae8a1371ded392cfff3b": {
-            "text": "Ajoutez ou r\u00e9voquer optionnellement les permissions assign\u00e9es \u00e0 chaque r\u00f4le lorsque requis pour les pages utilisant ce mod\u00e8le (ou h\u00e9ritant de ce dernier)."
+            "text": "Ajoutez ou retirer optionnellement les permissions assign\u00e9es \u00e0 chaque r\u00f4le lorsque requis pour les pages utilisant ce mod\u00e8le (ou h\u00e9ritant de ce dernier)."
         },
         "f0ec91a2ccc29fee4de702e940b186a8": {
             "text": "Les options disponibles ici sont d\u00e9termin\u00e9es par les choix d'\u00e9dition de page ci-dessus. Ainsi, vous devriez enregistrer ce mod\u00e8le et y revenir apr\u00e8s avoir effectu\u00e9 des changements aux r\u00f4les ayant l'acc\u00e8s d'\u00e9dition de page ci-dessus."
@@ -933,7 +933,7 @@
             "text": "Ajouter des permissions par r\u00f4le"
         },
         "3d7582ad0b178e43f075e25248efdc12": {
-            "text": "R\u00e9voquer des permissions par r\u00f4le"
+            "text": "Retirer des permissions par r\u00f4le"
         },
         "adc3250d7ccf9a0303cc0b44d70917d6": {
             "text": "="
