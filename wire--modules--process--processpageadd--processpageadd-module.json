@@ -85,6 +85,9 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "La s\u00e9lection d'un mod\u00e8le est requise"
+        },
+        "6649c293aa8a0af33c071f946674fc31": {
+            "text": "Attention, le nom s\u00e9lectionn\u00e9 \"%1$s\" a \u00e9t\u00e9 chang\u00e9 en \"%2$s\"."
         }
     }
 }

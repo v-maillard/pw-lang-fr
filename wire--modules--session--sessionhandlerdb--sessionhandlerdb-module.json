@@ -13,6 +13,18 @@
         },
         "703fdc8134134754f6630df73ee50572": {
             "text": "Le \u00ab user agent \u00bb contient g\u00e9n\u00e9ralement des informations sur le navigateur utilis\u00e9 par le visiteur."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Ne pas permettre les sessions parall\u00e8les ?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Si activ\u00e9, une connexion r\u00e9ussie d\u00e9connecte toutes les autres sessions pour cet utilisateur sur les autres devices\/navigateurs."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Cocher cette cas n'autorisera qu'une seule session \u00e0 la fois pour une utilisateur connect\u00e9."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "La session pr\u00e9c\u00e9dent pour %s a \u00e9t\u00e9 d\u00e9connect\u00e9e."
         }
     }
 }

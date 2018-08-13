@@ -49,6 +49,30 @@
         },
         "5c6d4a4ac74797a290100dc74f6cd79d": {
             "text": "IMPORTANT : La valeur par d\u00e9faut est utilis\u00e9e seulement si le champ est requis (voir la case \"requis\" sur cette page)"
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Pour utiliser les options d'\u00e9tiquettes multi-lingues, veuillez lire les instructions dessous ce champ."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instructions :"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Sp\u00e9cifier une option par ligne."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Instructions multi-lingue :"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "Il est recommand\u00e9 d'utiliser `value=label`, o\u00f9 `value`est la m\u00eame selon toutes les langues et `label` est traduit."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Premi\u00e8rement, d\u00e9finissez les options de la langue par d\u00e9faut, et ensuite copiez\/collez dans d'autres langues et traduisez les \u00e9tiquettes."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Les options s\u00e9lectionn\u00e9es et les groupes d'option sont d\u00e9finis par la langue par d\u00e9faut, les autres entr\u00e9es sont uniquement pour la traduction des \u00e9tiquettes."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Les \u00e9tiquettes qui ne sont pas traduisibles h\u00e9ritent de l'\u00e9tiquette de la langue par d\u00e9faut."
         }
     }
 }

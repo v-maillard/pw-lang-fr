@@ -661,6 +661,54 @@
         },
         "57a9412e7a9b1f328ffef4cd468dabeb": {
             "text": "Ajouter comme premier champ"
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "="
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "G\u00e9rer les tags"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filtrer par mod\u00e8le"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtrer par type"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Montrer les fichiers syst\u00e8mes ?"
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "Tag : %s"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "S\u00e9lectionner tous les champs qui doivent avoir ce tag"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Les montrer pli\u00e9s dans une liste de champs ?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Pour supprimer ce tag, retirez-en tous les champs."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "\"%1$s\" tag ajout\u00e9 au champ : %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "\"%1$s\" tag supprim\u00e9 du champ : %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Les tags vous permettent de cr\u00e9er des collections de champs pour lister ou rechercher."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Attention : le tag \"%s\" a le m\u00eame nom qu'un champ."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Ajouter un nouveau tag"
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Chaque tag doit \u00eatre un mot (les tirets sont ok)."
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "+"
         }
     }
 }

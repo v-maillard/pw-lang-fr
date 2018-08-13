@@ -118,6 +118,66 @@
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "="
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Recherche admin"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Ordre de recherche"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Ce sont les types de recherche qui seront effectu\u00e9s durant une recherche admin."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "D\u00e9placez-les dans l'ordre o\u00f9 vous voulez que les r\u00e9sultats de recherche soient list\u00e9s."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(exclu)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Exclure des types de recherche"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "S\u00e9lectionnez les types de recherche \u00e0 exclure de la recherche. Ils peuvent \u00eatre ceux dont vous n'avez pas souvent besoin de chercher."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Plus il y a de types exclus, plus la recherche sera rapide."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Les types s\u00e9lectionn\u00e9s peuvent toujours \u00eatre recherch\u00e9s si la recherche les demande explicitement."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Par exemple, si vous excluez le type \"trash\", il peut toujours \u00eatre recherch\u00e9 si vous pr\u00e9fixez votre recherche par \"trash=\", comme \"trash=hello\"."
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(dans n'importe quel ordre)"
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Champs de page \u00e0 rechercher"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "S'applique uniquement sur les r\u00e9sultats de recherches de \"pages\" et \"trash\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Il est recommand\u00e9 de se limiter \u00e0 1 ou 2 champs pour assurer une recherche rapide. Par exemple, il est bien de rechercher seulement dans le champ \"title\"."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Champs \u00e0 chercher si l'utilisateur tape \"Entr\u00e9e\" dans le champ de recherche"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Normalement c'est la m\u00eame chose qu'au-dessus, mais vous pouvez vouloir ajouter des champs suppl\u00e9mentaires."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Par exemple, plut\u00f4t que de seulement rechercher le champ \"title\", vous pouvez vouloir rechercher \u00e9galement dans le champ \"body\"."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Op\u00e9rateur de recherche par d\u00e9faut pour des recherches de mot unique et de mot partiel"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "Indique le support de correspondances de mot partiel"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Op\u00e9rateur de recherche par d\u00e9faut pour des recherches \u00e0 plusieurs mots (phrase)"
         }
     }
 }

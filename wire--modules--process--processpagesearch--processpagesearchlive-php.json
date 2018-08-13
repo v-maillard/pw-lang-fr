@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Pas de recherche sp\u00e9cifi\u00e9e"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "="
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Corbeille"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "="
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Tout voir"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "R\u00e9sultats de recherche"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "ou n'importe quel nom de champ"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "="
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "%1$s recherches pour : %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "%1$s recherches de %2$s pour %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Exemples avec l'op\u00e9rateur d'\u00e9galit\u00e9 \"=\""
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "Dans certains cas vous pouvez aussi utiliser ceux-ci :"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "op\u00e9rateurs :"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "configurer"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Cliquer ici pour configurer les param\u00e8tres de recherche"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "Pareil qu'au dessus (syntaxe plus courte si aucun noms n'entrent en conflit)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Limiter les r\u00e9sultats au mod\u00e8le : %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Limiter les r\u00e9sultats au champ %s du mod\u00e8le"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Trouver des mod\u00e8les qui ont le champ : %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Trouver des champs avec \"ckeditor\" dans les param\u00e8tres"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(survoler pour plus)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Exemples avec la propri\u00e9t\u00e9 %s."
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Vous pouvez aussi utiliser une de ces propri\u00e9t\u00e9s :"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "propri\u00e9t\u00e9s"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "aide %s"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "%s items"
+        }
+    }
+}

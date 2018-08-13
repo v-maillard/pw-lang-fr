@@ -253,6 +253,48 @@
         },
         "7e7b8eaf9921d2a698937d925748e85b": {
             "text": "Sortir + Voir"
+        },
+        "62e59f3c47304f4fad142afb1cee6a50": {
+            "text": "Quelles pages pointent vers celle-ci ?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Pas listable"
+        },
+        "d996fb607618d463ab9157739e105919": {
+            "text": "%d autre(s) page(s) trouv\u00e9e(s) pointant vers celle-ci dans des champs Page ou des liens href."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(dans un champ page)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(dans un lien href)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d pages suppl\u00e9mentaires non montr\u00e9es."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Aucune autres pages pointant vers celle-ci n'a \u00e9t\u00e9 trouv\u00e9e dans des champs Page ou des liens href."
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Restaurer"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Sortir de la corbeille et restaurer \u00e0 son emplacement d'origine"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Cocher cette case pour confirmer que vous souhaitez restaurer cette page."
+        },
+        "dc49e815691b27fd40c0b9c72066b25d": {
+            "text": "Cette page sera restaur\u00e9 dans le parent : **%s**"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "La page ne peut pas \u00eatre restaur\u00e9e alors qu'il y a des erreurs pr\u00e9sentes"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Page restaur\u00e9e : %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Erreur lors de la restauration de la page"
         }
     }
 }

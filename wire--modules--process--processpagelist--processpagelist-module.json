@@ -97,6 +97,15 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Ajouter une nouvelle page"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Autoriser les \u00e9diteurs non-superuser \u00e0 utiliser la corbeille ?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Si coch\u00e9, les utilisateurs pourront voir les pages dans la corbeille (seulement les pages auxquelles ils ont acc\u00e8s)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Cela active aussi les actions \"Corbeille\" et \"Restaurer\", o\u00f9 le contr\u00f4le d'acc\u00e8s l'autorise."
         }
     }
 }

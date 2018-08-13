@@ -1048,6 +1048,27 @@
         },
         "363b220544077dba6890921e123486dc": {
             "text": "Erreur avec le placement du groupe de champ \/ onglet \"%s\" - veuillez le corriger et enregistrer \u00e0 nouveau"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Les noms de mod\u00e8les peuvent contenir des lettres (a-z A-Z), des chiffres (0-9) ou des tirets."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Le bas de casse est optionnel mais recommand\u00e9."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Ne pas inclure l'extension du fichier."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Le nom du mod\u00e8le ne correspond pas au format requis."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Filtrer par champ"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d champ"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d champs"
         }
     }
 }

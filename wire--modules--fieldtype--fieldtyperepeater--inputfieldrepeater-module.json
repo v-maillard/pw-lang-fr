@@ -55,6 +55,9 @@
         },
         "d7280b1cbbae6481f050a9184b8fa445": {
             "text": "Fermer tous les item ?"
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "Erreurs dans l'item \"%s\" %d"
         }
     }
 }

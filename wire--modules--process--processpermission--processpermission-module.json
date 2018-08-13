@@ -22,6 +22,15 @@
         },
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
             "text": "="
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Si install\u00e9, l'utilisateur doit avoir cette permission pour mener la t\u00e2che d\u00e9crite."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Si NON install\u00e9, la permissions est suppos\u00e9e si l'utilisateur a d\u00e9j\u00e0 les acc\u00e8s d'\u00e9dition \u00e0 la ressource d\u00e9crite."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "En cons\u00e9quence, si install\u00e9e, cette permission peut supprimer l'acc\u00e8s existant jusqu'\u00e0 ce qu'il soit d\u00e9fini aux r\u00f4les."
         }
     }
 }
