@@ -312,7 +312,7 @@
             "text": "Afficher le champ \u00ab name \u00bb dans l'onglet contenu ?"
         },
         "61788997b579a9bcfe17e394d394ad01": {
-            "text": "Par d\u00e9faut, le champ inclus par d\u00e9faut \u00ab name \u00bb apparait dans l'onglet \u00ab param\u00e8tres \u00bb de l'\u00e9diteur. Si vous pr\u00e9f\u00e9rez plut\u00f4t qu'il apparaisse dans l'onglet \u00ab Contenu\u00a0\u00bb, cochez cette case."
+            "text": "Par d\u00e9faut, le champ inclus par d\u00e9faut \u00ab name \u00bb appara\u00eet dans l'onglet \u00ab param\u00e8tres \u00bb de l'\u00e9diteur. Si vous pr\u00e9f\u00e9rez plut\u00f4t qu'il apparaisse dans l'onglet \u00ab Contenu\u00a0\u00bb, cochez cette case."
         },
         "e864c0d94cbc5dc0faf1ce78d9021e63": {
             "text": "API: $template->nameContentTab = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -408,7 +408,7 @@
             "text": "Param\u00e8tres de tri pour les enfants"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champ sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionner autre chose qu'\u00ab Aucun \u00bb, l'option de tri n'apparaitra pas pour les pages utilisant ce mod\u00e8le."
+            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champ sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionner autre chose qu'\u00ab Aucun \u00bb, l'option de tri n'appara\u00eetra pas pour les pages utilisant ce mod\u00e8le."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Permettre les num\u00e9ros de pages ?"
@@ -525,10 +525,10 @@
             "text": "Lorsqu'un utilisateur n'a pas la permission de voir une page utilisant ce mod\u00e8le, que devrait arriver aux recherches et listes de pages?"
         },
         "9afb9f536d5471f188308f8e160a555c": {
-            "text": "Oui - Les pages peuvent apparaitre dans les recherches\/listes m\u00eame si l'utilisateur ne peut les voir"
+            "text": "Oui - Les pages peuvent appara\u00eetre dans les recherches\/listes m\u00eame si l'utilisateur ne peut les voir"
         },
         "ac32650de5a87d0e83f088edcefbc9a8": {
-            "text": "Non - Les pages ne peuvent PAS apparaitre dans les recherches\/listes \u00e0 moins que l'utilisateur n'ait la permission de les voir"
+            "text": "Non - Les pages ne peuvent PAS appara\u00eetre dans les recherches\/listes \u00e0 moins que l'utilisateur n'ait la permission de les voir"
         },
         "724da4546b6908025f8a9fa99885297f": {
             "text": "Note d'API : Ce param\u00e8tre affecte les r\u00e9sultats retourn\u00e9s par $pages->find(), $page->children() et autres fonctions qui retournent des PageArrays."

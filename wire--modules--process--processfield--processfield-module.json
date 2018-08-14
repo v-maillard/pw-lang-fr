@@ -111,7 +111,7 @@
             "text": "Apr\u00e8s avoir s\u00e9lectionn\u00e9 votre type de champ et avoir enregistr\u00e9, des options de configuration additionnelles sp\u00e9cifiques au champ peuvent vous \u00eatre affich\u00e9es."
         },
         "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Ceci est l'\u00e9tiquette qui apparait au dessus des champs d'entr\u00e9e. Lorsque laiss\u00e9 vide, le nom sera utilis\u00e9."
+            "text": "Ceci est l'\u00e9tiquette qui appara\u00eet au-dessus des champs d'entr\u00e9e. Lorsque laiss\u00e9 vide, le nom sera utilis\u00e9."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Information additionnelle d\u00e9crivant ce champ et\/ou des instructions \u00e0 propos de la saisie du contenu."
@@ -294,7 +294,7 @@
             "text": "Cloner un champ existant"
         },
         "64a747bce9561ce24781600d47b1cd66": {
-            "text": "Notes d'usage ou information additionnelle qui apparait sous le champ."
+            "text": "Notes d'usage ou information additionnelle qui appara\u00eet sous le champ."
         },
         "d3528910cb9ca888a0c859b37fe3cb28": {
             "text": "Les note apparaissent ici et ressemblent \u00e0 ceci."

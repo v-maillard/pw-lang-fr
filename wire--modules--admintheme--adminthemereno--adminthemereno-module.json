@@ -51,7 +51,7 @@
             "text": "Images des utilisateurs"
         },
         "bbe7b2d443c26552faeb0e0c7d4541fe": {
-            "text": "Pour utiliser cette fonctionnalit\u00e9, vos mod\u00e8les doivent comprendre un champ image. Si vos mod\u00e8les utilisateurs n'ont pas de champ image, une ic\u00f4ne sera utilis\u00e9e automatiquement au lieu de l'avatar. Pour ajouter un champ image au mod\u00e8le d'utilisateur de page, naviguez vers le menu Configuration > Mod\u00e8les > Filtres et cochez Afficher les mod\u00e8les syst\u00e8me. Le mod\u00e8le \u00ab user \u00bb apparaitra dans la liste. Si vous avez cr\u00e9\u00e9 un mod\u00e8le utilisateur additionnel ou alternatif, vous pouvez activez cette fonctionnalit\u00e9 en ajoutant un champ image \u00e0 ce mod\u00e8le."
+            "text": "Pour utiliser cette fonctionnalit\u00e9, vos mod\u00e8les doivent comprendre un champ image. Si vos mod\u00e8les utilisateurs n'ont pas de champ image, une ic\u00f4ne sera utilis\u00e9e automatiquement au lieu de l'avatar. Pour ajouter un champ image au mod\u00e8le d'utilisateur de page, naviguez vers le menu Configuration > Mod\u00e8les > Filtres et cochez Afficher les mod\u00e8les syst\u00e8me. Le mod\u00e8le \u00ab user \u00bb appara\u00eetra dans la liste. Si vous avez cr\u00e9\u00e9 un mod\u00e8le utilisateur additionnel ou alternatif, vous pouvez activez cette fonctionnalit\u00e9 en ajoutant un champ image \u00e0 ce mod\u00e8le."
         },
         "b012c7da60d514a8d126979210fa1f8e": {
             "text": "Champ image du mod\u00e8le %s"

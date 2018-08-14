@@ -84,7 +84,7 @@
             "text": "Afficher les actions de page au survol ?"
         },
         "04f8c71ea1d550c45b3c987978fe56b3": {
-            "text": "Par d\u00e9faut, les actions de page apparaissent apr\u00e8s un clic (du moins, dans le th\u00e8me d'administration par d\u00e9faut). Pour les faire apparaitre au survol, cochez cette boite."
+            "text": "Par d\u00e9faut, les actions de page apparaissent apr\u00e8s un clic (du moins, dans le th\u00e8me d'administration par d\u00e9faut). Pour les faire appara\u00eetre au survol, cochez cette boite."
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Pour plus d'options, voyez le param\u00e8tre $config->pageList dans \/wire\/config.php. Vous pouvez copier ces param\u00e8tres sans \/site\/config.php et ainsi les \u00e9craser."
