@@ -1,10 +1,8 @@
-# Traduction française de ProcessWire
+French Language Pack (fr-FR) for ProcessWire 3.x
 
-Traduction complète pour la version 2.7.
+Based on FRENCH LANGUAGE PACK (FR-FR) (http://modules.processwire.com/modules/french-language-pack/)
 
-## Coquilles et problèmes
-
-Merci d'utiliser l'outil [Issues de GitHub](https://github.com/underk/pw_french/issues) pour envoyer coquilles et suggestions.
+Support for ProcessWire 3.x
 
 ## Traducteurs
 
