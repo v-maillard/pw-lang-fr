@@ -42,7 +42,7 @@
             "text": "Afficher les champs int\u00e9gr\u00e9s de base ?"
         },
         "2a7b956033d031e555889f8ddd52754f": {
-            "text": "Lorsque coch\u00e9, les champs int\u00e9gr\u00e9s de base seront aussi affich\u00e9s. Ceux-ci comprennent les champs syst\u00e8me et les champs permanents. Les champs syst\u00e8mes sont requis par ProcessWire et ne peuvent ni \u00eatre supprim\u00e9s, ni avoir leur nom chang\u00e9. Les champs permanents sont ceux qui le peuvent \u00eatre enlev\u00e9s d'un mod\u00e8le. Ces champs sont utilis\u00e9s \u00e0 l'interne par ProcessWire."
+            "text": "Si coch\u00e9, les champs int\u00e9gr\u00e9s de base seront aussi affich\u00e9s. Ceux-ci comprennent les champs syst\u00e8me et les champs permanents. Les champs syst\u00e8mes sont requis par ProcessWire et ne peuvent ni \u00eatre supprim\u00e9s, ni avoir leur nom chang\u00e9. Les champs permanents sont ceux qui le peuvent \u00eatre enlev\u00e9s d'un mod\u00e8le. Ces champs sont utilis\u00e9s \u00e0 l'interne par ProcessWire."
         },
         "1535d0228ba3626bad19ec55142ffcc6": {
             "text": "Affiche tout les champs, incluant les champs syst\u00e8mes et permanents."

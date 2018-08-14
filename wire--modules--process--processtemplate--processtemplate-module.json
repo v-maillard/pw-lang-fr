@@ -243,7 +243,7 @@
             "text": "Ne pas permettre aux pages de changer leur mod\u00e8le ?"
         },
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8les ne pourront pas changer leur mod\u00e8le pour un autre."
+            "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le ne pourront pas changer leur mod\u00e8le pour un autre."
         },
         "5c9171f7b16eac3245d2e5f3e79aadbc": {
             "text": "API: $template->noChangeTemplate = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -252,7 +252,7 @@
             "text": "Ne pas permettre les pages non publi\u00e9es"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le ne peuvent exister que sous l'\u00e9tat publi\u00e9 et ne pas pas \u00eatre d\u00e9publi\u00e9es."
+            "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le ne peuvent exister que sous l'\u00e9tat publi\u00e9 et ne pas pas \u00eatre d\u00e9publi\u00e9es."
         },
         "691edb2dd99517cf0e15dbf596e10cc5": {
             "text": "API: $template->noUnpublish = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -261,7 +261,7 @@
             "text": "Permettre au champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb d'\u00eatre modifi\u00e9 sur les pages ?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le auront une option pour modifier le champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb (r\u00f4le superuser seulement). Ceci permet aussi aux champs $page->createdUser ou $page->created_users_id d'\u00eatre enregistr\u00e9s via l'API."
+            "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le auront une option pour modifier le champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb (r\u00f4le superuser seulement). Ceci permet aussi aux champs $page->createdUser ou $page->created_users_id d'\u00eatre enregistr\u00e9s via l'API."
         },
         "1684cd1767cda6618ed92febec9e78c6": {
             "text": "API: $template->allowChangeUser = 1; \/\/ ou 0 pour d\u00e9sactiver. Valeur par d\u00e9faut : 0."
@@ -330,7 +330,7 @@
             "text": "D\u00e9sactiver l'option corbeille ?"
         },
         "38354c9531a0d7056f7f98de8810a2f1": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le n'auront pas l'option d'\u00eatre envoy\u00e9es \u00e0 la corbeille."
+            "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le n'auront pas l'option d'\u00eatre envoy\u00e9es \u00e0 la corbeille."
         },
         "69385004eb4f22d17482beb09e549453": {
             "text": "API: $template->noTrash = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -339,7 +339,7 @@
             "text": "D\u00e9sactiver l'onglet param\u00e8tres ?"
         },
         "abad59d4cf5691fd0506cb650dff0f5b": {
-            "text": "Lorsque coch\u00e9, l'onglet \u00ab param\u00e8tres \u00bb n'apparaitra pas dans l'\u00e9diteur pour les pages utilisant ce mod\u00e8le."
+            "text": "Si coch\u00e9, l'onglet \u00ab Param\u00e8tres \u00bb n'appara\u00eetra pas dans l'\u00e9diteur pour les pages utilisant ce mod\u00e8le."
         },
         "6a90024dcca935af3329542c3f346229": {
             "text": "API: $template->noSettings = 1; \/\/ ou 0 pour d\u00e9sactiver"
@@ -387,7 +387,7 @@
             "text": "Relations"
         },
         "eaf9115aadc503ff009e4c769963a877": {
-            "text": "Lorsque coch\u00e9, ce mod\u00e8le peut apparaitre sous le bouton de raccourci\/manu qui apparait sur la page principale de l'arborescence. Ceci assume que toutes les autres conditions sont rencontr\u00e9es (voir plus bas)."
+            "text": "Si coch\u00e9, ce mod\u00e8le peut appara\u00eetre sous le bouton de \"Nouveau\" qui appara\u00eet sur la page principale de l'arborescence. Ceci suppose que toutes les autres conditions sont r\u00e9unies (voir plus bas)."
         },
         "91426b7105692d7c29b6307385ea99d1": {
             "text": "**Conditions requises au fonctionnement**"

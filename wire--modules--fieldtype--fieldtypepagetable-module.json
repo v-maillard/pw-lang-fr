@@ -24,7 +24,7 @@
             "text": "Mettre les items \u00e0 la corbeille lorsque la page est supprim\u00e9e ?"
         },
         "08f53f44f5a22058682ec7c305c2f37b": {
-            "text": "Lorsque coch\u00e9, les items cr\u00e9\u00e9s ou g\u00e9r\u00e9s par une page seront alors automatiquement envoy\u00e9s \u00e0 la corbeille lorsque cette page est supprim\u00e9e. Autrement, les items resteront sous le parent s\u00e9lectionn\u00e9 ci-dessus."
+            "text": "Si coch\u00e9, les items cr\u00e9\u00e9s ou g\u00e9r\u00e9s par une page seront alors automatiquement envoy\u00e9s \u00e0 la corbeille si cette page est supprim\u00e9e. Autrement, les items resteront sous le parent s\u00e9lectionn\u00e9 ci-dessus."
         },
         "276fe80c8306b8f1211c933c5b0789dd": {
             "text": "Cette option s'applique seulement si vous avez s\u00e9lectionn\u00e9 un parent ci-dessus."

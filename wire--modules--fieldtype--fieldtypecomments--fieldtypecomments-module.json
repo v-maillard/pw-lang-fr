@@ -15,7 +15,7 @@
             "text": "Envoyer des notifications pour le spam ?"
         },
         "ec8fbd0794fa6fafb9061431f9bffa03": {
-            "text": "Lorsque coch\u00e9, ProcessWire vous enverra une notification par courriel m\u00eame si le message est identifi\u00e9 comme du spam."
+            "text": "Si coch\u00e9, ProcessWire vous enverra une notification par courriel m\u00eame si le message est identifi\u00e9 comme du spam."
         },
         "9bf3d3d959883d38b84f1990340bff84": {
             "text": "Trier du plus r\u00e9cent au plus ancien ?"
@@ -27,19 +27,19 @@
             "text": "Afficher le champ site web dans le formulaire de commentaires ?"
         },
         "bb28b3686215b773129c8259cf0e6525": {
-            "text": "Lorsque coch\u00e9, les soumissions de commentaire incluront aussi un champ site web."
+            "text": "Si coch\u00e9, les soumissions de commentaire incluront aussi un champ site web."
         },
         "b7f00c1afdf69f32c12c300c02ac1da7": {
             "text": "Rediriger apr\u00e8s l'envoi d'un commentaire ?"
         },
         "cea2870f162b18b9ab95c8c84da6d05a": {
-            "text": "Lorsque coch\u00e9, ProcessWire enverra une redirection apr\u00e8s que le commentaire soit envoy\u00e9 pour \u00e9viter les envois doubles. Recommand\u00e9."
+            "text": "Si coch\u00e9, ProcessWire enverra une redirection apr\u00e8s que le commentaire soit envoy\u00e9 pour \u00e9viter les envois doubles. Recommand\u00e9."
         },
         "e90234905413e689d67361b8f618b63f": {
             "text": "Enregistrement silencieux ?"
         },
         "d2c1e7bd67d4253ff76376ed718cf94f": {
-            "text": "Lorsque coch\u00e9, l'heure de modification de la page ainsi que l'utilisateur ne seront pas mis \u00e0 jours lorsqu'un commentaire est ajout\u00e9."
+            "text": "Si coch\u00e9, l'heure de modification de la page ainsi que l'utilisateur ne seront pas mis \u00e0 jours lorsqu'un commentaire est ajout\u00e9."
         },
         "694c233e3c1cf5b97224bd5fcbebb340": {
             "text": "Utiliser le service de filtrage de spam Akismet ?"
