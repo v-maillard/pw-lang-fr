@@ -15,10 +15,10 @@
             "text": "Ajouter un module par le biais d'un r\u00e9pertoire"
         },
         "91412465ea9169dfd901dd5e7c96dd99": {
-            "text": "T\u00e9l\u00e9verser"
+            "text": "Uploader"
         },
         "a97f194fe643428c6e0e5b1d3ea79dbd": {
-            "text": "T\u00e9l\u00e9verser un nouveau module"
+            "text": "Uploader un nouveau module"
         },
         "5e3f8e6adc33178f32cc7beb6ad19072": {
             "text": "Ajouter un module par le biais d'un URL"
@@ -111,7 +111,7 @@
             "text": "Archive ZIP du module"
         },
         "6010e3962902142283df28e6d1a1d897": {
-            "text": "T\u00e9l\u00e9verser une archive ZIP contenant les fichiers du module. Si vous t\u00e9l\u00e9versez un module qui est d\u00e9j\u00e0 install\u00e9, la version actuellement install\u00e9e sera \u00e9cras\u00e9e par la nouvelle version t\u00e9l\u00e9charg\u00e9e."
+            "text": "Uploader une archive ZIP contenant les fichiers du module. Si vous uploadez un module qui est d\u00e9j\u00e0 install\u00e9, la version actuellement install\u00e9e sera \u00e9cras\u00e9e par la nouvelle version t\u00e9l\u00e9charg\u00e9e."
         },
         "5975f55a2bcd254c58d9fe16d7a21417": {
             "text": "Si vous avez plac\u00e9 de nouveaux modules dans \/site\/modules\/ manuellement, cliquez ce bouton pour les afficher."

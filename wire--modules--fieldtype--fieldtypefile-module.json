@@ -18,7 +18,7 @@
             "text": "Extensions de fichiers valides"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Entrez toutes les extensions permises par ce champ de t\u00e9l\u00e9versement. S\u00e9parez chaque extension par un espace. Aucun point ni virgule. Ce champ n'est pas sensible \u00e0 la casse"
+            "text": "Entrez toutes les extensions permises par ce champ d'upload. S\u00e9parez chaque extension par un espace. Aucun point ni virgule. Ce champ n'est pas sensible \u00e0 la casse."
         },
         "6231c154d164f467041abbb0151816dc": {
             "text": "Nombre maximal de fichiers permis"

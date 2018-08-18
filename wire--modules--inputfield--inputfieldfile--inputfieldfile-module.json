@@ -60,7 +60,7 @@
             "text": "Le fichier a \u00e9chou\u00e9 la validation"
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Veuillez notez que lorsque cette option est activ\u00e9e, les fichiers t\u00e9l\u00e9vers\u00e9s via AJAX sont sauvegard\u00e9s sur la page imm\u00e9diatement apr\u00e8s le t\u00e9l\u00e9versement, plut\u00f4t qu'au moment ou vous cliquez sur \u00ab Enregistrer \u00bb."
+            "text": "Veuillez notez que lorsque cette option est activ\u00e9e, les fichiers upload\u00e9s via AJAX sont sauvegard\u00e9s sur la page imm\u00e9diatement apr\u00e8s l'upload, plut\u00f4t qu'au moment o\u00f9 vous cliquez sur \u00ab Enregistrer \u00bb."
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Files | Fichiers"
