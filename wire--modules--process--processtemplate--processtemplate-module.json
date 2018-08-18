@@ -195,7 +195,7 @@
             "text": "Si vous d\u00e9sirez grouper visuellement ce mod\u00e8le avec d'autres dans la liste de mod\u00e8les, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres mod\u00e8les avec lesquels vous d\u00e9sirer le grouper. Pour d\u00e9clarer des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de mod\u00e8les."
         },
         "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Chaque tag doit \u00eatre compos\u00e9 d'un mot (les tirets-sont-ok)."
+            "text": "Chaque tag doit \u00eatre compos\u00e9 d'un mot (les tirets sont ok)."
         },
         "9238cda6a9c91cd5cc846791a49ba3ab": {
             "text": "Pour r\u00e9duire un tag dans la liste de mod\u00e8les, pr\u00e9fixez le d'un tiret, comme ceci: -allo"
@@ -668,9 +668,6 @@
         "289abb71620e21f484c91df47d263eec": {
             "text": "Num\u00e9ros de pages"
         },
-        "a90b5efafea041e94da7fffd2bd530a3": {
-            "text": "De base"
-        },
         "2a138a3c1a54958a39f65b80e666b643": {
             "text": "\u00c9tiquette"
         },
@@ -777,7 +774,7 @@
             "text": "Pour d\u00e9sactiver le cache lorsque n'importe quelle variable est pr\u00e9sente, entrez un ast\u00e9risque: * (recommand\u00e9)"
         },
         "f578ef5a7330291e151dc6052fe85bfe": {
-            "text": "Remplace l'\u00e9tiquette par d\u00e9faut de l'onglet \"De base\"."
+            "text": "Remplace l'\u00e9tiquette par d\u00e9faut de l'onglet \"Contenu\"."
         },
         "5fda5af59d211bd673998a69f051c3f2": {
             "text": "Remplace l'\u00e9tiquette par d\u00e9faut de l'onglet \"Enfants\"."
@@ -1069,6 +1066,9 @@
         },
         "f31f5e50313e32f1b8a1d38913e26023": {
             "text": "%d champs"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Base"
         }
     }
 }
