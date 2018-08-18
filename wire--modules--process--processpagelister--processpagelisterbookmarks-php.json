@@ -15,13 +15,13 @@
             "text": "Cr\u00e9e un nouveau signet correspondant aux filtres, colonnes et ordres actuels."
         },
         "644a574fca8608c6447c23ba5c9fb907": {
-            "text": "Les r\u00f4les utilisateurs peuvent voir ce signet? Si aucun r\u00f4le n'est s\u00e9lectionn\u00e9, tous les r\u00f4les avec la permission d'utiliser ce Lister peuvent voir le signet."
+            "text": "Les r\u00f4les utilisateurs peuvent voir ce signet ? Si aucun r\u00f4le n'est s\u00e9lectionn\u00e9, tous les r\u00f4les avec la permission d'utiliser ce Lister peuvent voir le signet."
         },
         "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
             "text": "Ordre de tri des signets"
         },
         "bfa974ff994bf6af816d695d88659fda": {
-            "text": "Supprimer ce signer?"
+            "text": "Supprimer ce signer ?"
         },
         "33d64e5e020fcfcd6bf5b5edc3634211": {
             "text": "Signer supprim\u00e9: %s"
@@ -57,7 +57,7 @@
             "text": "Titre"
         },
         "8ca63fc5a95e5a226137f8dd03ad81f0": {
-            "text": "Quelles pages afficher dans ce signet?"
+            "text": "Quelles pages afficher dans ce signet ?"
         },
         "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
             "text": "Colonnes"

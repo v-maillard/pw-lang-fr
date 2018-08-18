@@ -420,7 +420,7 @@
             "text": "Acc\u00e9dez au num\u00e9ro de page actuelle dans vos mod\u00e8les \u00e0 l'aide de $input->pageNum;"
         },
         "3a426f05b968cc7c6022ac1388e7d8e7": {
-            "text": "Permettre les segments d'URL"
+            "text": "Permettre les segments d'URL ?"
         },
         "edf7d3cbbda60af5148285cec1cd7569": {
             "text": "Ce mod\u00e8le peut, de mani\u00e8re optionnelle, servir des segments de chemins d'URL sous celui de(s) page(s) utilisant ce mod\u00e8le. Par exemple, vous pourriez vouloir une page avec un chemin \/chemin\/vers\/page\/ qui g\u00e8re aussi les requ\u00eates pour \/chemin\/vers\/page\/segment1\/ ou \/chemin\/vers\/page\/segment1\/segment2\/. Par d\u00e9faut, ProcessWire renverra une erreur \u00ab 404 Page non trouv\u00e9e \u00bb lorsqu'un tel URL est acc\u00e9d\u00e9. Si vous voulez que ProcessWire rende plut\u00f4t la page sans erreur, cochez la case plus bas. Vous pourrez ensuite manuellement observer les segments d'URL \u00e0 partir de votre fichier de mod\u00e8le et y r\u00e9pondre."
@@ -522,7 +522,7 @@
             "text": "Ces pages devraient-elles \u00eatre trouvables dans une recherche lorsqu'un utilisateur n'y a pas acc\u00e8s ?"
         },
         "6ceb6814781363fa5e58fc38fe5910a1": {
-            "text": "Lorsqu'un utilisateur n'a pas la permission de voir une page utilisant ce mod\u00e8le, que devrait arriver aux recherches et listes de pages?"
+            "text": "Lorsqu'un utilisateur n'a pas la permission de voir une page utilisant ce mod\u00e8le, que devrait arriver aux recherches et listes de pages ?"
         },
         "9afb9f536d5471f188308f8e160a555c": {
             "text": "Oui - Les pages peuvent appara\u00eetre dans les recherches\/listes m\u00eame si l'utilisateur ne peut les voir"
@@ -534,7 +534,7 @@
             "text": "Note d'API : Ce param\u00e8tre affecte les r\u00e9sultats retourn\u00e9s par $pages->find(), $page->children() et autres fonctions qui retournent des PageArrays."
         },
         "e91c9dce55b792f0254aeb69ba314f17": {
-            "text": "Quels roles peuvent acc\u00e9der aux pages utilisant ce mod\u00e8le (et celles qui en h\u00e9ritent les droits d'acc\u00e8s)?"
+            "text": "Quels roles peuvent acc\u00e9der aux pages utilisant ce mod\u00e8le (et celles qui en h\u00e9ritent les droits d'acc\u00e8s) ?"
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(tout le monde)"
@@ -888,7 +888,7 @@
             "text": "Pour ajuster l'ordre dans lequel les mod\u00e8les apparaissent dans le menu de raccourcis, voir les [param\u00e8tres du module PageAdd](%s)."
         },
         "fb72654fb51cb493c6d0123505d9e596": {
-            "text": "Les URLs de num\u00e9ros de page doivent-ils \u00eatre termin\u00e9s d'une barre oblique?"
+            "text": "Les URLs de num\u00e9ros de page doivent-ils \u00eatre termin\u00e9s d'une barre oblique ?"
         },
         "bbd5238aeedba403b7977656d2f132fc": {
             "text": "Les segments d'URL doivent-ils \u00eatre termin\u00e9s d'une barre oblique?"

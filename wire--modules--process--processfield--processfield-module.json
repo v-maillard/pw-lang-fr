@@ -204,7 +204,7 @@
             "text": "Si vous \u00eates certain que vous d\u00e9sirez changer le type de ce champ, cochez la case ci-bas et envoyez ce formulaire."
         },
         "58425be3f17ffb9574fd3e5947653330": {
-            "text": "Garder les param\u00e8tres du champ?"
+            "text": "Garder les param\u00e8tres du champ ?"
         },
         "7d912a6056deaad44add9eda5494d120": {
             "text": "Cochez cette case pour garder tous les param\u00e8tres personnalis\u00e9s de ce champ (situ\u00e9s dans les onglets D\u00e9tails et Entr\u00e9e). Ceci est d\u00e9sirable si ne nouveau type de champ est compos\u00e9 de propri\u00e9t\u00e9s de configuration similaires ou identiques \u00e0 l'ancien type de champ. Cependant, ceci peut aussi r\u00e9sulter en de la configuration non n\u00e9cessaire ou redondante utilisant de l'espace dans ce champ. Vous pourrez toutefois analyser cela par le biais de : Avanc\u00e9 > V\u00e9rifier les donn\u00e9es du champ."
