@@ -432,10 +432,10 @@
             "text": "Par exemple, pour une URL donn\u00e9e \/chemin\/vers\/page\/a\/b\/c\/, o\u00f9 \/chemin\/vers\/page\/ est le chemin de la page en cours, et \/a\/b\/c\/ sont les segments : $input->urlSegment1 est \u00ab a \u00bb, $input->urlSegment2 est \u00ab b \u00bb, et $input->urlSegment3 est \u00ab c \u00bb. Si votre mod\u00e8le re\u00e7oit des segments d'URL inconnus, une bonne pratique est d'arr\u00eater la requ\u00eate en renvoyant une erreur 404. Le code de l'API pour faire cela : throw new Wire404Exception();"
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
-            "text": "Les URLs de page devraient elles terminer avec une barre oblique ?"
+            "text": "Les URLs de page devraient elles terminer avec un slash ?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
-            "text": "Si \u00ab Oui \u00bb, les pages utilisant ce mod\u00e8le auront toujours des URLs se terminant avec une barre oblique \u00ab \/ \u00bb. Si la page est charg\u00e9e \u00e0 partir d'un URL sans la barre oblique, elle sera redirig\u00e9e vers un URL la comprenant. Si vous s\u00e9lectionnez \u00ab Non \u00bb, la version sans barre oblique sera forc\u00e9e. Notez que ce param\u00e8tre ne force pas le comportement des segments d'URL ou des num\u00e9ros de page, seulement les URLs r\u00e9els. Si vous n'avez pas de pr\u00e9f\u00e9rence, il est recommand\u00e9 que vous laissiez ceci \u00e0 \u00ab Oui \u00bb."
+            "text": "Si \u00ab Oui \u00bb, les pages utilisant ce mod\u00e8le auront toujours des URLs se terminant avec un slash \u00ab \/ \u00bb. Si la page est charg\u00e9e \u00e0 partir d'un URL sans le slash, elle sera redirig\u00e9e vers un URL la comprenant. Si vous s\u00e9lectionnez \u00ab Non \u00bb, la version sans slash sera forc\u00e9e. Notez que ce param\u00e8tre ne force pas le comportement des segments d'URL ou des num\u00e9ros de page, seulement les URLs r\u00e9els. Si vous n'avez pas de pr\u00e9f\u00e9rence, il est recommand\u00e9 que vous laissiez ceci \u00e0 \u00ab Oui \u00bb."
         },
         "115162847e362551c1dcaff31e64fa80": {
             "text": "Sch\u00e9ma\/Protocole"
@@ -888,10 +888,10 @@
             "text": "Pour ajuster l'ordre dans lequel les mod\u00e8les apparaissent dans le menu de raccourcis, voir les [param\u00e8tres du module PageAdd](%s)."
         },
         "fb72654fb51cb493c6d0123505d9e596": {
-            "text": "Les URLs de num\u00e9ros de page doivent-ils \u00eatre termin\u00e9s d'une barre oblique ?"
+            "text": "Les URLs de num\u00e9ros de page doivent-ils \u00eatre termin\u00e9s d'un slash ?"
         },
         "bbd5238aeedba403b7977656d2f132fc": {
-            "text": "Les segments d'URL doivent-ils \u00eatre termin\u00e9s d'une barre oblique?"
+            "text": "Les segments d'URL doivent-ils \u00eatre termin\u00e9s d'un slash ?"
         },
         "dc105ac52c237f9f09c74b0767f64f74": {
             "text": "="
