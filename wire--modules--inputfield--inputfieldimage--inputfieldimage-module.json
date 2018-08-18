@@ -18,7 +18,7 @@
             "text": "Hauteur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Entrez optionnellement le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si d\u00e9clar\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
+            "text": "Vous avez la possibilit\u00e9 d'entrez le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si d\u00e9clar\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Largeur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
@@ -57,7 +57,7 @@
             "text": "Dimensions minimales de l'image"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Optionnellement, entrez une largeur et\/ou une hauteur minimale(s) pour les images t\u00e9l\u00e9vers\u00e9es. Lorsque d\u00e9clar\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
+            "text": "Vous pouvez entrer une largeur et\/ou une hauteur minimale(s) pour les images t\u00e9l\u00e9vers\u00e9es. Lorsque d\u00e9clar\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
             "text": "Largeur minimum pour les images t\u00e9l\u00e9vers\u00e9es"

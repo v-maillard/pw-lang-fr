@@ -60,7 +60,7 @@
             "text": "Consultez la documentation de la fonction [date de PHP](http:\/\/www.php.net\/manual\/fr\/function.date.php) pour plus d'informations sur la configuration de ces formats."
         },
         "3668c3ec43f4b401c6de009e3abb73f9": {
-            "text": "Vous pouvez optionnellement d\u00e9finir les formats pour les autres langues ici. Toute langue laiss\u00e9e vide h\u00e9ritera du param\u00e8tre par d\u00e9faut."
+            "text": "Vous avez la possibilit\u00e9 de d\u00e9finir les formats pour les autres langues ici. Toute langue laiss\u00e9e vide h\u00e9ritera du param\u00e8tre par d\u00e9faut."
         },
         "b3641a0b694cd7a82856611ce58d4979": {
             "text": "Code d'entr\u00e9e du format d'heure"
@@ -81,7 +81,7 @@
             "text": "Texte fictif optionnel apparaissant dans le champ lorsque laiss\u00e9 vide."
         },
         "d27357121209bd712604d8af46cd2460": {
-            "text": "Inputfield acceptant une date et optionnellement une heure"
+            "text": "Inputfield acceptant une date et, en option, une heure"
         },
         "b69f42ea4444ae5aa888b53cf6045710": {
             "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-fr.js"

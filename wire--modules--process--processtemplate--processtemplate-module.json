@@ -186,10 +186,10 @@
             "text": "Variables POST d\u00e9sactivant le cache"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
-            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous pouvez optionnellement d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
+            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous avez la possibilit\u00e9 de d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Optionnellement, entrez un ou plusieurs noms de variables. Pour en d\u00e9clarer plus d'un, s\u00e9parez-les par un espace."
+            "text": "Vous pouvez entrer un ou plusieurs noms de variables. Pour en d\u00e9clarer plus d'un, s\u00e9parez-les par un espace."
         },
         "5cb36b26303f4abb0dea36f9bb96887f": {
             "text": "Si vous d\u00e9sirez grouper visuellement ce mod\u00e8le avec d'autres dans la liste de mod\u00e8les, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres mod\u00e8les avec lesquels vous d\u00e9sirer le grouper. Pour d\u00e9clarer des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de mod\u00e8les."
@@ -777,10 +777,10 @@
             "text": "Pour d\u00e9sactiver le cache lorsque n'importe quelle variable est pr\u00e9sente, entrez un ast\u00e9risque: * (recommand\u00e9)"
         },
         "f578ef5a7330291e151dc6052fe85bfe": {
-            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"De base\" par d\u00e9faut."
+            "text": "Remplace l'\u00e9tiquette par d\u00e9faut de l'onglet \"De base\"."
         },
         "5fda5af59d211bd673998a69f051c3f2": {
-            "text": "Remplacer optionnellement l'\u00e9tiquette d'onglet \"Enfants\" par d\u00e9faut."
+            "text": "Remplace l'\u00e9tiquette par d\u00e9faut de l'onglet \"Enfants\"."
         },
         "817434295a673aed431435658b65d9a7": {
             "text": "Ic\u00f4ne"
@@ -852,7 +852,7 @@
             "text": "="
         },
         "4a49f761ce504d9c073de20eba6ca069": {
-            "text": "Remplacer optionnellement la propri\u00e9t\u00e9 \"Nom\" par d\u00e9faut de l'\u00e9tiquette."
+            "text": "Remplace l'\u00e9tiquette par d\u00e9faut de la propri\u00e9t\u00e9 \"Nom\"."
         },
         "9a4127b29b0b6c40638af21074829f0e": {
             "text": "Vous pouvez aussi utiliser votre propre format (et tout caract\u00e8res ou ponctuation additionnels) en d\u00e9clarant les noms de champs entre accolades, e.g. {name}, {categories.title}, etc."
@@ -921,7 +921,7 @@
             "text": "Permission d'\u00e9dition additionnelles et \u00e9crasements"
         },
         "5cd4a0ea4859ae8a1371ded392cfff3b": {
-            "text": "Ajoutez ou retirer optionnellement les permissions assign\u00e9es \u00e0 chaque r\u00f4le lorsque requis pour les pages utilisant ce mod\u00e8le (ou h\u00e9ritant de ce dernier)."
+            "text": "Ajoutez ou retirer les permissions assign\u00e9es \u00e0 chaque r\u00f4le lorsque requis pour les pages utilisant ce mod\u00e8le (ou h\u00e9ritant de ce dernier)."
         },
         "f0ec91a2ccc29fee4de702e940b186a8": {
             "text": "Les options disponibles ici sont d\u00e9termin\u00e9es par les choix d'\u00e9dition de page ci-dessus. Ainsi, vous devriez enregistrer ce mod\u00e8le et y revenir apr\u00e8s avoir effectu\u00e9 des changements aux r\u00f4les ayant l'acc\u00e8s d'\u00e9dition de page ci-dessus."

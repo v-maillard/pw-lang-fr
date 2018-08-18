@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldbutton-module",
     "translations": {
         "3691c9189afe50505955f4ef8181ae3c": {
-            "text": "\u00c9l\u00e9ment bouton de formulaire auquel vous pouvez optionnellement passer un attribut href."
+            "text": "\u00c9l\u00e9ment bouton de formulaire auquel vous pouvez passer un attribut href."
         },
         "87b7760f14fbff78d8819291f36ab9a0": {
             "text": "Bouton"

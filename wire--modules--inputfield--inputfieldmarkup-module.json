@@ -15,7 +15,7 @@
             "text": "Si le texte balis\u00e9 est du HTML ordinaire, vous pourriez vouloir ne s\u00e9lectionner aucun formateur de texte."
         },
         "29513c0a079504b7b1ba10953d7270ac": {
-            "text": "Contient du texte balis\u00e9 et optionnellement les champs d'entr\u00e9e de d'enfants"
+            "text": "Contient du texte balis\u00e9 et, en option, les enfants des champs d'entr\u00e9e"
         },
         "e51e08a727173e8719e480316459991e": {
             "text": "Texte balis\u00e9"

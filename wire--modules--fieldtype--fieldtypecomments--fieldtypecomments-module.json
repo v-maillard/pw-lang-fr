@@ -183,7 +183,7 @@
             "text": "Formateurs de texte"
         },
         "53a682f62e65f496a659d3a12c754f75": {
-            "text": "S\u00e9lectionner optionnellement un ou plusieurs formateurs de texte \u00e0 appliquer sur le texte des commentaires, dans l'ordre s\u00e9lectionn\u00e9. Si vous n'en s\u00e9lectionnez aucun, le texte encodera les entit\u00e9s HTML, les nouvelles lignes seront converties en tag <br> et la sortie sera dans un tag <p>."
+            "text": "S\u00e9lectionner en option un ou plusieurs formateurs de texte \u00e0 appliquer sur le texte des commentaires, dans l'ordre s\u00e9lectionn\u00e9. Si vous n'en s\u00e9lectionnez aucun, le texte encodera les entit\u00e9s HTML, les nouvelles lignes seront converties en tag <br> et la sortie sera dans un tag <p>."
         },
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
             "text": "Attention: s\u00e9lectionnez seulement les formateurs de texte que vous savez s\u00e9curitaires pour l'entr\u00e9e par des utilisateurs anonymes, tel que Entity Encoder (noyau) ou Textile Restricted (tierce-partie). Si vous n'\u00eates pas certain, ne s\u00e9lectionnez rien puisqu'un mauvais choix peut cr\u00e9er des probl\u00e8mes de s\u00e9curit\u00e9."
