@@ -12,7 +12,7 @@
             "text": "Faire de ce champ une instance d'un autre module s\u00e9lectionn\u00e9 ?"
         },
         "1d4b3399eb44d29f0188147089a9fb8a": {
-            "text": "Lorsque coch\u00e9, la valeur du champ sera une instance du module s\u00e9lectionn\u00e9. Autrement, la valeur du champ sera une chaine de caract\u00e8re contenant le nom de classe du module."
+            "text": "Lorsque coch\u00e9, la valeur du champ sera une instance du module s\u00e9lectionn\u00e9. Autrement, la valeur du champ sera une cha\u00eene de caract\u00e8re contenant le nom de classe du module."
         },
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "\u00c9tiquette d'options"

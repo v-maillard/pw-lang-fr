@@ -6,7 +6,7 @@
             "text": "Valeur initiale du s\u00e9lecteur"
         },
         "7705e5655113c7b4e5b224010ac7af38": {
-            "text": "Entrez un chaine de s\u00e9lecteur initiale \u00e0 utiliser en tant que point de d\u00e9part forc\u00e9 pour tout s\u00e9lecteur g\u00e9n\u00e9r\u00e9 par ce champ. Toute page correspondant au s\u00e9lecteur de l'utilisateur sera contrainte au s\u00e9lecteur entr\u00e9 ici."
+            "text": "Entrez un cha\u00eene de s\u00e9lecteur initiale \u00e0 utiliser en tant que point de d\u00e9part forc\u00e9 pour tout s\u00e9lecteur g\u00e9n\u00e9r\u00e9 par ce champ. Toute page correspondant au s\u00e9lecteur de l'utilisateur sera contrainte au s\u00e9lecteur entr\u00e9 ici."
         },
         "4795bb99893dc26981eb889746b21499": {
             "text": "Exemple : template=produit"

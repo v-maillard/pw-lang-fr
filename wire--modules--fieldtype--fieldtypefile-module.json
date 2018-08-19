@@ -45,13 +45,13 @@
             "text": "\u00c9l\u00e9ment unique (nul si vide)"
         },
         "6f836d738a527f80156286edc9d1f829": {
-            "text": "Chaine de caract\u00e8res rendue (vous la fournissez)"
+            "text": "Cha\u00eene de caract\u00e8res rendue (vous la fournissez)"
         },
         "ad3f5d66e216a4f1b65654b8b70d592f": {
-            "text": "Chaine de caract\u00e8res rendue"
+            "text": "Cha\u00eene de caract\u00e8res rendue"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Fournit la cha\u00eene de caract\u00e8res \u00e0 rendre lors de l'output en tant que valeur pour ce champ. Si le champ contient des \u00e9l\u00e9ments multiples, la chaine sera rendue \u00e0 plusieurs reprises. Si le champ ne contient aucun \u00e9l\u00e9ment, une chaine vide sera utilis\u00e9e."
+            "text": "Fournit la cha\u00eene de caract\u00e8res \u00e0 rendre lors de l'output en tant que valeur pour ce champ. Si le champ contient des \u00e9l\u00e9ments multiples, la cha\u00eene sera rendue \u00e0 plusieurs reprises. Si le champ ne contient aucun \u00e9l\u00e9ment, une cha\u00eene vide sera utilis\u00e9e."
         },
         "839047fe3f6109257399fe301ddb7912": {
             "text": "Vous pouvez n'importe lequel de ces tags :"
