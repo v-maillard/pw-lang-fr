@@ -39,7 +39,7 @@
             "text": "Plus d'informations"
         },
         "b4da834069eb28c98cdf74c0dd7179d3": {
-            "text": "Utiliser $page->edit(\"%s\"); plut\u00f4t que $page->%s; pour sortir (output) la valeur."
+            "text": "Utiliser $page->edit(\"%s\"); plut\u00f4t que $page->%s; pour g\u00e9n\u00e9rer la valeur."
         },
         "48f403566075715027bd7fc9e1902cbc": {
             "text": "Option C : Ajouter des balises HTML d'\u00e9dition pour cr\u00e9er une r\u00e9gion \u00e9ditable"

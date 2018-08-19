@@ -33,7 +33,7 @@
             "text": "S\u00e9lectionnez le type de valeur que vous souhaitez que ce champ procure lorsqu'acc\u00e9d\u00e9 via l'API dans l'interface publique de votre site."
         },
         "ffb520d31a51841782cf1cba617fc875": {
-            "text": "Lorsque le formatage de sortie est d\u00e9sactiv\u00e9, la valeur est toujours un tableau (WireArray)"
+            "text": "Lorsque le formatage d'output est d\u00e9sactiv\u00e9, la valeur est toujours un tableau (WireArray)"
         },
         "6e7e8b4097cb9c2651e291b007b8efad": {
             "text": "Automatique (\u00e9l\u00e9ment unique ou nul lorsque le nb maximal de fichiers est de 1, tableau d'\u00e9l\u00e9ments autrement)"
@@ -51,7 +51,7 @@
             "text": "Chaine de caract\u00e8res rendue"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Fournit la chaine de caract\u00e8res \u00e0 rendre lors de la sortie en tant que valeur pour ce champ. Si le champ contient des \u00e9l\u00e9ments multiples, la chaine sera rendue \u00e0 plusieurs reprises. Si le champ ne contient aucun \u00e9l\u00e9ment, une chaine vide sera utilis\u00e9e."
+            "text": "Fournit la cha\u00eene de caract\u00e8res \u00e0 rendre lors de l'output en tant que valeur pour ce champ. Si le champ contient des \u00e9l\u00e9ments multiples, la chaine sera rendue \u00e0 plusieurs reprises. Si le champ ne contient aucun \u00e9l\u00e9ment, une chaine vide sera utilis\u00e9e."
         },
         "839047fe3f6109257399fe301ddb7912": {
             "text": "Vous pouvez n'importe lequel de ces tags :"
@@ -66,7 +66,7 @@
             "text": "Formateurs de texte (pour les descriptions de fichier)"
         },
         "8d664d296530bbabc76043e4e499b272": {
-            "text": "S\u00e9lectionnez un ou plusieurs formateurs de texte (et leur ordre) qui seront appliqu\u00e9s \u00e0 la description du fichier lorsque le formatage de sortie est actif. HTML Entity Encoder est recommand\u00e9, au minimum."
+            "text": "S\u00e9lectionnez un ou plusieurs formateurs de texte (et leur ordre) qui seront appliqu\u00e9s \u00e0 la description du fichier lorsque le formatage d'output est actif. HTML Entity Encoder est recommand\u00e9, au minimum."
         },
         "3fc82a72e38b059cea88dcfbdaeafff8": {
             "text": "Utiliser les tags ?"

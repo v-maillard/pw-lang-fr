@@ -27,10 +27,10 @@
             "text": "Obtenir une valeur :"
         },
         "3cdf9e98ed82c4005e72a8d904f2c396": {
-            "text": "Sortir (output) une valeur :"
+            "text": "G\u00e9n\u00e9rer une valeur :"
         },
         "e77be29cea913a45c5a64261aab889fe": {
-            "text": "Sortir (output) une valeur dans le markup :"
+            "text": "G\u00e9n\u00e9rer une valeur dans le markup :"
         },
         "a1846e66c3581626834fa2b2b713a751": {
             "text": "D\u00e9finir une valeur :"
@@ -39,10 +39,10 @@
             "text": "D\u00e9finir et enregistrer une valeur :"
         },
         "07eb153eceddb68a89d41166e566601a": {
-            "text": "cela d\u00e9sactive le formatage de la sortie, si n\u00e9cessaire"
+            "text": "cela d\u00e9sactive le formatage de l'output, si n\u00e9cessaire"
         },
         "d4dcb894c9c0f44c78175f84b15a0b57": {
-            "text": "Lier un groupe de champ \u00e0 une autre variable (plus courte) et sortir une valeur :"
+            "text": "Lier un groupe de champ \u00e0 une autre variable (plus courte) et g\u00e9n\u00e9rer une valeur :"
         },
         "89c8a04262edb041b1d1cf735fd36a4b": {
             "text": "Trouver des page ayant le groupe de champ \"%s\" contenant le texte \"example\" :"

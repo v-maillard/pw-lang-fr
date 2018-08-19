@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
     "translations": {
         "eb44c7b0eebc98a8441abb862a254b3d": {
-            "text": "Format de sortie de la date"
+            "text": "Format d'output de la date"
         },
         "e7033eefffec056f8898dab5295ef2f6": {
-            "text": "S\u00e9lectionnez le format \u00e0 utiliser pour la sortie des dates de ce champ."
+            "text": "S\u00e9lectionnez le format \u00e0 utiliser pour l'output des dates de ce champ."
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Aucun"
@@ -15,19 +15,19 @@
             "text": "Format de sortie de l'heure"
         },
         "cce774e589c4c23ce9c8cc7cb958861a": {
-            "text": "Si vous d\u00e9sirez afficher l'heure en plus de la date, s\u00e9lectionnez le format \u00e0 utiliser pour la sortie de l'heure \u00e0 l'aide de ce champ. Ceci sera combin\u00e9 avec le format de la date."
+            "text": "Si vous d\u00e9sirez afficher l'heure en plus de la date, s\u00e9lectionnez le format \u00e0 utiliser pour l'output de l'heure \u00e0 l'aide de ce champ. Ceci sera combin\u00e9 avec le format de la date."
         },
         "c1a326c2753f410fad585781390da97f": {
-            "text": "Format de sortie de l'heure\/date"
+            "text": "Format d'output de l'heure\/date"
         },
         "7b9ea642d1b10d7efc18d2c64a8940f8": {
-            "text": "L'heure\/date sera affich\u00e9s en fonction du format ci-dessous. Ceci est automatiquement cr\u00e9\u00e9 \u00e0 partir des sections date\/heure ci-dessus, mais vous pouvez le modifier en fonction de vos besoins."
+            "text": "L'heure\/date sera affich\u00e9 en fonction du format ci-dessous. Ceci est automatiquement cr\u00e9\u00e9 \u00e0 partir des sections date\/heure ci-dessus, mais vous pouvez le modifier en fonction de vos besoins."
         },
         "e606a86ec2852d83f2ea4622de245889": {
             "text": "Voir la r\u00e9f\u00e9rence de la fonction [date de PHP](http:\/\/php.net\/manual\/fr\/function.date.php) pour plus d'informations \u00e0 propos de la configuration du format. Vous pouvez aussi utiliser la fonction [strftime de PHP](http:\/\/php.net\/manual\/fr\/function.strftime.php) pour un formatage traduit."
         },
         "5bdb46a370b6d6a509c68a76551e5e3d": {
-            "text": "Pour les formats de date\/heure relatifs, voir Format de sortie de l'heure."
+            "text": "Pour les formats de date\/heure relatifs, voir Format d'output de l'heure."
         },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "(timestamp UNIX)"

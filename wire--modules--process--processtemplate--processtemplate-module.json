@@ -84,7 +84,7 @@
             "text": "Param\u00e8tres optionnels pour les URLs des pages utilisant ce mod\u00e8le"
         },
         "23f23b8b2e4cc5c8517468a6d001b3fd": {
-            "text": "Cache de sortie"
+            "text": "Cache d'output"
         },
         "244561833b6ce4599891cf9e33fb33d6": {
             "text": "Param\u00e8tres optionnels avanc\u00e9s du mod\u00e8le"
@@ -132,7 +132,7 @@
             "text": "Si vous voulez copier les champs utilis\u00e9s par un autre mod\u00e8le, s\u00e9lectionner ce dernier ici. Les champs d\u00e9j\u00e0 pr\u00e9sents dans le mod\u00e8le actuel seront ignor\u00e9s."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Pour mettre en cache la sortie de ce mod\u00e8le, indiquez la dur\u00e9e (en secondes) pendant laquelle la sortie devrait \u00eatre mise en cache. La mise en cache r\u00e9duit significativement le temps de rendu sur les pages avec un usage lourd en ressources. Cependant, la mise en cache ne devrait pas \u00eatre utilis\u00e9e avec les mod\u00e8les qui doivent traiter des donn\u00e9es changeantes, tels les formulaire ou les sessions. Notez aussi que les segments d'URL peuvent \u00eatre mis en cache, mais pas les variables GET et POST."
+            "text": "Pour mettre en cache l'output de ce mod\u00e8le, indiquez la dur\u00e9e (en secondes) pendant laquelle l'output devrait \u00eatre mise en cache. La mise en cache r\u00e9duit significativement le temps de rendu sur les pages avec un usage lourd en ressources. Cependant, la mise en cache ne devrait pas \u00eatre utilis\u00e9e avec les mod\u00e8les qui doivent traiter des donn\u00e9es changeantes, tels les formulaire ou les sessions. Notez aussi que les segments d'URL peuvent \u00eatre mis en cache, mais pas les variables GET et POST."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Par exemple : 60 = 1 minute, 600 = 10 minutes, 3600 = 1 heure, 86400 = 1 jour, 604800 = 1 semaine, 2419200 = 1 mois"
@@ -186,7 +186,7 @@
             "text": "Variables POST d\u00e9sactivant le cache"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
-            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous avez la possibilit\u00e9 de d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, la page sera rendue sans utiliser le cache."
+            "text": "Lorsque l'output du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous avez la possibilit\u00e9 de d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, la page sera rendue sans utiliser le cache."
         },
         "f32d42af055544c46a989bceee851733": {
             "text": "Vous pouvez entrer un ou plusieurs noms de variables. Pour en d\u00e9clarer plus d'un, s\u00e9parez-les par un espace."

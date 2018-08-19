@@ -12,7 +12,7 @@
             "text": "Rendu de page"
         },
         "d2c5ea4202c4c692852b7e10fbceabd3": {
-            "text": "Ajoute une m\u00e9thode render \u00e0 Page et mets en cache la sortie."
+            "text": "Ajoute une m\u00e9thode render \u00e0 Page et met en cache l'output."
         },
         "403c89515b16b3417cd2e426612b4a53": {
             "text": "Vid\u00e9 %d fichiers de cache pour %d pages"

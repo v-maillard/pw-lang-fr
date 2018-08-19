@@ -486,7 +486,7 @@
             "text": "Rendre la valeur du champ accessible de l'API m\u00eame s'il n'est pas visible (voir ci-bas)*"
         },
         "517e6c314a1ee61caa35000768dca057": {
-            "text": "Lorsqu'un champ n'est pas visible (sur la section publique, avec le formatage de sortie activ\u00e9), la valeur $page->$s sera une version vide\/nulle du type d\u00e9sir\u00e9, ce qui emp\u00eache  la valeur d'\u00eatre affich\u00e9e."
+            "text": "Lorsqu'un champ n'est pas visible (sur la section publique, avec le formatage d'output activ\u00e9), la valeur $page->$s sera une version vide\/nulle du type d\u00e9sir\u00e9, ce qui emp\u00eache  la valeur d'\u00eatre affich\u00e9e."
         },
         "5dab87f5242c802765e397e82db0840b": {
             "text": "Cochez la boite ci-dessus pour ignorer ce comportement, rendant la valeur toujours disponible \u00e0 partie de l'API. Ceci oblige \u00e0 implanter vous m\u00eame la v\u00e9rification d'acc\u00e8s, si d\u00e9sir\u00e9."

@@ -150,7 +150,7 @@
             "text": "Les utilisateurs peuvent recevoir des notifications par courriel pour vous les nouveaux commentaires sur la page"
         },
         "29c2c02a361c9d7028472e5d92cd4a54": {
-            "text": "Sortie"
+            "text": "Output"
         },
         "9e6530a34353d7610fd5455767b28df4": {
             "text": "Profondeur de r\u00e9ponse"
@@ -183,7 +183,7 @@
             "text": "Formateurs de texte"
         },
         "53a682f62e65f496a659d3a12c754f75": {
-            "text": "S\u00e9lectionner en option un ou plusieurs formateurs de texte \u00e0 appliquer sur le texte des commentaires, dans l'ordre s\u00e9lectionn\u00e9. Si vous n'en s\u00e9lectionnez aucun, le texte encodera les entit\u00e9s HTML, les nouvelles lignes seront converties en tag <br> et la sortie sera dans un tag <p>."
+            "text": "S\u00e9lectionner en option un ou plusieurs formateurs de texte \u00e0 appliquer sur le texte des commentaires, dans l'ordre s\u00e9lectionn\u00e9. Si vous n'en s\u00e9lectionnez aucun, le texte encodera les entit\u00e9s HTML, les nouvelles lignes seront converties en tag <br> et l'output sera dans un tag <p>."
         },
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
             "text": "Attention: s\u00e9lectionnez seulement les formateurs de texte que vous savez s\u00e9curitaires pour l'entr\u00e9e par des utilisateurs anonymes, tel que Entity Encoder (noyau) ou Textile Restricted (tierce-partie). Si vous n'\u00eates pas certain, ne s\u00e9lectionnez rien puisqu'un mauvais choix peut cr\u00e9er des probl\u00e8mes de s\u00e9curit\u00e9."
@@ -195,7 +195,7 @@
             "text": "Cette section vise \u00e0 vous aider \u00e0 int\u00e9grer les commentaires dans la partie publique de votre site. Tout ici est facultatif."
         },
         "c0cf19f012781de14679b0d857fe4cbd": {
-            "text": "Si vous utilisez la cache de sortie, configurez la de mani\u00e8re \u00e0 contourner la cache lorsque la variable GET \u00ab comment_success \u00bb est pr\u00e9sente."
+            "text": "Si vous utilisez la cache pour l'output, configurez la de mani\u00e8re \u00e0 contourner la cache lorsque la variable GET \u00ab comment_success \u00bb est pr\u00e9sente."
         },
         "e2ee73419f58949b9fdfb97f23a8a6ac": {
             "text": "Code PHP pour afficher les commentaires"
@@ -225,7 +225,7 @@
             "text": "Le syst\u00e8me d'\u00e9toiles permet au commentateur d'\u00e9valuer le sujet qu'il commente, utilisant une \u00e9chelle de 1 \u00e0 5 \u00e9toiles."
         },
         "924daa0b046449bd4fb99af3c97b5f2b": {
-            "text": "Pour changer l'\u00e9toile utilis\u00e9e par d\u00e9faut \u00e0 la sortie (HTML aussi acceptable) :"
+            "text": "Pour changer l'\u00e9toile utilis\u00e9e par d\u00e9faut pour l'output (HTML aussi acceptable) :"
         },
         "359310b90581d6b9baa3cdccc10607b2": {
             "text": "Oui (\u00e9valuation optionnelle)"
