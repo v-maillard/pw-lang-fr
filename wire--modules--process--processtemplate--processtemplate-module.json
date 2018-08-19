@@ -48,7 +48,7 @@
             "text": "Mod\u00e8les trouv\u00e9s dans : %s"
         },
         "66c97c50054d31c710d96c0073ec4c78": {
-            "text": "Les nouveaux mod\u00e8les suivant ont \u00e9t\u00e9 trouv\u00e9s. Cliquez la case adjacente \u00e0 chacun de ceux que vous d\u00e9sirez ajouter."
+            "text": "Les nouveaux mod\u00e8les suivant ont \u00e9t\u00e9 trouv\u00e9s. Cochez la case de ceux que vous d\u00e9sirez ajouter."
         },
         "f392144a3652c7daf4ee4f0377497709": {
             "text": "Aucun nouveau fichier de mod\u00e8le trouv\u00e9 dans : %s"
@@ -186,7 +186,7 @@
             "text": "Variables POST d\u00e9sactivant le cache"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
-            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous avez la possibilit\u00e9 de d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, causant la page \u00e0 \u00eatre rendue sans utiliser le cache."
+            "text": "Lorsque la sortie du mod\u00e8le est mise en cache, les variables de ce type sont ignor\u00e9s par d\u00e9faut. Vous avez la possibilit\u00e9 de d\u00e9clarez un ou plusieurs noms de variables qui d\u00e9sactiveront le cache pour cette requ\u00eate, la page sera rendue sans utiliser le cache."
         },
         "f32d42af055544c46a989bceee851733": {
             "text": "Vous pouvez entrer un ou plusieurs noms de variables. Pour en d\u00e9clarer plus d'un, s\u00e9parez-les par un espace."
@@ -408,7 +408,7 @@
             "text": "Param\u00e8tres de tri pour les enfants"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champ sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionner autre chose qu'\u00ab Aucun \u00bb, l'option de tri n'appara\u00eetra pas pour les pages utilisant ce mod\u00e8le."
+            "text": "Si vous d\u00e9sirer que les enfants soient automatiquement tri\u00e9s \u00e0 l'aide d'un champ sp\u00e9cifique, s\u00e9lectionnez le ici. Autrement, s\u00e9lectionnez \u00ab Aucun \u00bb pour activer le tri par page. Ceci \u00e9crase le param\u00e8tre des pages, donc si vous s\u00e9lectionnez autre chose que \u00ab Aucun \u00bb, l'option de tri n'appara\u00eetra pas pour les pages utilisant ce mod\u00e8le."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Permettre les num\u00e9ros de pages ?"
@@ -450,7 +450,7 @@
             "text": "HTTP seulement"
         },
         "ecb1f1de9e0f813e37e40e2aa016c008": {
-            "text": "Si votre site a un certificat SSL et est accessible via HTTPS, vous pouvez rendre ces pages uniquement accessible via HTTPS ou HTTP. Par exemple, si vous s\u00e9lectionnez \u00ab HTTPS seulement \u00bb plus bas et qu'une requ\u00eate pour une page utilisant ce mod\u00e8le arrive via HTTP, elle sera automatiquement redirig\u00e9e \u00e0 la version HTTPS. Par d\u00e9faut, ProcessWire permet la connection autant d'HTTP qu'HTTPS."
+            "text": "Si votre site a un certificat SSL et est accessible via HTTPS, vous pouvez rendre ces pages uniquement accessible via HTTPS ou HTTP. Par exemple, si vous s\u00e9lectionnez \u00ab HTTPS seulement \u00bb plus bas et qu'une requ\u00eate pour une page utilisant ce mod\u00e8le arrive via HTTP, elle sera automatiquement redirig\u00e9e \u00e0 la version HTTPS. Par d\u00e9faut, ProcessWire permet la connection autant HTTP que HTTPS."
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Nom de fichier de mod\u00e8le alternatif"
@@ -867,13 +867,13 @@
             "text": "pas davantage permis"
         },
         "ad1d924dc261c8945b07d271c9cd5888": {
-            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant que parent. Cliquez tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les parents permis."
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant que parent. Cliquez sur tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les parents permis."
         },
         "81d8cfa67d7f3fa526cff71bd27238c5": {
             "text": "Les mod\u00e8les indiqu\u00e9s d'un %s sont d\u00e9j\u00e0 configur\u00e9s et permettent d'ajouter ce mod\u00e8le en tant que parent."
         },
         "fb3f093ab0572a059120f2c7c680da3c": {
-            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant qu'enfant. Cliquez tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les enfants permis."
+            "text": "Les mod\u00e8les indiqu\u00e9s d'un %s doivent aussi \u00eatre configur\u00e9s pour permettre ce mod\u00e8le en tant qu'enfant. Cliquez sur tout mod\u00e8le s\u00e9lectionn\u00e9 pour configurer les enfants permis."
         },
         "173fc4509c54323d4c0da3ffea41742c": {
             "text": "Les mod\u00e8les indiqu\u00e9s d'un %s sont d\u00e9j\u00e0 configur\u00e9s et permettent d'ajouter ce mod\u00e8le en tant qu'enfant."

@@ -168,7 +168,7 @@
             "text": "Extensions suppl\u00e9mentaires"
         },
         "8cd140c060d298234e0079cb77ee8190": {
-            "text": "Les extensions suivantes ont \u00e9t\u00e9 trouv\u00e9es. Cochez la case adjacente \u00e0 chaque extension que vous d\u00e9sirez charger."
+            "text": "Les extensions suivantes ont \u00e9t\u00e9 trouv\u00e9es. Cochez la case de chaque extension que vous d\u00e9sirez charger."
         },
         "9252446fff7e6ba650e51955cb0dc1ad": {
             "text": "Pour ajouter plus d'extensions, placez les dans **\/site\/modules\/InputfieldCKEditor\/plugins\/[nom]\/** en rempla\u00e7ant **[nom]** par le nom de l'extension."
