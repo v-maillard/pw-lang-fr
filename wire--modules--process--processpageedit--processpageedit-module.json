@@ -295,6 +295,12 @@
         },
         "e8691f66b2ae08756dac17d0e3b91eb2": {
             "text": "Erreur lors de la restauration de la page"
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "La page sera restaur\u00e9e en : **%s**."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Le nom d'origine sera retouch\u00e9 de **%1$s** en **%2$s** pour \u00eatre unique."
         }
     }
 }
