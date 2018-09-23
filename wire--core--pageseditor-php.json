@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "Erreur lors de l'enregistrement du champ \"%s\""
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Une page utilisant le mod\u00e8le \"%s\" n'est pas d\u00e9pla\u00e7able."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Le parent choisi %1$s utilise le mod\u00e8le \"%2$s\" qui n'autorise pas les enfants."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Impossible de d\u00e9placer \"%1$s\" car le mod\u00e8le \"%2$s\" utilis\u00e9 par la page \"%3$s\" n'autorise pas les enfants utilisant le mod\u00e8le \"%4$s\"."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Impossible de d\u00e9placer \"%1$s\" car le mod\u00e8le \"%2$s\" utilis\u00e9 par le nouveau parent \"%3$s\" n'est pas autoris\u00e9 par le mod\u00e8le \"%4$s\" qui a \u00e9t\u00e9 d\u00e9plac\u00e9."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Le parent choisi \"%1$s\" a d\u00e9j\u00e0 une page intitul\u00e9e \"%2$s\"."
         }
     }
 }

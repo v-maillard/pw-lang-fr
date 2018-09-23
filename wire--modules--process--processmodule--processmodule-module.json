@@ -93,7 +93,7 @@
             "text": "Vous pouvez naviguer le r\u00e9pertoire de modules et trouver le module que vous d\u00e9sirez t\u00e9l\u00e9charger et installer. Entrez ou copiez-coller la \u00ab classe du module \u00bb du module \u00e0 installer."
         },
         "3b0798392299a74418470d3f13b5eec2": {
-            "text": "Le r\u00e9pertoire de modules a situ\u00e9 \u00e0 [modules.processwire.com](http:\/\/modules.processwire.com)"
+            "text": "Le r\u00e9pertoire de modules est situ\u00e9 \u00e0 [modules.processwire.com](http:\/\/modules.processwire.com)"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
             "text": "Assurez-vous que vous pouvez faire confiance \u00e0 la source de l'archive."
@@ -412,6 +412,18 @@
         },
         "d9402453cf25d5a1ced0a12d96cc7f98": {
             "text": "Espace de nommage"
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Information du module"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "T\u00e9l\u00e9charger maintenant"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Vous pouvez parcourir le dossier de modules pour rep\u00e9rer le module que vous souhaitez t\u00e9l\u00e9charger et installer."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Tapez ou collez la classe du module \u00e0 installer, cliquez ensuite sur le bouton \"%s\" pour poursuivre."
         }
     }
 }

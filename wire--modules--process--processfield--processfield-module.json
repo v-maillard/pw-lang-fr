@@ -709,6 +709,9 @@
         },
         "6855bfdf44496210543dabeb8f88a1c0": {
             "text": "+"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Montre tous les champs, en incluant les champs int\u00e9gr\u00e9s de base et les champs permanents."
         }
     }
 }

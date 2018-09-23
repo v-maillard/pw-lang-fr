@@ -235,6 +235,9 @@
         },
         "1cc510dea04a978b3bb88514582eea6c": {
             "text": "Pour autoriser les pages non publi\u00e9es, \u00e9ditez le champ \"%s\" et consulter la configuration dans l'onglet \"Avanc\u00e9\""
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Pour autoriser les pages non publi\u00e9es, \u00e9ditez le champ \"%s\" et consultez le param\u00e8tre dans l'onglet \"D\u00e9tails\"."
         }
     }
 }
