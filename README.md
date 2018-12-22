@@ -1,6 +1,6 @@
 # Traduction française de ProcessWire
 
-Traduction complète pour la version 3.0.110.
+Traduction complète pour la version 3.0.123.
 
 ## Traducteurs
 
