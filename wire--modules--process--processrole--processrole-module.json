@@ -127,6 +127,9 @@
         },
         "4106d43df925487225450293085f8bad": {
             "text": "La permission \"%1$s\" pour le mod\u00e8le \"%2$s\" n'est pas autoris\u00e9e (requiert la permission \"%3$s\")"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(obligatoire car h\u00e9rit\u00e9 du r\u00f4le invit\u00e9\/guest)"
         }
     }
 }

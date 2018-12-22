@@ -58,6 +58,39 @@
         },
         "58b0cb95c27f394bd4c6970b563153dd": {
             "text": "Veuillez ajouter ceci \u00e0 votre fichier \/site\/config.php (ajuster \"%s\" comme souhait\u00e9) :"
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Votre configuration locale courante est \u201c%s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "\u00c0 noter : la configuration locale de votre serveur ne fonctionne pas correctement avec le jeu de caract\u00e8res UTF-8 et peut causer des probl\u00e8mes mineurs."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Veuillez traduire le param\u00e8tre de localisation \"C\" pour chaque langue avec sa bonne valeur dans %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Veuillez ajouter ceci \u00e0 votre fichier %1$s (ajuster \u201c%2$s\u201d comme souhait\u00e9) :"
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Authentification \u00e0 deux \u00e9tapes"
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Ces modules d'authentification \u00e0 deux \u00e9tapes ont \u00e9t\u00e9 trouv\u00e9s :"
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "L'authentification \u00e0 deux \u00e9tapes est fortement conseill\u00e9e pour ces r\u00f4les"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Apr\u00e8s une connexion \u00e0 l'admin, ProcessWire demandera aux utilisateurs assign\u00e9s au r\u00f4le s\u00e9lectionn\u00e9 d'utiliser l'authentification \u00e0 deux \u00e9tapes pour leurs comptes."
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Pour configurer cela il faut d'abord installer un ou plusieurs modules d'authentification \u00e0 deux \u00e9tapes puis revenir ici."
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Les modules d'authentification \u00e0 deux \u00e9tapes du dossier modules de ProcessWire"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
         }
     }
 }

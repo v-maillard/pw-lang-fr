@@ -301,6 +301,78 @@
         },
         "e6c6e3f3e972de9c735faefa037529ab": {
             "text": "Le nom d'origine sera retouch\u00e9 de **%1$s** en **%2$s** pour \u00eatre unique."
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Quelles pages pointent vers celle-ci ?"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Il y a %d autre(s) page(s) pointant vers celle-ci dans des champs de page ou des liens href."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Quelles autres URL redirigent vers cette page ?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "D\u00e8s qu'une page est d\u00e9plac\u00e9e ou que son nom est chang\u00e9, l'emplacement pr\u00e9c\u00e9dent est retenu pour les redirections."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "La liste ci-dessous liste les URL (chemins) qui redirigent automatiquement vers cette page (par une redirection permanente 301)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Vous pouvez supprimer tous les chemins\/URLs ou en ajouter manuellement de nouveaux."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Pas de chemins de redirection"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Pas encore"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Suppression de la redirection pour l'URL pr\u00e9c\u00e9dente : %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Ajouter de nouvelles URL de redirection"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Entrez les chemins\/URL suppl\u00e9mentaires (un par ligne) qui doivent rediriger vers cette page."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Entrez seulement le chemin URL (par exemple \"\/hello\/world\/\"), n'incluez PAS le sch\u00e9ma, le domaine, le port, la cha\u00eene de requ\u00eate ou les fragments."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Les chemins sont relatifs \u00e0 la racine du site donc n'incluez PAS le sous-r\u00e9pertoire %s au d\u00e9but."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Pour d\u00e9finir une langue pour la redirection, entrez le chemin\/URL en ligne pr\u00e9fix\u00e9 par le nom de la langue :"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/votre\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(pour %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Redirection ajout\u00e9 : %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Impossible d'ajouter une redirection %s car cela semble \u00eatre en conflit avec un autre chemin."
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "+"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Quand"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Langue"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Courant"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "="
         }
     }
 }

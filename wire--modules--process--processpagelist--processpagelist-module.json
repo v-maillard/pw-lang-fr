@@ -106,6 +106,30 @@
         },
         "98ee3deee3a12fa7795a82801d19a020": {
             "text": "Cela active aussi les actions \"Corbeille\" et \"Restaurer\", o\u00f9 le contr\u00f4le d'acc\u00e8s l'autorise."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Type de quantit\u00e9 d'enfants"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Dans la liste des pages, une quantit\u00e9 d'enfants est affich\u00e9e \u00e0 c\u00f4t\u00e9 de chaque page d\u00e8s que possible. Quel type de quantit\u00e9 afficher ?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Pour l'affichage des descendants, la quantit\u00e9 inclut tous les descendants, qu'ils soient visibles pour l'utilisateur ou non."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Enfants imm\u00e9diats (par d\u00e9faut)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Descendants : enfants, petits-enfants, arri\u00e8re-petits-enfants, etc\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Les deux : enfants\/descendants"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Les deux : descendants\/enfants"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Afficher l'ID de la page \u00e0 la place"
         }
     }
 }
