@@ -33,7 +33,7 @@
             "text": "Texte \u00e0 rechercher"
         },
         "59b2ae438ca9f446f5cd4d79d3395446": {
-            "text": "Cliquer"
+            "text": "Cliquer ici pour construire l'index des phrases de recherche"
         },
         "038126bcfc832f08d96c331d0316f5da": {
             "text": "Rechercher tous les fichiers traduisibles pour une phrase\/un texte sp\u00e9cifique."
@@ -64,6 +64,9 @@
         },
         "f38977b9226f40d3b86bae7d9611a880": {
             "text": "="
+        },
+        "eb1aa189659918acda10866815cacccd": {
+            "text": "Rafra\u00eechir l'index des phrases de recherche"
         }
     }
 }

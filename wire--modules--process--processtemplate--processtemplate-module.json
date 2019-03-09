@@ -492,7 +492,7 @@
             "text": "Voulez vous g\u00e9rer les acc\u00e8s en vue et en modification pour les pages utilisant ce mod\u00e8le ?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
-            "text": "Si vous s\u00e9lectionnez \u00ab Oui \u00bb, vous pouvez d\u00e9finir les r\u00f4les qui ont acc\u00e8s aux pages utilisant ce mod\u00e8le. Si vous s\u00e9lectionnez \u00ab Non \u00bb, les pages utilisant ce mod\u00e8le h\u00e9riteront les acc\u00e8s \u00e0 partir de leurs parents."
+            "text": "Si vous s\u00e9lectionnez \u00ab Oui \u00bb, vous pouvez d\u00e9finir les r\u00f4les qui ont acc\u00e8s aux pages utilisant ce mod\u00e8le. Si vous s\u00e9lectionnez \u00ab Non \u00bb, les pages utilisant ce mod\u00e8le h\u00e9riteront des acc\u00e8s \u00e0 partir de leurs parents."
         },
         "26b6d64574e88f30f407e16212dc4d57": {
             "text": "Quoi faire lors qu'un utilisateur tente de voir une page \u00e0 laquelle il n'a pas acc\u00e8s ?"
@@ -597,7 +597,7 @@
             "text": "Vous avez demand\u00e9 d'enlever un ou plusieurs champs de ce mod\u00e8le. Les donn\u00e9es associ\u00e9es aux champs suivants seront supprim\u00e9es de fa\u00e7on permanente. Si les champs qui sont enlev\u00e9s contiennent beaucoup de donn\u00e9es, il se peut que op\u00e9ration prenne un certain moment apr\u00e8s votre confirmation et l'envoi de ce formulaire. Veuillez confirmer que vous comprenez cela et que vous d\u00e9sirez supprimer le ou les champs en cochant la case plus bas."
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
-            "text": "Enlever le champs \u00ab %1$s \u00bb du mod\u00e8le \u00ab %2$s \u00bb"
+            "text": "Enlever le champ \u00ab %1$s \u00bb du mod\u00e8le \u00ab %2$s \u00bb"
         },
         "3617ad2fed81de1357bb35b0459bf8b8": {
             "text": "Ce mod\u00e8le ne peut pas \u00eatre renomm\u00e9 puisqu'il est un mod\u00e8le syst\u00e8me"

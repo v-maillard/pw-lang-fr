@@ -373,6 +373,18 @@
         },
         "2623934b184a9c5b44a0c9992499b5f6": {
             "text": "="
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Cette page a un ou plusieurs champs non compl\u00e9t\u00e9s (essayez d'enregistrer ou de publier pour plus d'informations)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unique : n\u00e9cessite que le nom de la page \"%s\" soit unique au niveau global"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(dans la langue par d\u00e9faut seulement)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Le statut signal\u00e9 a \u00e9t\u00e9 retir\u00e9 car l'enregistrement s'est fait sans erreur"
         }
     }
 }
