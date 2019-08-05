@@ -25,6 +25,9 @@
         },
         "cfdf33cbd93768327b807066fb473750": {
             "text": "Activer l'authentification \u00e0 deux \u00e9tapes"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Vous avez atteint la valeur PHP \u201cmax_input_vars\u201d de %d \u2014 veuillez l'augmenter."
         }
     }
 }

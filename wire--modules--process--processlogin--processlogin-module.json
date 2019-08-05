@@ -91,6 +91,15 @@
         },
         "0d61f8370cad1d412f80b84d143e1257": {
             "text": "="
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Non activation des v\u00e9rifications du syst\u00e8me apr\u00e8s la connexion car des mises \u00e0 jour ont \u00e9t\u00e9 appliqu\u00e9es (%s)"
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "\u00c9chec de la v\u00e9rification Javascript : veuillez activer Javascript pour vous connecter."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "\u00c9chec de la v\u00e9rification des cookies : veuillez activer les cookies pour vous connecter."
         }
     }
 }

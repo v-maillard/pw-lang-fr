@@ -1069,6 +1069,24 @@
         },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Base"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Rediriger vers une autre URL ou afficher une page par son ID"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "URL de redirection ou ID de la page \u00e0 afficher"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Entrez l'URL vers laquelle vous voulez rediriger OU l'ID de la page que vous voulez rendre lorsqu'un utilisateur n'a pas acc\u00e8s."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Si vous sp\u00e9cifiez un ID de page, veuillez noter que la page sera affich\u00e9e pour l'utilisateur, qu'il ait ou non l'autorisation de la voir."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "C'est utile dans les cas o\u00f9 votre page de connexion pourrait elle-m\u00eame \u00eatre prot\u00e9g\u00e9e."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Ce param\u00e8tre n'est applicable que si vous avez s\u00e9lectionn\u00e9 l'option \u00ab C \u00bb dans le champ ci-dessus."
         }
     }
 }

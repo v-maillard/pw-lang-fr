@@ -424,6 +424,9 @@
         },
         "a2eff7125bf22d0665eb96166b471821": {
             "text": "Tapez ou collez la classe du module \u00e0 installer, cliquez ensuite sur le bouton \"%s\" pour poursuivre."
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Module : %s"
         }
     }
 }

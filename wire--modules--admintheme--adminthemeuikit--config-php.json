@@ -84,7 +84,7 @@
             "text": "Panneau lat\u00e9ral de navigation (gauche) + arborescence (droite)"
         },
         "cd49cb29b2424eb2cfa6526153e12f3f": {
-            "text": "*les agencements avec des panneaux lat\u00e9raux ne sont pas compatibles avec le syst\u00e8me de notifications et peut causer des probl\u00e8mes avec d'autres modules."
+            "text": "* les agencements avec des panneaux lat\u00e9raux ne sont pas compatibles avec le syst\u00e8me de notifications et peut causer des probl\u00e8mes avec d'autres modules."
         },
         "029ec5ac76207f4e7627a0e3ffbdb15b": {
             "text": "Largeur maximale"
@@ -307,6 +307,9 @@
         },
         "661262f88b0f998e147baacf8778d340": {
             "text": "Ouvrir le champ \"%s\" ci-dessous pour un exemple de la largeur de colonne."
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Choisisse l'option B si vous avez des difficult\u00e9s pour atteindre les largeurs de colonnes pr\u00e9vues dans l'Inputfield."
         }
     }
 }
