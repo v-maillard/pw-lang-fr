@@ -82,6 +82,15 @@
         },
         "d7c8c85bf79bbe1b7188497c32c3b0ca": {
             "text": "\u00c9chec"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "L'extension du fichier n'est pas support\u00e9e, veuillez utiliser uniquement : EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Fichier trop volumineux - le poids maximum autoris\u00e9 est MAX_KB kb"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Le champ \u201c%1$s\u201d de type \u201c%2$s\u201d n'est pas support\u00e9 dans le champ \u201c%3$s\u201d"
         }
     }
 }

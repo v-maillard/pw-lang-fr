@@ -1087,6 +1087,12 @@
         },
         "793e0cc1771feadd7a91c0031e7ad663": {
             "text": "Ce param\u00e8tre n'est applicable que si vous avez s\u00e9lectionn\u00e9 l'option \u00ab C \u00bb dans le champ ci-dessus."
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Cliquer et d\u00e9placer pour modifier la largeur du champ"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Enregistrer le mod\u00e8le avant de modifier la largeur d'un nouveau champ"
         }
     }
 }

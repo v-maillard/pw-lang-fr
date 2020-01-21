@@ -109,6 +109,12 @@
         },
         "9cdd19f51364783933fefd557c7cd644": {
             "text": "\u00c0 changer uniquement si un module 3rd party le demande."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "Modules Fieldtypes autoris\u00e9s pour les champs personnalis\u00e9s"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "Les types de champs barr\u00e9s sont susceptibles de ne pas \u00eatre compatibles \u00e0 100 %."
         }
     }
 }

@@ -447,7 +447,7 @@
             "text": "\u00c9crasements de param\u00e8tres par mod\u00e8le"
         },
         "62d09c342e50351059153e99a2fdbb47": {
-            "text": "Pour \u00e9diter un \u00e9crasement de param\u00e8tre ou \u00e9craser d'autres param\u00e8tres, \u00e9ditez tout mod\u00e8le et cliquez le nom du champ dans la liste de champs."
+            "text": "Pour \u00e9diter un \u00e9crasement de param\u00e8tre ou \u00e9craser d'autres param\u00e8tres, \u00e9ditez un mod\u00e8le et cliquez sur le nom du champ dans la liste des champs."
         },
         "2452cab12330c0a3ce62f7974eb82ba6": {
             "text": "Supprimer les \u00e9crasements contextuels"
@@ -712,6 +712,36 @@
         },
         "7db27839ce9f9208f2b52bb9a48220a9": {
             "text": "Montre tous les champs, en incluant les champs int\u00e9gr\u00e9s de base et les champs permanents."
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "quand utilis\u00e9 avec le mod\u00e8le \u201c%1$s\u201d dans le contexte \u201c%2$s\u201d"
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Pour choisir les param\u00e8tres autoris\u00e9s \u00e0 \u00eatre \u00e9cras\u00e9s, voir la section ci-dessous."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Param\u00e8tres autoris\u00e9s \u00e0 \u00eatre \u00e9cras\u00e9s par mod\u00e8le"
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**ATTENTION : ** l'activation de param\u00e8tres diff\u00e9rents de ceux sp\u00e9cifi\u00e9s par le module Fieldtype\/Inputfield peut ne pas toujours fonctionner, ou peut causer des probl\u00e8mes."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Par cons\u00e9quent, nous recommandons de tester d'abord toute modification de ces param\u00e8tres dans un environnement hors production (d\u00e9veloppement)."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "\u00c0 noter :"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Les param\u00e8tres en **gras** sont ceux que le module Fieldtype\/Inputfield a d\u00e9sign\u00e9 comme \u00e9tant toujours autoris\u00e9s pour \u00eatre \u00e9cras\u00e9s."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Les autres param\u00e8tres peuvent ou non fonctionner selon les \u00e9crasements contextuels."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Vous devez d\u00e9cocher tous les param\u00e8tres qui ne fonctionnent pas ou qui posent des probl\u00e8mes."
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Changements"
         }
     }
 }

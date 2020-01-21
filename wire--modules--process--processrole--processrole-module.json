@@ -130,6 +130,12 @@
         },
         "596d1c90537af3c3c588dceedde6bf03": {
             "text": "(obligatoire car h\u00e9rit\u00e9 du r\u00f4le invit\u00e9\/guest)"
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Les mod\u00e8les avec un ast\u00e9risque (*) sont configur\u00e9s de mani\u00e8re \u00e0 ce que les permissions de modification soient \u00e9galement transmises aux enfants par  l'arborescence, \u00e0 moins qu'elles ne soient \u00e9cras\u00e9es par une page utilisant un mod\u00e8le de contr\u00f4le d'acc\u00e8s diff\u00e9rent."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Cette permission est aussi transmise aux enfants par l'arborescence, \u00e0 moins qu'elles ne soient \u00e9cras\u00e9es par une page utilisant un mod\u00e8le de contr\u00f4le d'acc\u00e8s diff\u00e9rent."
         }
     }
 }
