@@ -9,4 +9,4 @@ Traduction complète pour la version 3.0.200.
 - Guillaume
 - achabany
 - [Vincent Maillard](https://github.com/v-maillard/)
-- [Christopher Wait]https://github.com/virtualgadjo)
+- [Christopher Wait](https://github.com/virtualgadjo)
