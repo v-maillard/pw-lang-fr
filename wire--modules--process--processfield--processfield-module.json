@@ -17,9 +17,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtres"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "Filtrer par mod\u00e8le"
-        },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Lorsque s\u00e9lectionn\u00e9 seulement les champs d'un mod\u00e8le sp\u00e9cifiques seront affich\u00e9s. Les champs int\u00e9gr\u00e9s de base sont aussi affich\u00e9s lors du filtrage par mod\u00e8le. Les ast\u00e9risques (*) indiquent les mod\u00e8les syst\u00e8me."
         },
@@ -29,23 +26,14 @@
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "Champs par mod\u00e8le"
         },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Filtrer par type de champ"
-        },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Si d\u00e9fini, seulement les champs des types s\u00e9lectionn\u00e9s seront affich\u00e9s. Les champs int\u00e9gr\u00e9s de base sont aussi affich\u00e9s lors du filtrage par type de champs."
         },
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "Affiche les champs pour le mod\u00e8le : %s"
         },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Afficher les champs int\u00e9gr\u00e9s de base ?"
-        },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "Si coch\u00e9, les champs int\u00e9gr\u00e9s de base seront aussi affich\u00e9s. Ceux-ci comprennent les champs syst\u00e8me et les champs permanents. Les champs syst\u00e8mes sont requis par ProcessWire et ne peuvent ni \u00eatre supprim\u00e9s, ni avoir leur nom chang\u00e9. Les champs permanents sont ceux qui le peuvent \u00eatre enlev\u00e9s d'un mod\u00e8le. Ces champs sont utilis\u00e9s \u00e0 l'interne par ProcessWire."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Affiche tout les champs, incluant les champs syst\u00e8mes et permanents."
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Sans tag"
@@ -62,9 +50,6 @@
         "4fd5d5323fc3d2535f351e46ba740d3c": {
             "text": "\u2026et ainsi de suite\u2026"
         },
-        "a90c3a6bf539d90c6016413cddd2178c": {
-            "text": "Veuillez lancer cette v\u00e9rification sur le champ %s"
-        },
         "bd5aef6293f875aa908466a69c08a14a": {
             "text": "Aucun probl\u00e8me trouv\u00e9 pour le champ %s"
         },
@@ -80,12 +65,6 @@
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "Supprimer %d rangs de tables orphelines ?"
         },
-        "afb5272a55f7eb214fd004a5becf2bb7": {
-            "text": "Nous avons trouv\u00e9 des rangs de donn\u00e9es dans la table de ce champ qui ne correspondent \u00e0 aucune page."
-        },
-        "ad4e206408c1c59bfb8a057ba7857446": {
-            "text": "Contexte"
-        },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
             "text": "*Indique que ce champ \u00e9crase actuellement une valeur par d\u00e9faut. Les param\u00e8tres que vous d\u00e9finissez ici \u00e9crasent les param\u00e8tres par d\u00e9faut lorsqu'ils sont utilis\u00e9s avec le mod\u00e8le \u00ab %s \u00bb."
         },
@@ -98,62 +77,20 @@
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Ce champ n'a pas pu \u00eatre supprim\u00e9 par il est utilis\u00e9 par un ou plusieurs mod\u00e8les."
         },
-        "e7ec3883e42efde03a4932115fb807eb": {
-            "text": "Param\u00e8tres lorsqu'utilit\u00e9 avec le mod\u00e8le : %s"
-        },
-        "bfacb0dba61ee131e07daaacead869c5": {
-            "text": "Param\u00e8tres de base de champ"
-        },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Toutes combinaison de lettres [a-z], nombres [0-9] ou tirets bas [_] au format ASCII (aucun espaces ni tirets)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Apr\u00e8s avoir s\u00e9lectionn\u00e9 votre type de champ et avoir enregistr\u00e9, des options de configuration additionnelles sp\u00e9cifiques au champ peuvent vous \u00eatre affich\u00e9es."
-        },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Ceci est l'\u00e9tiquette qui appara\u00eet au-dessus des champs d'entr\u00e9e. Lorsque laiss\u00e9 vide, le nom sera utilis\u00e9."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Information additionnelle d\u00e9crivant ce champ et\/ou des instructions \u00e0 propos de la saisie du contenu."
         },
-        "0b99d251c68ee30c7f38cefe42d5fbdc": {
-            "text": "Informations d'usage du champ"
-        },
-        "90a7d24b2f57968c1090adc8eb1cedff": {
-            "text": "Ce champs est utilis\u00e9 par les mod\u00e8les suivants:"
-        },
-        "e846a7b9b780397947329058d6856fe4": {
-            "text": "\u00c9diter le champ dans un contexte"
-        },
-        "da15cd97dba363b29a8a06c76d4c4c7d": {
-            "text": "Ce champs n'est utilis\u00e9 par aucun mod\u00e8le."
-        },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Dupliquer\/cloner ce champ ?"
-        },
-        "c073843a55498e809c4dd95be0721831": {
-            "text": "Cochez la case ci-dessous si vous d\u00e9sirer cr\u00e9e copie (duplicata\/clone) de ce champs. Le clone sera cr\u00e9\u00e9 au moment de la sauvegarde."
-        },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Options avanc\u00e9es"
         },
         "817434295a673aed431435658b65d9a7": {
             "text": "Ic\u00f4ne"
         },
-        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
-            "text": "Si vous d\u00e9sirer associer une ic\u00f4ne \u00e0 ce champs, saisissez un [nom d'ic\u00f4ne](http:\/\/fortawesome.github.io\/Font-Awesome\/icons\/) ici."
-        },
-        "41fb8fe20e74e99ab359cecc48be97d5": {
-            "text": "Exemple : beer"
-        },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "Si vous d\u00e9sirez grouper visuellement ce champ avec d'autres dans la liste de champs, entrez un tag compos\u00e9 d'un seul mot (tirets accept\u00e9s dans les noms-de-tags). Entrez le m\u00eame tag sur les autres champs avec lesquels vous d\u00e9sirer le grouper. Pour d\u00e9clarer des tags multiples, s\u00e9parez chacun d'entre eux avec un espace. L'utilisation des tags peut \u00eatre fort utile si votre site a un large nombre de champs."
-        },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Chaque tag doit \u00eatre compos\u00e9 d'un mot (les tirets-sont-ok)."
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Pour r\u00e9duire un tag dans la liste de champs, pr\u00e9fixez le d'un tiret, comme ceci: -allo"
         },
         "011e30aea1ad8c8e81405e295f032cc8": {
             "text": "V\u00e9rifier les donn\u00e9es du champ"
@@ -221,20 +158,11 @@
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "\u00c9diter les champs individuels qui contiennent les donn\u00e9es de la page"
         },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "Afficher les options de filtrage dans la liste de champs?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "Ceci ajoute deux boites de s\u00e9lection au dessus de la liste de champs qui vous permet de filtrer l'affichage des champs par mod\u00e8le ou type."
-        },
         "7cdb55d0d84a64ee84c14621892d8e10": {
             "text": "Retourner \u00e0 la liste de champs apr\u00e8s avoir enregistr\u00e9 un champ ?"
         },
         "503eff76a9f0b3c0c78997aa4370e2f0": {
             "text": "Par d\u00e9faut, vous resterez dans l'\u00e9diteur de champs apr\u00e8s avoir enregistr\u00e9 un champ. Si vous d\u00e9sirez plut\u00f4t de retourner \u00e0 la liste de champs, cochez cette case."
-        },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "Int\u00e9gr\u00e9s de base"
         },
         "d665a1b10e02b9de8f4115d5b7078976": {
             "text": "Ajouter un nouveau champ"
@@ -266,26 +194,11 @@
         "cb4e4304ce3fbf227cdae7fecc193fbf": {
             "text": "Alerte"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Aucun (par d\u00e9faut)"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "Annuler"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Supprimer"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "De base"
-        },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "\u00c9tiquette"
-        },
-        "1b5681f696c34da0c10d98c5666f22ca": {
-            "text": "Infos"
-        },
-        "450424710b0286d62947973d7263eb21": {
-            "text": "Mod\u00e8le"
         },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avanc\u00e9"
@@ -401,12 +314,6 @@
         "092a2d93903f42f67e257ba6fb82d6a2": {
             "text": "Erreur pendant la suppression du champ \"%1$s\" du mod\u00e8le \"%2$s\""
         },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "Nom"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "\u00c9tiquette"
-        },
         "995ed8becc596409849c6a652fbf5cd4": {
             "text": "Pages peupl\u00e9es"
         },
@@ -448,15 +355,6 @@
         },
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Pour \u00e9diter un \u00e9crasement de param\u00e8tre ou \u00e9craser d'autres param\u00e8tres, \u00e9ditez un mod\u00e8le et cliquez sur le nom du champ dans la liste des champs."
-        },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Supprimer les \u00e9crasements contextuels"
-        },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "Les param\u00e8tres suivants \u00e9crasent les param\u00e8tres de champ originaux lorsque ce champ est utilis\u00e9 dans le contexte du mod\u00e8le \u00ab%s\u00bb."
-        },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Pour supprimer tout \u00e9crasement de valeur (et les restaurer aux valeurs par d\u00e9faut) cochez la case \u00e0 c\u00f4t\u00e9 de chacun des param\u00e8tres que vous souhaitez supprimer\/restaurer."
         },
         "94109d0b682a5ee9086924792ab5d349": {
             "text": "Voulez vous activer le contr\u00f4le d'acc\u00e8s pour ce champ ?"
@@ -563,18 +461,6 @@
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Param\u00e8tre"
         },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
-            "text": "="
-        },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "\u00c9crasement"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Supprimer le param\u00e8tre"
-        },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "="
-        },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "="
         },
@@ -614,23 +500,8 @@
         "927e2bece8a3ee4ce5f53aca157c04ec": {
             "text": "Uniquement des combinaisons de lettres ASCII (a-z A-Z), de chiffres (0-9) ou de tirets."
         },
-        "89fa758424367d5caeb355f904d5bfc1": {
-            "text": "\u00c9crasements autoris\u00e9s"
-        },
         "7710897a6218283716118180cd494f1e": {
             "text": "Les param\u00e8tres coch\u00e9s appara\u00eetront en tant qu'options lors de l'\u00e9dition de ce champ dans le contexte d'un mod\u00e8le particulier."
-        },
-        "c4d3fb0af8e800de549531cccd8a19f8": {
-            "text": "**Attention :** faire ceci au-del\u00e0 des param\u00e8tres d\u00e9finis par l'auteur du module peut ne pas toujours fonctionner, ou causer des probl\u00e8mes."
-        },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "\u00c9tiquette"
-        },
-        "49ee3087348e8d44e1feda1917443987": {
-            "text": "Nom"
-        },
-        "a1fa27779242b4902f7ae3bdd5c6d508": {
-            "text": "="
         },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "D\u00e9tails :"
@@ -742,6 +613,36 @@
         },
         "e036648db74b48abc2b6af1d56d4596c": {
             "text": "Changements"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(pas utilis\u00e9)"
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "Label\/\u00e9tiquette qui appara\u00eet au-dessus du champ."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "La description appara\u00eet ici et ressemble \u00e0 \u00e7a."
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "="
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "surcharges\/contextes"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "%d mod\u00e8le"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "%d mod\u00e8les"
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Nom du tag"
+        },
+        "0056888ec574ec487da813f9c577b27c": {
+            "text": "Vous pouvez utiliser des lettres, des chiffres, traits d'union et underscores"
+        },
+        "6809fda0cf4fa4c12e63de08c0aa8b45": {
+            "text": "Champ syst\u00e8me, il n'est pas recommand\u00e9 dans donner le contr\u00f4le d'acc\u00e8s"
         }
     }
 }

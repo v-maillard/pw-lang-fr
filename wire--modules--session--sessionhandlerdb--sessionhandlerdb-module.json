@@ -25,6 +25,15 @@
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
             "text": "La session pr\u00e9c\u00e9dent pour %s a \u00e9t\u00e9 d\u00e9connect\u00e9e."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "D\u00e9lai d'expiration du verrouillage de session (secondes)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Si un verrou ne peut pas \u00eatre obtenu dans la BDD pour la session pour ce nombre de secondes, une erreur \u00ab %s \u00bb sera envoy\u00e9e, indiquant \u00e0 l'utilisateur de r\u00e9essayer dans %d secondes."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429 : R\u00e9qu\u00eates trop nombreuses"
         }
     }
 }

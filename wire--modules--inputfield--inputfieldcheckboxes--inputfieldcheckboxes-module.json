@@ -2,17 +2,38 @@
     "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
     "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
     "translations": {
-        "d3f3236393ce7a48198cde99acaed365": {
-            "text": "Colonne de cases \u00e0 cocher"
-        },
-        "50bad9e0658dd79a35545ebcd18f92ac": {
-            "text": "Si vous d\u00e9sirez que les cases \u00e0 cocher apparaissent en colonnes (plut\u00f4t qu'empil\u00e9es), entrez le nombre de colonnes que vous d\u00e9sirez (jusqu'\u00e0 10). Pour afficher les cases c\u00f4te \u00e0 c\u00f4te (inline), entrez 1."
-        },
         "632ae34b804c1914c3a51af327a3379d": {
             "text": "Plusieurs cases \u00e0 cocher"
         },
         "c425f296c6b905c91fb3f6da1a1702b6": {
             "text": "Cases \u00e0 cocher"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Largeur de colonne d'options"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Utilisez ce param\u00e8tre pour que les options s'affichent dans des colonnes de largeur fixe en float ou se r\u00e9duisent en fonction de la largeur de la fen\u00eatre."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Entrez un nombre et une unit\u00e9 de largeur CSS tels que 100px ou 10em, par exemple. Si aucune unit\u00e9 n'est sp\u00e9cifi\u00e9e, px (pixels) est utilis\u00e9e."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Entrez le nombre 1 pour calculer automatiquement une largeur appropri\u00e9e au moment de l'ex\u00e9cution."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Pour une meilleure apparence, entrez une largeur qui peut s'adapter \u00e0 l'option la plus longue sans habillage de mot, ou entrez 1 \u00e0 pour la largeur automatique."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Quantit\u00e9 de colonne d'options"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Si vous souhaitez que les options s'affichent en colonnes, saisissez le nombre de colonnes que vous souhaitez utiliser (jusqu'\u00e0 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Pour afficher les options c\u00f4te \u00e0 c\u00f4te, entrez le num\u00e9ro 1."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Notez que le param\u00e8tre \"largeur de colonne d'option\" est pr\u00e9f\u00e9rable pour un comportement responsif."
         }
     }
 }

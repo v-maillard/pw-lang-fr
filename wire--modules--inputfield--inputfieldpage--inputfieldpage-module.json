@@ -20,41 +20,17 @@
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(par d\u00e9faut)"
         },
-        "962f1366aaa6f1c636d3214e12322362": {
-            "text": "Pages s\u00e9lectionnables"
-        },
         "6dc3e540b29f68e1eaf558b6a2edd476": {
             "text": "Entrez les titres de chaque page que vous voulez ajouter, une par ligne. Ils vont \u00eatre cr\u00e9e et ajout\u00e9 \u00e0 votre s\u00e9lection quand vous allez sauvegarder la page."
         },
         "b82b34c94588fc88ca4a6b18f5e18aef": {
             "text": "Entrez le titre de la page que vous voulez ajouter. Il sera s\u00e9lectionn\u00e9 quand vous sauvegarderez la page."
         },
-        "21348aafc8733099a5b3c20e4a90e7b4": {
-            "text": "Parent des pages s\u00e9lectionnables"
-        },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
             "text": "S\u00e9lectionnez le parent des pages qui seront s\u00e9lectionnables."
         },
-        "dceea0994df5640514b906a18a43810f": {
-            "text": "Gabarit des pages s\u00e9lectionnables"
-        },
-        "9f80067ff42d8e69d0c3a24b67ef4c85": {
-            "text": "S\u00e9lectionnez le gabarit des pages qui sont s\u00e9lectionnables. Peut \u00eatre utilis\u00e9 \u00e0 la place ou \u00e0 l'addition du parent ci-haut. NOTE: Incompatible avec le type de champ PageListSelect."
-        },
-        "53158583a607fba6e71f0f18d73a910b": {
-            "text": "S\u00e9lecteur pour trouver les pages s\u00e9lectionnables."
-        },
-        "6ad160329dd81f9ecede290bffe93928": {
-            "text": "Si vous voulez trouver les pages s\u00e9lectionnables utilisant les s\u00e9lecteurs de ProcessWire plut\u00f4t que de s\u00e9lectionner une page parent ou un gabarit (ci-haut), alors entrez le s\u00e9lecteur qui recherchera les pages s\u00e9lectionnables. Ce s\u00e9lecteur sera envoy\u00e9 \u00e0 $pages->find(\"votre gabarit\");. NOTE: N'est pas actuellement compatible avec le type de champ PageListSelect."
-        },
-        "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "Code PHP pour trouver les pages s\u00e9lectionnables."
-        },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "retourne $page->parent->parent->children(\"name=locations\")->first()->children();"
-        },
-        "bb990f9776c28444dad4fa48fb2c946c": {
-            "text": "Champ \u00e9tiquette"
         },
         "e5c1791ec6a73eed5d8a7002e2799470": {
             "text": "S\u00e9lectionnez le champ que vous voulez utiliser pour la g\u00e9n\u00e9ration des \u00e9tiquettes pour chaque page s\u00e9lectionnables."
@@ -62,32 +38,17 @@
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
             "text": "Type de champ"
         },
-        "bcf331523fb730639bde7c2e8fc4f811": {
-            "text": "Le type de champ qui va \u00eatre utilis\u00e9 pour s\u00e9lectionner une page. S\u00e9lectionnez-en une qui est conforme avec ce que vous avez choisis dans l'onglet \"d\u00e9tails\" de ce champ (page simple ou multiples pages)."
-        },
-        "195a66e99428447940ac989366724b42": {
-            "text": "Les types avec un ast\u00e9risque signifie qu'ils supportent les pages multiples."
-        },
         "8332fcbd80839cdcc617bee49529ad1e": {
             "text": "Permet de cr\u00e9er de nouvelles pages directement \u00e0 partir du champ ?"
         },
         "20463a1675fc256b438538124524746a": {
             "text": "Si coch\u00e9, une option pour cr\u00e9er de nouvelles pages sera pr\u00e9sente si les conditions sont remplies."
         },
-        "7673446b991c59998763308c9f7f5d53": {
-            "text": "1. \u00c0 la fois un parent et un gabarit doivent \u00eatre s\u00e9lectionn\u00e9s ci-dessus."
-        },
         "65a208c6491dac4a6fb17f7a62f76658": {
             "text": "2. L'utilisateur qui \u00e9dite doit avoir acc\u00e8s \u00e0 cr\u00e9er\/\u00e9diter ces pages."
         },
-        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
-            "text": "3. Le champ de l'\u00e9tiquette doit \u00eatre r\u00e9gl\u00e9 sur \"titre (par d\u00e9faut)\"."
-        },
         "4349c31cba02549f2043d69b9eb0d66e": {
             "text": "(non publi\u00e9e)"
-        },
-        "54b79da80ed98094797b9e3ee68488a6": {
-            "text": "Les types avec un plus assument qu'un \u00ab parent \u00bb est la racine d'une arborescence, plut\u00f4t qu'un parent imm\u00e9diat."
         },
         "d9a5927aa49f1a766a15e692b69c1c91": {
             "text": "Modules Inputfield disponibles pour la s\u00e9lection de pages"
@@ -103,9 +64,6 @@
         },
         "a9e792488572b1b5316720df20682ad3": {
             "text": "NOTE: N'est pas compatible avec les types de champs PageListSelect et Autocomplete."
-        },
-        "3d9e8a4318894ce247ba920c7961d5da": {
-            "text": "Alors que cela outrepasse les s\u00e9lections de parent et de gabarit ci-haut, ces s\u00e9lections sont tout de m\u00eame utilis\u00e9es pour la validation (d\u00e9s\u00e9lectionnez les si vous ne voulez pas ce comportement)."
         },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/produits\/, template=produit, sort=name"
@@ -127,9 +85,6 @@
         },
         "190dcbcb68a0545eb0e38c4eca2961e0": {
             "text": "Exemple: {parent.title} - {title}, {date}"
-        },
-        "ebd9ef41cdc1369f55f58b151390de31": {
-            "text": "Certains types de champs fournissent des options de configuration additionnelles. Apr\u00e8s avoir s\u00e9lectionn\u00e9 un type de champ et enregistr\u00e9 vos changements, des options additionnelles pourraient s'afficher sous cette section."
         },
         "9eeb68b4b7e0c3608f3014ad177b15fb": {
             "text": "Le type de champ (module Inputfield) qui sera utilis\u00e9 pour s\u00e9lectionner le(s) pages(s) dans ce champ."
@@ -233,11 +188,23 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "Une page non publi\u00e9e %1$s n'est pas autoris\u00e9e dans le champ \"%2$s\""
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Pour autoriser les pages non publi\u00e9es, \u00e9ditez le champ \"%s\" et consulter la configuration dans l'onglet \"Avanc\u00e9\""
-        },
         "1f6147d9cbae7fa8c3e213824bce6405": {
             "text": "Pour autoriser les pages non publi\u00e9es, \u00e9ditez le champ \"%s\" et consultez le param\u00e8tre dans l'onglet \"D\u00e9tails\"."
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Type de valeur"
+        },
+        "2486017626b5debfccb828303675e52c": {
+            "text": "PageArray (tableau)"
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(marche dans tous les cas mais est rquis pour les s\u00e9lections multiples)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Page"
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(optionnel pour les s\u00e9lection de page unique)"
         }
     }
 }

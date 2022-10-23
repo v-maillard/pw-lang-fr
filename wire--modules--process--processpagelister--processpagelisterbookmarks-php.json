@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
     "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
     "translations": {
-        "369edfa695c186fc693c7cdfea26b6d2": {
-            "text": "Note superusers: d'autres utilisateurs peuvent voir et cliquer les signets, mais ne peuvent les ajouter ou les \u00e9diter."
-        },
         "1dd63dcbc0f27a97c60433bff0936901": {
             "text": "\u00c9diter le signet"
         },
@@ -17,17 +14,8 @@
         "644a574fca8608c6447c23ba5c9fb907": {
             "text": "Les r\u00f4les utilisateurs peuvent voir ce signet ? Si aucun r\u00f4le n'est s\u00e9lectionn\u00e9, tous les r\u00f4les avec la permission d'utiliser ce Lister peuvent voir le signet."
         },
-        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
-            "text": "Ordre de tri des signets"
-        },
         "bfa974ff994bf6af816d695d88659fda": {
             "text": "Supprimer ce signer ?"
-        },
-        "33d64e5e020fcfcd6bf5b5edc3634211": {
-            "text": "Signer supprim\u00e9: %s"
-        },
-        "d04ee192f5a72f20e89abe7acb7225f3": {
-            "text": "Signet enregistr\u00e9: %s"
         },
         "84233339a29fc410e77ac95e377b0318": {
             "text": "Signets"
@@ -35,23 +23,11 @@
         "bdb19863504282bccbd04237092c8ecb": {
             "text": "Signet"
         },
-        "25f8473f61fb614f277d48e8bf5be8d2": {
-            "text": "S\u00e9lecteur"
-        },
-        "cd765bc6c6872048db5bb4cb9181392f": {
-            "text": "Colonnes"
-        },
         "0a88328254c6d3104aaf5aa1416e5493": {
             "text": "Acc\u00e8s"
         },
-        "16f46652aa3bae21e3e051daba507193": {
-            "text": "="
-        },
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "tous"
-        },
-        "fbfa318e948c32434209e9dec12f5342": {
-            "text": "\u00c9diter"
         },
         "624cb003e73151369680ecae1fe53f47": {
             "text": "Titre"
@@ -65,9 +41,6 @@
         "a68194569adc7b00a73840fceb912c24": {
             "text": "Acc\u00e8s"
         },
-        "5979876e287f07dc59597ec2139675c2": {
-            "text": "Supprimer"
-        },
         "7cdd12aae1c258859c039c4d544338ef": {
             "text": "Mes signets"
         },
@@ -79,12 +52,6 @@
         },
         "d448b4319171ecbd0c92be8ddbff245b": {
             "text": "Type de signet"
-        },
-        "60848c692f8ddb0363e500da44563bae": {
-            "text": "Personnel"
-        },
-        "8970f06e05613caabbfe84ddd73db8d2": {
-            "text": "(seulement visible par moi)"
         },
         "3d067bedfe2f4677470dd6ccf64d05ed": {
             "text": "="

@@ -17,12 +17,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Sauvegarde de l'image"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Ins\u00e9rer cette image"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "S\u00e9lectionner une autre image"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "CKEditor en mode inline requiert le module MarkupHTMLPurifier. Utilise le mode normal au lieu."
         },
@@ -46,12 +40,6 @@
         },
         "dfabf65177db13369e6f60e33d626a25": {
             "text": "Mode \u00e9diteur"
-        },
-        "0e0da14bdea5e80af97115d05779bdc4": {
-            "text": "\u00c9diteur r\u00e9gulier"
-        },
-        "9f1f94725c69ad201b156e002476104c": {
-            "text": "\u00c9diteur inline *"
         },
         "f4bbbce516de30f80d2025ca9cc9a595": {
             "text": "Lorsque le mode inline est activ\u00e9, l'\u00e9diteur ne sera pas charg\u00e9 \u00e0 moins que vous ne cliquiez dans le texte. Ceci est plus rapide et efficace si plusieurs champs CKEditor se trouvent sur la page. Cependant, il pourrait ne pas supporter autant de fonctionnalit\u00e9s ou personnalisations de l'\u00e9diteur que le mode r\u00e9gulier."
@@ -122,9 +110,6 @@
         "b67b49a021c8f28a0be44e276cdcb145": {
             "text": "Cette option vous permet de modifier la fa\u00e7ons dont le texte et d'autres \u00e9l\u00e9ments apparaissent dans l'\u00e9diteur. Ceci ne couvre que l'apparence dans l'environnement administratif seulement, et n'a rien \u00e0 voir avec le contenu public du site."
         },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "Veuillez lire [nos instructions](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) sur comment utiliser cela."
-        },
         "c329380c093af757e030c47c58fc31ae": {
             "text": "Fichier CSS personnalis\u00e9 pour l'\u00e9diteur (mode r\u00e9gulier)"
         },
@@ -136,9 +121,6 @@
         },
         "749b7a2316f526ff2ec75692749211ad": {
             "text": "Cette option vous permet de d\u00e9finir des styles personnalis\u00e9e \u00e0 s\u00e9lectionner dans l'\u00e9diteur. Ceci requiert que vous ayez l'\u00e9l\u00e9ment \u00ab Styles \u00bb dans vos param\u00e8tres de barre d'outils ci-dessus."
-        },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "Veuillez lire [nos instructions](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) sur comment utiliser cela."
         },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
             "text": "Si utilis\u00e9, entrez une **propri\u00e9t\u00e9: valeur** par ligne, ou utiliser une cha\u00eene de caract\u00e8res JSON."
@@ -244,6 +226,21 @@
         },
         "7a20fe498ae5ceab6766124b9cb7b2a9": {
             "text": "Veuillez consulter nos [instructions](%s) pour plus d'informations."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Editeur Inline"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Editeur standard"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(hauteur flexible, r\u00e9glable par l'utilisateur)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(hauteur variable, s'ajuste au contenu)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(hauteur fixe, utilise le param\u00e8tre des lignes)"
         }
     }
 }

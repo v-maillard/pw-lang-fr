@@ -108,7 +108,7 @@
             "text": "%d r\u00e9f\u00e9rences \u00e0 des fichiers"
         },
         "b49218c47bb7e184c12776471a865612": {
-            "text": "%d tags a[href]"
+            "text": "%d balises de liens a[href] mises \u00e0 jour"
         },
         "84a543e559f6e8ae86ba9ca203f6c57f": {
             "text": "%d tags a[href] locaux non reconnus"
@@ -127,6 +127,12 @@
         },
         "bf488dca57621015b17e715b49053f72": {
             "text": "%d tags img[alt] vides qui seront remplis lors de l'ex\u00e9cution"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d balises a[href] de lien locaux"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d balises img[src] d'images locales"
         }
     }
 }

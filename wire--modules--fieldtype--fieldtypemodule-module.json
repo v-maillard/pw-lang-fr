@@ -17,12 +17,6 @@
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "\u00c9tiquette d'options"
         },
-        "0900a3f6adfa931e0130c02c436e7e7f": {
-            "text": "Nom de classe du module"
-        },
-        "335fdfd0673e7e457d51384f686b00dc": {
-            "text": "Titre du module"
-        },
         "a749642e2afeea63aac9d550e51abf64": {
             "text": "Type d'entr\u00e9e"
         },
@@ -49,6 +43,18 @@
         },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "+"
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Module dont le type correspond"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "Pr\u00e9fixe"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "H\u00e9ritage"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "L'option pr\u00e9fixe est recommand\u00e9e pour am\u00e9liorer les performances sauf s'il \u00e9choue \u00e0 correspondre \u00e0 un module voulu"
         }
     }
 }

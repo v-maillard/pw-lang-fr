@@ -17,9 +17,6 @@
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Cette page est dans la corbeille"
         },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "Cette page n'est actuellement pas publi\u00e9e"
-        },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Enregistrer et laisser non publi\u00e9"
         },
@@ -100,9 +97,6 @@
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(tout le monde)"
-        },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "L'acc\u00e8s est d\u00e9fini par le mod\u00e8le de cette page : %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "L'acc\u00e8s est h\u00e9rit\u00e9 de la page \u00ab %1$s \u00bb et est d\u00e9fini par le mod\u00e8le : %2$s"
@@ -254,14 +248,8 @@
         "7e7b8eaf9921d2a698937d925748e85b": {
             "text": "Sortir + Voir"
         },
-        "62e59f3c47304f4fad142afb1cee6a50": {
-            "text": "Quelles pages pointent vers celle-ci ?"
-        },
         "b9c25fdc76ccaff0426b33dc56852e77": {
             "text": "Pas listable"
-        },
-        "d996fb607618d463ab9157739e105919": {
-            "text": "%d autre(s) page(s) trouv\u00e9e(s) pointant vers celle-ci dans des champs Page ou des liens href."
         },
         "bd3cc7d2c61580ec64f4225eae3a330e": {
             "text": "(dans un champ page)"
@@ -283,9 +271,6 @@
         },
         "514327d866bf40803bfdf3a678af92ba": {
             "text": "Cocher cette case pour confirmer que vous souhaitez restaurer cette page."
-        },
-        "dc49e815691b27fd40c0b9c72066b25d": {
-            "text": "Cette page sera restaur\u00e9 dans le parent : **%s**"
         },
         "91ce4ed84b455bf383570b705a732cd6": {
             "text": "La page ne peut pas \u00eatre restaur\u00e9e alors qu'il y a des erreurs pr\u00e9sentes"
@@ -385,6 +370,21 @@
         },
         "c71458ba699635fcdbc6a15dd2b81c4c": {
             "text": "Le statut signal\u00e9 a \u00e9t\u00e9 retir\u00e9 car l'enregistrement s'est fait sans erreur"
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "L'acc\u00e8s est d\u00e9fini avec le mod\u00e8le de cette page : %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Visible par son URL si la page avait un fichier mod\u00e8le (ce n'est pas le cas actuellement)."
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Statut ajout\u00e9 : %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Statut supprim\u00e9 : %s"
+        },
+        "16e420c38c1ef8f3708d849146207b74": {
+            "text": "Entrez l'ID de l'utilisateur cr\u00e9\u00e9"
         }
     }
 }

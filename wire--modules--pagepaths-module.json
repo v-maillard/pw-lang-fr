@@ -8,8 +8,26 @@
         "b198072961bf47ed9c790c1006f98372": {
             "text": "%d chemins mis \u00e0 jour"
         },
-        "0e620fb070fcc5279681b61f5720fb6e": {
-            "text": "Veuillez d\u00e9sinstaller le Noyau > Page Paths (module) : il n'est pas compatible avec LanguageSupportPageNames."
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Reconstruction compl\u00e9t\u00e9e en %d secondes"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Reconstuire l'index des chemin de pages pour %d pages"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Reconstruire maintenant"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Temps estim\u00e9 de reconstruction jusqu'\u00e0 5 secondes par 1000 pages"
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Il y a %d pages \u00e0 tra\u00eeter."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Il y a actuellement %d lignes stock\u00e9es pour ce module (chemins de chemin et versions de chemins de chemin)"
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Merci de choisir l'option \"reconstruire maintenant\" pour cr\u00e9er l'index des chemins de votre page"
         }
     }
 }

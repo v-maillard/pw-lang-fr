@@ -37,6 +37,15 @@
         },
         "021ae36974d48cf90a6b204c4abe221b": {
             "text": "\u00c9diter les champs uni-lingues sur les pages multi-lingues"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Un utilisateur peut voir les utilisateurs ayant tous les r\u00f4les (superuser inclus)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "L'utilisateur peut se voir (quand ce n'est pas d\u00e9j\u00e0 le cas par une autre autorisation)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Voir les utilisateur ayant le r\u00f4le: %s"
         }
     }
 }

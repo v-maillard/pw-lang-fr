@@ -62,14 +62,8 @@
         "2db718f06a27de2a35a889b205ef0bb4": {
             "text": "Retenir quels items du r\u00e9p\u00e9teur sont ouverts ?"
         },
-        "031e3292fe279734b454896226066dfc": {
-            "text": "Si coch\u00e9, les items du r\u00e9p\u00e9teur ouverts resteront ouverts apr\u00e8s l'enregistrement ou le rechargement de l'\u00e9diteur (\u00e0 moins que l'utilisateur ne les ferment)."
-        },
         "fc47b04d62211ce6992143d1e92e2fbe": {
             "text": "Utiliser le mode accord\u00e9on ?"
-        },
-        "d608f61f5c7a0e2b84a3ae252a596a48": {
-            "text": "Si coch\u00e9, seul un item du r\u00e9p\u00e9teur sera ouvert \u00e0 la fois."
         },
         "90ed744894b90ce9c561d6a428cad4ee": {
             "text": "Nombre maximal d'items"
@@ -99,7 +93,7 @@
             "text": "La profondeur peut \u00eatre acc\u00e9d\u00e9e \u00e0 partir de l'item de page r\u00e9p\u00e9teur par`$item->depth`"
         },
         "65f6a551619120fdc79329b66ab6c1fd": {
-            "text": "Supprimer les vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur ?"
+            "text": "Supprimer les items anciens (non utilis\u00e9s) du r\u00e9p\u00e9teur ?"
         },
         "9c539ab2317d7056d5d664b083557796": {
             "text": "Il y a **%d** vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur, cochez cette case pour les supprimer."
@@ -124,6 +118,105 @@
         },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "%d vieux (non utilis\u00e9s) items r\u00e9p\u00e9teur supprim\u00e9s"
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Utiliser une profondeur d'objet bas\u00e9e sur les familles ?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Ce param\u00e8tre fait que l'\u00e9diteur de pages dans l'admin traite la profondeur de l'\u00e9l\u00e9ment comme une relation parent\/enfant."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Ce qui veut dire que d\u00e9placer\/trier un item inclus ses \u00e9l\u00e9ments enfants"
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Il emp\u00eache \u00e9galement un \u00e9l\u00e9ment enfant d'\u00eatre d\u00e9plac\u00e9 vers une profondeur d'\u00e9l\u00e9ment qui d\u00e9passe son parent de plus de 1."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Type de repeater"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Lorsqu'il est \"attach\u00e9\", le repeater g\u00e9rera son propre mod\u00e8le et sa propre page parent sans que vous ayez \u00e0 le voir ou \u00e0 y penser."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Lorsqu'il est \"d\u00e9tach\u00e9\" vous pouvez d\u00e9placer et modifier la page parent du repeater et son mod\u00e8le comme bon vous semble"
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Notez que si \"d\u00e9tach\u00e9\" ProcessWire ne supprimera ni son parent ni son template quand\/si le champ est supprim\u00e9"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "La page parent %s est maintenant d\u00e9tach\u00e9e et peut \u00eatre d\u00e9plac\u00e9e ou modifi\u00e9e."
+        },
+        "adaafad29d53a9d0cd52885adf34e542": {
+            "text": "Profondeur(s)\/Indentation(s) du repeater"
+        },
+        "0c5235bde3e119593538bdd38e7d7e9f": {
+            "text": "\"Oui\" (Yes) recommand\u00e9"
+        },
+        "1037c53410252db4ea92a9851015c46b": {
+            "text": "Configuration de l'\u00e9diteur du repeater"
+        },
+        "193b66f657e8f7ca202b160e8e701923": {
+            "text": "Si activ\u00e9, Les \u00e9l\u00e9ments du repeater restent ouverts apr\u00e8s avoir sauvegard\u00e9 ou l'actualisation de la page d'\u00e9dition (sauf si l'utilisateur les ferme)"
+        },
+        "d0244dd7d1408e009350fb0bef887af2": {
+            "text": "Si activ\u00e9, un seul \u00e9l\u00e9ment du r\u00e9peater sera ouvert \u00e0 la fois"
+        },
+        "aefc9b4c2d25085021b0a1df54aeff00": {
+            "text": "Quand montrer les contr\u00f4les\/actions sur les itemps du repeater"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Toujours"
+        },
+        "eee0168be69b854c20621fc6f01cc3fc": {
+            "text": "Au hover"
+        },
+        "6799fc53119a06c09eecac05d013dbf3": {
+            "text": "L'option hover peut un peu am\u00e9liorer l'interface d'administration en ne montrant les actions\/contr\u00f4les (cloner, ins\u00e9rer, supprimer, etc) sur un \u00e9l\u00e9ment de repeater uniquement quand il est survol\u00e9 (hover)"
+        },
+        "9e6025a2fc5d0a32028e42373c622d66": {
+            "text": "Notez que les contr\u00f4les sont toujours visible sur les terminaux de type touch, quelle que soit la configuration de cette option"
+        },
+        "ee6e6bb07faa02ed6526f941bc76b535": {
+            "text": "Rangement\/stockage du repeater"
+        },
+        "a9bc2694fa474ffcd7962d6f71a90f08": {
+            "text": "Utiliser moins de page pour le stockage"
+        },
+        "4f0061e295e09ef19a1f549c23b04d0c": {
+            "text": "Si coch\u00e9e, les pages parents du repeater ne seront par cr\u00e9\u00e9es avant qu'au moins un \u00e9l\u00e9ment enfant du repeater n'existe"
+        },
+        "80bb7f5b0c8adda2dbafd0c186d3d162": {
+            "text": "De plus, les pages parents du repeater seront supprim\u00e9es le cas \u00e9ch\u00e9ant"
+        },
+        "ea27ba365637d101a399ee5ee91c95b3": {
+            "text": "Option test pour le moment (lazyParents) mais sera par d\u00e9faut \u00e0 l'avenir"
+        },
+        "d99d7ccd3f9f6604af4c37a3368dcac3": {
+            "text": "Supprimer %d pages inutiles ?"
+        },
+        "fe38bd0bebd8cb2322a5fbced275bcc5": {
+            "text": "Les pages inutiles suivantes on \u00e9t\u00e9 trouv\u00e9es"
+        },
+        "847ec015263f8b4dc8f6065f6b7c3909": {
+            "text": "%d parents inutiles du repeater qui n'ot soit aucun item du repeater soit aucune page en propre."
+        },
+        "07077b028489c0f29f7433928bb27c32": {
+            "text": "Faites toujours un backup avant une suppression en nombre"
+        },
+        "96508e17d64d763df5bc4f802b25e99b": {
+            "text": "%d pages parents du repeater trouv\u00e9es"
+        },
+        "8e281790c58e48326e41a303674aab12": {
+            "text": "Aucune page inutile trouv\u00e9e"
+        },
+        "57939466ad1ae6358cadab32c9b04c15": {
+            "text": "Lalimite de %d \u00e9l\u00e9ments par requ\u00eate a \u00e9t\u00e9 atteinte, vous pourrez r\u00e9iterer cette action."
+        },
+        "88574909be3f083f32ba1fa6a0e4dcf1": {
+            "text": "%d pages inutiles supprim\u00e9es"
+        },
+        "421b560a931ce0e4ec1b8018d0205b8e": {
+            "text": "Trouver et optionnellement supprimer des pages inutiles"
         }
     }
 }

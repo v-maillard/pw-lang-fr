@@ -8,9 +8,6 @@
         "5dee1c6493112af5676354d6c4243fbe": {
             "text": "L'utilisateur h\u00e9ritera les permissions assign\u00e9es \u00e0 chaque r\u00f4le. Vous pouvez assigner plusieurs r\u00f4les \u00e0 un utilisateur. En acc\u00e9dant \u00e0 une page, il n'h\u00e9ritera que les permissions des r\u00f4les qui sont aussi assign\u00e9s au mod\u00e8le de la page."
         },
-        "d04d81faf16d84bd95fab030a5bd3ad8": {
-            "text": "Le r\u00f4le \u00ab guest \u00bb est requis"
-        },
         "1dae534355f564549697cc7da0eee7e7": {
             "text": "Vous ne pouvez pas retirer le r\u00f4le \u00ab superuser \u00bb \u00e0 vous-m\u00eame."
         },

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Une autre page utilise le nom\/alias \"%s\" qui doit \u00eatre globalement unique"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Un autre utilisateur utilise d\u00e9j\u00e0 le nom \"%s\""
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Une autre page avec le m\u00eame parent utilise d\u00e9j\u00e0 le nom\/alias \"%s\""
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Impossible de d\u00e9finir le nom \"%s\" comme globalement unique car il est d\u00e9j\u00e0 utilis\u00e9 par une\/d'autres page(s)"
+        }
+    }
+}

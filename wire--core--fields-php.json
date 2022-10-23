@@ -2,12 +2,6 @@
     "file": "wire\/core\/Fields.php",
     "textdomain": "wire--core--fields-php",
     "translations": {
-        "0c6ba1befbcac7213ccc923d1ecf573a": {
-            "text": "Donn\u00e9es du champ \"%1$s\" supprim\u00e9es de %2$d ligne(s) de %3$d page(s)."
-        },
-        "b9e9528a32781ceaefec638ec3bfa62e": {
-            "text": "Erreur de suppression des donn\u00e9es du champ \"%1$s\", %2$d ligne(s), %3$d page(s)."
-        },
         "e1658097cf747de4696d2515e2e8b9a0": {
             "text": "="
         },

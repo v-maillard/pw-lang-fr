@@ -44,14 +44,47 @@
         "e7df9a3e1460bdfcaabe5b2e451a6594": {
             "text": "Aucun upload trouv\u00e9"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "Incapable de compl\u00e9ter le t\u00e9l\u00e9chargement"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "L'URL de t\u00e9l\u00e9chargement d\u00e9clar\u00e9e est invalide"
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "Archive ZIP t\u00e9l\u00e9charg\u00e9e : %s (%d octets)"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Installation du module option \u201c%s\u201d"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "\u00e0 toujours activer"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "temporairement"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "activer en mode debug uniquement"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Pour activer, editer le fichier %1$s et sp\u00e9cifier: %2$s \u2026ou\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Cette option d'installation n'est disponible qu'en mode debug"
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Cette option d'installation est d\u00e9sactiver actuellement"
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Extrait(s) : %s"
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "Fichier %d extrait"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "Fichiers %d extraits"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Ce chemin %s n'est actuelleme,t pas accessible en \u00e9criture."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Il doit \u00eatre rendu accessible en \u00e9criture pour ProcessWire avant que vous ne puissiez permettre l'installation des options de ce module"
         }
     }
 }

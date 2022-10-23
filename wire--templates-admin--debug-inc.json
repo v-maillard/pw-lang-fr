@@ -55,6 +55,9 @@
         },
         "38dee61bfa5e86e18c76e272c4c830fa": {
             "text": "Ne pas laissez le mode D\u00e9boggage activ\u00e9 dans des environnements de production (voir  $config->debug dans le fichier \/site\/config.php)."
+        },
+        "38e5588953e5e25cfc5e821ff1128514": {
+            "text": "Lazy load"
         }
     }
 }

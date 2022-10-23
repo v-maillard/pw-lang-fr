@@ -5,9 +5,6 @@
         "5d13ae1a65403891ac0fe044f3acc865": {
             "text": "Il n'y a aucun champ d'image sur cette page. Choisissez une autre page \u00e0 partir de laquelle vous pourrez s\u00e9lectionner des images."
         },
-        "64a201e91bd521f5640318d844920b31": {
-            "text": "Il n'y a pas d'images pr\u00e9sentes sur cette page. Fermez cette fen\u00eatre et t\u00e9l\u00e9chargez des images, ou s\u00e9lectionnez des images d'une autre page."
-        },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "Images sur la page :"
         },
@@ -32,15 +29,6 @@
         "e36098607b9dd3b6d7107a449b6a25bd": {
             "text": "Aligner au centre"
         },
-        "d7e02762cdb4621a77388689b2ee53c0": {
-            "text": "Lien vers la version plus grande ?"
-        },
-        "63c7dee42e04e2757472031aa7164d81": {
-            "text": "Omettre les attributs \u00ab width \u00bb et \u00ab height \u00bb de la balise HTML <img> ?"
-        },
-        "5a8f9d5840811602e6806392ffef0523": {
-            "text": "Par d\u00e9faut, ce module inclura les attributs \u00ab width \u00bb et \u00ab height \u00bb de la balise HTML <img>. Si vous utilisez des images \"responsive\", vous pourriez vouloir d\u00e9sactiver ce comportement. Cochez la case pour d\u00e9sactiver les attributs \u00ab width \u00bb et \u00ab height \u00bb."
-        },
         "9909fb0aacb4a219f4b3cb8f57f63a87": {
             "text": "Classe d'alignement d'image \u00e0 gauche"
         },
@@ -49,12 +37,6 @@
         },
         "9d2836f3ff372cd7964b90d118710202": {
             "text": "Classe d'alignement d'image au centre"
-        },
-        "4e641cf2fc3e46719b2e78d8ab8c6c2e": {
-            "text": "Vous pouvez aussi tirer le coin inf\u00e9rieur droit de l'image pour la redimensionner."
-        },
-        "b5a7adde1af5c87d7fd797b6245c2a39": {
-            "text": "Description"
         },
         "36171be725b020fde0f22b3ceb047280": {
             "text": "Noms de camps \u00e0 omettre lors de la s\u00e9lection"
@@ -82,9 +64,6 @@
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Rogner"
-        },
-        "adf1ab3ee834260ba6338ab9c84345ce": {
-            "text": "Enregistrer le rognage"
         },
         "2c968d3065f948e7d3e6086c46fdcb68": {
             "text": "Maximiser\/pleine largeur"
@@ -175,9 +154,6 @@
         },
         "0bedb7a49466cc5abddacd2003be55b3": {
             "text": "Ignorer les attributs de largeur (width) sur les \u00e9l\u00e9ments d'image ?"
-        },
-        "cf4a792de8b81c847ece5501f00def00": {
-            "text": "Par d\u00e9faut, ce module inclut un attribut \u00ab width \u00bb sur les \u00e9l\u00e9ments <img>. Si vous utilisez des images adaptatives (responsive), vous voudrez peut \u00eatre d\u00e9sactiver ce comportement. Cocher la case pour d\u00e9sactiver les attributs \u00ab width \u00bb et \u00ab height \u00bb."
         },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "Nous ne recommandons pas de cocher cette case puisqu'elle interf\u00e8re avec quelques unes des fonctionnalit\u00e9s (telles que les images HiDPI\/Retina)."

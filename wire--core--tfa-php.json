@@ -14,9 +14,6 @@
         "ea4788705e6873b424c65e91c2846b19": {
             "text": "+"
         },
-        "c6996a9b16d74c744965162e5cf0a35e": {
-            "text": "Veuillez entrer votre code d'authentification pour compl\u00e9ter votre connexion."
-        },
         "659bdd9c46c5d70535873ddb56cafd06": {
             "text": "Nombre de tentatives maximal atteint"
         },
@@ -38,11 +35,32 @@
         "6e7655b2bfff79f61f88c1d0b503ff48": {
             "text": "Pour d\u00e9sactiver ou changer des param\u00e8tres, s\u00e9lectionnez l'option \"Aucun\" ci-dessus et enregistrez."
         },
-        "42e8c82b85ee4ea5ee2cc7e9471308f7": {
-            "text": "Veuillez configurer vos param\u00e8tre d'authentification \u00e0 deux \u00e9tapes"
-        },
         "f9be528468706e84485c5baa7f553fb9": {
             "text": "Veuillez configurer"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Apr\u00e8s avoir fait ou modifi\u00e9 une s\u00e9lection, envoyez le formulaire et revenez ici pour le configurer"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Effacer les navigateurs m\u00e9moris\u00e9s qui ignorent la saisie du code d'authentification"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Effacer les navigateurs m\u00e9moris\u00e9s"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Se rappeler cet ordinateur ?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Cet ordinateur\/navigateur est d\u00e9sormais m\u00e9moris\u00e9 jusqu'\u00e0 %d jours."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Des changements apport\u00e9s au navigateur et\/ou \u00e0 la localisation peuvent n\u00e9cessiter un nouveau code."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Le code n'\u00e9tait pas requis car le navigateur a \u00e9t\u00e9 reconnu lors d'une connexion pr\u00e9c\u00e9dente."
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "="
         }
     }
 }

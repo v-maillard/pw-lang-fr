@@ -15,7 +15,7 @@
             "text": "Ajouter un module par le biais d'un r\u00e9pertoire"
         },
         "91412465ea9169dfd901dd5e7c96dd99": {
-            "text": "Uploader"
+            "text": "Uploader\/mettre en ligne"
         },
         "a97f194fe643428c6e0e5b1d3ea79dbd": {
             "text": "Uploader un nouveau module"
@@ -56,9 +56,6 @@
         "19d1a8e075651f072ba0771e6cbc831b": {
             "text": "Naviguer le r\u00e9pertoire de modules via %s"
         },
-        "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Pour enlever un module, cliques le module \u00e0 \u00e9diter, cochez la case \u00ab D\u00e9sinstaller \u00bb, puis enregistrez les changements. Une fois d\u00e9sinstall\u00e9, les fichiers du module peuvent \u00eatre supprim\u00e9s via \/site\/modules\/. Si un module apparait toujours de la liste ci-dessus, il se peut que vous deviez cliquer sur \u00ab V\u00e9rifier l'existence de nouveaux modules \u00bb pour que ProcessWire affiche les changements."
-        },
         "401aeb1b99895a172d78edfa183114e7": {
             "text": "\/wire\/modules\/ - Modules inclus dans le noyau de ProcessWire"
         },
@@ -88,12 +85,6 @@
         },
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Nom de classe du module"
-        },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Vous pouvez naviguer le r\u00e9pertoire de modules et trouver le module que vous d\u00e9sirez t\u00e9l\u00e9charger et installer. Entrez ou copiez-coller la \u00ab classe du module \u00bb du module \u00e0 installer."
-        },
-        "3b0798392299a74418470d3f13b5eec2": {
-            "text": "Le r\u00e9pertoire de modules est situ\u00e9 \u00e0 [modules.processwire.com](http:\/\/modules.processwire.com)"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
             "text": "Assurez-vous que vous pouvez faire confiance \u00e0 la source de l'archive."
@@ -427,6 +418,135 @@
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Module : %s"
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Ajouter un module \"manuellement\""
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Fichier(s) de module manquant dans : %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Manquant(s)"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Modules dans la base de donn\u00e9es introuvables dans le syst\u00e8me de fichiers. Cliquez sur n'importe quel nom de module ci-dessous pour les options de correction."
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Le r\u00e9pertoire des module est situ\u00e9 l\u00e0 : %s"
+        },
+        "dc54208b35a531502358bc307e9366ed": {
+            "text": "="
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Copiez les fichiers d'un module dans un nouveau r\u00e9pertoire %s sur le serveur."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Cliquez sur le bouton \"%s\" ci-dessous, qui trouvera le nouveau module."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Recherchez et cliquez sur le bouton \"%s\" \u00e0 c\u00f4t\u00e9 du nouveau module."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Remplacez \"%s\" par le nom r\u00e9el du module, qui est g\u00e9n\u00e9ralement son nom de classe PHP."
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "La classe de module doit impl\u00e9menter l'interface \"ProcessWire\\Module\"."
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "fichier de module non trouv\u00e9"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Le module \u201c%s\u201d existe dans la base de donn\u00e9es mais pas dans le syst\u00e8me de fichiers"
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Envisagez de placer les fichiers du module dans %s ou de supprimer le module de la base de donn\u00e9es."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Supprimer ce module de la base de donn\u00e9es ?"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Module supprim\u00e9 de la base de donn\u00e9es"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "Module %1$s mis \u00e0 jour pour utiliser le fichier : %2$s"
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "installer des traductions"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Aucun fichier de langue du module disponible"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Traductions du module"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "Importer des traductions pour le module %s"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Importer dans %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "Impossible de trouver le fichier CSV"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Langages"
+        },
+        "6b658422a653aec6309a2e82dab97431": {
+            "text": "informations sur le module %s"
+        },
+        "77abd48d0a4b2599252746283cf415bd": {
+            "text": "Informations sur ce module"
+        },
+        "a2c1d1243d90b2513936d42ad566ac16": {
+            "text": "(normales)"
+        },
+        "ed1c9d7b961f93beba3c196821a7f26e": {
+            "text": "Verbeuses"
+        },
+        "e48e0e0aeb991df7402dc118d2567c9b": {
+            "text": "Cette donn\u00e9e vient du module ou est d\u00e9termin\u00e9e \u00e0 l'ex\u00e9cution et n'est donc pas modifiable ici"
+        },
+        "8c0375d91ede4cf009a02a855d5b5f79": {
+            "text": "Donn\u00e9es de configuration de base de %s"
+        },
+        "baa3355dc6e921ef113ec3a5aed662e0": {
+            "text": "Ce module n'a pas de donn\u00e9es de configuration"
+        },
+        "490f8475055b941d956558bdd4184b1f": {
+            "text": "Ne supprimez pas ceci"
+        },
+        "1e99d98a261b2989a7bb70ac5dfeece1": {
+            "text": "Configuration du module (raw\/JSON)"
+        },
+        "b662bf6fb6b77c6d4fc74b1445ea2362": {
+            "text": "Enregistrement impossible parce que le JSON n'a pas pu \u00eatre parcouru (JSON non valide)"
+        },
+        "5f8e05386fa3c540298134279669bd25": {
+            "text": "Enregistrement impossible parce que le JSON n'est pas valide pour ce module"
+        },
+        "fcb02bc2c95c6a16020b5ba42bc7f8f4": {
+            "text": "Configuration du module mise \u00e0 jour"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Aucun changement d\u00e9tect\u00e9"
+        },
+        "7c5ba2ccfa62e3851cd8896260765e58": {
+            "text": "Module inconnu"
+        },
+        "03ca76fd12db5f3ef297c5d5fe385fa3": {
+            "text": "Congiuration de base"
+        },
+        "9256bf7bb7a45066e51b9d36771ce930": {
+            "text": "Informations de base"
+        },
+        "d4f92a77a92921fb8ffedd71039834c6": {
+            "text": "Options uniquement disponibles en mode avanc\u00e9"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Enregistrer"
+        },
+        "8a59745d5142e82bd08e3d1291f7ab8e": {
+            "text": "Avanc\u00e9"
         }
     }
 }

@@ -35,12 +35,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Ce champ sert aussi d'aper\u00e7u pour votre type d'entr\u00e9e s\u00e9lectionn\u00e9e (%s) ainsi que ses options."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "Veuillez noter : vos s\u00e9lections ne deviennent pas actives \u00e0 moins qu'une valeur soit *toujours* requise pour ce champ. Voir l'option \"requis\" dans l'onglet Champ de vos param\u00e8tres de champ."
-        },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Cette fonctionnalit\u00e9 est active puisqu'une valeur est toujours requise."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Supprimer cette option"
         },
@@ -58,6 +52,18 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Si vous voulez g\u00e9n\u00e9rer des valeurs plut\u00f4t que des titres, remplacez \"title\" par \"value\" dans les exemples ci-dessous."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Valeurs multiples triables"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Note : cette pr\u00e9-s\u00e9lection n'est pas activ\u00e9e comme ce champ n'est pas requis. Activez l'option \"required\" dans l'onglet \"input\" de ce champ"
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Pr\u00e9 s\u00e9lection active comme ce champ est requis"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun(e)"
         }
     }
 }

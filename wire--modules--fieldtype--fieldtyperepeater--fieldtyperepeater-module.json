@@ -2,71 +2,11 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
     "translations": {
-        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
-            "text": "Veuillez ajouter des champs \u00e0 ce r\u00e9p\u00e9teur \u00e0 partir de l'onglet \u00ab d\u00e9tails \u00bb."
-        },
-        "f41ae5ce37aeed3613288bb8c0cc3489": {
-            "text": "D\u00e9finir les champs \u00e0 utiliser par ce r\u00e9p\u00e9teur. Vous pouvez glisser-d\u00e9poser des champs dans l'ordre d\u00e9sir\u00e9."
-        },
-        "6daa35fd97a645b8e37cae080eab3de9": {
-            "text": "Ajouter un champs"
-        },
-        "028dbbda0ea85c6b4ff5f2c9b38495de": {
-            "text": "Nouveaux \u00e9l\u00e9ments du r\u00e9p\u00e9teur pr\u00eats \u00e0 \u00e9diter"
-        },
-        "903d3f840b615b110dd712afd0132f5f": {
-            "text": "Le nombre d'\u00e9l\u00e9ments pr\u00eats \u00e0 \u00e9diter par page \u00e0 afficher pour l'utilisation comme nouveaux \u00e9l\u00e9ments."
-        },
-        "e7fa825f7b362804c946096d4856f5ab": {
-            "text": "Lorsque fix\u00e9 \u00e0 0, les nouveaux \u00e9l\u00e9ments seront cr\u00e9\u00e9s au besoin seulement. Ceci est le r\u00e9glage le plus efficace."
-        },
-        "0130612d3e112f71601647fe1201aeda": {
-            "text": "Lorsque fix\u00e9 \u00e0 1 ou plus, autant de nouveaux \u00e9l\u00e9ments seront pr\u00eats \u00e0 \u00eatre \u00e9dit\u00e9s aussit\u00f4t que vous cliquez \"Ajouter un \u00e9l\u00e9ment\". Cela rend les ajouts plus rapides."
-        },
-        "06f7e37d7cc093483d98d11772f75837": {
-            "text": "Nombre maximum d'\u00e9l\u00e9ments du r\u00e9p\u00e9teur"
-        },
-        "9175b33ed3085ade32188d58a242e0bc": {
-            "text": "Le nombre maximum d'\u00e9l\u00e9ments de r\u00e9p\u00e9teur permis."
-        },
-        "8db1e9fd86969c9e9ee4c09365c260a6": {
-            "text": "Lorsque fix\u00e9 \u00e0 0, aucune limite ne sera effective."
-        },
-        "f29a8c723be64c58c0e9f4cbd6c32a88": {
-            "text": "Lorsque fix\u00e9 \u00e0 1, ce champs agira en tant qu'\u00e9l\u00e9ment simple [Page] plut\u00f4t qu'une s\u00e9rie d'\u00e9l\u00e9ments [PageArray]"
-        },
-        "66eb0d45c43394f51bdb0397febc5b4f": {
-            "text": "Notez que lorsque outputFormatting est d\u00e9sactiv\u00e9, il agira toujours en tant que PageArray, peu importe la configuration."
-        },
-        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
-            "text": "Type de r\u00e9p\u00e9teur"
-        },
-        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
-            "text": "Lorsqu'attach\u00e9, le r\u00e9p\u00e9teur g\u00e9rera son propre mod\u00e8le et parent de page sans que vous ayez \u00e0 vous en pr\u00e9occuper."
-        },
-        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
-            "text": "Lorsque d\u00e9tach\u00e9, vous pouvez d\u00e9placer et modifier la page de parent et le mod\u00e8le du r\u00e9p\u00e9teur \u00e0 votre convenance."
-        },
-        "77e23d8e1ff8e93bfc6e188f62e409bd": {
-            "text": "Notez qu'une fois d\u00e9tach\u00e9, ProcessWire ne supprime pas le parent ou le mod\u00e8le si ou quand le champs est supprim\u00e9."
-        },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "Ajouter le champs \"%1$s\" au r\u00e9p\u00e9teur \"%2$s\""
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "Enlever le champs \"%1$s\" du r\u00e9p\u00e9teur \"%2$s\""
-        },
-        "0fe1cc90d79ebfffb11a259cc05d406d": {
-            "text": "La page parente %s est maintenant d\u00e9tach\u00e9s et peut \u00eatre d\u00e9plac\u00e9e ou modifi\u00e9e."
-        },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "Repeater | R\u00e9p\u00e9teur"
         },
         "64137776d10ddf89ff3087915287b872": {
             "text": "Maintient une collection de champs qui sont r\u00e9p\u00e9t\u00e9s pour n'importe quelle quantit\u00e9 de fois."
-        },
-        "c58bb8dd26051c3ba65914f16c51f0b7": {
-            "text": "Champs r\u00e9p\u00e9teurs"
         }
     }
 }

@@ -8,9 +8,6 @@
         "c4337ed7fd3fa9186398110fdd126ba0": {
             "text": "%d vide"
         },
-        "4b58cc72fab0b5fb596e9f02091ec0fe": {
-            "text": "Traduire le fichier"
-        },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "T\u00e9l\u00e9charger une archive ZIP"
         },
@@ -67,6 +64,9 @@
         },
         "eb1aa189659918acda10866815cacccd": {
             "text": "Rafra\u00eechir l'index des phrases de recherche"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d retir\u00e9(s) - retour en arri\u00e8re"
         }
     }
 }

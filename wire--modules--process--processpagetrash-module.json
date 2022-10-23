@@ -2,20 +2,8 @@
     "file": "wire\/modules\/Process\/ProcessPageTrash.module",
     "textdomain": "wire--modules--process--processpagetrash-module",
     "translations": {
-        "90e829a463f2e23bdd11a7d8dddabe7e": {
-            "text": "La corbeille a \u00e9t\u00e9 vid\u00e9e"
-        },
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "La corbeille est vide"
-        },
-        "b93325ff37316801eaf36f95c25a75e3": {
-            "text": "Les pages suivantes sont dans la corbeille"
-        },
-        "206c3d86254559ad3cd3b88e8e002113": {
-            "text": "Vider la corbeille"
-        },
-        "80a9994143f3ef28a7ba4fd1dd67436a": {
-            "text": "Veuillez confirmer que vous d\u00e9sirez vider la corbeille."
         },
         "1012544490a2eae7e9782116062941b6": {
             "text": "Si trop d'\u00e9l\u00e9ments sont pr\u00e9sents dans la corbeille, il se peut que vous ayez \u00e0 la vider \u00e0 plusieurs reprises."
@@ -25,18 +13,6 @@
         },
         "76c155bf8de0fe17853a8d8c231f72b0": {
             "text": "Corbeille de pages"
-        },
-        "671ad2168f66a9b66f8d97c8a4ad2794": {
-            "text": "Corbeille vid\u00e9e"
-        },
-        "de1fd0d21eb1f64deec95ed694fffed0": {
-            "text": "Les pages n'ont pas toutes pu \u00eatre supprim\u00e9es"
-        },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "="
-        },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "="
         },
         "d97ed15efb05fad91c607749ebcab79e": {
             "text": "Vous devez cocher la case pour confirmer"

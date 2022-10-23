@@ -2,21 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
     "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
     "translations": {
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Modifier"
-        },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Voir"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Cr\u00e9er nouvelle page"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "D\u00e9placer"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Vider"
-        },
         "f4ec5f57bd4d31b803312d873be40da9": {
             "text": "Modifier"
         },
@@ -35,23 +20,11 @@
         "d95deddfb80310ff0d1d63013611777c": {
             "text": "Glisser-d\u00e9poser pour d\u00e9placer"
         },
-        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
-            "text": "Corbeille ouverte : glissez les pages ci-dessous ici pour les supprimer"
-        },
-        "de306d89ec101aba6fb73c6879710e6c": {
-            "text": "404 Page introuvable"
-        },
-        "e3afed0047b08059d0fada10f400c1e5": {
-            "text": "Administration"
-        },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Corbeille"
         },
         "157fa6b945671169a76bc677977f368d": {
             "text": "Nom du champ de page \u00e0 afficher"
-        },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champs titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champs doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champs par un espace. Si le champs est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: autrepage.title. Notez que si le champs que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champs \u00ab name \u00bb de la page."
         },
         "8593fb74b02478b2734e442f86507d7b": {
             "text": "Vous avez la possibilit\u00e9 d'\u00e9craser ce param\u00e8tre pour chaque mod\u00e8le dans ses param\u00e8tres avanc\u00e9s."

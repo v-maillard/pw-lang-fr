@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Le champ \"%s\" n'est pas pr\u00eat \u00e0 \u00eatre utilis\u00e9 et doit \u00eatre configu\u00e9"
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Les param\u00e8tres n'ont pas encore \u00e9t\u00e9 valid\u00e9s."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Veuillez revoir les param\u00e8tres pour cette page et enregistrer une fois de plus (m\u00eame si vous ne modifiez rien) pour confirmer que vous les acceptez."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "Nom du fichier"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Fichiers"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Champ stockant un ou plusieurs fichiers"
+        }
+    }
+}

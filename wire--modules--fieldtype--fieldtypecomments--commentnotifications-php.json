@@ -41,12 +41,6 @@
         "92295f3f7fe39fd61f8ce27b523aa341": {
             "text": "Envoy\u00e9 par : %s"
         },
-        "1e0d36c28b3b237af18c36e171a50484": {
-            "text": "URL : %s"
-        },
-        "c835168989fcff535a5d12f1fe9a9d51": {
-            "text": "D\u00e9sactiver les notifications"
-        },
         "c7c47e22cdf07075fbc40c3197b822e0": {
             "text": "Merci de confirmer la r\u00e9ception de notifications"
         },
@@ -85,6 +79,15 @@
         },
         "2bdedaef502bd65a7190ee7077fc9d23": {
             "text": "Mise \u00e0 jour du commentaire %d vers \"%s\""
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Se d\u00e9sabonner de ces notifications"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Voir ou r\u00e9pondre"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Post\u00e9 le %s par %s"
         }
     }
 }

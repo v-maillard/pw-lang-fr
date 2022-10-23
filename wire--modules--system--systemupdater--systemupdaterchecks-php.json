@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Plusieurs probl\u00e8mes d\u00e9tect\u00e9s, merci de consulter :"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Merci de noter que votre fichier racine %s n'est pas \u00e0 jour pour cette version de ProcessWire, merci de le mettre \u00e0 jour quand vous le pouvez"
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Pour supprimer cet avertissement, remplacez ou ajoutez ce qui suit en haut de votre fichier .htaccess existant :"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Bienvenue dans ProcessWire"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Si cette installation est actuellement utilis\u00e9e pour d\u00e9veloppement ou tests, nous vous recommandons d'activer le mode d\u00e9bogage."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Le mode de d\u00e9bogage garantit que toutes les erreurs sont visibles, ce qui peut \u00eatre utile pendant le d\u00e9veloppement ou le d\u00e9pannage."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Cela permet \u00e9galement \u00e0 des informations suppl\u00e9mentaires sur\/pour les d\u00e9veloppeurs d'appara\u00eetre ici dans l'admin."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Vous pouvez activer le mode d\u00e9bogage en modifiant votre fichier %s et en ajoutant les \u00e9l\u00e9ments suivants :"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Attention : cette notification ne s'affichera plus. N'oubliez pas de d\u00e9sactiver le mode de d\u00e9bogage avant de passer en ligne."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Avertissement de s\u00e9curit\u00e9 : le fichier '%s' est toujours pr\u00e9sent et doit \u00eatre supprim\u00e9 d\u00e8s que possible."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Attention, votre fichier %s sp\u00e9cifie des autorisations de fichier trop laxistes pour de nombreux environnements :"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lisez \"S\u00e9curisation des autorisations de fichiers\" pour plus de d\u00e9tails"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Pour supprimer cet avertissement, ajoutez ce qui suit \u00e0 votre fichier %s :"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Attention : vous avez un champ nomm\u00e9 \"published\" qui entre en conflit avec la propri\u00e9t\u00e9 \"published\" (publi\u00e9e) de la page."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Veuillez renommer votre champ de champ en quelque chose d'autre et mettre \u00e0 jour tous les mod\u00e8les y faisant r\u00e9f\u00e9rence."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Votre param\u00e8tre local actuel est \"%s\"."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Remarque : les param\u00e8tres de localistion actuels de votre serveur ne fonctionnent pas comme pr\u00e9vu avec le jeu de caract\u00e8res UTF-8 et peuvent causer des probl\u00e8mes mineurs."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Veuillez traduire le param\u00e8tre de localisation \"C\" pour chaque langue en le param\u00e8tre de localisation compatible en %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Par exemple, le param\u00e8tre de localisation pour l'anglais US pourrait \u00eatre : %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Veuillez ajouter ceci \u00e0 votre fichier %1$s (ajustez \"%2$s\" si n\u00e9cessaire) :"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Le site est en mode d\u00e9bogage, adapt\u00e9 aux sites en d\u00e9veloppement"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "S'il s'agit d'un site en ligne\/production, vous devriez d\u00e9sactiver le mode de d\u00e9bogage dans %1$s avec : %2$s"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Version requise : %1$s, version trouv\u00e9e : %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Impossible de trouver le fichier requis : %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
+        }
+    }
+}

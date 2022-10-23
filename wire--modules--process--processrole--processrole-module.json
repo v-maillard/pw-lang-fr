@@ -2,23 +2,11 @@
     "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
     "textdomain": "wire--modules--process--processrole--processrole-module",
     "translations": {
-        "abf1be1c76c0620d1a220871b1ba0da1": {
-            "text": "Les permissions indiqu\u00e9es ouvrent d'autres options de permission qui seront r\u00e9v\u00e9l\u00e9es apr\u00e8s avoir coch\u00e9 la case et enregistr\u00e9 la page."
-        },
-        "55713ee9cd76b3704908899aaa30b5e5": {
-            "text": "*Notez que cocher la permission page-edit ici signifie seulement que le r\u00f4le peut \u00eatre s\u00e9lectionn\u00e9 pour l'acc\u00e8s en modification au niveau du mod\u00e8le. Simplement assigner la permission page-edit ici ne donne pas un acc\u00e8s en permission avant qu'elle soit ne aussi s\u00e9lectionn\u00e9e dans un ou plusieurs configurations de mod\u00e8les."
-        },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(requis)"
         },
         "e5e77ccf470959bc6be60127730908b5": {
             "text": "G\u00e9rer les r\u00f4les des utilisateurs et les permissions qui y sont reli\u00e9es"
-        },
-        "2ac1fce951ddece70a50dfb03bd386b2": {
-            "text": "nom|titre"
-        },
-        "8a74d66f5b9d96c4eee8c0388f9536d9": {
-            "text": "*Notez que cocher la permission page-edit ici signifie seulement que le r\u00f4le peut \u00eatre s\u00e9lectionn\u00e9 pour l'acc\u00e8s en modification au niveau du mod\u00e8le. Simplement assigner la permission page-edit ici ne donne PAS un acc\u00e8s en permission avant qu'elle soit ne aussi s\u00e9lectionn\u00e9e dans un ou plusieurs configurations de mod\u00e8les."
         },
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "R\u00f4les"
@@ -29,35 +17,11 @@
         "e0c8b59640bc35bac606431203d2d9b0": {
             "text": "Pour une description d\u00e9taill\u00e9e de ces permissions, voir la [r\u00e9f\u00e9rence des permissions](%s)"
         },
-        "ae9a363b2dfa9181da7ffde8e37813b5": {
-            "text": "barr\u00e9"
-        },
-        "cea791d6258d032e4742a9a99f1ecf11": {
-            "text": "Cocher la permission page-edit ne donne pas par le fait m\u00eame un acc\u00e8s en \u00e9dition \u00e0 n'importe quelle page. Plut\u00f4t, cela vous permet de configurer l'acc\u00e8s en \u00e9dition pour ce r\u00f4le dans les param\u00e8tre du mod\u00e8le. La permission page-edit est aussi celle qui permet aux utilisateurs d'acc\u00e9der \u00e0 des pages dans le panneau d'administration. Cette permission est recommand\u00e9e pour tous les usagers administrateurs."
-        },
-        "d923671ad010412a573db8ccdbddc911": {
-            "text": "Indique que la permission peut \u00eatre optionnellement ajout\u00e9e ou r\u00e9voqu\u00e9e des r\u00f4les utilisateurs dans les param\u00e8tres d'acc\u00e8s des mod\u00e8les. Cocher cette permission l'active pour tous les mod\u00e8les \u00e9vitables. Si vous d\u00e9sirez qu'un r\u00f4le n'ait qu'une de ces permissions pour les pages utilisant les mod\u00e8les sp\u00e9cifi\u00e9s, vous devriez laisser la case d\u00e9coch\u00e9e ici et plut\u00f4t la s\u00e9lectionner dans l'onglet \u00ab Acc\u00e8s \u00bb du mod\u00e8le."
-        },
-        "64a4d3473343a325080c311b47099be6": {
-            "text": "Les permissions page-add et page-create peuvent seulement \u00eatre ajout\u00e9es \u00e0 partir des param\u00e8tres d'acc\u00e8s des mod\u00e8les et sont affich\u00e9es ici seulement sur une base informative."
-        },
-        "efc30c4ed12a9e95e4fad5ae9be115fb": {
-            "text": "Indique un mod\u00e8le qui ajoute la permission. Cliquez pour ouvrir une fen\u00eatre pour acc\u00e9der aux param\u00e8tres d'acc\u00e8s de ce mod\u00e8le. Si un nom de mod\u00e8le indiqu\u00e9 un %s, cela signifie que la permission est ajout\u00e9e au niveau du mod\u00e8le mais est \u00e9cras\u00e9e par votre s\u00e9lection \u00e0 cet endroit."
-        },
-        "dce4a957c0c6225be564be146d71b245": {
-            "text": "Identique que ci-haut except\u00e9 que la permission est r\u00e9voqu\u00e9e par le mod\u00e8le (plut\u00f4t qu'ajout\u00e9e)."
-        },
-        "c6cc7e92b9fc348360b34c024086432c": {
-            "text": "nom|description"
-        },
         "dc3abfaff3190368a09f01d6589eeeea": {
             "text": "Ajouter des enfants aux pages utilisant ce mod\u00e8le"
         },
         "9c281188158fc34cf5afc9d2820a761c": {
             "text": "Cr\u00e9er des pages utilisant ce mod\u00e8le"
-        },
-        "faa5826bce6656df7f63cbeb5b2a85fe": {
-            "text": "Cette permission ne peut \u00eatre assigne que par les param\u00e8tres d'acc\u00e8s d'un mod\u00e8le."
         },
         "3cac60e98937c01a72ef6e6cfe66f90f": {
             "text": "Cette permission est requise pour tous les r\u00f4les."
@@ -73,9 +37,6 @@
         },
         "1754bfdd544e98486c2ed46753ca8edd": {
             "text": "Cochez cette case ajoute la permission pour tous les mod\u00e8les \u00e9vitables, mais cette permission est d\u00e9j\u00e0 appliqu\u00e9e s\u00e9par\u00e9ment par un ou plusieurs mod\u00e8les. Pour garder les choses propres, nous vous sugg\u00e9rons d'enlever la permission \u00e0 partie de ces mod\u00e8les avant de l'activer pour tous. \u00cates-vous certain de vouloir l'activer maintenant ?"
-        },
-        "95c58584c58685c05c1a7cc706416455": {
-            "text": "appliqu\u00e9e \u00e0 aucun mod\u00e8le pr\u00e9sentement"
         },
         "73a0430d4108945b73c1d27c8d048339": {
             "text": "Quels types de pages ce r\u00f4le peut-il voir ?"
@@ -112,9 +73,6 @@
         },
         "bdeb3e0cbe3d8f44757a86e8da219abc": {
             "text": "Cette permission peut \u00eatre uniquement ajout\u00e9e par le mod\u00e8le."
-        },
-        "00abcc0a482965cd87aa000c253bf713": {
-            "text": "(h\u00e9rit\u00e9 du r\u00f4le guest)"
         },
         "76ea2cfb7138b9f6db1ca5385ffd6bec": {
             "text": "Ajout\u00e9 \u00e0 : %s"

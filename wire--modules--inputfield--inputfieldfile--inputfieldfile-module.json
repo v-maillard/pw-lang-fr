@@ -20,35 +20,11 @@
         "53fbb1f98e15224437792f2ea80847a2": {
             "text": "Vous n'avez pas la permission d'\u00e9crire dans destinationPath"
         },
-        "bed8a5795ff53ecfd7b9dab0face84b6": {
-            "text": "D\u00e9compresser les fichiers ZIP ?"
-        },
-        "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Si coch\u00e9, les archives ZIP vont \u00eatre d\u00e9compress\u00e9es"
-        },
-        "91015caeadb6afed86544257b5d796f5": {
-            "text": "Nombre de rang\u00e9es pour le champ de description ?"
-        },
-        "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Entrez le nombre de rang\u00e9es disponibles pour le champ de description du fichier, ou entrez 0 pour ne pas avoir de champ de description."
-        },
         "004a10c5de4a2eea5fc8f15e97a8030c": {
             "text": "Aucunes extensions de fichier ne sont d\u00e9finies pour ce champ."
         },
         "5d28dcd09c5073bb0e454aee16d9b349": {
             "text": "Fichier %s refus\u00e9 parce qu'il est d\u00e9j\u00e0 pr\u00e9sent dans le syst\u00e8me de fichiers et appartient \u00e0 un autre champ."
-        },
-        "4839f7d2588943e6763c3c91cbd8d7f2": {
-            "text": "\u00c9craser les fichiers d\u00e9j\u00e0 existants ?"
-        },
-        "35a96944722fb825db8bf04ab791c209": {
-            "text": "Lorsque coch\u00e9, un fichier envoy\u00e9 avec le m\u00eame nom qu'un fichier d\u00e9j\u00e0 existant remplacera ce dernier (la description et les tags restent cependant les m\u00eames. Sinon, les fichiers envoy\u00e9s seront renomm\u00e9s pour \u00eatre uniques."
-        },
-        "1aac69c83eb57d215a710401956430f1": {
-            "text": "D\u00e9sactiver les descriptions multilingues ?"
-        },
-        "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Par d\u00e9faut, les descriptions sont multilingues lorsque le module Language Support est install\u00e9. Si vous d\u00e9sirez d\u00e9sactiver les descriptions multilingues, cochez cette case."
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Envoi d'un ou plusieurs fichiers (triable)"
@@ -58,9 +34,6 @@
         },
         "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
             "text": "Le fichier a \u00e9chou\u00e9 la validation"
-        },
-        "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Veuillez notez que lorsque cette option est activ\u00e9e, les fichiers upload\u00e9s via AJAX sont sauvegard\u00e9s sur la page imm\u00e9diatement apr\u00e8s l'upload, plut\u00f4t qu'au moment o\u00f9 vous cliquez sur \u00ab Enregistrer \u00bb."
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Files | Fichiers"

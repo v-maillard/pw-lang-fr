@@ -2,9 +2,6 @@
     "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
     "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
     "translations": {
-        "eea889e927448a79d84da81851f9d9cb": {
-            "text": "Taper ici pour effectuer une recherche"
-        },
         "f0a5fc96d36fdda66a2a10b79be6d7fb": {
             "text": "Jeu de couleurs"
         },
@@ -13,15 +10,6 @@
         },
         "9594eec95be70e7b1710f730fdda33d9": {
             "text": "Bleu"
-        },
-        "cf64a1df05b0b5640322820b1b705605": {
-            "text": "Champs d'image de l'utilisateur"
-        },
-        "d076186eb326fac94ae60de5b71755d7": {
-            "text": "Pour utiliser cette fonction le mod\u00e8le \u00ab user \u00bb doit comprendre un champs d'image. Si votre mod\u00e8le n'a pas de champs d'image, l'avatar par d\u00e9faut sera une ic\u00f4ne. Pour ajouter un champs d'image au mod\u00e8le user, allez dans Configuration > Mod\u00e8les > Filtres (Afficher les mod\u00e8les syst\u00e8me). Le mod\u00e8le user apparaitra ensuite dans la liste."
-        },
-        "32b92d181457ef3ee601718c6717d21f": {
-            "text": "Aucun champs d'image assign\u00e9 au mod\u00e8le user"
         },
         "b30e371dcaa3d2b157ef7566aa157b8a": {
             "text": "Champ \u00ab %s \u00bb ajout\u00e9 aux champs modifiables par l'utilisateur dans leur profil."
@@ -34,12 +22,6 @@
         },
         "a5cf3b1e924454eb5f3b0579e2f40830": {
             "text": "Navigation du haut : Voir la page d'accueil"
-        },
-        "13884a61afb0a46fc63ee2694d21d16e": {
-            "text": "Navigation du haut : D\u00e9connexion"
-        },
-        "b3d00bda3ff5e34c61a7fa73267eb75c": {
-            "text": "Th\u00e8me pour la panneau d'administration pour ProcessWire 2.5 par Tom Reno (Renobird)"
         },
         "787989d17c5a57298dd6959fcc70ba1a": {
             "text": "Th\u00e8me pour le panneau d'administration pour ProcessWire 2.5+ par Tom Reno (Renobird)"

@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Quelle valeur formatt\u00e9e voulez-vous que votre toogle prenne"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "S\u00e9lectionnez la valeur format\u00e9e renvoy\u00e9e par %s."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "Veuillez \u00e9galement consulter l'onglet \"champ\" pour tous les autres param\u00e8tres du toggle."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Pour tout ce qui pr\u00e9c\u00e8de, pas de s\u00e9lection est toujours repr\u00e9sent\u00e9e par une cha\u00eene vide."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "Si une 3\u00e8me\/autre option est activ\u00e9e, elle est repr\u00e9sent\u00e9e par l'entier 2."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Lorsque le formatage de sortie d'une page est d\u00e9sactiv\u00e9, la valeur est toujours un entier 0, 1, 2 (pour Non, Oui, Autre) ou une cha\u00eene vide en l'absence de s\u00e9lection."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "**Nombre entier** : 0=non, 1=oui (idem sans formatage)"
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "**Bool\u00e9en** : True ou false pour les \u00e9tats oui\/non"
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "**Cha\u00eene** : utilisez les label textes configur\u00e9s avec les param\u00e8tres du \"champ\"."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "**Entit\u00e9s** : comme ci-dessus (cha\u00eene) mais encod\u00e9e pour une sortie HTML."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "Toggle (Oui\/Non)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Oui\/non configurable, alternative de type toggle on\/off \u00e0 une case \u00e0 cocher, plus une valeur \"autre\" en option."
+        }
+    }
+}

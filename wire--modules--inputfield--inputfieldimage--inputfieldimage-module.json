@@ -5,83 +5,17 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "L'image a \u00e9t\u00e9 retaill\u00e9e afin de s'adapter aux dimensions maximales autoris\u00e9es"
         },
-        "95dde9286ff11d93e5f5ce0c832b9f2c": {
-            "text": "Afficher les miniatures dans l'\u00e9diteur de page?"
-        },
-        "183cf71ab1252b747070605a2aa370c2": {
-            "text": "Les miniatures prennent moins d'espace et facilite le classement des images. Si non coch\u00e9, la taille originale de l'image sera affich\u00e9 dans l'\u00e9diteur de page."
-        },
-        "7f0785e56befa113ce8fca2316a12a2e": {
-            "text": "Dimensions maximales de l'image"
-        },
-        "c58e466902d0ff945d0677114e41682b": {
-            "text": "Hauteur maximale pour les images upload\u00e9es"
-        },
-        "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Vous avez la possibilit\u00e9 d'entrez le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si d\u00e9clar\u00e9, les images seront redimensionn\u00e9es lors de l'upload si elles exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors de l'upload, et n'affecte donc aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
-        },
-        "e69ccb31941d2fd7923c6b0c01957db3": {
-            "text": "Largeur maximale pour les images upload\u00e9es"
-        },
         "126b21ce46c39d12c24058791a236777": {
             "text": "Image invalide"
         },
         "41cfe40655c4b51507eff9d22bd777f2": {
             "text": "Image de %s ne rencontre pas les dimensions minimales requises"
         },
-        "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "Supprimer"
-        },
-        "ad2ac1967f0165ebf04a84bc1819e0de": {
-            "text": "D\u00e9placer vers le bas"
-        },
-        "727b701bcc5f26422461f10c07a58d48": {
-            "text": "D\u00e9placer vers le haut"
-        },
-        "597c4d1113db01e43b62cd8a7112cf88": {
-            "text": "Vue par d\u00e9faut"
-        },
-        "530f488f7a9800411efc6926ab189708": {
-            "text": "Lignes"
-        },
-        "5174d1309f275ba6f275db3af9eb3e18": {
-            "text": "Grille"
-        },
-        "b3da2ccb426643b265971f8085617aa0": {
-            "text": "L'affichage en grille et en lignes peut \u00eatre chang\u00e9e par l'utilisateur en cliquant sur l'ic\u00f4ne apparaissant dans le champs. Ceci ne d\u00e9finit que celui utilis\u00e9 par d\u00e9faut. L'affichage en lignes est recommand\u00e9 comme d\u00e9fautt."
-        },
-        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Entrez la valeur en nombre de pixels ou laissez vide pour le pas imposer de limite."
-        },
-        "6760d392e57247a882e160cdb8b3680c": {
-            "text": "Dimensions minimales de l'image"
-        },
-        "a195023920e6ece61b6211755c9af27f": {
-            "text": "Vous pouvez entrer une largeur et\/ou une hauteur minimale(s) pour les images upload\u00e9es. Lorsque d\u00e9clar\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
-        },
-        "d704e5da0e9e4ca2aa3e04201575f44c": {
-            "text": "Largeur minimum pour les images upload\u00e9es"
-        },
-        "b477617de997199bdd26761085aea486": {
-            "text": "Hauteur minimum pour les images upload\u00e9es"
-        },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Uploads d'une ou plusieurs images (triable)"
         },
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Image de %s exc\u00e8de la taille maximum permise"
-        },
-        "840ad8821e0c1db717493f17a054bd18": {
-            "text": "Variations de %s"
-        },
-        "dffe78c5f55b8a4187b91c40a03cf904": {
-            "text": "Refuser les images exc\u00e9dant les dimensions maximales ?"
-        },
-        "e0af28e6bea01f8a983ebd94ec3b7468": {
-            "text": "Lorsque coch\u00e9, les images dont la hauteur\/largeur exc\u00e8dent les dimensions maximales seront refus\u00e9es plut\u00f4t que redimensionn\u00e9es."
-        },
-        "6a1c2d713d3598f27c30a6c448197f0e": {
-            "text": "Le fichier ne peut \u00eatre affich\u00e9"
         },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "="
@@ -172,99 +106,6 @@
         },
         "b84a9a38377dc1ab6c6d5005cb461f0d": {
             "text": "S\u00e9pia"
-        },
-        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
-            "text": "Grille image par d\u00e9faut"
-        },
-        "c53c009277b900e7292c4b49f07ddaec": {
-            "text": "Dans l'interface administrateur, la liste d'images appara\u00eetra suivant ce mode par d\u00e9faut. L'utilisateur peut changer \u00e0 tout moment en cliquant sur les ic\u00f4nes dans le coin en haut \u00e0 droite du champ."
-        },
-        "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Si vous avez r\u00e9cemment utilis\u00e9 ce champ d'images, vous aurez \u00e0 supprimer vos cookies avant de voir les changements de ce r\u00e9glage."
-        },
-        "a188c29fb8020eee47113073e366f78e": {
-            "text": "Grille carr\u00e9e d'images"
-        },
-        "06d5ddb736061086ad90f364eca1c56d": {
-            "text": "Grille proportionnelle d'images"
-        },
-        "fa996d5ac4351e7e603f3ab1b9f77afe": {
-            "text": "Liste verticale (verbeux)"
-        },
-        "e0f4085735da81540154c2c351147301": {
-            "text": "S\u00e9lection du point focus"
-        },
-        "f6a9e8b3977d98dd0e4b7b13720c858b": {
-            "text": "Active un point focus d\u00e9pla\u00e7able pour s\u00e9lectionner le sujet d'une image. Cela aide \u00e0 g\u00e9n\u00e9rer des rognages non-proportionnels."
-        },
-        "17450a5a8844e5a36f3911d94bea2b72": {
-            "text": "Une pr\u00e9visualisation du point focus est aussi visible quand les images sont en mode \"Grille carr\u00e9e d'images\"."
-        },
-        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
-            "text": "Point focus"
-        },
-        "2d07823e1de7d7eb6f09477f9070524f": {
-            "text": "Point focus et zoom"
-        },
-        "b9f5c797ebbf55adccdd8539a65a0241": {
-            "text": "D\u00e9sactiv\u00e9"
-        },
-        "84a327773a9172357f703ebdbb28680b": {
-            "text": "Dimensions image maximales"
-        },
-        "16e3e850ce20fe9fa8340e6d27693f61": {
-            "text": "S'applique aux images JPG, PNG et GIF."
-        },
-        "9fdc5bac96032d0465aa6cc6543d1871": {
-            "text": "Comment redimensionner aux dimensions maximales"
-        },
-        "434352c2b6134b909827f386b3644f0f": {
-            "text": "En utilisant le redimensionnement c\u00f4t\u00e9 client, la taille du fichier et ses dimensions sont r\u00e9duites avant l'upload."
-        },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "En utilisant le redimensionnement c\u00f4t\u00e9 client, veuillez d\u00e9clarer \u00e0 la fois la largeur maximale *et* la hauteur maximale dans les champs ci-dessus, ou les megapixels maximum dans le champ ci-dessous."
-        },
-        "edcf99dacdc6160d6eb8d2efb90ee189": {
-            "text": "Utiliser le redimensionnement c\u00f4t\u00e9 client d\u00e8s que possible"
-        },
-        "4421a363b922af1808ae2b258c9d11bb": {
-            "text": "Utiliser seulement le redimensionnement c\u00f4t\u00e9 serveur"
-        },
-        "41d833b452340b52caa65fdcfe181945": {
-            "text": "Megapixels maximum pour les images upload\u00e9es"
-        },
-        "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Peut \u00eatre utilis\u00e9 comme une alternative aux hauteurs et largeurs maximales. D\u00e9clarez une valeur \u00e0 virgule flottante (float)."
-        },
-        "bd035d6e1aa04d38e61f36c27150e39d": {
-            "text": "Applicable seulement au redimensionnement c\u00f4t\u00e9 client."
-        },
-        "fe64c68c1aa30e687be4aa011b33f15f": {
-            "text": "Une bonne valeur pour les sites web est 1.7 qui correspond \u00e0 peu pr\u00e8s \u00e0 1600x1000 pixels, o\u00f9 1600 et 1000 peuvent \u00eatre soit la largeur soit la hauteur."
-        },
-        "c719e0f0e40f5193e0bbe6f9afc408e5": {
-            "text": "Autres exemples :"
-        },
-        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
-            "text": "Pourcentage de qualit\u00e9 du redimensionnement des JPEG (c\u00f4t\u00e9 client)"
-        },
-        "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "D\u00e9clarer un nombre entre 10 (plus basse qualit\u00e9 \/ plus petite taille fichier) et 100 (plus haute qualit\u00e9 \/ plus grande taille fichier)."
-        },
-        "aa09d92fbba4044af814b7504798dec3": {
-            "text": "Si coch\u00e9, les images sup\u00e9rieures aux hauteurs et largeurs maximales (qui ne peuvent pas \u00eatre redimensionn\u00e9es c\u00f4t\u00e9 client) seront refus\u00e9es plut\u00f4t que redimensionn\u00e9es."
-        },
-        "2d77facadb02370d5dd7c076b5afbee7": {
-            "text": "Dimensions image minimales"
-        },
-        "a39e1de5e7b995d90322ab7d047428bc": {
-            "text": "\u00c9changer les dimensions minimum\/maximum pour les images portraits ?"
-        },
-        "7f3d934927a1c106f5191c01b36c7766": {
-            "text": "Si coch\u00e9, les dimensions largeur\/hauteur minimum et largeur\/hauteur maximum seront \u00e9chang\u00e9es pour les images portraits pour s'adapter au format d'image diff\u00e9rent."
-        },
-        "98ebe60c452735dc2ef2249c835eddfe": {
-            "text": "Applicable uniquement au redimensionnement c\u00f4t\u00e9 serveur."
         },
         "36400352f439e8894099e79dc33fada1": {
             "text": "Recr\u00e9er toutes les vignettes"

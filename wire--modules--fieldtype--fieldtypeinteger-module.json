@@ -11,9 +11,6 @@
         "07be370e5cef3ea5961cdf07cb34f390": {
             "text": "Si 0 et vide sont \u00e9quivalents (l'option Oui), une recherche pour **champ=0** et **champ=\"\"** produira les m\u00eames r\u00e9sultats."
         },
-        "33865caeae8ea654a7fef819270e40b3": {
-            "text": "S'ils ne sont pas \u00e9quivalents (l'option Non), une recherche pour **champ=0** retournera seulement les champs contenant la valeur 0 et **champ=\"\"** retournera les champs dont la valeur est vide."
-        },
         "47ae95efefc63fa28854884d8c871228": {
             "text": "Comme autre exemple, avec l'option Oui **champ<1** retournera les champ de valeur 0 et sans valeur, et l'option Non seulement ceux de valeur 0."
         },
@@ -26,11 +23,11 @@
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "Valeur par d\u00e9faut"
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "Cette valeur sera \u00e0 champ par d\u00e9faut lors de la cr\u00e9ation de nouvelles pages. Ceci n'affecte pas les pages existantes."
-        },
         "b4e4ee05aeb0d5812f77886c29c4bb53": {
             "text": "S'ils ne sont pas \u00e9quivalents (l'option Non) alors une recherche pour **champ=0** trouvera les champs contenant la valeur 0, et **champ=\"\"** trouvera seulement les champs sans valeur."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Cette valeur sera utilis\u00e9e par d\u00e9faut pour les pages dont ce champ n'est pas renseign\u00e9"
         }
     }
 }

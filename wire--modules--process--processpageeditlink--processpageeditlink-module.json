@@ -11,32 +11,8 @@
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Lien vers un URL"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Lien vers une page"
-        },
-        "629ea6ac7fee06a764a49cb39bd356d9": {
-            "text": "Ouvrir dans une nouvelle fen\u00eatre ?"
-        },
-        "1f3e9bfe3126acfe0af746ec6ed2db68": {
-            "text": "Si coch\u00e9, le lien s'ouvrira dans une nouvelle fen\u00eatre en laissant en place la fen\u00eatre courante."
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Lien vers un fichier"
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Pour s\u00e9lectionner un fichier depuis une autre page, cliquez sur \u00ab Lien vers une page \u00bb ci-dessus et choisissez la page \u00e0 partir de laquelle vous voulez s\u00e9lectionner un fichier."
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Lien vers une page enfant"
-        },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "Ceci est identique \u00e0 \u00ab Lien vers une page \u00bb ci-dessus, mais peut \u00eatre plus rapide d'utilisation lors de la cr\u00e9ation de liens vers des pages enfants de celle courante."
-        },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Type d'URL pour les liens de pages"
-        },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Absolu (par d\u00e9faut)"
         },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "URLs relatives dans la m\u00eame branche seulement"
@@ -142,6 +118,9 @@
         },
         "9d622cf09c8c619959d7e4712908b73a": {
             "text": "Chemin complet\/absolu depuis la racine (par d\u00e9faut)"
+        },
+        "63a11faa3a692d4e00fa8e03bbe8a0d6": {
+            "text": "Texte du lien"
         }
     }
 }

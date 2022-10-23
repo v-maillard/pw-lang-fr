@@ -8,9 +8,6 @@
         "35b837a5674ea74e192fc0fa8b68f46c": {
             "text": "Pr\u00e9fixe des num\u00e9ros de page pour la pagination"
         },
-        "6119a76d8e8915737cda0e4151922c06": {
-            "text": "Le num\u00e9ro de page est pr\u00e9fix\u00e9 de ce mot dans les URLs pagin\u00e9es pour cette langue. Si laiss\u00e9 vide, \u00ab %s \u00bb sera utilis\u00e9."
-        },
         "5b5fec43bb1313c56d2e944d9567cd96": {
             "text": "L'URL de la page d'accueil de la langue par d\u00e9faut est la m\u00eame que l'URL racine ?"
         },
@@ -31,6 +28,24 @@
         },
         "68d765216e3092d42524f9f6f14ce93c": {
             "text": "Le num\u00e9ro de page est pr\u00e9fix\u00e9 \u00e0 ce mot dans les URLs pagin\u00e9es pour cette langue. Si laiss\u00e9 vide, \u00ab %s \u00bb sera utilis\u00e9."
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Comportement quand une page n'existe pas dans la langue demand\u00e9e mais existe dans la langue par d\u00e9faut"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Ce param\u00e8tre ne s'applique pas si l'utilisateur peut \u00e9diter la page parce qu'elle est toujours disponible pour une pr\u00e9visualisation."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Renvoyer une erreur 404 (page non trouv\u00e9e) - comportement par d\u00e9faut"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Permettre le rendu dans la langue malgr\u00e9 tout (si acc\u00e9d\u00e9e directement par son URL)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "G\u00e9n\u00e9rer une redirection 301 (permanente) vers la page dans la langue par d\u00e9faut"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "G\u00e9n\u00e9rer une redirection 302 (temporaire) vers la page dans la langue par d\u00e9faut"
         }
     }
 }

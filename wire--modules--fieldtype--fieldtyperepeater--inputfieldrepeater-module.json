@@ -11,14 +11,8 @@
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "Nouveau"
         },
-        "0774e163cd7df482edd2abd498189f8b": {
-            "text": "Non publi\u00e9"
-        },
         "7264d8c26ac9671a31cd3eb3ddd4a447": {
             "text": "Cet \u00e9l\u00e9ment deviendra \u00e9ditable apr\u00e8s l'enregistrement de la page."
-        },
-        "138103c4e1d9c846d0afd000e5b928c8": {
-            "text": "Ajouter un \u00e9l\u00e9ment"
         },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
             "text": "R\u00e9p\u00e8te les champs d'un autre mod\u00e8le. Procure les entr\u00e9es pour FieldtypeRepeater."
@@ -47,9 +41,6 @@
         "485c9b5a61ede20a8ccc332f120da1f9": {
             "text": "Click pour basculer l\u2019item en on\/off, ou double-click pour ouvrir\/fermer tous les item"
         },
-        "60f5703a75c6e7fa21be4247f0626dfb": {
-            "text": "Cloner cet item ?"
-        },
         "b5fab487adaf66b676d31b8fd16af85b": {
             "text": "Ouvrir tous les items ?"
         },
@@ -61,6 +52,45 @@
         },
         "2ca001ee3992ee08c53099d65cbde4eb": {
             "text": "Afficher les param\u00e8tres ?"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Coller"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Actions cloner\/copier\/coller"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Ins\u00e9rer un nouvel \u00e9l\u00e9ment apr\u00e8s celui-ci"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Ins\u00e9rer un nouvel \u00e9l\u00e9ment ici"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "S\u00e9lectionner une action pour cet \u00e9l\u00e9ment"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "COPIER cet \u00e9l\u00e9ment pour le coller ailleurs"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Element en m\u00e9moire pour le copier\/coller"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "CLONER cet \u00e9l\u00e9ment et l'ins\u00e9rer au-dessus de celui-ci"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "CLONER cet \u00e9l\u00e9ment et l'ins\u00e9rer en-dessous de celui-ci"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "COLLER l'\u00e9lement copi\u00e9 au-dessus de celui-ci"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "COLLER l'\u00e9lement copi\u00e9 en-dessous de celui-ci"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "CLEAR (effacer) la m\u00e9moire du copier\/coller"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Ins\u00e9rer un nouvel \u00e9l\u00e9ment avant celui-ci"
         }
     }
 }

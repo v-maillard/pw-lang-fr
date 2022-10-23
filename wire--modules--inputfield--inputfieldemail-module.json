@@ -25,6 +25,12 @@
         },
         "ce8ae9da5b7cd6c3df2929543a9af92d": {
             "text": "Courriel"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "Le mail \u201c%s\u201d est d\u00e9j\u00e0 utilis\u00e9, merci d'en utiliser un autre"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "Le mail est plus long que la longueur de caract\u00e8res (%d) autoris\u00e9e"
         }
     }
 }

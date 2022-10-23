@@ -4,6 +4,21 @@
     "translations": {
         "b4f85b935dcf717fdd8df0117de0cdee": {
             "text": "Vari\u00e9t\u00e9 de Markdown \u00e0 utiliser"
+        },
+        "077f8270bf59fe6ccd6e4991ff7ee37c": {
+            "text": "="
+        },
+        "089dca9f11d830e3dc229be0fef45547": {
+            "text": "Activez-le pour que Markdown traite une entr\u00e9e d'utilisateur non fiable."
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "D\u00e9tails"
+        },
+        "24145e5174d7d87b5a7339a5ecb355ca": {
+            "text": "Tester Markdown"
+        },
+        "6d232b51019138d0685ce7cd48803013": {
+            "text": "Entrez du Markdown et envoyez pour tester le r\u00e9sultat avec vos param\u00e8tres actuels."
         }
     }
 }

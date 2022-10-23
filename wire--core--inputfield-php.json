@@ -17,38 +17,8 @@
         "49632d1c8309d42371ab31fe84d56c91": {
             "text": "Comment ce champ devrait-il \u00eatre affich\u00e9 dans l'\u00e9diteur ?"
         },
-        "604b97c67341baddd9547c714add721c": {
-            "text": "Toujours ouvert (par d\u00e9faut)"
-        },
-        "c412235f3700a685388546e557292a7e": {
-            "text": "Toujours ouvert et ne peut \u00eatre r\u00e9duit"
-        },
-        "d7a1a486818eebace651ff191e42984f": {
-            "text": "R\u00e9duit seulement lorsque vide"
-        },
-        "996d9abb10eeff734a994fcd5b449db6": {
-            "text": "R\u00e9duit seulement lorsqu'il contient des donn\u00e9es"
-        },
-        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
-            "text": "Toujours r\u00e9duit, n\u00e9cessitant un clic pour l'ouvrir"
-        },
-        "8263d549648f539508587a67f38d008b": {
-            "text": "Cach\u00e9, non affich\u00e9 dans l'\u00e9diteur"
-        },
-        "3c5df14c7c43b1d43c41b15476154474": {
-            "text": "Toujours r\u00e9duit et non \u00e9ditable (verrouill\u00e9)"
-        },
-        "5b6a6f08f86510a9580df3bb8b31bb2a": {
-            "text": "Ouvert seulement lorsqu'il contient des donn\u00e9es et non \u00e9ditable (verrouill\u00e9)"
-        },
-        "3cfa4a6238e2b559d3f52474e7545485": {
-            "text": "Afficher ce champs seulement si\u2026"
-        },
         "3b57940d51a0ed7f2d5c49363114bd0e": {
             "text": "Entrez les conditions \u00e0 rencontrer pour que le champ soit affich\u00e9."
-        },
-        "a785c32894aad6d7c1dc826a4bc0a4a3": {
-            "text": "Largeur de colonne (%d%%)"
         },
         "0eb0b305235144ffe99e247b24200b09": {
             "text": "La largeur de ce conteneur de champ exprim\u00e9e en pourcentage (10%-100%). Lorsqu'adjacent \u00e0 d'autres champs de largeurs r\u00e9duites, cela cr\u00e9era des colonnes flottantes."
@@ -62,14 +32,8 @@
         "c48c7243fc307fd425df738c9f0f4324": {
             "text": "Si coch\u00e9, une valeur sera requise pour ce champ."
         },
-        "8183d67b5c53c5fb254741c64ae6f98d": {
-            "text": "Requis seulement si\u2026"
-        },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
             "text": "Entres les conditions \u00e0 rencontrer pour qu'une valeur soit requise pour ce champ."
-        },
-        "33f354f096583d4fb4c01fa05670c1e6": {
-            "text": "Lire plus [\u00e0 propos de l'utilisation](https:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
         },
         "c3bf447eabe632720a3aa1a7ce401274": {
             "text": "Ouvert"
@@ -112,6 +76,15 @@
         },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
             "text": "Largeur de colonne (%d%%)"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Utilise aussi l'attribut HTML5 \"required\" ?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "N'utiliser que sur les champs toujours visible par l'utilisateur"
+        },
+        "f89871ce31a971990070c480d4c257a6": {
+            "text": "Ouvert = v\u00e9rouill\u00e9 (pas \u00e9ditable)"
         }
     }
 }

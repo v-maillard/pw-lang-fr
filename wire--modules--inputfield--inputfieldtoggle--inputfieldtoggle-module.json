@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldToggle\/InputfieldToggle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtoggle--inputfieldtoggle-module",
+    "translations": {
+        "d1457b72c3fb323a2671125aef3eab5d": {
+            "text": "="
+        },
+        "f827cf462f62848df37c5e1e94a4da74": {
+            "text": "="
+        },
+        "f8320b26d30ab433c5a54546d21f414c": {
+            "text": "="
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "="
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Activ\u00e9"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desactiv\u00e9"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Oui"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Non"
+        },
+        "6311ae17c1ee52b36e68aaf4ad066387": {
+            "text": "Autre"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Inconnu"
+        },
+        "948b771f7576e90d4ea82d5a93969880": {
+            "text": "inverser les labels et param\u00e8tres de l'input"
+        },
+        "1ca83672206c28e209344caf672a09eb": {
+            "text": "Type de label"
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "="
+        },
+        "c020238f8af7f5e4de9ff715998b455d": {
+            "text": "Type d'input"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "="
+        },
+        "c1b5fa03ecdb95d4a45dd1c40b02527f": {
+            "text": "="
+        },
+        "06ce2a25e5d12c166a36f654dbea6012": {
+            "text": "="
+        },
+        "bcdf2d471f1f386766650d51026d44b5": {
+            "text": "Utiliser une troisi\u00e8me option \"autre\""
+        },
+        "eab912c80198d0b053074213f8b04c8f": {
+            "text": "Inverser l'ordre des options oui\/non"
+        },
+        "031b7752675742895ea88530c9f4ca5a": {
+            "text": "Inverser les boutons"
+        },
+        "b277db245e021ba7bd5c260212209a2d": {
+            "text": "Accepte le click pour d\u00e9s\u00e9lectionner"
+        },
+        "d9355820e8ad0fce6eba1b92496e8894": {
+            "text": "oui\/non"
+        },
+        "d267c637e1512d1c35009144d1606695": {
+            "text": "non\/off"
+        },
+        "63e5188e48c8bc8a4a58ab9dc8b0c5cc": {
+            "text": "Etiquette pour l'option \u201c%s\u201d"
+        },
+        "795f3202b17cb6bc3d4b771d8c6c9eaf": {
+            "text": "autre"
+        },
+        "1b7fb782957d1005d7bac0e7729deece": {
+            "text": "Option s\u00e9lectionn\u00e9e par d\u00e9faut"
+        },
+        "b6c7e5d7bc51d1f824ce334cb0a67021": {
+            "text": "Aucune s\u00e9lection"
+        },
+        "a8875bbe4272c0bdd786cfaaedf77921": {
+            "text": "Toggle\/inverser"
+        },
+        "b944099ecd935f9422ab4393811af776": {
+            "text": "Un toggle donne les m\u00eame possibilit\u00e9s \u00e0 l'input que des checkboxes mais en \u00e9tant beaucoup plus configurable"
+        }
+    }
+}

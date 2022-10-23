@@ -2,15 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldRadios\/InputfieldRadios.module",
     "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
     "translations": {
-        "cf8a8cf17df1b387458f33ace69f49be": {
-            "text": "Colonne de boutons radio"
-        },
-        "9cf19cb880b90f114795a612ab1d660f": {
-            "text": "Si vous d\u00e9sirez que les boutons radio s'affichent en colonnes (plut\u00f4t qu'empil\u00e9s), entrez le nombre de colonne que vous d\u00e9sirez utiliser (jusqu'\u00e0 10). Pour afficher les boutons c\u00f4te \u00e0 c\u00f4te (inline) entrez 1."
-        },
-        "a4b7341d7cd692bd8fbd2595040ad78d": {
-            "text": "Si aucun nombre n'est d\u00e9clar\u00e9 ici, chaque bouton radio appara\u00eetra sur sa propre ligne."
-        },
         "692fd08ceebbbf5818d492fae7ebe7db": {
             "text": "Boutons radio pour la s\u00e9lection d'un \u00e9l\u00e9ment unique"
         },

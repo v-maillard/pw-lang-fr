@@ -23,9 +23,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtres"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Filtrer par champ"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "S\u00e9lectionner un champ et seuls les mod\u00e8les utilisant ce champ seront affich\u00e9s."
         },
@@ -62,9 +59,6 @@
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Vous pouvez entrer plusieurs noms de mod\u00e8les en les s\u00e9parant par un espace."
         },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Ne pas inclure une extension de fichier"
-        },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "\u00c9diter le mod\u00e8le : %s"
         },
@@ -73,27 +67,6 @@
         },
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "Une \u00e9tiquette optionnelle pour d\u00e9crire ce mod\u00e8le."
-        },
-        "b5b8f523cefee8895f19a223c85f431f": {
-            "text": "G\u00e9rer l'acc\u00e8s au mod\u00e8le"
-        },
-        "7a91f878f0e4c02c502a8d0583b0c6be": {
-            "text": "Usage optionnel et place dans l'arborescence"
-        },
-        "501dba7089bbfb45c7c1a733477bcdc5": {
-            "text": "Param\u00e8tres optionnels pour les URLs des pages utilisant ce mod\u00e8le"
-        },
-        "23f23b8b2e4cc5c8517468a6d001b3fd": {
-            "text": "Cache d'output"
-        },
-        "244561833b6ce4599891cf9e33fb33d6": {
-            "text": "Param\u00e8tres optionnels avanc\u00e9s du mod\u00e8le"
-        },
-        "5dd56426fff182e0610cc0bf9d389437": {
-            "text": "Param\u00e8tres du mod\u00e8le sp\u00e9cifiques au syst\u00e8me"
-        },
-        "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Importer des champs d'un autre mod\u00e8le"
         },
         "0d4ca2b82aa1381b25348c8509009839": {
             "text": "Supprimer le mod\u00e8le"
@@ -116,20 +89,8 @@
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(par d\u00e9faut)"
         },
-        "b6b0afb901a4db116f6b8403cf434280": {
-            "text": "Pour r\u00e9f\u00e9rence, ceci est une liste de champs utilis\u00e9s par ce mod\u00e8le. Ce mod\u00e8le utilise les champs du mod\u00e8le \u00ab %s \u00bb."
-        },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "D\u00e9finissez les champs \u00e8 utiliser par ce mod\u00e8le. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9."
-        },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Ajouter un champ"
-        },
-        "71bb941583eef6e3e5ed3eaad39cc315": {
-            "text": "Copier les champs utilis\u00e9s par un autre mod\u00e8le"
-        },
-        "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Si vous voulez copier les champs utilis\u00e9s par un autre mod\u00e8le, s\u00e9lectionner ce dernier ici. Les champs d\u00e9j\u00e0 pr\u00e9sents dans le mod\u00e8le actuel seront ignor\u00e9s."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
             "text": "Pour mettre en cache l'output de ce mod\u00e8le, indiquez la dur\u00e9e (en secondes) pendant laquelle l'output devrait \u00eatre mise en cache. La mise en cache r\u00e9duit significativement le temps de rendu sur les pages avec un usage lourd en ressources. Cependant, la mise en cache ne devrait pas \u00eatre utilis\u00e9e avec les mod\u00e8les qui doivent traiter des donn\u00e9es changeantes, tels les formulaire ou les sessions. Notez aussi que les segments d'URL peuvent \u00eatre mis en cache, mais pas les variables GET et POST."
@@ -197,12 +158,6 @@
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Chaque tag doit \u00eatre compos\u00e9 d'un mot (les tirets sont ok)."
         },
-        "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "Pour r\u00e9duire un tag dans la liste de mod\u00e8les, pr\u00e9fixez le d'un tiret, comme ceci: -allo"
-        },
-        "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "Renommer le mod\u00e8le"
-        },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "Le nom utilis\u00e9 pour se r\u00e9f\u00e9rer \u00e0 ce mod\u00e8le. Ceci est aussi le nom de fichier par d\u00e9faut du fichier de mod\u00e8le (avec extension .php) dans \/site\/templates\/."
         },
@@ -212,15 +167,6 @@
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "Le nom du fichier de mod\u00e8le n'est pas disponible en \u00e9criture, vous devrez donc le renommer manuellement (des instructions seront fournies apr\u00e8s l'enregistrement)"
         },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Entrez toute combinaison de lettres (a-z), nombres (0-9), tirets ou tirets pas (pas d'espaces). N'incluez pas l'extension de fichier .php."
-        },
-        "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Dupliquer\/cloner ce mod\u00e8le ?"
-        },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "Cochez la case ci-dessous si vous d\u00e9sirer cr\u00e9er une copie en duplicata\/clone de ce mod\u00e8le. Le clone sera cr\u00e9\u00e9 au moment de la sauvegarde. Si votre r\u00e9pertoire de mod\u00e8les est disponible en \u00e9criture et que le mod\u00e8le poss\u00e8de un fichier associ\u00e9, ce dernier sera aussi clon\u00e9."
-        },
         "7328590933d4202f89220d6b435b0e8f": {
             "text": "Liste de champs \u00e0 afficher dans l'arborescence de l'interface d'administration"
         },
@@ -229,9 +175,6 @@
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
             "text": "Vous pouvez entrer un ou plusieurs de ces champs :"
-        },
-        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
-            "text": "Vous pouvez aussi entrer un [nom d'ic\u00f4ne](http:\/\/fontawesome.io\/cheatsheet\/), par exemple : icon-file ou fa-file (les deux formats fonctionnent)."
         },
         "8f0944546d02e3fd7de73e9418494b3b": {
             "text": "Comportements du mod\u00e8le"
@@ -245,41 +188,17 @@
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le ne pourront pas changer leur mod\u00e8le pour un autre."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ ou 0 pour d\u00e9sactiver"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Ne pas permettre les pages non publi\u00e9es"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le ne peuvent exister que sous l'\u00e9tat publi\u00e9 et ne pas pas \u00eatre d\u00e9publi\u00e9es."
         },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ ou 0 pour d\u00e9sactiver"
-        },
         "6064635b0dec3189859052c02adc0fc5": {
             "text": "Permettre au champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb d'\u00eatre modifi\u00e9 sur les pages ?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le auront une option pour modifier le champ \u00ab cr\u00e9\u00e9 par l'utilisateur \u00bb (r\u00f4le superuser seulement). Ceci permet aussi aux champs $page->createdUser ou $page->created_users_id d'\u00eatre enregistr\u00e9s via l'API."
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ ou 0 pour d\u00e9sactiver. Valeur par d\u00e9faut : 0."
-        },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Format de nom de page"
-        },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Vous pouvez, en option, sp\u00e9cifier un format pour les noms de page lorsqu'une nouvelle page est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, le mod\u00e8le utilis\u00e9 par la ou les pages parentes doivent d\u00e9finir ce mod\u00e8le (%s) en tant que le seul permis pour la cr\u00e9ation d'enfants (voir l'onglet \u00ab Relations \u00bb du mod\u00e8le utilis\u00e9 par le parent)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "Vous pouvez entrez tout texte d\u00e9sir\u00e9 ici. Lorsqu'une page est cr\u00e9\u00e9 et que son nom n'est pas unique, un nombre incr\u00e9ment\u00e9 automatiquement sera ajout\u00e9 \u00e0 la fin du nom jusqu'\u00e0 ce qu'il soit unique."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "**Si vous d\u00e9sirez que les noms de pages tirent leur valeur du champs titre**: entrez \u00ab title \u00bb ci-haut (sans les guillemets)."
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "**Si vous d\u00e9sirez que les noms de pages refl\u00e8tent l'heure et la date de cr\u00e9ation**: entrez un [format de date](http:\/\/www.php.net\/manual\/en\/function.date.php) ci-haut. Votre format de date doit inclure au moins un caract\u00e8re non alphanum\u00e9rique (tel qu'une barre oblique \u00ab \/ \u00bb ou un deux points \u00ab\u00a0: \u00bb par exemple) de mani\u00e8re \u00e0 lettre reconnu en tant que format de date. Par exemple : \u00ab Y\/m\/d H:i:s \u00bb donnerait comme r\u00e9sultat un nom de page comme ceci : \u00ab 2014-10-30-12-39-01 \u00bb. Comme vous pouvez voir, les caract\u00e8res non alphanum\u00e9riques pr\u00e9sents dans une date format\u00e9e sont convertis en tirets."
         },
         "dc8ce981931b1e9b1f784c57730a67c1": {
             "text": "Veuillez notez que tous ces param\u00e8tres syst\u00e8mes sont destin\u00e9s \u00e0 l'utilisation du d\u00e9veloppement du syst\u00e8me de ProcessWire (pas pour d\u00e9veloppement de site). Utilisez-les \u00e0 votre propre risque."
@@ -322,9 +241,6 @@
         },
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Si vous voulez pr\u00e9venir que les pages utilisant ce mod\u00e8le ne soient d\u00e9plac\u00e9es (changement du parent), cochez cette case."
-        },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ ou 0 pour d\u00e9sactiver"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "D\u00e9sactiver l'option corbeille ?"
@@ -377,9 +293,6 @@
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Vous pouvez, en option, d\u00e9finir un format pour les noms de page lorsqu'une nouvelle page enfant est ajout\u00e9e. Ceci permet d'\u00e9viter l'\u00e9tape \u00ab Ajout de page \u00bb lors de l'ajout d'une nouvelle page. Pour que ceci fonctionne, un seul mod\u00e8le peut \u00eatre s\u00e9lectionn\u00e9 pour le champ \"Mod\u00e8les permis pour les enfants\" ci-dessus."
         },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "Laissez vide pour d\u00e9sactiver. Entrez \u00ab title \u00bb (sans les guillemets) pour g\u00e9n\u00e9rer automatiquement un nom de page \u00e0 partir du titre. Plus d'options, incluant des formats de date, sont disponibles. [En savoir plus\u2026](http:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "de4914b2943f3cfce0232ae281a8b155": {
             "text": "Afficher dans le menu rapide d'ajout de page ?"
         },
@@ -398,12 +311,6 @@
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Le mod\u00e8le de parent s\u00e9lectionn\u00e9 doit avoir ce mod\u00e8le d\u00e9fini comme un de ceux permis pour ses enfants."
         },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. Il ne peut y avoir qu'une seule page utilisant le mod\u00e8le du parent sur votre syst\u00e8me."
-        },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. Le th\u00e8me d'administration doit supporter cette fonction."
-        },
         "67c0041f81951ac9b6b46dd2311fb9aa": {
             "text": "Param\u00e8tres de tri pour les enfants"
         },
@@ -413,32 +320,14 @@
         "fd80e24b28f66f7a579ced68340fd3fa": {
             "text": "Permettre les num\u00e9ros de pages ?"
         },
-        "8bda693211f46eb289c8bdadedaf54ae": {
-            "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le accepteront les segments d'URL au format \u00ab page123 \u00bb, o\u00f9 \u00ab 123 \u00bb peut \u00eatre tout entier positif. Par exemple, une requ\u00eate d'URL \u00e0 \u00ab \/widgets\/page3 \u00bb d\u00e9finit automatiquement la variable $input->pageNum \u00e0 3. Ceci est est utilis\u00e9 pour la pagination et ne devrait \u00eatre activ\u00e9 que pour les mod\u00e8les qui supportent la pagination. Notez que les num\u00e9ros de page commencent \u00e0 1 (et non 0). Lorsque combin\u00e9 avec les segments d'URL (voir prochaine section), le num\u00e9ro de page doit composer la derni\u00e8re partie de l'URL."
-        },
-        "69b2806a857d0fb5778a31c1f88f59a0": {
-            "text": "Acc\u00e9dez au num\u00e9ro de page actuelle dans vos mod\u00e8les \u00e0 l'aide de $input->pageNum;"
-        },
         "3a426f05b968cc7c6022ac1388e7d8e7": {
             "text": "Permettre les segments d'URL ?"
-        },
-        "edf7d3cbbda60af5148285cec1cd7569": {
-            "text": "Ce mod\u00e8le peut, de mani\u00e8re optionnelle, servir des segments de chemins d'URL sous celui de(s) page(s) utilisant ce mod\u00e8le. Par exemple, vous pourriez vouloir une page avec un chemin \/chemin\/vers\/page\/ qui g\u00e8re aussi les requ\u00eates pour \/chemin\/vers\/page\/segment1\/ ou \/chemin\/vers\/page\/segment1\/segment2\/. Par d\u00e9faut, ProcessWire renverra une erreur \u00ab 404 Page non trouv\u00e9e \u00bb lorsqu'un tel URL est acc\u00e9d\u00e9. Si vous voulez que ProcessWire rende plut\u00f4t la page sans erreur, cochez la case plus bas. Vous pourrez ensuite manuellement observer les segments d'URL \u00e0 partir de votre fichier de mod\u00e8le et y r\u00e9pondre."
-        },
-        "8c8b0529510e126bc81359c5a2ae3482": {
-            "text": "Jusqu'\u00e0 3 segments d'URL sont support\u00e9s apr\u00e8s l'URL de la page. Ceux-ci peuvent \u00eatre une combinaison de caract\u00e8res ASCII en minuscule soit des lettres (a-z), nombres (0-9), tirets et tirets bas. Vous pouvez acc\u00e9der aux segments d'URL \u00e0 partir du code d'API de votre mod\u00e8le en r\u00e9f\u00e9ren\u00e7ant la fonction $input->urlSegment(n) ou la propri\u00e9t\u00e9 $input->urlSegment[n] (en rempla\u00e7ant [n] par 1, 2 ou 3)."
-        },
-        "3f7071fb2ff5f5a0218c696722986007": {
-            "text": "Par exemple, pour une URL donn\u00e9e \/chemin\/vers\/page\/a\/b\/c\/, o\u00f9 \/chemin\/vers\/page\/ est le chemin de la page en cours, et \/a\/b\/c\/ sont les segments : $input->urlSegment1 est \u00ab a \u00bb, $input->urlSegment2 est \u00ab b \u00bb, et $input->urlSegment3 est \u00ab c \u00bb. Si votre mod\u00e8le re\u00e7oit des segments d'URL inconnus, une bonne pratique est d'arr\u00eater la requ\u00eate en renvoyant une erreur 404. Le code de l'API pour faire cela : throw new Wire404Exception();"
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
             "text": "Les URLs de page devraient elles terminer avec un slash ?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
             "text": "Si \u00ab Oui \u00bb, les pages utilisant ce mod\u00e8le auront toujours des URLs se terminant avec un slash \u00ab \/ \u00bb. Si la page est charg\u00e9e \u00e0 partir d'un URL sans le slash, elle sera redirig\u00e9e vers un URL la comprenant. Si vous s\u00e9lectionnez \u00ab Non \u00bb, la version sans slash sera forc\u00e9e. Notez que ce param\u00e8tre ne force pas le comportement des segments d'URL ou des num\u00e9ros de page, seulement les URLs r\u00e9els. Si vous n'avez pas de pr\u00e9f\u00e9rence, il est recommand\u00e9 que vous laissiez ceci \u00e0 \u00ab Oui \u00bb."
-        },
-        "115162847e362551c1dcaff31e64fa80": {
-            "text": "Sch\u00e9ma\/Protocole"
         },
         "249e45d525f325778f98cdd90eaf0b32": {
             "text": "HTTP ou HTTPS"
@@ -479,14 +368,8 @@
         "ab6b38f8849f9837a2fbb24721ab5e99": {
             "text": "D\u00e9sactiver l'ajout automatique du fichier au d\u00e9but : %s"
         },
-        "07bbc1cae53fb8d26759b5564e6a5824": {
-            "text": "Cette option d\u00e9sactive le param\u00e8tre $config->prependTemplateFile dans \/site\/config.php pour ce mod\u00e8le seulement."
-        },
         "95dac43782405c335b194c4f4ff28436": {
             "text": "D\u00e9sactiver l'ajout automatique du fichier \u00e0 la fin : %s"
-        },
-        "438f365e84607c69184559ff2e9d974b": {
-            "text": "Cette option d\u00e9sactive le param\u00e8tre $config->appendTemplateFile dans \/site\/config.php pour ce mod\u00e8le seulement."
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "Voulez vous g\u00e9rer les acc\u00e8s en vue et en modification pour les pages utilisant ce mod\u00e8le ?"
@@ -505,15 +388,6 @@
         },
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Afficher la page de connexion : %s"
-        },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Rediriger vers une autre URL"
-        },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Entrer l'URL vers laquelle rediriger l'utilisateur lorsqu'il n'a pas les droits d'acc\u00e8s"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "Ce champ est applicable seulement si vous s\u00e9lectionnez \u00ab Rediriger vers une autre URL \u00bb plus haut."
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "Optionnel : Dans votre URL, vous pouvez inclure le tag \u00ab\u00a0{id} \u00bb (possiblement en tant que variable GET) et il sera remplac\u00e9 par l'ID de la page dans le requ\u00eate, si vous le d\u00e9sirez."
@@ -547,9 +421,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Mod\u00e8le enregistr\u00e9 : %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Clone cr\u00e9\u00e9 pour le mod\u00e8le \u00ab %1$s \u00bb nomm\u00e9 \u00ab %2$s \u00bb. Vous pouvez le renommer en modifiant \u00ab %2$s \u00bb et en cliquant sous son onglet \u00ab Avanc\u00e9 \u00bb."
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Erreur lors de la cr\u00e9ation du clone de ce mod\u00e8le"
@@ -683,12 +554,6 @@
         "08b4ed72628b718cbe3158eb2eaf10a2": {
             "text": "Syst\u00e8me"
         },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Importer"
-        },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Supprimer"
-        },
         "d5778a8b84efb3233d070016adb93326": {
             "text": "Enregistrer"
         },
@@ -731,9 +596,6 @@
         "0f12f2b440ad104a1ee7cb027aba8b18": {
             "text": "Ajouter des mod\u00e8les"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Ce mod\u00e8le est utilis\u00e9 par 1 page"
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "Ce mod\u00e8le est utilis\u00e9 par %d pages"
         },
@@ -742,21 +604,6 @@
         },
         "957ba77c721f931f1ad38ed47b98fd0d": {
             "text": "Le mod\u00e8le est utilis\u00e9 par %d page"
-        },
-        "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Le groupe de champs de ce mod\u00e8le est utilis\u00e9 par 1 autre mod\u00e8le"
-        },
-        "18dec3122ea08276dd94476904bcef7b": {
-            "text": "Le groupe de champs de ce mod\u00e8le est utilis\u00e9 par %d autres mod\u00e8les"
-        },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Ce nom est d\u00e9j\u00e0 utilis\u00e9"
-        },
-        "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "D\u00e9finissez les champs \u00e0 utiliser par ce mod\u00e8le. Vous pouvez aussi les glisser-d\u00e9poser dans l'ordre d\u00e9sir\u00e9 ou [cr\u00e9er un nouveau champ](..\/field\/add)."
-        },
-        "b0349bb2d18f943c6aa52c5c038850a0": {
-            "text": "Si vous utilisez [ProCache] il n'est pas n\u00e9cessaire d'utiliser les param\u00e8tres de cache ici."
         },
         "70445e42e2f9089020b0ba1c23063287": {
             "text": "Nettoyer le cache pour la page enregistr\u00e9e et autres pages correspondant \u00e0 un s\u00e9lecteur\u2026"
@@ -791,14 +638,8 @@
         "991dba5ecf8a850b42ffc2e6d0697c2b": {
             "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront la pagination."
         },
-        "4ee65b65a7329e4d76cce40b69075c2d": {
-            "text": "Acc\u00e9dez au num\u00e9ro de page \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->pageNum."
-        },
         "4295c2949c604273ad18a82924a06684": {
             "text": "Lorsque coch\u00e9, les pages utilisant ce mod\u00e8le supporteront les segments d'URL personnalis\u00e9s apr\u00e8s l'URL de la page."
-        },
-        "3f967ce93af0de3a0457071f3d743f14": {
-            "text": "Acc\u00e9dez au(x) segment(s) d'URL \u00e0 partir de vos fichiers de mod\u00e8le en utilisant $input->urlSegmentStr."
         },
         "85eb71c20f7740fc3bdbf7dfdee2636b": {
             "text": "Quels segments d'URL d\u00e9sirez vous permettre ?"
@@ -816,7 +657,7 @@
             "text": "Pour ajouter d'autre types de contenu, voir *contentTypes* dans \/wire\/config.php (et ajouter les \u00e0 cet endroit)."
         },
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
-            "text": "Saut\u00e9 le renommage du mod\u00e8le - veuillez compl\u00e9ter ceci apr\u00e8s l'action courante."
+            "text": "Renommage du mod\u00e8le non fait - veuillez compl\u00e9ter ceci apr\u00e8s l'action courante."
         },
         "3050063a3917b13308a0470879b3259f": {
             "text": "\u00c9tiquette pour l'onglet \u00ab De base \u00bb"
@@ -878,9 +719,6 @@
         "173fc4509c54323d4c0da3ffea41742c": {
             "text": "Les mod\u00e8les indiqu\u00e9s d'un %s sont d\u00e9j\u00e0 configur\u00e9s et permettent d'ajouter ce mod\u00e8le en tant qu'enfant."
         },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "Laissez vide pour d\u00e9sactiver. Entrez \"title\" (dans les guillemets) pour g\u00e9n\u00e9rer automatiquement le nom \u00e0 partir du titre d'une page. D'autres options incluant des format de date sont aussi disponibles. [En savoir plus](https:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "9351544406147e2f9a081ce279e7f687": {
             "text": "Pour ajuster l'ordre dans lequel les mod\u00e8les apparaissent dans le menu de raccourcis, voir les [param\u00e8tres du module PageAdd](%s)."
         },
@@ -892,9 +730,6 @@
         },
         "dc105ac52c237f9f09c74b0767f64f74": {
             "text": "="
-        },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Entrez l'URL ou l'ID de la page vers laquelle rediriger lorsqu'un utilisateur n'a pas acc\u00e8s"
         },
         "ba9f2559a3fd0e360488de130ff7ab73": {
             "text": "Permettre aux acc\u00e8s reli\u00e9s \u00e0 l'\u00e9dition d'\u00eatre h\u00e9rit\u00e9s par les enfants ?"
@@ -996,7 +831,7 @@
             "text": "d\u00e9clarez 0 pour d\u00e9sactiver"
         },
         "4250b64aabe2bd1f7764377c2f5380c4": {
-            "text": "D\u00e9sactiv\u00e9 la gestion multi-lingue pour ce mod\u00e8le ?"
+            "text": "D\u00e9sactiver la gestion multi-lingue pour ce mod\u00e8le ?"
         },
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "Si coch\u00e9, les pages utilisant ce mod\u00e8le seront seulement utilis\u00e9es par la langue par d\u00e9faut."
@@ -1033,12 +868,6 @@
         },
         "9b404a9b5976b30bf436e218068b3d4d": {
             "text": "L'action de compiler n'est pas n\u00e9cessaire \u00e0 moins que les modules ou les includes en aient besoin."
-        },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Le nom de mod\u00e8le sp\u00e9cifi\u00e9 pour le clone n'est pas valide"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Impossible de cloner car un mod\u00e8le du m\u00eame nom existe d\u00e9j\u00e0"
         },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Clone \"%2$s\" cr\u00e9\u00e9 \u00e0 partir du mod\u00e8le \"%1$s\""
@@ -1093,6 +922,123 @@
         },
         "710392d799626a77535d30648716ddd3": {
             "text": "Enregistrer le mod\u00e8le avant de modifier la largeur d'un nouveau champ"
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Emp\u00eacher l'acc\u00e8s direct aux fichiers assets des pages utilisant ce template"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nom"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Etiquette"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "G\u00e9rer les tags"
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Non disponible pour la raison indiqu\u00e9e ci-dessous"
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "D\u00e9finissez les champs personnalis\u00e9s pour \"%s\". Il n'est pas n\u00e9cessaire de configurer quoi que ce soit d'autre ici."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "S\u00e9lectionnez les champs utilis\u00e9s par ce mod\u00e8le et glissez\/d\u00e9posez dans l'ordre souhait\u00e9."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Vous pouvez \u00e9galement cliquer sur le nom ou l'\u00e9tiquette du champ \u00e0 modifier dans le contexte de ce mod\u00e8le, cliquer\/faire glisser l'indicateur de pourcentage pour ajuster la largeur, ou [cr\u00e9er un nouveau champ](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Enregistrez ce mod\u00e8le pour rendre les champs nouvellement ajout\u00e9s modifiables ici."
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "Renommer le mod\u00e8le"
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Dupliquer\/cl\u00f4ner ce mod\u00e8le"
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Copier des champs depuis un autre mod\u00e8le"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Si vous souhaitez copier des champs utilis\u00e9s par un autre mod\u00e8le, s\u00e9lectionnez-le ici. Les champs d\u00e9j\u00e0 pr\u00e9sents dans ce mod\u00e8le seront laiss\u00e9s en l'\u00e9tat."
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "Lorsque l'acc\u00e8s direct \u00e0 un fichier dans [u]\/site\/assets\/files\/[\/u] est bloqu\u00e9, ProcessWire peut g\u00e9rer la livraison du fichier, plut\u00f4t qu'Apache."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "Permet de contr\u00f4ler l'acc\u00e8s au fichier de la m\u00eame mani\u00e8re que la page qui le poss\u00e8de, tout en utilisant l'URL du fichier d'origine."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Notez qu'il faut plus de temps pour livrer un fichier de cette fa\u00e7on, alors ne choisissez l'option \"Oui toujours\" que si vous en avez besoin."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "V\u00e9rifiez toujours que le contr\u00f4le d'acc\u00e8s fonctionne comme vous le souhaitez en essayant d'acc\u00e9der au(x) fichier(s) prot\u00e9g\u00e9(s) dans votre navigateur."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "Faites-le lorsque vous voulez avoir acc\u00e8s (connect\u00e9) et lorsque vous ne l'avez pas (d\u00e9connect\u00e9)."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(utilise la configuration g\u00e9n\u00e9rale du site \u00e0 la place)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "Oui lorsque la page n'est pas publi\u00e9e, dans la corbeille ou n'est pas accessible au public"
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Oui toujours, quel que soit l'\u00e9tat de la page ou le contr\u00f4le d'acc\u00e8s"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "%d chemin(s) de fichier(s) renomm\u00e9 pour cette page pour changement d'option de s\u00e9curit\u00e9 des fichiers"
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Votre modification de l'option de fichiers s\u00e9curis\u00e9s sera appliqu\u00e9e lorsque les champs de fichier\/image sur chacune des %d pages affect\u00e9es seront consult\u00e9s."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Notez que cela peut prendre un certain temps. Pour appliquer \u00e0 tous maintenant, ex\u00e9cutez le code API suivant \u00e0 partir d'un fichier mod\u00e8le :"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "S\u00e9lectionnez tous les mod\u00e8les qui devraient avoir ce tag"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "Afficher repli\u00e9 dans la liste des mod\u00e8les ?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "Pour supprimer ce tag, supprimez-en tous les mod\u00e8les."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "Tag \u201c%1$s\u201d ajout\u00e9 au mod\u00e8le : %2$s"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Tag \u201c%1$s\u201d supprim\u00e9 du mod\u00e8le : %2$s"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Les tags vous permettent de grouper les mod\u00e8les en collections dans la liste."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Nouveau tag ajout\u00e9"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "="
+        },
+        "6a0219d2a4cc5325013a373b1da9fa8f": {
+            "text": "Pour vous servir de r\u00e9f\u00e9rence, liste des champs utilis\u00e9s par ce template. Ce template a ses champs venant du template \u201c%s\u201d"
+        },
+        "9fbbf36953078c8761263aac49cbcc76": {
+            "text": "Laisser vide pour d\u00e9sactiver. Entrez \"title\" (sans les guillemets) pour g\u00e9n\u00e9rer automatiquement le nom (slug\/alias) \u00e0 partir du titre de la page. [Plus d'options](%s) sont disponibles, y compris les champs customs et les format de type date."
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Nom du tag"
+        },
+        "91f0d9531bc0864da763086363af90e5": {
+            "text": "Vous pouvez utiliser des lettres, des chiffres, les traits-d'union et underscores"
+        },
+        "482957b0d6d5c5d4c8de3dd316750d04": {
+            "text": "Le groupe de champs (fieldgroup) de ce template est utilis\u00e9 par un autre template"
+        },
+        "19403f055f2e2c7f03b5dab680880b3d": {
+            "text": "Le groupe de champs (fieldgroup) de ce template est utilis\u00e9 par %d autres templates"
         }
     }
 }

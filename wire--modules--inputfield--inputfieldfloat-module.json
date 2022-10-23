@@ -7,6 +7,12 @@
         },
         "22ae0e2b89e5e3d477f988cc36d3272b": {
             "text": "Nombre d\u00e9cimal"
+        },
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Nombre de d\u00e9cimales auquel arrondir"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Ou utilisez un nombre n\u00e9gatif comme -1 pour d\u00e9sactiver l'arrondi"
         }
     }
 }

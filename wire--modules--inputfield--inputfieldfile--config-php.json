@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Extensions autoris\u00e9es pour l'upload"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Une ou plusieurs extensions s\u00e9par\u00e9es par un espace"
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Nombre maximum de fichiers autoris\u00e9s"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=aucune limite"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Upload de fichiers"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "D\u00e9compresser les archives ZIP ?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Si coch\u00e9e, les archives ZIP seront d\u00e9compress\u00e9es et les fichiers valides ajout\u00e9s comme mis en ligne (si l'h\u00e9bergement le permet). Le nombre max de fichiers doit \u00eatre mis sur 0 (pas de limite) pour que l'upload de zip fonctionne."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Ecraser les fichiers existants ?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Si coch\u00e9e, un fichier mis en ligne portant le m\u00eame nom qu'un fichier existant le remplacera (sans modifier description et tags). Si pas le fichier sera renomm\u00e9 pour porter un nom unique."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Veuillez noter que lorsque cette option est activ\u00e9e, les fichiers t\u00e9l\u00e9charg\u00e9s par AJAX sont enregistr\u00e9s avec la page imm\u00e9diatement lors du t\u00e9l\u00e9chargement, plut\u00f4t que lorsque vous cliquez sur \u00ab enregistrer \u00bb. Par cons\u00e9quent, vous souhaiterez peut-\u00eatre laisser cette option d\u00e9coch\u00e9e, sauf si vous en avez un besoin sp\u00e9cifique."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Description du fichier"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Nombre de ligne pour le champ description ?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Entrez le nombre de lignes disponibles pour le champ de description de fichier ou entrez 0 pour ne pas avoir de champ de description."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "D\u00e9sactiver les descriptions multilingues ?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Par d\u00e9faut, les descriptions sont multilingues lorsque la prise en charge des langues est install\u00e9e."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Si vous n'avez pas besoin de descriptions multilingues pour les fichiers, vous pouvez les d\u00e9sactiver ici."
+        }
+    }
+}

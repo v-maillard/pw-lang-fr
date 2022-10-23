@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/types\/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Champ texte avec un date picker jquery ui"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "="
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "="
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "="
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Pas de det\/time picker"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Date\/time picker au focus sur le champ"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(recommand\u00e9)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Date\/time picker au click sur un bouton"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Date picker toujours visible (pas de time picker)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Formats des inputs Date\/Time"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Format du champ date"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "S\u00e9lectionnez le format \u00e0 utiliser pour la saisie utilisateur dans ce champ. Votre s\u00e9lection remplira le champ en dessous, que vous pourrez personnaliser davantage si n\u00e9cessaire."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(timestamp unix)"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Format du champ Time"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "S\u00e9lectionnez un format d'heure facultatif \u00e0 utiliser pour la saisie. Si elle est utilis\u00e9e, l'option de calendrier inclura un s\u00e9lecteur de temps."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Type de champ Time"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Les curseurs (par d\u00e9faut) permettent \u00e0 l'utilisateur de faire glisser les contr\u00f4les pour choisir l'heure, tandis que Select permet \u00e0 l'utilisateur de s\u00e9lectionner l'heure dans une liste d\u00e9roulante."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Curseurs"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "="
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Code de format d'entr\u00e9e de la date"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Automatiquement construit \u00e0 partir de la date s\u00e9lectionn\u00e9e ci-dessus, sauf si vous le modifiez."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Consultez la doc de la fonction [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) pour plus d'informations sur la fa\u00e7on de personnaliser ces formats."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Vous pouvez \u00e9galement sp\u00e9cifier ici des formats pour d'autres langues. Toutes les langues laiss\u00e9es vides h\u00e9riteront du param\u00e8tre par d\u00e9faut."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Code de format d'entr\u00e9e de l'heure"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Automatiquement construit \u00e0 partir de l'heure s\u00e9lectionn\u00e9e ci-dessus, \u00e0 moins que vous ne le modifiiez."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Teste du placeholder"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Texte du placeholder optionnel qui appara\u00eet dans le champ quand il est vide"
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Taille"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "Largeur affich\u00e9e du champ (en caract\u00e8res)"
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Plage d'ann\u00e9es"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Lorsqu'une s\u00e9lection d'ann\u00e9e pr\u00e9d\u00e9finie est possible, une plage de plus ou moins 10 ans \u00e0 partir de l'ann\u00e9e en cours est propos\u00e9e."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Pour modifier cette plage, sp\u00e9cifiez le nombre d'ann\u00e9es avant et apr\u00e8s l'ann\u00e9e en cours dans ce format : \"-30 :+20\", qui afficherait 30 ans avant maintenant et 20 ans apr\u00e8s maintenant."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "La valeur par d\u00e9faut est -10:+10, ce qui montre une plage d'ann\u00e9es 10 ans avant et apr\u00e8s maintenant."
+        }
+    }
+}

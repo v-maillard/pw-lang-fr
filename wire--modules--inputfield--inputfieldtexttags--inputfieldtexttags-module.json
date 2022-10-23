@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Valeur de tag non valide %s supprim\u00e9e"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Provenance des options\/tags s\u00e9lectionnables"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Les sp\u00e9cifier ici"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Charger \u00e0 partir de l'URL que vous sp\u00e9cifiez (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Utiliser les options\/pages ajax ?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Lorsqu'il est activ\u00e9, \u00e7a se comportera comme une saisie semi-automatique o\u00f9 l'utilisateur commence \u00e0 taper et cela requ\u00eate une URL pour les pages correspondantes."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Vous devrez \u00e9galement fournir une \"URL Ajax\" (affich\u00e9e ci-dessous lorsque \"Oui\" est s\u00e9lectionn\u00e9) pour effectuer la requ\u00eate. Un exemple de code fonctionnel est inclus."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Si ce n'est pas activ\u00e9, toutes les options s\u00e9lectionnables seront renseign\u00e9es au moment de l'ex\u00e9cution."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "L'utilisation d'options\/pages ajax est utile lorsque la quantit\u00e9 de pages s\u00e9lectionnables devient importante."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "A consid\u00e9rer s\u00e9rieusement lorsqu'il y a plusieurs centaines ou milliers (ou plus) de pages qui peuvent \u00eatre s\u00e9lectionn\u00e9es."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Liste d'options\/tags pr\u00e9d\u00e9finis"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Saisissez les tags pr\u00e9d\u00e9finis, 1 par ligne. Pour d\u00e9finir une valeur et un label diff\u00e9rents pour la balise, sp\u00e9cifiez value=label sur la ligne."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Les tags peuvent ne pas contenir le d\u00e9limiteur s\u00e9lectionn\u00e9 ci-dessous, mais les label le peuvent."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Pour d\u00e9finir des labels diff\u00e9rents par langue, ressaisissez chaque tag `valeur=label` pour chaque langue, o\u00f9 la `valeur` est la m\u00eame pour chacune alors que le label diff\u00e8re."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Exemple de gestionnaire d'URL dans le fichier %s pour l'URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Copiez et collez cette URL dans le champ ci-dessus si vous souhaitez utiliser l'exemple ci-dessous."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "URL ajax"
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Lorsque vous entrez une URL, elle sera requ\u00eat\u00e9e sur les \u00e9l\u00e9ments correspondant \u00e0 la saisie de l'utilisateur de mani\u00e8re auto-compl\u00e9t\u00e9e."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "L'URL donn\u00e9e doit contenir le placeholder {q} quelque part qui sera remplac\u00e9 par le texte tap\u00e9 par l'utilisateur."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Vous pouvez sp\u00e9cifier une URL http\/https compl\u00e8te ou une URL relative."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Si vous sp\u00e9cifiez une URL relative (sans protocole\/h\u00f4te), le sch\u00e9ma actuel, l'h\u00f4te et l'URL racine y seront ajout\u00e9s au moment de l'ex\u00e9cution."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Vous devrez \u00e9galement d\u00e9finir un gestionnaire d'URL comme dans l'exemple ci-dessous"
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Le chemin d'URL %s n'est qu'un exemple, n'h\u00e9sitez pas \u00e0 le remplacer par ce que vous voulez."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Cet exemple recherche les titres des pages \u00e0 utiliser comme tags, mais vous pouvez utiliser la source de donn\u00e9es de votre choix."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "votre s\u00e9lecteur de recherche de page ici"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Veuillez noter que si vous modifiez vos param\u00e8tres \"Pages s\u00e9lectionnables\" ou \"Champ de label\", vous devrez \u00e9galement mettre \u00e0 jour votre code de gestionnaire d'URL pour cela."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Le placeholder \"{q}\" est requis quelque part dans votre URL Ajax."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Autoriser l'utilisateur \u00e0 saisir ses propres tags ?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Fermer le menu d\u00e9roulant apr\u00e8s chaque s\u00e9lection ?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(pour les tags en un seul mot)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(pour les tags compos\u00e9s de plusieurs mots)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "D\u00e9limiteur de tag"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Espace"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Virgule"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "="
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Nombre maximum de tags\/options"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Utilisez 0 pour aucune limite ou entrez le nombre maximum d'options\/tags que l'utilisateur peut s\u00e9lectionner ou saisir."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Notez que la saisie de 1 fait que l'entr\u00e9e ressemble plus \u00e0 une s\u00e9lection qu'\u00e0 une entr\u00e9e de texte."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Texte du placeholder"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Texte optionnel du placeholder qui appara\u00eet dans le champ quand il est vide"
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tags textuels"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Permet la saisie de tags saisies par l'utilisateur ou la s\u00e9lection de tags pr\u00e9d\u00e9finis."
+        }
+    }
+}

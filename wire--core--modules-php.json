@@ -2,9 +2,6 @@
     "file": "wire\/core\/Modules.php",
     "textdomain": "wire--core--modules-php",
     "translations": {
-        "01d68b9ea1b4ff3238768d9a30bcfa33": {
-            "text": "Veuillez enlever celui dans \/site\/modules\/ \u00e0 moins que voir ayez besoin que les deux soient pr\u00e9sente pour quelconque raison."
-        },
         "3919fe955716c54c409b522a1003f3e0": {
             "text": "Vous n'avez pas la permission d'ex\u00e9cuter ce module"
         },
@@ -32,23 +29,8 @@
         "141e30f2de96660020efd996cc916413": {
             "text": "D\u00e9pendance de module non remplie : %s requiert %s"
         },
-        "f0116bd76230140a92cbd37cc524488e": {
-            "text": "sera appliqu\u00e9 la prochaine fois que le module sera charg\u00e9"
-        },
         "3ba3666c48feabf2f2506e1f835ea92e": {
             "text": "Mise \u00e0 jour du module"
-        },
-        "edf71dd6396541cf37f54bf079e21006": {
-            "text": "%d nouveau module d\u00e9tect\u00e9 : %s"
-        },
-        "8d36abbc1aa8f167970999175380a355": {
-            "text": "%d nouveaux modules d\u00e9tect\u00e9 : %s"
-        },
-        "99cf7718c48f783d19e8c8b463a6e704": {
-            "text": "%d changement de version de module d\u00e9tect\u00e9"
-        },
-        "7cbf3b34133e54263a1242eb74a5008e": {
-            "text": "%d changements de version de module d\u00e9tect\u00e9"
         },
         "0a6712f704d759c81cdc4416397e7faf": {
             "text": "\u00c9chec pour construire le module : %s"
@@ -82,6 +64,18 @@
         },
         "d710b0151d568a1efa24617b78fa1f25": {
             "text": "Ce module est type de champ utilis\u00e9 par un ou plusieurs champs"
+        },
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "%d nouveau(x) module(s) trouv\u00e9(s) :"
+        },
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "%d module(s) d\u00e9plac\u00e9(s) trouv\u00e9s :"
+        },
+        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
+            "text": "%d fichier(s) de module(s) manquant(s) trouv\u00e9(s):"
+        },
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "%d changement(s) de version(s) de module(s) trouv\u00e9e(s) (s'applique au chargement de chaque module):"
         }
     }
 }

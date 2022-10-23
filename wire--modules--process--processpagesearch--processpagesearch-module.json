@@ -38,33 +38,6 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "modifier"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Est \u00e9gal \u00e0"
-        },
-        "3255c386f4276b5c66f12d216ec71906": {
-            "text": "N'est pas \u00e9gal \u00e0"
-        },
-        "05824b7be006782aaefd1fdb97c71e06": {
-            "text": "Sup\u00e9rieur \u00e0"
-        },
-        "798fe01fcb2754a295b6937ed885a69a": {
-            "text": "Sup\u00e9rieur ou \u00e9gal \u00e0"
-        },
-        "ad647e4ae904c7ed54ee93040d8298c7": {
-            "text": "Inf\u00e9rieur \u00e0"
-        },
-        "28d1141142e2cbb29e657b69a044ddf4": {
-            "text": "Inf\u00e9rieur ou \u00e9gal \u00e0"
-        },
-        "45fc43a01c15bc63159695441dfacd63": {
-            "text": "Contient la phrase ou le mot partiel"
-        },
-        "e44edbd140708c448e991cde9d8dc0b2": {
-            "text": "Contient la phrase\/le mot en utilisant LIKE"
-        },
-        "593e63d42f95f6ad96cf700f80c2fe2c": {
-            "text": "Contient tous les mots"
-        },
         "29e9d8e295b1d5b3002d2d3d5baa4c37": {
             "text": "Raccourcis"
         },
@@ -80,41 +53,11 @@
         "1da914fe3f639d8b3d977a006d2b0c69": {
             "text": "%1$d page trouv\u00e9e en utilisant le s\u00e9lecteur : %2$s"
         },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Champs dans lesquels rechercher par d\u00e9faut"
-        },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Entrez les noms d'un ou plusieurs champs texte dans lesquels vous d\u00e9sirer effectuer la recherche, s\u00e9par\u00e9s chacun par un espace."
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "Champs \u00e0 rechercher dans les recherches (ajax) en mode admin"
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Nous recommandons de limiter ceci \u00e0 1 ou 2 champs au plus puisque les r\u00e9sultats remplissent un champ d'autocompl\u00e9tion dynamique. G\u00e9n\u00e9ralement, vous ne chercheriez que dans le titre."
-        },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Noms des champs \u00e0 afficher par d\u00e9faut dans les r\u00e9sultats de recherche"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "Pour d\u00e9clarer plus d'un champ, s\u00e9parez les d'un espace"
-        },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Op\u00e9rateur de recherche par d\u00e9faut"
-        },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Champs"
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
-            "text": "Mod\u00e8les"
-        },
-        "13a4a02c365a44407beebb73dddbc554": {
-            "text": "D\u00e9bute avec"
-        },
-        "6950a77d131f284826099392fd57701c": {
-            "text": "Se termine par"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "="
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "="
@@ -149,9 +92,6 @@
         "5b2201bc8bf61333c472ab98b9f3b2c3": {
             "text": "Par exemple, si vous excluez le type \"trash\", il peut toujours \u00eatre recherch\u00e9 si vous pr\u00e9fixez votre recherche par \"trash=\", comme \"trash=hello\"."
         },
-        "3aaf625865081e0b0f1f8d001a9a06be": {
-            "text": "(dans n'importe quel ordre)"
-        },
         "e1eee8c1f21fe51aa15f3006cd6419f4": {
             "text": "Champs de page \u00e0 rechercher"
         },
@@ -173,11 +113,11 @@
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "Op\u00e9rateur de recherche par d\u00e9faut pour des recherches de mot unique et de mot partiel"
         },
-        "5187ed7cdf401218d2ae7263781350b8": {
-            "text": "Indique le support de correspondances de mot partiel"
-        },
         "bbeff731bf48359f60959f600e6240c2": {
             "text": "Op\u00e9rateur de recherche par d\u00e9faut pour des recherches \u00e0 plusieurs mots (phrase)"
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(param\u00e8tres pour le type de pages)"
         }
     }
 }

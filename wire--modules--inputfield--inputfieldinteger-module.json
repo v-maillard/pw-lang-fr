@@ -2,12 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
     "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
     "translations": {
-        "342fcaf76020389954d449ceec0a8a80": {
-            "text": "Min : %d"
-        },
-        "96f5f93890f61d6ff4c07e2883833d72": {
-            "text": "Mac : %d"
-        },
         "100b8cad7cf2a56f6df78f171f97a1ec": {
             "text": "n'importe"
         },

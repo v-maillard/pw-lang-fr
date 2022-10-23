@@ -149,9 +149,6 @@
         "4795eaf7300ae848d67ca8c64cfa357f": {
             "text": "Les utilisateurs peuvent recevoir des notifications par courriel pour vous les nouveaux commentaires sur la page"
         },
-        "29c2c02a361c9d7028472e5d92cd4a54": {
-            "text": "Output"
-        },
         "9e6530a34353d7610fd5455767b28df4": {
             "text": "Profondeur de r\u00e9ponse"
         },
@@ -235,6 +232,15 @@
         },
         "1f2f44c370f66e4d06d25042e93e39c1": {
             "text": "D\u00e9sactiv\u00e9"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Permettre le texte du commentaire dans les notifications ?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Si coch\u00e9, le texte int\u00e9gral du commentaire sera aussi dans les emails de notification au lieu de juste un lien vers celui-ci"
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Sortie html"
         }
     }
 }

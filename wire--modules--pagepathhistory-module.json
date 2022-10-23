@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "D\u00e9lai minimum (en secondes)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Commencez \u00e0 enregistrer l'historique d'une page tant de secondes apr\u00e8s sa cr\u00e9ation. Au moins 2 secondes ou plus recommand\u00e9es."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Par d\u00e9faut : %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "%d historiques de chemins de pages supprim\u00e9s"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Supprimer tout l'historique des chemins de pages ?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Il y a actuellement %d historiques de chemins de pages  dans la base de donn\u00e9es"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "+"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Ces informations sont utilis\u00e9es pour les redirections automatiques et plus encore. Il ne peut pas \u00eatre r\u00e9cup\u00e9r\u00e9 une fois supprim\u00e9. Cochez la case pour confirmer que vous voulez vraiment le faire."
+        }
+    }
+}

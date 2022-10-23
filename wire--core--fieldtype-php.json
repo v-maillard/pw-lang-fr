@@ -12,7 +12,10 @@
             "text": "Si coch\u00e9e, TOUTES les pages auront ce champ. Il sera automatiquement ajout\u00e9 aux groupes de champs\/gabarits qui ne l'ont pas d\u00e9j\u00e0. Ceci ne veut pas dire que ce champ est requis, mais seulement qu'il existera dans toutes les pages."
         },
         "4cc6684df7b4a92b1dec6fce3264fac8": {
-            "text": "Global"
+            "text": "="
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Valeur non autoris\u00e9e pour le champ \u201c%s\u201d parce que d\u00e9j\u00e0 utilis\u00e9e"
         }
     }
 }

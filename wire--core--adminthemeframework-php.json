@@ -25,6 +25,18 @@
         },
         "ffd8fa387acec9945788ad7c39400b1b": {
             "text": "Si coch\u00e9, ce th\u00e8me admin sera utilis\u00e9 pour l'interface de connexion."
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Changer les utilisateurs de ce th\u00e8me d'admin"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "S\u00e9lectionnez le r\u00f4le d'utilisateur pour mettre \u00e0 jour les utilisateurs correspondants \u00e0 ce th\u00e8me d'administration."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "R\u00f4le :  %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "Attribuer ce th\u00e8me d'admin pour %d utilisateur(s)"
         }
     }
 }

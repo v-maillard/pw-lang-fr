@@ -2,15 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldselect-module",
     "translations": {
-        "6b66a61fa66288a9a7ad6474d2e686ec": {
-            "text": "Valeur par d\u00e9faut"
-        },
-        "c37baf4e64db68f6887058399a37ad60": {
-            "text": "Pour avoir un ou plusieurs valeurs pr\u00e9s\u00e9lectionn\u00e9es, entrez celles-ci (une par ligne) ci-bas. Pour les s\u00e9lections de pages, utilisez les num\u00e9ros d'ID des pages."
-        },
-        "d48cd2cb0f5c1d209800b28e019eb574": {
-            "text": "Cette(s) valeurs(s) optionnelles par d\u00e9faut sont disponibles parce que vous avez coch\u00e9 la case \"requis\" ci-haut."
-        },
         "3a4accfa68ff7300f67ad7d89e07770e": {
             "text": "Entrez les options qui peuvent \u00eatre s\u00e9lectionn\u00e9es, une par ligne."
         },

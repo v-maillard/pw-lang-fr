@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Champ mis \u00e0 jour du sch\u00e9ma %2$s vers %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Par exemple :"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Nombre total de chiffres accept\u00e9s"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Contient des chiffres avant et apr\u00e8s la virgule (un point \u00e0 l'anglaise)"
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999.99 contient 5 chiffres et requiert donc une valeur 5 ou sup\u00e9rieure"
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Nombre de chiffres pr\u00e9sents apr\u00e8s la virgule (\u00e0 l'anglaise)"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Cette valeur sera inf\u00e9rieure (ou dans certains cas \u00e9gale) au nombre total de chiffres."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999.99 et 100.00 ont deux chiffres apr\u00e8s la virgule (\u00e0 l'anglaise)"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "D\u00e9cimal"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Champ stockant un nombre d\u00e9cimal (\u00e0 l'anglaise)"
+        }
+    }
+}

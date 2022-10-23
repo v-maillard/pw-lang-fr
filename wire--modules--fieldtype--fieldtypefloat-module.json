@@ -8,8 +8,11 @@
         "22ae0e2b89e5e3d477f988cc36d3272b": {
             "text": "Float | Nb en virgule flottante"
         },
-        "ba16f38e77b1ed0fffd53a9ba0a63aab": {
-            "text": "Champ stockant un nombre en virgule flottante (d\u00e9cimales)"
+        "21ddca6ecb798f48a109c2289ff413ec": {
+            "text": "Champ stockant un nombre avec d\u00e9cimales (avec un point \u00e0 l'anglaise)"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Ou utilisez un nombre n\u00e9gatif comme -1 pour d\u00e9sactiver l'arrondi"
         }
     }
 }

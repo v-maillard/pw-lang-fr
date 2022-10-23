@@ -2,23 +2,20 @@
     "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
-        "961a0e7330169a0918a85c1086c4ff3a": {
-            "text": "Entrez une URL valide, par exemple : http:\/\/www.domaine.fr\/dir\/"
-        },
-        "34b4cb36f08c1d976a2e58d37d81ce49": {
-            "text": "Pr\u00e9fixez les URLs locales par \u00ab \/ \u00bb et laissez la partie \u00ab %s \u00bb."
-        },
         "31d3da8cb2ee3f26243a6157ce0e5634": {
             "text": "Erreur trouv\u00e9e - veuillez v\u00e9rifier que cette URL est valide."
-        },
-        "db04dc8c39e8a426d723ba1c6f8a2cd4": {
-            "text": "Notez que \u00ab http:\/\/ \u00bb a \u00e9t\u00e9 ajout\u00e9"
         },
         "1a30197ddff7dc9d65d91f285125cdc2": {
             "text": "URL avec format valide"
         },
         "e6b391a8d2c4d45902a23a8b6585703d": {
             "text": "="
+        },
+        "5edb7300e25ff8ec5431cabe04c82592": {
+            "text": "Commencez les URLs locales par \"\/\" et abandonnez la partie \u201c%s\u201d"
+        },
+        "d3900709c4f1a95486e071e072d412c5": {
+            "text": "Notez que %s a \u00e9t\u00e9 ajout\u00e9"
         }
     }
 }
