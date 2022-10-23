@@ -1,6 +1,6 @@
 # Traduction française de ProcessWire
 
-Traduction complète pour la version 3.0.148.
+Traduction complète pour la version 3.0.200.
 
 ## Traducteurs
 
@@ -8,4 +8,5 @@ Traduction complète pour la version 3.0.148.
 - [UnderK](https://github.com/underk)
 - Guillaume
 - achabany
-- [Vincent Maillard](https://github.com/v-maillard/) - Responsable de la traduction actuelle
+- [Vincent Maillard](https://github.com/v-maillard/)
+- [Christopher Wait]https://github.com/virtualgadjo)
