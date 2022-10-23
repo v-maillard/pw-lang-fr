@@ -45,7 +45,7 @@
             "text": "Ouvert lorsque rempli + Ferm\u00e9 lorsque vide"
         },
         "e75c5e5c17a86f893fac8d2b7b7a3762": {
-            "text": "Ouvert lorsque rempli + Ferm\u00e9 lorsque vide + Charger seulement \u00e0 l'ouverture (AJAX)"
+            "text": "Ouvert lorsque rempli + Ferm\u00e9 lorsque vide + Charg\u00e9 seulement \u00e0 l'ouverture (AJAX)"
         },
         "3a28674fd51f34234723d80de10c6382": {
             "text": "Ouvert lorsque rempli + Ferm\u00e9 lorsque vide + Verrouill\u00e9 (non \u00e9ditable)"
@@ -60,7 +60,7 @@
             "text": "Ferm\u00e9 + Verrouill\u00e9 (non \u00e9ditable)"
         },
         "9101591614e0d079e052d9cbf4e1c203": {
-            "text": "Ferm\u00e9 + Charger seulement \u00e0 l'ouverture (AJAX)"
+            "text": "Ferm\u00e9 + Charg\u00e9 seulement \u00e0 l'ouverture (AJAX)"
         },
         "cb6df4e080dea0319f74d565e587c2b5": {
             "text": "Les options marqu\u00e9es d'un %s pourraient le pas fonctionner avec tous les types de champs ou emplacements, testez pour v\u00e9rifier la compatibilit\u00e9."
@@ -85,6 +85,33 @@
         },
         "f89871ce31a971990070c480d4c257a6": {
             "text": "Ouvert = v\u00e9rouill\u00e9 (pas \u00e9ditable)"
+        },
+        "5c6ba25104401c9ee0650230fc6ba413": {
+            "text": "Onglet"
+        },
+        "33f354f096583d4fb4c01fa05670c1e6": {
+            "text": "En savoir plus sur [comment utiliser ceci](http:\\\/\\\/processwire.com\\\/api\\\/selectors\\\/inputfield-dependencies\\\/)."
+        },
+        "8b046be7dfb9e9164cec9e405df4f690": {
+            "text": "Onglet + Charg\u00e9 seulement au click (AJAX)"
+        },
+        "9e7fc336ff0486af8f5a7ac2f0d99fc8": {
+            "text": "Onglet + V\u00e9rouill\u00e9 (non \u00e9ditable)"
+        },
+        "83461cb3fcdceac6ebb0f4f01018c32b": {
+            "text": "Classes personnalis\u00e9es"
+        },
+        "aa7206164d3deb8791db7d56477e074f": {
+            "text": "Ajout facultatif de classes \u00e0 des \u00e9l\u00e9ments sp\u00e9cifiques de cet Inputfield."
+        },
+        "75f9791dccc88ab32c564ebcc8f5e225": {
+            "text": "Format : une entr\u00e9e par ligne de la forme `element:class` o\u00f9 `element` doit \u00eatre \u201cwrap\u201d, \u201cheader\u201d, \u201ccontent\u201d ou \u201cinput\u201d et o\u00f9 `class` est une ou plusieurs classes."
+        },
+        "03951db7c965cc772f329c01d37f6449": {
+            "text": "Si aucun \u00e9l\u00e9ment n'est sp\u00e9cifi\u00e9, l'\u00e9l\u00e9ment \"input\" sera utilis\u00e9."
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemple :"
         }
     }
 }
