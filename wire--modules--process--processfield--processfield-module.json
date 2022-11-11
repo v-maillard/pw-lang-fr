@@ -643,6 +643,30 @@
         },
         "6809fda0cf4fa4c12e63de08c0aa8b45": {
             "text": "Champ syst\u00e8me, il n'est pas recommand\u00e9 dans donner le contr\u00f4le d'acc\u00e8s"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "\u00c9tiquette"
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "Titre de l'onglet"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Lorsque le champ est affich\u00e9 dans son propre onglet, vous pouvez indiquer un titre d'onglet pour qu'il soit diff\u00e9rent de celui du champ."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "Le titre de l'onglet doit id\u00e9alement \u00eatre tr\u00e8s court, un seul mot par exemple."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Utilisation"
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Ce champ n'est pas utilis\u00e9 actuellement."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mod\u00e8le"
+        },
+        "4dd35391663d2adc8123a95b3d725399": {
+            "text": "Allez \u00e0 l'onglet \"Actions\" pour ajouter ou enlever le champ des mod\u00e8les."
         }
     }
 }
