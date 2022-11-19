@@ -95,9 +95,6 @@
         "29b21610722fa13430132a8d4e757d1f": {
             "text": "T\u00e9l\u00e9charger une archive ZIP contenant un module. Si vous t\u00e9l\u00e9chargez un module qui est d\u00e9j\u00e0 install\u00e9, la version actuellement install\u00e9e sera \u00e9cras\u00e9e par la nouvelle version t\u00e9l\u00e9charg\u00e9e."
         },
-        "617650497438099e992520bf3a664ba6": {
-            "text": "http:\/\/domaine.com\/NomDuModule.zip"
-        },
         "e7aef889dd1b168dc269e9ddff6a57a5": {
             "text": "Archive ZIP du module"
         },
@@ -112,9 +109,6 @@
         },
         "230420a05edcb2323c858d6c410d93cf": {
             "text": "Aucun module trouv\u00e9."
-        },
-        "844ced21eac449bca19cf378ae770720": {
-            "text": "Nom de module invalide : %s"
         },
         "addec426932e71323700afa1911f8f1c": {
             "text": "plus"
@@ -139,9 +133,6 @@
         },
         "8d68afb831b95c0dc23e1457385a983c": {
             "text": "Erreur signal\u00e9e par le service web :"
-        },
-        "9e5fd09ae1c89e20aa28deee64d7f631": {
-            "text": "D\u00e9sol\u00e9 les modules de type \u00ab %s \u00bb ne sont pas installables \u00e0 partir de l'interface d'administration."
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Ce module d'indique pas la compatibilit\u00e9 \u00e0 cette version de ProcessWire. Il se peut qu'il fonctionne quand m\u00eame, mais vous pourriez vouloir v\u00e9rifier avec l'auteur du module."
@@ -324,7 +315,7 @@
             "text": "Mise \u00e0 jour du cache des modules (%d modules)"
         },
         "fdbd482a575730a7abb63cdbf62a0f6c": {
-            "text": "Le module \"%s\" a plusieurs fichiers (celui en gras est celui en cours d'utilisation)."
+            "text": "Le module \u00ab %s \u00bb a plusieurs fichiers (celui en gras est celui en cours d'utilisation)."
         },
         "458268ddfe6f3ace67044ba7f55c7079": {
             "text": "Cliquer ici pour changer quel fichier est utilis\u00e9"
@@ -345,7 +336,7 @@
             "text": "="
         },
         "326051e869bfb9785613fcb1e957a71e": {
-            "text": "Pour d\u00e9sinstaller un module, cliquez sur le module \u00e0 \u00e9diter, cochez la case \"D\u00e9sinstaller\", puis enregistrez. Une fois d\u00e9sinstall\u00e9, les fichiers du module peuvent \u00eatre supprim\u00e9s de \/site\/modules\/. S'il appara\u00eet toujours dans la liste ci-dessus, cliquez sur le bouton \"Rafra\u00eechir\"."
+            "text": "Pour d\u00e9sinstaller un module, cliquez sur le module \u00e0 \u00e9diter, cochez la case \u00ab D\u00e9sinstaller \u00bb, puis enregistrez. Une fois d\u00e9sinstall\u00e9, les fichiers du module peuvent \u00eatre supprim\u00e9s de \/site\/modules\/. S'il appara\u00eet toujours dans la liste ci-dessus, cliquez sur le bouton \u00ab Rafra\u00eechir \u00bb."
         },
         "def68ae90aac3e065c37457bc36d22f8": {
             "text": "="
@@ -414,13 +405,13 @@
             "text": "Vous pouvez parcourir le dossier de modules pour rep\u00e9rer le module que vous souhaitez t\u00e9l\u00e9charger et installer."
         },
         "a2eff7125bf22d0665eb96166b471821": {
-            "text": "Tapez ou collez la classe du module \u00e0 installer, cliquez ensuite sur le bouton \"%s\" pour poursuivre."
+            "text": "Tapez ou collez la classe du module \u00e0 installer, cliquez ensuite sur le bouton \u00ab %s \u00bb pour poursuivre."
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Module : %s"
         },
         "9508427b7e6579d141f8c3b79dae6d96": {
-            "text": "Ajouter un module \"manuellement\""
+            "text": "Ajouter un module \u00ab manuellement \u00bb"
         },
         "f464b54239700029744e7426935c782b": {
             "text": "Fichier(s) de module manquant dans : %s"
@@ -441,13 +432,13 @@
             "text": "1. Copiez les fichiers d'un module dans un nouveau r\u00e9pertoire %s sur le serveur."
         },
         "f7cc8104813457b0243bd76df9c6a3e6": {
-            "text": "2. Cliquez sur le bouton \"%s\" ci-dessous, qui trouvera le nouveau module."
+            "text": "2. Cliquez sur le bouton \u00ab %s \u00bb ci-dessous, qui trouvera le nouveau module."
         },
         "850f7ec6c49d2fb734785a8f52ad4a0e": {
-            "text": "3. Recherchez et cliquez sur le bouton \"%s\" \u00e0 c\u00f4t\u00e9 du nouveau module."
+            "text": "3. Recherchez et cliquez sur le bouton \u00ab %s \u00bb \u00e0 c\u00f4t\u00e9 du nouveau module."
         },
         "aad2eb78d1969fc8b53488a5f5a054ba": {
-            "text": "Remplacez \"%s\" par le nom r\u00e9el du module, qui est g\u00e9n\u00e9ralement son nom de classe PHP."
+            "text": "Remplacez \u00ab %s \u00bb par le nom r\u00e9el du module, qui est g\u00e9n\u00e9ralement son nom de classe PHP."
         },
         "744cbb13a2d60fe8be0889a49e0bee00": {
             "text": "La classe de module doit impl\u00e9menter l'interface \"ProcessWire\\Module\"."
@@ -456,7 +447,7 @@
             "text": "fichier de module non trouv\u00e9"
         },
         "608c857d1ec057cf85a2776ae9d2e0f1": {
-            "text": "Le module \u201c%s\u201d existe dans la base de donn\u00e9es mais pas dans le syst\u00e8me de fichiers"
+            "text": "Le module \u00ab %s \u00bb existe dans la base de donn\u00e9es mais pas dans le syst\u00e8me de fichiers"
         },
         "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
             "text": "Envisagez de placer les fichiers du module dans %s ou de supprimer le module de la base de donn\u00e9es."
@@ -547,6 +538,21 @@
         },
         "8a59745d5142e82bd08e3d1291f7ab8e": {
             "text": "Avanc\u00e9"
+        },
+        "9ce8cbfc28789646dfd5d735f4da3d0b": {
+            "text": "http:\/\/domaine.com\/NomDuModule.zip"
+        },
+        "fe7c3111443178661e69b4b83f04bdfd": {
+            "text": "Nom de module invalide : \u00ab %s \u00bb"
+        },
+        "d21a932cf85cfc399d6410838ece9e9c": {
+            "text": "D\u00e9sol\u00e9 les modules de type \u00ab %s \u00bb ne sont pas installables \u00e0 partir de l'interface d'administration."
+        },
+        "ca400fb4206c743189c906d352bd4830": {
+            "text": "Veuillez utiliser les majuscules [A-Z] pour le premier caract\u00e8re, les minuscules [a-z] pour le deuxi\u00e8me et [a-z A-Z 0-9] pour le reste."
+        },
+        "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
+            "text": "Par exemple : \u00ab %s \u00bb"
         }
     }
 }

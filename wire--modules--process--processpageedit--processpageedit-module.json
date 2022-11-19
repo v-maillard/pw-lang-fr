@@ -131,12 +131,6 @@
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
             "text": "Veuillez confirmer que vous comprenez ce qui pr\u00e9c\u00e8de en cochant sur la case ci-dessous."
         },
-        "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Vous n'avez pas la permission de modifier le mod\u00e8le sur cette page."
-        },
-        "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Ce mod\u00e8le n'est pas autoris\u00e9"
-        },
         "d4ad7f8661990f191def1fb3a6accbd9": {
             "text": "Le mod\u00e8le a \u00e9t\u00e9 chang\u00e9 vers \u00ab %s \u00bb"
         },
@@ -385,6 +379,9 @@
         },
         "16e420c38c1ef8f3708d849146207b74": {
             "text": "Entrez l'ID de l'utilisateur cr\u00e9\u00e9"
+        },
+        "a9581db07856efb481fddef1b3e168f8": {
+            "text": "Pas de page trouv\u00e9e"
         }
     }
 }
