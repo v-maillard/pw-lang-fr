@@ -201,7 +201,7 @@
             "text": "Ce commentaire n'a actuellement aucune m\u00e9tadonn\u00e9e"
         },
         "78159fc614d1e3df7d39aa351f0578e2": {
-            "text": "\u00c9diteur de m\u00e9tadonn\u00e9es JSON"
+            "text": "\u00c9diteur du JSON des m\u00e9tadonn\u00e9es"
         },
         "daa6b483e9f6ca081ec7e0b4a352f9e9": {
             "text": "Enregistrer"
@@ -240,7 +240,7 @@
             "text": "Texte"
         },
         "5d97927a6eed8f7f5a628428615d1174": {
-            "text": "Quand pr\u00e9venir l'adresse email indiqu\u00e9e ci-dessus ?"
+            "text": "Quand notifier l'adresse email indiqu\u00e9e ci-dessus ?"
         },
         "6e7b34fa59e1bd229b207892956dc41c": {
             "text": "Jamais"
@@ -252,7 +252,7 @@
             "text": "Si un nouveau commentaire est post\u00e9 sur cette page"
         },
         "7cc293f9e7daf09af51e3e04210059af": {
-            "text": "Pr\u00e9venir les autres utilisateurs par mail ?"
+            "text": "Notifier les autres utilisateurs par mail ?"
         },
         "1a595440a8aebad5a30f09f2fd73cf66": {
             "text": "Si vous choisissez \"Oui\", des emails concernant ce nouveau commentaire seront envoy\u00e9s aux utilisateurs qui ont choisi de recevoir des notifications."

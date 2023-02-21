@@ -65,9 +65,6 @@
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "Supprimer %d rangs de tables orphelines ?"
         },
-        "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "*Indique que ce champ \u00e9crase actuellement une valeur par d\u00e9faut. Les param\u00e8tres que vous d\u00e9finissez ici \u00e9crasent les param\u00e8tres par d\u00e9faut lorsqu'ils sont utilis\u00e9s avec le mod\u00e8le \u00ab %s \u00bb."
-        },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Supprimer le champ"
         },
@@ -76,9 +73,6 @@
         },
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Ce champ n'a pas pu \u00eatre supprim\u00e9 par il est utilis\u00e9 par un ou plusieurs mod\u00e8les."
-        },
-        "ab2e4f95a7971ee8077df62efa20d437": {
-            "text": "Apr\u00e8s avoir s\u00e9lectionn\u00e9 votre type de champ et avoir enregistr\u00e9, des options de configuration additionnelles sp\u00e9cifiques au champ peuvent vous \u00eatre affich\u00e9es."
         },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Information additionnelle d\u00e9crivant ce champ et\/ou des instructions \u00e0 propos de la saisie du contenu."
@@ -497,9 +491,6 @@
         "760b4bbc37693597edf00f9eeda38cd0": {
             "text": "Il n'y a pour l'instant pas de param\u00e8tres \u00e9cras\u00e9s par le mod\u00e8le."
         },
-        "927e2bece8a3ee4ce5f53aca157c04ec": {
-            "text": "Uniquement des combinaisons de lettres ASCII (a-z A-Z), de chiffres (0-9) ou de tirets."
-        },
         "7710897a6218283716118180cd494f1e": {
             "text": "Les param\u00e8tres coch\u00e9s appara\u00eetront en tant qu'options lors de l'\u00e9dition de ce champ dans le contexte d'un mod\u00e8le particulier."
         },
@@ -617,9 +608,6 @@
         "133027c82744d7b44344c6d2fdd3cd2e": {
             "text": "(pas utilis\u00e9)"
         },
-        "28ac344e871bb5931c25502670d3e2fd": {
-            "text": "Label\/\u00e9tiquette qui appara\u00eet au-dessus du champ."
-        },
         "405231013da488699f3761636027e651": {
             "text": "La description appara\u00eet ici et ressemble \u00e0 \u00e7a."
         },
@@ -666,7 +654,7 @@
             "text": "Mod\u00e8le"
         },
         "4dd35391663d2adc8123a95b3d725399": {
-            "text": "Allez \u00e0 l'onglet \"Actions\" pour ajouter ou enlever le champ des mod\u00e8les."
+            "text": "Voir l'onglet \"Actions\" pour ajouter ou enlever le champ des mod\u00e8les."
         }
     }
 }

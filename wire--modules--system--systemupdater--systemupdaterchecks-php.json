@@ -81,10 +81,10 @@
             "text": "Votre param\u00e8re PHP memory_limit est actuellement fix\u00e9e \u00e0 %s."
         },
         "c57b443779cf3185492a1248dbead5a0": {
-            "text": "Nous recommandons de l'augmenter \u00e0 au moins %s."
+            "text": "Nous vous recommandons de l'augmenter \u00e0 au moins %s."
         },
         "cec93480f3d9c56dd41deb0dd62594bf": {
-            "text": "Pour optimiser les performances, il est conseill\u00e9 de l'augmenter \u00e0 au moins %s."
+            "text": "Pour optimiser les performances, envisagez m\u00eame de l'augmenter \u00e0 au moins %s."
         }
     }
 }
