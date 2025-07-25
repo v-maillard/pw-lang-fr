@@ -46,6 +46,9 @@
         },
         "9d7f65dc30d669d9000ef19ed549228e": {
             "text": "Voir les utilisateur ayant le r\u00f4le: %s"
+        },
+        "1cde74a0dce30621ce5a3d6541fb428d": {
+            "text": "L'utilisateur peut ajouter\/\u00e9diter\/supprimer rediriger les URLs dans l'\u00e9diteur de page"
         }
     }
 }

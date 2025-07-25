@@ -55,6 +55,33 @@
         },
         "d52cff2047c2d3bd15b08ec62c34eb7d": {
             "text": "Incapable de cloner la page"
+        },
+        "3d8becb7117d425cdbffe4e19bf68048": {
+            "text": "Rendre les enfants clon\u00e9s comme non publi\u00e9s"
+        },
+        "5cdef78260394826a1705b7de6dbb26b": {
+            "text": "Si coch\u00e9, tous les enfants, petits-enfants, etc seron aussi non plubli\u00e9s"
+        },
+        "a5583243979cb2245c72a9a66b462ad3": {
+            "text": "%s + Lister"
+        },
+        "f9772f7f5e3cf401925824dfa930143d": {
+            "text": "%s + Editer"
+        },
+        "ddc8d9e3b58dae52fa498a8923ce2542": {
+            "text": "Toujours utiliser le formulaire de clonage"
+        },
+        "9660d6d75da8a44f742c813ff0050c48": {
+            "text": "Si la page n'a pas d'enfant(s), le module utilisera un racourci pour cloner la page sans quitter l'arborescence"
+        },
+        "ce989da485d32ec720265e04064b3a0d": {
+            "text": "Cocher cette cas si vous voulez toujours utiliser le formulaire complet de clonage avec toutes les options (permettant d'entrer nom(name) titre, etc avant de cloner)"
+        },
+        "54d8e0533da1fd4efb5e7628bf83de10": {
+            "text": "="
+        },
+        "e80b151cbd7d1db53031e9e6a8214014": {
+            "text": "="
         }
     }
 }

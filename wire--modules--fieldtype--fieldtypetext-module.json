@@ -31,6 +31,12 @@
         },
         "9dffbf69ffba8bc38bc4e01abf4b1675": {
             "text": "Texte"
+        },
+        "6fb98d2426f4f6bbaf507e9033c89d5b": {
+            "text": "Ce champ autorise actuellement le Markup\/HTML dans son format de sortie"
+        },
+        "47fd39f8a1299b77e81a238129154c95": {
+            "text": "Si vous ne pr\u00e9voyer pas d'autorise Markup\/HTML, merci de s\u00e9lectionner  \u201cHTML Entity Encoder\u201d  parmi les formateurs de texte (\u201cText formatters\u201d)"
         }
     }
 }

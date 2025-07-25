@@ -147,7 +147,7 @@
             "text": "Commentaire #%1$d d\u00e9plac\u00e9 de la page %2$d vers la page %3$d"
         },
         "1bda80f2be4d3658e0baa43fbe7ae8c1": {
-            "text": "voir"
+            "text": "vue"
         },
         "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
             "text": "Quand"
@@ -191,35 +191,29 @@
         "bafd7322c6e97d25b6299b5d6fe8920b": {
             "text": "Non"
         },
-        "ea4788705e6873b424c65e91c2846b19": {
-            "text": "Annuler"
-        },
         "d63635a63603e4ef806df97294a902ed": {
-            "text": "M\u00e9tadonn\u00e9es pour le commentaire #%d"
+            "text": "Meta data pour le commentaire #%d"
         },
         "ca962ca6f37c2772794953e327cd7cb2": {
-            "text": "Ce commentaire n'a actuellement aucune m\u00e9tadonn\u00e9e"
+            "text": "Le commentaire n'a actuellement aucun m\u00e9ta data"
         },
         "78159fc614d1e3df7d39aa351f0578e2": {
-            "text": "\u00c9diteur du JSON des m\u00e9tadonn\u00e9es"
+            "text": "\u00c9diteur du JSON des m\u00e9ta"
         },
         "daa6b483e9f6ca081ec7e0b4a352f9e9": {
-            "text": "Enregistrer"
+            "text": "Enregistrer les changements"
         },
         "40fe8d33d2cf8c5f10422b0b229dbcc4": {
             "text": "Aucun changement d\u00e9tect\u00e9"
         },
         "646282aa96109d00b491937c02c1753a": {
-            "text": "Mise \u00e0 jour des m\u00e9tadonn\u00e9es pour le commentaire #%d"
-        },
-        "77f942f02a3e44e4d3f2ad6d7fbc973c": {
-            "text": "Erreur lors de l'enregistrement des m\u00e9tadonn\u00e9es pour le commentaire #%d"
+            "text": "M\u00e9ta mis \u00e0 jour des m\u00e9tas pour le commentaire #%d"
         },
         "663cac8a406b356e671fb273a143ab84": {
-            "text": "Enregistrement impossible car JSON invalide"
+            "text": "Impossible d'enregistrer, JSON invalide"
         },
         "5d25563c1a89451d742876569bc17e1c": {
-            "text": "\u00c9dition du commentaire #%d"
+            "text": "\u00c9diter le commentaire #%d"
         },
         "a8232bdb3f7f5bd453b463e79fbf9864": {
             "text": "Commentaire #%d par %s"
@@ -227,53 +221,53 @@
         "d754a9e8cb640da12849a040f3ca8176": {
             "text": "Votre r\u00e9ponse"
         },
-        "b692fa2b57872b7a287d9acb6c616828": {
-            "text": "R\u00e9f\u00e9rence \/ auteur"
-        },
-        "ce8ae9da5b7cd6c3df2929543a9af92d": {
-            "text": "="
-        },
-        "0eceeb45861f9585dd7a97a3e36f85c6": {
-            "text": "Date de cr\u00e9ation"
-        },
-        "9dffbf69ffba8bc38bc4e01abf4b1675": {
-            "text": "Texte"
-        },
-        "5d97927a6eed8f7f5a628428615d1174": {
-            "text": "Quand notifier l'adresse email indiqu\u00e9e ci-dessus ?"
-        },
-        "6e7b34fa59e1bd229b207892956dc41c": {
-            "text": "Jamais"
-        },
-        "988c8ef2841b65928303615052466c17": {
-            "text": "S'il y a une r\u00e9ponse \u00e0 ce commentaire"
-        },
-        "67ac3c361b7fe0ebf62c067bf3e31500": {
-            "text": "Si un nouveau commentaire est post\u00e9 sur cette page"
-        },
-        "7cc293f9e7daf09af51e3e04210059af": {
-            "text": "Notifier les autres utilisateurs par mail ?"
-        },
-        "1a595440a8aebad5a30f09f2fd73cf66": {
-            "text": "Si vous choisissez \"Oui\", des emails concernant ce nouveau commentaire seront envoy\u00e9s aux utilisateurs qui ont choisi de recevoir des notifications."
-        },
         "90f2f5cb0d375a1b5d2ef2888c551e1e": {
             "text": "La page s\u00e9lectionn\u00e9e n'est pas \u00e9ditable"
         },
         "62f6fe8b39b423d3d3c6056557b86f78": {
-            "text": "La page s\u00e9lectionn\u00e9e n'a pas le champ %s"
+            "text": "La page s\u00e9lectionn\u00e9e n'a pas le champ : %s"
         },
         "42c2e3ae4b782ca91970d7420496f69f": {
             "text": "Commentaire #%d ajout\u00e9"
         },
         "30d34af303a36cdbee9d37d27980cdfe": {
-            "text": "Erreur lors de l'enregistrement du commentaire"
+            "text": "Erreur pendant l'enregistrement du commentaire"
+        },
+        "b692fa2b57872b7a287d9acb6c616828": {
+            "text": "Cite \/ auteur"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "="
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Cr\u00e9\u00e9 le"
         },
         "4c9d8240b71a9037b069004ccaa62aad": {
-            "text": "Site web\/URL"
+            "text": "Site\/URL"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Teste"
+        },
+        "5d97927a6eed8f7f5a628428615d1174": {
+            "text": "Notifier le mail ci-dessus quand"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Jamais"
+        },
+        "988c8ef2841b65928303615052466c17": {
+            "text": "Il y a une r\u00e9ponse \u00e0 ce commentaire"
+        },
+        "67ac3c361b7fe0ebf62c067bf3e31500": {
+            "text": "Chaque fois qu'un commentaire est post\u00e9 sur cette page"
+        },
+        "7cc293f9e7daf09af51e3e04210059af": {
+            "text": "Autoris\u00e9 les notification \u00e0 d'autres ?"
+        },
+        "1a595440a8aebad5a30f09f2fd73cf66": {
+            "text": "Si \u201coui\u201d, des emails au sujet de ce nouvrau commentaire seront envoy\u00e9s aux utilisateurs qui ont choisi de recevoir des notifications."
         },
         "e9a23cbc455158951716b440c3d165e0": {
-            "text": "m\u00e9tadonn\u00e9es"
+            "text": "m\u00e9ta"
         },
         "004bf6c9a40003140292e97330236c53": {
             "text": "="
@@ -291,19 +285,25 @@
             "text": "\u00c9diter la page"
         },
         "cd8c15f27abadeefe68a23b7333543aa": {
-            "text": "\u00c9diteur de commentaire"
-        },
-        "bc9e60a9d89ccff64f5282425aa1374e": {
-            "text": "R\u00e9pondre \u00e0 ce commentaire"
+            "text": "2diteur de commentaire"
         },
         "02334c757771bda658242d624c167dc7": {
-            "text": "Voir\/\u00e9diter les m\u00e9tadonn\u00e9es"
+            "text": "Voir\/\u00e9diter les m\u00e9tadata"
         },
         "a35fa72f9544ae5e79a5ec2fab77a292": {
             "text": "%d valeur"
         },
         "98c29131727c2ed01bf8da85368e996b": {
             "text": "%d valeurs"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuler"
+        },
+        "bc9e60a9d89ccff64f5282425aa1374e": {
+            "text": "R\u00e9pondre \u00e0 ce commentaire"
+        },
+        "7126c205afb1135079ad7a47630a2cba": {
+            "text": "Erreur pendant la mise \u00e0 jour des m\u00e9tas du commentaire #%d"
         }
     }
 }

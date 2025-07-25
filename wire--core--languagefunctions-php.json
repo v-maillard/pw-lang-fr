@@ -33,7 +33,7 @@
             "text": "On est le %1$s et il est %2$s"
         },
         "355e4477dc80f629e33f018fac3d9836": {
-            "text": "Bienvenu !"
+            "text": "Bienvenue !"
         },
         "eadea3a747e3696d7959fb28d1d18230": {
             "text": "Rechercher"
@@ -46,6 +46,9 @@
         },
         "fbe3c412d3a00ee92f603be1b42465d5": {
             "text": "="
+        },
+        "42171826dd780f6993bee2dd2171d932": {
+            "text": "0-pluriel"
         }
     }
 }

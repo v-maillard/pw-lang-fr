@@ -105,22 +105,22 @@
             "text": "Afficher l'ID de la page \u00e0 la place"
         },
         "411cec7236cb829a791512f1b67a0cc8": {
-            "text": "Pages \u00e0 ne pas afficher dans les listes de pages"
+            "text": "Cacher ces pages dans la liste"
         },
         "41df189ac4766e373988ce9c915491bc": {
-            "text": "S\u00e9lectionnez la ou les pages que vous ne voulez pas voir appara\u00eetre dans les listes de pages."
+            "text": "S\u00e9lectionnez la ou les pages que vous ne voulez pas voir dans la liste"
         },
         "7b4ae78013cd06d78b6b04f15dcbf69c": {
-            "text": "Sauf quand (avec ET comme op\u00e9rateur conditionnel)"
+            "text": "Sauf si (Condition AND\/ET)"
         },
         "d60116abe437a67aba5ba11a37144d33": {
-            "text": "Le syst\u00e8me est en mode debogage"
+            "text": "Syst\u00e8me en mode d\u00e9bogage"
         },
         "03ab4ed39b0a2c874ec38105730cad72": {
-            "text": "Le syst\u00e8me est mode avanc\u00e9"
+            "text": "Syst\u00e8me en mode avanc\u00e9"
         },
         "0f574db5ad2d196b7b0714fb2344a865": {
-            "text": "L'utilisateur connect\u00e9 est un superuser"
+            "text": "L'utilisateur actuel est super user"
         }
     }
 }

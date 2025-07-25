@@ -1041,10 +1041,10 @@
             "text": "Le groupe de champs (fieldgroup) de ce template est utilis\u00e9 par %d autres templates"
         },
         "f24acee881db1337b08b7890e294f358": {
-            "text": "N'utilisez pas seulement des chiffres."
+            "text": "N'utilisez pas de chiffres"
         },
         "21c9aab0c5b8085a7b4a9267c6db3820": {
-            "text": "Le nom du mod\u00e8le \u00ab %s \u00bb n'a pas \u00e9t\u00e9 ajout\u00e9 car il ne contient que des chiffres."
+            "text": "Le nom du template \u201c%s\u201d n'a pas \u00e9t\u00e9 ajout\u00e9 parce qu'il ne contient que des chiffres."
         }
     }
 }

@@ -217,6 +217,27 @@
         },
         "421b560a931ce0e4ec1b8018d0205b8e": {
             "text": "Trouver et optionnellement supprimer des pages inutiles"
+        },
+        "329e08faaa82f435d1570a807a5d07de": {
+            "text": "Ouvrir\/fermer des \u00e9lements en tant que groupe (famille)"
+        },
+        "683cefb3e294cd3ddcf26b334b6dd982": {
+            "text": "Si activ\u00e9, ouvris (ou fermer) un \u00e9l\u00e9ment du repeater ouvre aussi (ou ferme) les \u00e9l\u00e9ments qui suivent et sont visuellement des enfants de celui-ci"
+        },
+        "011b09153e93ecdf827b80eedee84b74": {
+            "text": "Meiux combin\u00e9 avec le mode de profondeeur des \u00e9l\u00e9ments groupe\/famille"
+        },
+        "8b0903520e5aa78b9cb3e5627016d562": {
+            "text": "Note : ce param\u00e8tre n'est pas compatible avec le mode accord\u00e9on"
+        },
+        "248e638a0f93c14ffe8c5b5d623ff1fe": {
+            "text": "Scroller jusqu'au nouvel \u00e9l\u00e9ment quand il est ajout\u00e9"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "D\u00e9sactiv\u00e9"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Activ\u00e9"
         }
     }
 }

@@ -121,6 +121,24 @@
         },
         "ac8883f9998c8b328a96855575eebcc5": {
             "text": "Aucun gestionnaire trouv\u00e9 pour l'action \u201c%1$s\u201d sur le fichier %2$s"
+        },
+        "180481333cbd9cb56beaae68deab6541": {
+            "text": "Cliquer pour renommer"
+        },
+        "3311dff3fd166c37c1bf2e9014cdee71": {
+            "text": "\u00c0 l'origine"
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilit\u00e9"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Cahc\u00e9(e)"
+        },
+        "62a5e490880a92eef74f167d9dc6dca0": {
+            "text": "Cacher"
+        },
+        "c41263e9868393a11717a8fd89de95f8": {
+            "text": "\"D\u00e9cacher\""
         }
     }
 }

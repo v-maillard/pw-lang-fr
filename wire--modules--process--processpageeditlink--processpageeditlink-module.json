@@ -5,9 +5,6 @@
         "0f1d07df1a82d22e187c72bacabc1117": {
             "text": "Choisir une page"
         },
-        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Entrez une URL, s\u00e9lectionnez une page, ou s\u00e9lectionnez un fichier \u00e0 lier :"
-        },
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Lien vers un URL"
         },
@@ -95,14 +92,8 @@
         "6c7999851a00aff2df139ead430fac5c": {
             "text": "Options d'attributs"
         },
-        "b31cbfca485dbc22cfb79ea992fa8e98": {
-            "text": "Entrez une valeur d'attribut par ligne. L'usager pourra s\u00e9lectionner ces options lors de l'ajout de liens. Pour rendre ces options s\u00e9lectionn\u00e9es par d\u00e9faut (pour les nouveaux liens), pr\u00e9c\u00e9dez-les d'un plus \u00ab+\u00bb."
-        },
         "a09630836c5a01bfa93c8cdfbbb065d3": {
             "text": "Attributs de lien externe"
-        },
-        "9b291241830397114b711a98ca6695d6": {
-            "text": "D\u00e9finissez les attributs s\u00e9lectionn\u00e9s par d\u00e9faut et qui seront automatiquement remplis lorsqu'un lien externe est d\u00e9tect\u00e9."
         },
         "7f4fd9351aed8f03ec4559872d125eb4": {
             "text": "Si utilis\u00e9, la valeur doit \u00eatre une que vous avez pr\u00e9d\u00e9fini ci-dessus."
@@ -121,6 +112,30 @@
         },
         "63a11faa3a692d4e00fa8e03bbe8a0d6": {
             "text": "Texte du lien"
+        },
+        "61cafe4d184180188afc6ae4ec17f4a3": {
+            "text": "Entrez un des attruibuts `value`, `value=label`, or `value=\"label\"` par ligne (voir les notes pour plus de d\u00e9tails)"
+        },
+        "5bc6b41974c85a4c0c1294baa5c1df6b": {
+            "text": "L'utilisateur pourra s\u00e9lectionner ces options quand il ajoutera des liens"
+        },
+        "4ab1b6e87b9bca976ee22a682f2b83ff": {
+            "text": "Pour rendre une option s\u00e9lectionnable par d\u00e9faut (pour les nouveaux liens) fates les pr\u00e9c\u00e9der d'un + \"+\""
+        },
+        "6d30081bc30ae23fbca0a3266b239bc1": {
+            "text": "Pour ajouter des labels, pr\u00e9ciser `value=label` pour obtenir **\"value (label)\"** pour chaque option selectionnable"
+        },
+        "c1911c8116edd857ca7ade57e8e6dbb6": {
+            "text": "Ou pr\u00e9cisez simplement `value=\"label\"` pour afficher **\"(label)\"** (masquant la value pour chaque option selectionnable"
+        },
+        "9491696e5b7bee831c2ec3a3c7459b0b": {
+            "text": "D\u00e9sactiver la fonctionnalit\u00e9 d'\u00e9dition des liens ?"
+        },
+        "22b321657da8101c6637060a8dbd0e37": {
+            "text": "D\u00e9sactive la fonctionnait\u00e9 d'\u00e9dition des liens textes vous permettant le support des liens qui peuvent contenit un balisage existant"
+        },
+        "e9dddc56cb31e7187911409b28313905": {
+            "text": "S\u00e9lectionnez les attributs qui sreont par automatiquement appliqu\u00e9s quand un lien externe est d\u00e9tect\u00e9"
         }
     }
 }

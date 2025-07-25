@@ -47,14 +47,8 @@
         "bb8bbda58833ce19eef6193e1918e8cf": {
             "text": "D\u00e9sactiver la publication automatique"
         },
-        "13148993e6c4399880e879c88a664347": {
-            "text": "Par d\u00e9faut, les pages ne comprenant que des champs globaux (le plus souvent \u00ab title \u00bb) seront publi\u00e9es automatiquement lors de leur ajout, contournant l'\u00e9tat non publi\u00e9 habituel. G\u00e9n\u00e9ralement, ceci repr\u00e9sente une \u00e9conomie de temps d\u00e9sirable. Vous pouvez cependant annuler ce comportement par cocher la case ci-dessous."
-        },
         "5ffb937a7aaced6b2c652cd8b8650135": {
             "text": "Le nom entr\u00e9 est d\u00e9j\u00e0 utilis\u00e9. Si vous ne le modifiez pas, il sera rendu unique automatiquement apr\u00e8s l'enregistrement."
-        },
-        "b0324fdebb63032317bba7c66bff89fc": {
-            "text": "Il n'y a actuellement aucun mod\u00e8le avec la relation parent\/enfant d\u00e9finie n\u00e9cessaire pour afficher le raccourci \u00abAjouter nouveau\u00bb ici. Pour configurer cela, \u00e9ditez tout mod\u00e8le (Param\u00e8tres > Mod\u00e8les) et cliquez sur l'onglet \"Relations\"."
         },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "OK"
@@ -79,6 +73,36 @@
         },
         "9d9c4e8d05601024166b9a3b0cb46ad6": {
             "text": "La s\u00e9lection d'un mod\u00e8le est requise"
+        },
+        "2298e69a8c95260f81457d8bb74b91ba": {
+            "text": "Il n'y a actuellement aucun mod\u00e8le avec une relation parent\/enfants d\u00e9finie, n\u00e9cessaire pour afficher le raccourci \"Ajouter nouveau\" ici"
+        },
+        "bf4ac1b27288d052237b266bafed78a5": {
+            "text": "Pour configurer ceci, \u00e9diter n'importe quel mod\u00e8le (Configuration > Mod\u00e8les) et cliquez su l'onglet \"Relations\""
+        },
+        "46b60bab6d1b7ba1219e3e973f798bb8": {
+            "text": "Ce Mod\u00e8le parent pr\u00e9cise qu'il ne peut pas avoir d'enfants"
+        },
+        "4adda0ba499618f088c016218590568a": {
+            "text": "Le mod\u00e8le \"%1$s\" ne permet pas les parents de type \"%2$s\""
+        },
+        "8ac79db907beb1536bae6c8bebcd2d8f": {
+            "text": "Le mod\u00e8le \"%1$s\" ne permet pas les enfants de type \"%2$s\""
+        },
+        "66734a327a9407446a6c13da6d7e88ad": {
+            "text": "Vous n'avez pas acc\u00e8s \u00e0 l'ajout de pages au parent %s"
+        },
+        "950464785f49f016bb3488b4bead5c7e": {
+            "text": "Le parent sp\u00e9cifi\u00e9 (%s) n'est pas autoris\u00e9"
+        },
+        "b2a25c3747d55c5c17c8fdd9df6b4fb5": {
+            "text": "Les pages ne contenant que les champ globaux par d\u00e9faut (la plupart du temps \"titre\") seront automatiquement publi\u00e9es \u00e0 la cr\u00e9ation"
+        },
+        "586ac396098f671914f6d39ca427dfe8": {
+            "text": "Ceci surcharge le statut d\u00e9publi\u00e9 ce qui peut \u00eatre un gain de temps dans certains cas"
+        },
+        "fdea6cb8047656097fa26264565210a0": {
+            "text": "Vous pouvez \u00e9ventuellement annuler ce comportement en cochant la case ci-dessous"
         }
     }
 }

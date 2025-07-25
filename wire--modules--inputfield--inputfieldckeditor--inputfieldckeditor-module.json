@@ -242,35 +242,35 @@
         "47d8cf2fe51854ad3028ba151ef9f3a1": {
             "text": "(hauteur fixe, utilise le param\u00e8tre des lignes)"
         },
-        "8ab1ca6059220b941a20c75c28c3ac55": {
-            "text": "H\u00e9riter des param\u00e8tres d'un autre champ CKE"
-        },
-        "5d35e5c18c01ae09021c67387e6d525e": {
-            "text": "Lorsqu'un champ est s\u00e9lectionn\u00e9, les param\u00e8tres de CKEditor sont h\u00e9rit\u00e9s de ce champ et non de ceux configur\u00e9s ici."
-        },
-        "8a797b000e826cb39b4f8fc54ce59934": {
-            "text": "Apr\u00e8s avoir choisi un champ et enregistr\u00e9 les changements, tous les param\u00e8tres ci-dessous n'appara\u00eetront plus."
-        },
-        "4d354f5b452ecc54b1e8fa44b7d40b14": {
-            "text": "Importer des param\u00e8tre d'un autre champ CKE"
-        },
-        "45e9c209c6f0967b6a41db728068f04a": {
-            "text": "Apr\u00e8s avoir choisi un champ et enregistr\u00e9 les changements, les param\u00e8tres seront import\u00e9s et remplaceront les param\u00e8tres ci-dessous."
-        },
         "c0f3672718e5216548a369b4fa6d8baf": {
-            "text": "Les param\u00e8tres du champ \"%s\" ont \u00e9t\u00e9 import\u00e9s."
+            "text": "Les param\u00e8tres ont \u00e9t\u00e9 import\u00e9s depuis le champ \"%s\"."
         },
         "dd3cb0e0ae693323923326112f52c5c0": {
-            "text": "V\u00e9rifiez les param\u00e8tres dans la partie \"Param\u00e8tres de CKEditor\" de l'onglet \"Champ\", puis enregistrez-les pour les valider."
+            "text": "Voir les param\u00e8tres dans l'onglet \"champ\" \"Param\u00e8tre de Ckediteur\" et enregistrer pour les soumettre"
         },
         "562a0d4331a8219587e48d0dca0efba5": {
-            "text": "VOUS DEVEZ ENREGISTRER \u00c0 NOUVEAU POUR VALIDER CES PARAM\u00c8TRES."
+            "text": "VOUS DEVEZ ENREGISTRER A NOUVEAU POUR SOUMETTRE CES PARAMETRES"
         },
         "34cebadb188dcc37e52cd4c7468f94a0": {
-            "text": "Changements: %s"
+            "text": "Chamgements : %s"
         },
         "55194ee969e62a0c12386b05cc68c8a8": {
-            "text": "Aucun changement d\u00e9tect\u00e9 lors l'importation des param\u00e8tres."
+            "text": "Aucun changement d\u00e9tect\u00e9 dans l'import des param\u00e8tres"
+        },
+        "8ab1ca6059220b941a20c75c28c3ac55": {
+            "text": "H\u00e9rit\u00e9 des param\u00e8tre d'un autre champ CK editor"
+        },
+        "5d35e5c18c01ae09021c67387e6d525e": {
+            "text": "Quand un champ est s\u00e9lectionn\u00e9 les param\u00e8tres de CKEditor seront h\u00e9rit\u00e9s de ce champ au lieu ce ceux configur\u00e9s ici"
+        },
+        "8a797b000e826cb39b4f8fc54ce59934": {
+            "text": "Apr\u00e8s avir fait une s\u00e9lection et avoir enregistr\u00e9 les param\u00e8tres ci-dessous n'appara\u00eetront plus"
+        },
+        "4d354f5b452ecc54b1e8fa44b7d40b14": {
+            "text": "Impoter les param\u00e8tres d'un autre champ CKEditor"
+        },
+        "45e9c209c6f0967b6a41db728068f04a": {
+            "text": "Les param\u00e8tres seront import\u00e9 depuis le champ s\u00e9lectionn\u00e9 et remplaceront les param\u00e8tres CKEditor actuels ci-dessous"
         }
     }
 }

@@ -133,6 +133,21 @@
         },
         "9a2c2c21237a6938a98824b3993a9623": {
             "text": "%d balises img[src] d'images locales"
+        },
+        "ffb81312066680e472a3392467b06d40": {
+            "text": "Merci d'enlever \u201cHTML Entity Encoder\u201d des formatteurs de texte parce que ce champ autorise le Markup\/Html"
+        },
+        "e9d6c26a86350de8002c93886f74249f": {
+            "text": "Nous recommandons d'utiliser TinyMCE plut\u00f4t que CKEditor pour cr\u00e9er de nouveaux champs de texte riche"
+        },
+        "5bed2fb5d791f65cae338238f04c0ac4": {
+            "text": "Cliquez ici pour installer TinyMCE"
+        },
+        "4ea852d9d5dbc8faddfdfe9117bd5c03": {
+            "text": "Lazy loading des images"
+        },
+        "bf5bfe62d66b9634f77dcafa1c3661f0": {
+            "text": "Ajouter l'attribut lazy aux images \u00e0 l'ex\u00e9cution quand le formatage de sortie est activ\u00e9"
         }
     }
 }

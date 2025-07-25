@@ -158,9 +158,6 @@
         "b3dc4b8696a26f0852afc3df1785ce24": {
             "text": "Format date\/heure (pour la liste de commentaires)"
         },
-        "ea706988dcb6ea169518eb97da49df9d": {
-            "text": "Entrer le format de date\/heure que vous d\u00e9sirez utiliser pour la liste de commentaires. Peut \u00eatre au format [date](http:\/\/php.net\/manual\/fr\/function.date.php) ou [strftime](http:\/\/php.net\/manual\/fr\/function.strftime.php) de PHP. Peut aussi \u00eatre \u00ab relative \u00bb pour un format de date relatif."
-        },
         "9fbc91b8ace5ac4afdc754d6d81d1f28": {
             "text": "Permettre le vote sur les commentaires ?"
         },
@@ -241,6 +238,15 @@
         },
         "29c2c02a361c9d7028472e5d92cd4a54": {
             "text": "Sortie html"
+        },
+        "d8b14b9294abd99cef7ccd468f92282e": {
+            "text": "Entrer le format de date et heure que vous oulez voir utilis\u00e9 dans la liste des commentaires"
+        },
+        "033acb4cf2bad26f8dc0a9263c3bbe40": {
+            "text": "Peut \u00eatre un format php [date](https:\/\/php.net\/manual\/en\/function.date.php) ou [strftime](https:\/\/php.net\/manual\/en\/function.strftime.php)."
+        },
+        "9b627919cf0a2a80c2feaa17bac8f299": {
+            "text": "Peut aussi \u00eatre \"relative\" pour un format de date relatif"
         }
     }
 }

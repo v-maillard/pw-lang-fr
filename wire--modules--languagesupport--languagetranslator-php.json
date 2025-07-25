@@ -65,12 +65,6 @@
         "46889411c124e301871882ff4073fc92": {
             "text": "Veuillez noter :"
         },
-        "3b0649c72650c313a357338dcdfb64ec": {
-            "text": "Note"
-        },
-        "f4c6f851b00d5518bf888815de279aba": {
-            "text": "Notes"
-        },
         "f4f70727dc34561dfde1a3c529b6205c": {
             "text": "Param\u00e8tres"
         },
@@ -106,6 +100,18 @@
         },
         "902b0d55fddef6f8d651fe1035b7d4bd": {
             "text": "Erreur"
+        },
+        "3b0649c72650c313a357338dcdfb64ec": {
+            "text": "="
+        },
+        "f4c6f851b00d5518bf888815de279aba": {
+            "text": "="
+        },
+        "c0cb5f0fcf239ab3d9c1fcd31fff1efc": {
+            "text": "="
+        },
+        "42171826dd780f6993bee2dd2171d932": {
+            "text": "0-plural"
         }
     }
 }

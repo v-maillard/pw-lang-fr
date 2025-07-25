@@ -377,11 +377,17 @@
         "a8e9b386531e893ec224b5712121f1fe": {
             "text": "Statut supprim\u00e9 : %s"
         },
-        "16e420c38c1ef8f3708d849146207b74": {
-            "text": "Entrez l'ID de l'utilisateur cr\u00e9\u00e9"
-        },
         "a9581db07856efb481fddef1b3e168f8": {
             "text": "Aucune page trouv\u00e9e"
+        },
+        "353fd9c25db4b85b975e2248cd165618": {
+            "text": "="
+        },
+        "425fb24086db3ce13f4db8b65c055e11": {
+            "text": "Cette page a un statut \"\u00e0 la corbeille\" (supprim\u00e9) merci de l'enregistrer pour le corriger"
+        },
+        "8add0d1d53fb4f5b1c160acd454e6244": {
+            "text": "Statut \"corbeille\" supprim\u00e9"
         }
     }
 }

@@ -20,12 +20,6 @@
         "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
             "text": "Champs du tableau \u00e0 afficher dans le panneau d'administration"
         },
-        "420fb882b998481add0d526522ffff81": {
-            "text": "Entrer les noms de champs (1 par ligne) que vous d\u00e9sirez afficher en tant que colonnes \u00e0 votre tableau. Pour d\u00e9finir une largeur de colonne associ\u00e9e au champ, d\u00e9clarez \"nom_champ=30\" o\u00f9 \"30\" est la largeur (en pourcentage) de la colonne. Lorsque vous d\u00e9clarez des largeurs, assurez que la largeur donne un total de 100."
-        },
-        "290cc1b749092b6f62035343a4e4f9eb": {
-            "text": "Vous pouvez d\u00e9clarez tout champ natif ou personnalis\u00e9. Vous pouvez aussi utiliser des sous-champs (champ.souschamp) pour les champs contenant des propri\u00e9t\u00e9s multiples, tels que des r\u00e9f\u00e9rences de pages."
-        },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "Les champs personnalit\u00e9s assign\u00e9s \u00e0 votre mod\u00e8le incluent les suivants :"
         },
@@ -34,12 +28,6 @@
         },
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
             "text": "Format automatique de nom de page"
-        },
-        "9264201faa8a6ca75fc27583eafe1e88": {
-            "text": "Lorsque rempli, les noms de pages seront cr\u00e9es automatiquement \u00e0 partir ce de format \u00e0 chaque fois qu'un utilisateur clique le bouton \"Ajouter nouveau\". Si laiss\u00e9 vide, l'utilisateur sera interrog\u00e9 \u00e0 savoir quel nom utiliser pour la page avant qu'elle soit cr\u00e9\u00e9e."
-        },
-        "e4f63a8ac32b32675310ab45dd15e6cb": {
-            "text": "Si un format de nom contient des caract\u00e8res non alphanum\u00e9riques, il sera consid\u00e9r\u00e9 comme \u00e9tant un format date [PHP date](http:\/\/www.php.net\/manual\/fr\/function.date.php). S'il contient seulement des caract\u00e8res alphanum\u00e9riques il sera utilis\u00e9 directement, avec un nombre ajout\u00e9 \u00e0 la fin, lorsque n\u00e9cessaire, pour assurer qu'il soit unique."
         },
         "9ad1067becc6f575ac4c13c7294fdffe": {
             "text": "Exemple : **Ymd:His** est un bon format de nom pour des noms de page bas\u00e9s sur un format date\/heure."
@@ -106,6 +94,36 @@
         },
         "615d41dc9054191178b392de366b7168": {
             "text": "="
+        },
+        "d074a1c108c36f5cd1ad08b7b1af956f": {
+            "text": "Entrez le nom des champs (1 par ligne) que vous voulez afficher comme colonnes du tableau"
+        },
+        "b4defb37338400f9b9d8fea43ce91d5d": {
+            "text": "Pour d\u00e9finir la largeur d'une colonne, entrez \"nom_du_champ=30\" o\u00f9 30 est la largeur en pourcentages de la colonne"
+        },
+        "13d4ce65721e3a572b5f089398240c50": {
+            "text": "Quand vous d\u00e9finissez des largeurs assurez-vous que la somme des colonnes fasse 100"
+        },
+        "8da668acfc6b5861c2d277e8045dabb8": {
+            "text": "Vous pouvez pr\u00e9ciser n'importe quel champ, natif ou custom"
+        },
+        "ef69a322821bbe5d9851f05bd132068d": {
+            "text": "Vous pouvez aussi utilisez des \"sous-champ\" (champ.sous-champ) pour les champs qui peuvent contenir plusieurs propri\u00e9t\u00e9s\/valeurs comme les \"page references\""
+        },
+        "a5049200083d5f9dc1767587f109869f": {
+            "text": "Si rempli, les pages seront automatiquement cr\u00e9\u00e9es en utilisant ce format de nom chaque fois qu'un utilisateur clique sur le bouton \"ajouter nouveau\""
+        },
+        "50716328038d96ec903e9aa46536fba9": {
+            "text": "Si laisser vide, un nom de page sera demand\u00e9 \u00e0 l'utilisateur avant qu'elle ne soit cr\u00e9\u00e9e"
+        },
+        "0c0b6a3b9dd7e6b8885490d74f2306e7": {
+            "text": "Si le format du nom contient n'importe quel caract\u00e8re non alpha num\u00e9rique, le nom sera automatiquement interpr\u00eat\u00e9 comme une date php"
+        },
+        "6fd483af216b700d4e5a1cbaecfc170f": {
+            "text": "S'il ne contient que des caract\u00e8res alpha num\u00e9riques, il sera utilis\u00e9 directement avec, si n\u00e9cessaire, un nombre ajout\u00e9 \u00e0 la fin pour en assure le caract\u00e8re unique"
+        },
+        "17a640fc3f331b66e94bbfaee12f1f08": {
+            "text": "Les \u00e9l\u00e9ments peuvent \u00eatre ajout\u00e9s ou supprim\u00e9spendant l'\u00e9dition de la version live"
         }
     }
 }

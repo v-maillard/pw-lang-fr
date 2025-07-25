@@ -64,6 +64,9 @@
         },
         "6fad098a8ac595a164cf68a53d2669ec": {
             "text": "Les \u00e9tiquettes qui ne sont pas traduisibles h\u00e9ritent de l'\u00e9tiquette de la langue par d\u00e9faut."
+        },
+        "cc56b7dd49d4042aa921e44a93428c3f": {
+            "text": "Pour ajouter uniquement un s\u00e9parateur horizontal, pr\u00e9ciser 3 traits-d'union ou plus, par exemple : ---"
         }
     }
 }

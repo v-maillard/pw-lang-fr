@@ -49,6 +49,9 @@
         },
         "7d45095d03e58ce1a62afd6e0d149bf0": {
             "text": "Supprimer d\u00e9finitivement %d pages dans la corbeille ?"
+        },
+        "4cb363dfd90b57ce6c1b9099ec61d95e": {
+            "text": "Les pages supprim\u00e9es apr\u00e8s vidage de la corbeille sont supprim\u00e9es de la base de donn\u00e9es et du syst\u00e8me de fichiers et ne peuvent plus \u00eatre restaur\u00e9es"
         }
     }
 }

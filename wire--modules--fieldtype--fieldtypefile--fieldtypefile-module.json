@@ -19,6 +19,18 @@
         },
         "2cb39a29b55cb3b4480c782dbe367518": {
             "text": "Champ stockant un ou plusieurs fichiers"
+        },
+        "54bf039e6e56c708e1b84c590ac81ea2": {
+            "text": "Fichier unique"
+        },
+        "e4adda44aef254f7c658a623c973eae2": {
+            "text": "Fichiers multiples"
+        },
+        "421cbdd7bacaf7fc3eef0cfadb94b8f3": {
+            "text": "Template de champs clon\u00e9s - %1$s => %2$s"
+        },
+        "8b844396e686bb466640ca0be39c2739": {
+            "text": "Erreur en clonant le template - %1$s => %2$s"
         }
     }
 }

@@ -632,29 +632,47 @@
         "6809fda0cf4fa4c12e63de08c0aa8b45": {
             "text": "Champ syst\u00e8me, il n'est pas recommand\u00e9 dans donner le contr\u00f4le d'acc\u00e8s"
         },
-        "b021df6aac4654c454f46c77646e745f": {
-            "text": "\u00c9tiquette"
-        },
         "db1620090ae1c6d74219a84f00a71360": {
-            "text": "Titre de l'onglet"
+            "text": "Etiquette de l'onglet"
         },
         "4cadbe25399aaee62e9d2f735703a5ec": {
-            "text": "Lorsque le champ est affich\u00e9 dans son propre onglet, vous pouvez indiquer un titre d'onglet pour qu'il soit diff\u00e9rent de celui du champ."
+            "text": "Si le champ est dans un onglet, donnez un nom alternatif \u00e0 l'onglet s'il est diff\u00e9rent du nom du champ"
         },
         "9578890ecca660be2de225f2a4339c8d": {
-            "text": "Le titre de l'onglet doit id\u00e9alement \u00eatre tr\u00e8s court, un seul mot par exemple."
+            "text": "L'\u00e9tiquette de l'onglet devrait id\u00e9alement \u00eatre tr\u00e8s courte comme par ex un seul mot"
         },
         "c64518704ce0c0d5501a45763f464276": {
             "text": "Utilisation"
         },
-        "f0165e158f427105fe57cb91d5fa53df": {
-            "text": "Ce champ n'est pas utilis\u00e9 actuellement."
-        },
         "278c491bdd8a53618c149c4ac790da34": {
-            "text": "Mod\u00e8le"
+            "text": "="
         },
         "4dd35391663d2adc8123a95b3d725399": {
-            "text": "Voir l'onglet \"Actions\" pour ajouter ou enlever le champ des mod\u00e8les."
+            "text": "Voir l'onglet actions pour ajouter ou enlever des mod\u00e8les\/templates"
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Ce champ n'esyt pas utilis\u00e9 actuellement"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "\u00c9tiquette"
+        },
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "="
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "="
+        },
+        "b2ee912b91d69b435159c7c3f6df7f5f": {
+            "text": "="
+        },
+        "f9ce9fb40f59e6e3f902d37ce9a6d869": {
+            "text": "Autres type de champ du core"
+        },
+        "27b392b00c460ef1af0f0607105eb198": {
+            "text": "Autres types non dans le core"
+        },
+        "4c70e4df2e78286835669f9b70900ba5": {
+            "text": "Pas encore install\u00e9"
         }
     }
 }

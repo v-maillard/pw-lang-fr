@@ -31,6 +31,48 @@
         },
         "f462a55cf22cc9382696a17a198c2aae": {
             "text": "Le mail est plus long que la longueur de caract\u00e8res (%d) autoris\u00e9e"
+        },
+        "0b3011446bcaaad42a9a544dbb09a3ed": {
+            "text": "LE jeu de caract\u00e8res \u00e9tendus n'est pas autoris\u00e9 , par ex local-part@domain.com n'est pas permis"
+        },
+        "2e24bd715edd4dbbff781d4aa0355e99": {
+            "text": "les noms de domaines internationalis\u00e9s (IDN) ne sont pas autoris\u00e9s, merci d'utiliser un email non-IDN"
+        },
+        "dbc0ea7ae14b0b77eca995f4ba7aa9e8": {
+            "text": "Autoriser les noms de domaines internationalis\u00e9s (IDN) pour les emails"
+        },
+        "35faac2c070c8d9722bc01c2c60509e3": {
+            "text": "Merci de retenir que les syst\u00e8mes de gestion de mail ne prennent pas tous en charge les domaines IDN et\/ou les caract\u00e8res utf-8"
+        },
+        "7dd390401b61e8e6e4a7559e5fa9a4cb": {
+            "text": "Choisir les emails standards ASCII pour une meilleure comatibilit\u00e9"
+        },
+        "d906bf971f8572d11f7b4d040b3fbf2d": {
+            "text": "Utiliser les emails standards en ASCII s'ils sont utilis\u00e9s pour tout type d'authentification"
+        },
+        "b038597ded41c029ae3476c546aad739": {
+            "text": "Nous recommandons aussi les emails ASCII standards si des mails doivent \u00eatre envoy\u00e9s vers l'adresse mail"
+        },
+        "4f514521d7af0462558b76d5d3417c98": {
+            "text": "Utiliser les emails standards en ASCII"
+        },
+        "53de25d6c86c7b2cbb480abafaeba140": {
+            "text": "="
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(recommand\u00e9)"
+        },
+        "949a6edbe4db961f93c5a31476e8b8b3": {
+            "text": "Permettre les noms de domaines internationalis\u00e9s (IDN)"
+        },
+        "9375e41f23d4749e59b3e9dffd4018d4": {
+            "text": "="
+        },
+        "ec06902273583078f0de63360295d321": {
+            "text": "Autoriser les caract\u00e8res utf-8 pour la partie locale et les h\u00f4tes\/domaine internationalis\u00e9s (IDN)"
+        },
+        "6273f560e9ae747701c150abeff0e331": {
+            "text": "="
         }
     }
 }

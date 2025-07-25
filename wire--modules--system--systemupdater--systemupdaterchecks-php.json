@@ -78,13 +78,28 @@
             "text": "="
         },
         "bac4951f14a17b95173f02192629e8b3": {
-            "text": "Votre param\u00e8re PHP memory_limit est actuellement fix\u00e9e \u00e0 %s."
+            "text": "votre m\u00e9moire PHP allou\u00e9e (memory_limit) est actuellement %s."
         },
         "c57b443779cf3185492a1248dbead5a0": {
-            "text": "Nous vous recommandons de l'augmenter \u00e0 au moins %s."
+            "text": "Nous vous recommandons de l'augmenter au moins vers %s."
         },
         "cec93480f3d9c56dd41deb0dd62594bf": {
-            "text": "Pour optimiser les performances, envisagez m\u00eame de l'augmenter \u00e0 au moins %s."
+            "text": "Pour optimiser les performances, envisagez m\u00eame d'aller jusqu'\u00e0 %s."
+        },
+        "87d16ab6475fc685c551a3deb26b0314": {
+            "text": "Attention, le time de la base de donn\u00e9es dif\u00e8re de %s par rapport \u00e0 celui de php"
+        },
+        "47d93b16dbcd03998421dc17103a206c": {
+            "text": "="
+        },
+        "c43fe72c10f6c324e4f7bbbace58084e": {
+            "text": "="
+        },
+        "ccd3671a8af3a1c2f505db9228bf30b3": {
+            "text": "Merci d'\u00e9diter votre fichier %1$s et de mettre \u00e0 jour votre %2$s pour correspondre \u00e0 celui de la base de donn\u00e9es"
+        },
+        "0c56b1743edd58151ac157e68e28aed4": {
+            "text": "Voir la liste des timezones de php"
         }
     }
 }

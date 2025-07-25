@@ -2,14 +2,8 @@
     "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
     "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
     "translations": {
-        "417c313c31381894998d5fa72eac82c8": {
-            "text": "Incapable d'afficher de champ d\u00fb \u00e0 la page parent manquante dans la configuration du champ."
-        },
         "ec211f7c20af43e742bf2570c3cb84f9": {
             "text": "Ajouter"
-        },
-        "ea4788705e6873b424c65e91c2846b19": {
-            "text": "Annuler"
         },
         "e0626222614bdee31951d84c64e5e9ff": {
             "text": "S\u00e9lectionner"

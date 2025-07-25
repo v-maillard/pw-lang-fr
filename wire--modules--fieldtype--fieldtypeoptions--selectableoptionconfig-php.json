@@ -8,12 +8,6 @@
         "69e27cd6eff790dbbd4b6f65275ebaf7": {
             "text": "SUPPRIMER :"
         },
-        "2193a0641b7380e976778074efdfec0a": {
-            "text": "Valeur unique"
-        },
-        "06a7c76b256c778d08e1c9548a9e679d": {
-            "text": "Valeurs multiples"
-        },
         "1465fa2b1c38fd4e8579e84e2b31a6d6": {
             "text": "Que devrait-il \u00eatre utilis\u00e9 comme entr\u00e9e ?"
         },
@@ -52,9 +46,6 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Si vous voulez g\u00e9n\u00e9rer des valeurs plut\u00f4t que des titres, remplacez \"title\" par \"value\" dans les exemples ci-dessous."
-        },
-        "d8773b3c985910685f4f4aca03604c14": {
-            "text": "Valeurs multiples triables"
         },
         "69a114a946943d26c4ea03ba031b4124": {
             "text": "Note : cette pr\u00e9-s\u00e9lection n'est pas activ\u00e9e comme ce champ n'est pas requis. Activez l'option \"required\" dans l'onglet \"input\" de ce champ"

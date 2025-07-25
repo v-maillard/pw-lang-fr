@@ -62,9 +62,6 @@
         "434352c2b6134b909827f386b3644f0f": {
             "text": "L'utilisation du redimensionnement c\u00f4t\u00e9 client vous permet de r\u00e9duire la taille et les dimensions du fichier avant le t\u00e9l\u00e9chargement."
         },
-        "c265ab5c0405e78595f05a15d5279278": {
-            "text": "Lorsque vous utilisez le redimensionnement c\u00f4t\u00e9 client, veuillez sp\u00e9cifier \u00e0 la fois la largeur maximale *et* la hauteur maximale dans les champs ci-dessus, ou le nombre maximal de m\u00e9gapixels dans le champ ci-dessous."
-        },
         "edcf99dacdc6160d6eb8d2efb90ee189": {
             "text": "Utilisez le redimensionnement c\u00f4t\u00e9 client lorsque cela est possible"
         },
@@ -121,6 +118,9 @@
         },
         "b9f5c797ebbf55adccdd8539a65a0241": {
             "text": "D\u00e9sactiv\u00e9"
+        },
+        "4a5e1c028e0c6d8925f33b1764db442e": {
+            "text": "Si vous utilisez le redimensionnement c\u00f4t\u00e9 client, merci de pr\u00e9ciser la largeur et\/ou hauteur max dans les champs ci-dessus ou le poids maxi en m\u00e9gapixels dans le champ ci-dessous"
         }
     }
 }
